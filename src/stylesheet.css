@@ -23,6 +23,7 @@ a:hover {
 }
 
 body {
+  width:80%;
   margin: 0;
   display: flex;
   place-items: center;
@@ -65,4 +66,36 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+
+
+.centerElements {
+  position: fixed;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.gameButton {
+  font-size: 24px;
+  padding: 12px 24px;
+  min-width: 100px;
+  min-height: 50px;
+}
+
+
+.toggleButton {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  font-size: 16px;
+  padding: 8px 16px;
+}
+
+.homeButton {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  font-size: 16px;
+  padding: 8px 16px;
 }
