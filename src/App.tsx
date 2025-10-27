@@ -1,13 +1,16 @@
-// App.js
-
-import './App.css';
-import TypeTester from './components/TypeTester';
+import React from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import HomePage from "./pages/HomePage";
+import TypingTest from "./pages/TypingTest";
 
 function App() {
   return (
-    <div className="App">
-      <TypeTester />
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/typing-test" element={<TypingTest />} />
+      </Routes>
+    </Router>
   );
 }
 

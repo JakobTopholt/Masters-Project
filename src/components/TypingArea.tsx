@@ -1,4 +1,3 @@
-// TypingArea.tsx
 import React from "react";
 
 interface TypingAreaProps {
