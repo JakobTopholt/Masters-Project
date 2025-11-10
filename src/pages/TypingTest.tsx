@@ -2,9 +2,17 @@ import React, { useState, useEffect, useRef } from "react";
 import TopButtons from "../components/TopButtons";
 
 const TypingTest: React.FC = () => {
-  const [typingText, setTypingText] = useState(
-    "Like Mahatma Gandhi, African leader Nelson Mandela battled against the oppression of the South African people by whites. He received a legal lawyer education. However, he joined the African National Congress and dedicated himself to the goal of achieving equality among all Africans—white and black—by fighting against the policy of apartheid, or the segregation of the black native Africans from all positions of power and privilege. Instead of living comfortably and in luxury as a successful lawyer, he did the opposite. Nelson Mandela became the first black African to hold the office of President of the Republic of South Africa. Mandela’s greatness stems not only from his success in convincing the white South African government to abolish the hateful and inhuman apartheid, but also from his inspiring call to blacks not to seek vengeance on whites for past acts of tyranny, injustice, and exploitation."
-  );
+  const sentences = [
+  "The quick brown fox jumps over the lazy dog.",
+  "Test sentence",
+  "Pack my box with five dozen liquor jugs.",
+  "Sphinx of black quartz, judge my vow.",
+  "How vexingly quick daft zebras jump!"
+];
+
+const [currentSentenceIndex, setCurrentSentenceIndex] = useState(0);
+
+
   const [userInput, setUserInput] = useState("");
   const [timeLeft, setTimeLeft] = useState(60);
   const [mistakes, setMistakes] = useState(0);
@@ -37,7 +45,7 @@ const TypingTest: React.FC = () => {
     setUserInput(value);
     initTyping();
 
-    const textArray = typingText.split("");
+    const textArray = sentences[currentSentenceIndex].split("");
     const inputArray = value.split("");
     let errorCount = 0;
 
@@ -84,6 +92,19 @@ const TypingTest: React.FC = () => {
     inputRef.current?.focus();
   }, []);
 
+  useEffect(() => {
+  if (userInput === sentences[currentSentenceIndex]) {
+    if (currentSentenceIndex < sentences.length - 1) {
+      setCurrentSentenceIndex(currentSentenceIndex + 1);
+      setUserInput("");
+    } else {
+      // All done
+      clearInterval(timerRef.current!);
+      setIsTyping(false);
+    }
+  }
+}, [userInput, currentSentenceIndex]);
+
 return (
   <div>
     <TopButtons />
@@ -108,7 +129,7 @@ return (
             marginBottom: "1rem",
           }}
         >
-          {typingText.split("").map((char, i) => {
+          {sentences[currentSentenceIndex].split("").map((char: string, i: number) => {
             let color = "";
             if (i < userInput.length) {
               color = char === userInput[i] ? "green" : "red";
