@@ -1,5 +1,8 @@
 import React, { useState, useEffect, useRef } from "react";
 import TopButtons from "../components/TopButtons";
+import TypingBox from "../components/TypingBox.tsx";
+import TypingInput from "../components/TypingInput.tsx";
+import TypingStats from "../components/TypingStats.tsx";
 
 const TypingTest: React.FC = () => {
   const sentences = [
@@ -19,7 +22,6 @@ const TypingTest: React.FC = () => {
   const timerRef = useRef<NodeJS.Timeout | null>(null);
   const inputRef = useRef<HTMLInputElement | null>(null);
 
-  // Start timer when typing begins
   const initTyping = () => {
     if (!isTyping) {
       setIsTyping(true);
@@ -36,7 +38,6 @@ const TypingTest: React.FC = () => {
     }
   };
 
-  // Handle typing
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const value = e.target.value;
     setUserInput(value);
@@ -55,21 +56,18 @@ const TypingTest: React.FC = () => {
       setWPM(0);
     }
 
-    // Advance to next sentence when current one is fully typed
     const currentSentence = sentences[currentSentenceIndex];
     if (value.length >= currentSentence.length) {
       if (currentSentenceIndex < sentences.length - 1) {
         setCurrentSentenceIndex((prev) => prev + 1);
         setUserInput("");
       } else {
-        // Finished all sentences
         clearInterval(timerRef.current!);
         setIsTyping(false);
       }
     }
   };
 
-  // Reset everything
   const resetGame = () => {
     clearInterval(timerRef.current!);
     setUserInput("");
@@ -94,67 +92,22 @@ const TypingTest: React.FC = () => {
       <div className="page-container">
         <div className="centerElements">
           <h1>Typing Test</h1>
-
-          {/* Sentence display */}
-          <div
-            className="typingBox"
-            style={{
-              cursor: "text",
-              padding: "1rem",
-              border: "2px solid #ccc",
-              borderRadius: "8px",
-              minWidth: "500px",
-              minHeight: "100px",
-              textAlign: "left",
-              fontSize: "1.2rem",
-              userSelect: "none",
-              fontFamily: "monospace",
-              marginBottom: "1rem",
-            }}
-          >
-            {sentences[currentSentenceIndex].split("").map((char: string, i: number) => {
-              const color = i < userInput.length ? "#333" : "#ccc"; // darker when typed
-              return (
-                <span key={i} style={{ color }}>
-                  {char}
-                </span>
-              );
-            })}
-          </div>
-
-          {/* Input field */}
-          <input
-            ref={inputRef}
-            type="text"
-            value={userInput}
+          <TypingBox
+            sentence={sentences[currentSentenceIndex]}
+            userInput={userInput}
+          />
+          <TypingInput
+            inputRef={inputRef}
+            userInput={userInput}
             onChange={handleInputChange}
             disabled={timeLeft === 0}
-            style={{
-              padding: "0.75rem 1rem",
-              fontSize: "1.2rem",
-              border: "2px solid #aaa",
-              borderRadius: "8px",
-              width: "500px",
-              fontFamily: "monospace",
-            }}
-            placeholder="Start typing here..."
           />
-
-          {/* Stats */}
-          <div style={{ marginTop: "1.5rem" }}>
-            <p>
-              <b>Time Left:</b> {timeLeft}s
-            </p>
-            <p>
-              <b>WPM:</b> {WPM}
-            </p>
-            <p>
-              <b>CPM:</b> {CPM}
-            </p>
-            <button onClick={resetGame} className="btn">
-              Try Again
-            </button>
-          </div>
+          <TypingStats
+            timeLeft={timeLeft}
+            WPM={WPM}
+            CPM={CPM}
+            onReset={resetGame}
+          />
         </div>
       </div>
     </div>
