@@ -1,4 +1,5 @@
 import React from "react";
+import TypingArea from "./TypingArea";
 
 function startTypingTest() {
   window.location.href = "typingTest.html";

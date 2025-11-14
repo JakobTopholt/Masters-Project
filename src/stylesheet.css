@@ -68,6 +68,15 @@ button:focus-visible {
   }
 }
 
+.answerInput input {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: inherit;
+  font-family: inherit;
+  padding: 0.5rem;
+  margin-top: 1rem; /* optional: spacing below the button */
+}
 
 .centerElements {
   position: fixed;

@@ -1,8 +1,11 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 
 const TopButtons: React.FC = () => {
+  const navigate = useNavigate(); // <-- hook to navigate programmatically
+
   const goHome = () => {
-    window.location.href = "index.html";
+    navigate("/"); // <-- React route for home page
   };
 
   const toggleMode = () => {
