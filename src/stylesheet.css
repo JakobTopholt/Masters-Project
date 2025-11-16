@@ -1,3 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -23,12 +26,13 @@ a:hover {
 }
 
 body {
-  width:80%;
+  width: 100%;
+  height: 100vh;           /* full viewport height */
   margin: 0;
-  display: flex;
-  place-items: center;
+  display: flex;            /* enable flexbox */
+  justify-content: center;  /* center horizontally */
+  align-items: center;      /* center vertically */
   min-width: 320px;
-  min-height: 100vh;
 }
 
 h1 {
@@ -119,4 +123,30 @@ button:focus-visible {
   justify-content: space-between;
   align-items: center;
   padding: 8px 0;
+}
+
+/* Result Page Styles*/
+.result-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  text-align: center;
+  background-color: #0e0e0e;
+}
+
+.result-text {
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 2rem;
+}
+
+.result-header,
+.result-wpm,
+.result-accuracy,
+.result-actions {
+  display: flex !important;      /* force flex */
+  justify-content: center;
+  gap: 2rem !important;          /* larger gap */
+  margin-bottom: 1rem;
 }
