@@ -2,7 +2,7 @@ import React from "react";
 
 interface AccuracyDisplayProps {
   accuracy: number;
-  className?: string; // ← add this
+  className?: string; 
 }
 
 const AccuracyDisplay: React.FC<AccuracyDisplayProps> = ({ accuracy, className }) => {
