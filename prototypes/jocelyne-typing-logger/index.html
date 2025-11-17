@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Typing test – Firebase prototype</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="card">
+    <h1>Typing test</h1>
+    <p class="desc">Blah blah description of task… Click the button to begin.</p>
+
+    <!-- Participant name field -->
+    <p>
+      <label for="name">Participant name:</label>
+      <input id="name" class="name" placeholder="e.g., Bella" />
+    </p>
+
+    <button id="startBtn" class="cta">Start typing</button>
+
+    <!-- typing area for the test -->
+    <p>
+      <label for="typingArea">Typing area:</label><br/>
+      <textarea id="typingArea" rows="4" style="width:100%;" placeholder="Start typing here…"></textarea>
+    </p>
+
+    <!-- export button -->
+    <button id="exportBtn" class="cta">Export events as JSON</button>
+
+    <div id="log" class="log" aria-live="polite"></div>
+    <div id="status" class="status"></div>
+
+  </main>
+
+  <!-- Load ALL app JS from here -->
+  <script type="module" src="main.js"></script>
+</body>
+</html>
