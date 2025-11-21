@@ -125,28 +125,49 @@ button:focus-visible {
   padding: 8px 0;
 }
 
-/* Result Page Styles*/
+/* Result Page Styles */
 .result-container {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  align-items: center;          /* horizontal center */
+  justify-content: flex-start;  /* align to top */
   min-height: 100vh;
+  width: 100%;
+  padding: 3rem 1rem;           /* spacing from top and sides */
   text-align: center;
-  background-color: #0e0e0e;
+  background-color: #ffffff;     /* white background */
+  color: #213547;                /* dark text for readability */
+  box-sizing: border-box;
 }
 
 .result-text {
-  color: rgba(255, 255, 255, 0.8);
   margin-bottom: 2rem;
+  line-height: 1.5;
+  font-size: 1.1rem;
 }
 
 .result-header,
 .result-wpm,
-.result-accuracy,
-.result-actions {
-  display: flex !important;      /* force flex */
-  justify-content: center;
-  gap: 2rem !important;          /* larger gap */
+.result-accuracy {
   margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap; /* ensures responsiveness */
+}
+
+.result-actions {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;  /* buttons wrap on smaller screens */
+  margin-top: 2rem;
+}
+
+.result-actions button {
+  padding: 0.75rem 1.5rem;
+  min-width: 120px;
+  font-size: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
 }
