@@ -160,7 +160,6 @@ const TypingTest: React.FC = () => {
         currentSentenceIndex + (userInput.length === sentences[currentSentenceIndex].length ? 1 : 0),
       totalSentences: sentences.length,
       completed: testCompleted.current || timeLeft === 0,
-      // new fields:
       sentencesTyped: finishedSentences,
       keyLog: keyLog,
     };
