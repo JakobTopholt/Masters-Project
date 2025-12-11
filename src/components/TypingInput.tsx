@@ -6,6 +6,7 @@ interface TypingInputProps {
   userInput: string;
   onChange: (e: React.ChangeEvent<HTMLInputElement>) => void;
   disabled: boolean;
+  onKeyDown?: (e: React.KeyboardEvent<HTMLInputElement>) => void;
 }
 
 const TypingInput: React.FC<TypingInputProps> = ({
@@ -13,6 +14,7 @@ const TypingInput: React.FC<TypingInputProps> = ({
   userInput,
   onChange,
   disabled,
+  onKeyDown,
 }) => {
   return (
     <input
@@ -20,6 +22,7 @@ const TypingInput: React.FC<TypingInputProps> = ({
       type="text"
       value={userInput}
       onChange={onChange}
+      onKeyDown={onKeyDown}
       disabled={disabled}
       style={{
         padding: "0.75rem 1rem",
