@@ -138,43 +138,50 @@ const TypingTest: React.FC = () => {
   };
 
   const exportTestData = () => {
-    const finishedSentences = [...sentencesTyped];
-    // include current in-progress sentence if any characters typed and not already counted
-    if (userInput.length > 0 && (finishedSentences.length <= currentSentenceIndex)) {
-      finishedSentences.push(userInput);
-    }
+  const finishedSentences = [...sentencesTyped];
 
-    const testData = {
-      timestamp: new Date().toISOString(),
-      duration:
-        startTimeRef.current && endTimeRef.current
-          ? (endTimeRef.current - startTimeRef.current) / 1000
-          : 60 - timeLeft,
-      wpm: WPM,
-      accuracy:
-        totalCharsTyped > 0 ? ((totalCorrectChars / totalCharsTyped) * 100).toFixed(2) : "0.00",
-      totalCharactersTyped: totalCharsTyped,
-      correctCharacters: totalCorrectChars,
-      errors: errors,
-      sentencesCompleted:
-        currentSentenceIndex + (userInput.length === sentences[currentSentenceIndex].length ? 1 : 0),
-      totalSentences: sentences.length,
-      completed: testCompleted.current || timeLeft === 0,
-      sentencesTyped: finishedSentences,
-      keyLog: keyLog,
-    };
+  if (userInput.length > 0 && (finishedSentences.length <= currentSentenceIndex)) {
+    finishedSentences.push(userInput);
+  }
 
-    const jsonStr = JSON.stringify(testData, null, 2);
-    const blob = new Blob([jsonStr], { type: "application/json" });
-    const url = URL.createObjectURL(blob);
-    const link = document.createElement("a");
-    link.href = url;
-    link.download = `typing-test-${Date.now()}.json`;
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-    URL.revokeObjectURL(url);
+  const testData = {
+    timestamp: new Date().toISOString(),
+    duration:
+      startTimeRef.current && endTimeRef.current
+        ? (endTimeRef.current - startTimeRef.current) / 1000
+        : 60 - timeLeft,
+    wpm: WPM,
+    accuracy:
+      totalCharsTyped > 0 ? ((totalCorrectChars / totalCharsTyped) * 100).toFixed(2) : "0.00",
+    totalCharactersTyped: totalCharsTyped,
+    correctCharacters: totalCorrectChars,
+    errors: errors,
+    sentencesCompleted:
+      currentSentenceIndex + (userInput.length === sentences[currentSentenceIndex].length ? 1 : 0),
+    totalSentences: sentences.length,
+    completed: testCompleted.current || timeLeft === 0,
+
+    // Include the sentence to be typed (expected)
+    sentencesTyped: finishedSentences.map((typed, index) => ({
+      typed,
+      expected: sentences[index] || null,
+    })),
+
+    keyLog: keyLog,
   };
+
+  const jsonStr = JSON.stringify(testData, null, 2);
+  const blob = new Blob([jsonStr], { type: "application/json" });
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = `typing-test-${Date.now()}.json`;
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+  URL.revokeObjectURL(url);
+};
+
 
   const resetGame = () => {
     clearInterval(timerRef.current!);
