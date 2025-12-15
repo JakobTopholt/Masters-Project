@@ -7,26 +7,12 @@ interface TypingBoxProps {
 
 const TypingBox: React.FC<TypingBoxProps> = ({ sentence, userInput }) => {
   return (
-    <div
-      className="typingBox"
-      style={{
-        cursor: "text",
-        padding: "1rem",
-        border: "2px solid #ccc",
-        borderRadius: "8px",
-        minWidth: "500px",
-        minHeight: "100px",
-        textAlign: "left",
-        fontSize: "1.2rem",
-        userSelect: "none",
-        fontFamily: "monospace",
-        marginBottom: "1rem",
-      }}
-    >
+    <div className="typingBox">
       {sentence.split("").map((char, i) => {
         const color = i < userInput.length ? "#333" : "#ccc";
+
         return (
-          <span key={i} style={{ color }}>
+          <span key={i} className="typingChar" style={{ color }}>
             {char}
           </span>
         );

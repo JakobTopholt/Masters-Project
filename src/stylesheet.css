@@ -1,6 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* -------------------------------- Root & Base Styles -------------------------------- */
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -25,21 +27,31 @@ a:hover {
   color: #535bf2;
 }
 
+/* -------------------------------- Base layout -------------------------------- */
 body {
-  width: 100%;
-  height: 100vh;           /* full viewport height */
   margin: 0;
-  display: flex;            /* enable flexbox */
-  justify-content: center;  /* center horizontally */
-  align-items: center;      /* center vertically */
-  min-width: 320px;
+  width: 100%;
+  min-height: 100dvh;
+  display: block; /* allow natural document flow */
 }
 
+/* -------------------------------- Headings -------------------------------- */
 h1 {
-  font-size: 3.2em;
+  font-size: 3rem;
   line-height: 1.1;
+  margin-bottom: 1.5rem;
 }
 
+/* Mobile title scale */
+@media (max-width: 40rem) {
+  h1 {
+    font-size: 1.8rem;
+    margin-bottom: 0.75rem;
+    text-align: center;
+  }
+}
+
+/* -------------------------------- Buttons -------------------------------- */
 button {
   border-radius: 8px;
   border: 1px solid transparent;
@@ -49,123 +61,154 @@ button {
   font-family: inherit;
   background-color: #1a1a1a;
   cursor: pointer;
-  transition: border-color 0.25s;
+  transition: border-color 0.25s, transform 0.15s;
 }
+
 button:hover {
   border-color: #646cff;
 }
+
+button:active {
+  transform: scale(0.97);
+}
+
 button:focus,
 button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
+  outline: 3px solid #646cff;
+  outline-offset: 2px;
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
-}
-
+/* --------------------------------   Inputs -------------------------------- */
 .answerInput input {
   display: block;
   width: 100%;
   box-sizing: border-box;
-  font-size: inherit;
+  font-size: 1rem;
   font-family: inherit;
-  padding: 0.5rem;
-  margin-top: 1rem; /* optional: spacing below the button */
+  padding: 0.75rem;
+  margin-top: 0.75rem;
+  border-radius: 10px;
 }
 
+/* -------------------------------- Centered Content (Flow-based)-------------------------------- */
 .centerElements {
-  position: fixed;
-  top: 30%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+  gap: 1rem;
 }
 
+/* -------------------------------- Game Button -------------------------------- */
 .gameButton {
-  font-size: 24px;
-  padding: 12px 24px;
-  min-width: 100px;
-  min-height: 50px;
+  font-size: 1.4rem;
+  padding: 0.75rem 1.5rem;
+  min-width: 120px;
+  min-height: 48px;
 }
 
-
-.toggleButton {
-  position: fixed;
-  top: 20px;
-  right: 20px;
-  font-size: 16px;
-  padding: 8px 16px;
+/* Mobile adjustment */
+@media (max-width: 40rem) {
+  .gameButton {
+    font-size: 1.1rem;
+    padding: 0.6rem 1.2rem;
+  }
 }
 
-.homeButton {
-  position: fixed;
-  top: 20px;
-  left: 20px;
-  font-size: 16px;
-  padding: 8px 16px;
-}
-
-.page-container {
-  width: 80%;
-  margin: 0 auto;
-}
-
+/* -------------------------------- Top Navigation -------------------------------- */
 .topButtons {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 8px 0;
+  padding: 0.75rem 0;
+  gap: 1rem;
 }
 
-/* Result Page Styles */
+/* Keep buttons accessible but not intrusive */
+.toggleButton,
+.homeButton {
+  font-size: 0.9rem;
+  padding: 0.5rem 0.9rem;
+}
+
+/* -------------------------------- Page Container -------------------------------- */
+.page-container {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* -------------------------------- Typing Box-------------------------------- */
+
+.typingBox {
+  width: 100%;
+  max-width: 100%;
+  padding: 1rem;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  min-height: 100px;
+
+  font-size: 1.2rem;
+  font-family: monospace;
+  text-align: left;
+
+  /* 🔑 mobile-safe text wrapping */
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  box-sizing: border-box;
+}
+
+/* Individual characters must allow wrapping */
+.typingChar {
+  white-space: pre-wrap;
+}
+
+/* -------------------------------- Typing Box-------------------------------- */
+
+/* -------------------------------- Result Page -------------------------------- */
 .result-container {
   display: flex;
   flex-direction: column;
-  align-items: center;          /* horizontal center */
-  justify-content: flex-start;  /* align to top */
-  min-height: 100vh;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 100dvh;
   width: 100%;
-  padding: 3rem 1rem;           /* spacing from top and sides */
+  padding: 2rem 1rem;
   text-align: center;
-  background-color: #ffffff;     /* white background */
-  color: #213547;                /* dark text for readability */
+  background-color: #ffffff;
+  color: #213547;
   box-sizing: border-box;
 }
 
 .result-text {
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
   line-height: 1.5;
-  font-size: 1.1rem;
+  font-size: 1.05rem;
 }
 
 .result-header,
 .result-wpm,
 .result-accuracy {
-  margin-bottom: 1rem;
+  margin-bottom: 0.75rem;
   display: flex;
   justify-content: center;
-  gap: 1rem;
-  flex-wrap: wrap; /* ensures responsiveness */
+  gap: 0.75rem;
+  flex-wrap: wrap;
 }
 
+/* Actions grouped tightly on mobile */
 .result-actions {
   display: flex;
   justify-content: center;
-  gap: 1.5rem;
-  flex-wrap: wrap;  /* buttons wrap on smaller screens */
-  margin-top: 2rem;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 1.5rem;
 }
 
 .result-actions button {
-  padding: 0.75rem 1.5rem;
+  padding: 0.7rem 1.4rem;
   min-width: 120px;
   font-size: 1rem;
   border-radius: 8px;

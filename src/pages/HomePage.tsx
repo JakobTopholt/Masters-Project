@@ -11,8 +11,8 @@ const HomePage: React.FC = () => {
 
   return (
     <div>
-      <TopButtons />
       <div className="page-container">
+        <TopButtons />
         <div className="centerElements">
           <h1>The Typing Test Platform</h1>
           <button className="gameButton" onClick={goToTypingTest}>

@@ -21,19 +21,13 @@ const TypingTest: React.FC = () => {
   const [isTyping, setIsTyping] = useState(false);
   const timerRef = useRef<NodeJS.Timeout | null>(null);
   const inputRef = useRef<HTMLInputElement | null>(null);
-
+  
   const [totalCorrectChars, setTotalCorrectChars] = useState(0);
   const [totalCharsTyped, setTotalCharsTyped] = useState(0);
   const [errors, setErrors] = useState(0);
   const startTimeRef = useRef<number | null>(null);
   const endTimeRef = useRef<number | null>(null);
   const testCompleted = useRef(false);
-
-  // A state where we can store the keys pressed and sentences typed
-  const [sentencesTyped, setSentencesTyped] = useState<string[]>([]);
-  const [keyLog, setKeyLog] = useState<
-    { timestamp: number; key: string; sentenceIndex: number; valueAfter: string }[]
-  >([]);
 
   const initTyping = () => {
     if (!isTyping) {
@@ -54,32 +48,6 @@ const TypingTest: React.FC = () => {
     }
   };
 
-  // take the value of a keypress and log it with timestamp and current sentence state
-  const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
-    let valueAfter = userInput;
-    if (e.key === "Backspace") {
-      valueAfter = userInput.slice(0, -1);
-    } else if (e.key === "Delete") {
-      valueAfter = userInput;
-    } else if (e.key.length === 1 && !e.ctrlKey && !e.metaKey) {
-      valueAfter = userInput + e.key;
-      // Handling of shortcut keys such as ctrl arrow to jump in text
-    } else {
-      // other keys (Enter, Shift, Arrow...) keep current value
-      valueAfter = userInput;
-    }
-
-    setKeyLog((prev) => [
-      ...prev,
-      {
-        timestamp: Date.now(),
-        key: e.key,
-        sentenceIndex: currentSentenceIndex,
-        valueAfter,
-      },
-    ]);
-  };
-
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const value = e.target.value;
     const currentSentence = sentences[currentSentenceIndex];
@@ -90,7 +58,7 @@ const TypingTest: React.FC = () => {
 
     // Track total characters typed
     if (value.length > userInput.length) {
-      setTotalCharsTyped((prev) => prev + 1);
+      setTotalCharsTyped(prev => prev + 1);
     }
 
     setUserInput(value);
@@ -109,7 +77,7 @@ const TypingTest: React.FC = () => {
 
     // Update errors (only count new errors)
     if (value.length > userInput.length && errorsInCurrent > 0) {
-      setErrors((prev) => prev + 1);
+      setErrors(prev => prev + 1);
     }
 
     const totalCorrect = totalCorrectChars + correctInCurrent;
@@ -120,9 +88,6 @@ const TypingTest: React.FC = () => {
     setWPM(wpm);
 
     if (value.length === currentSentence.length) {
-      // push the completed sentence (so mistakes don't carry over)
-      setSentencesTyped((prev) => [...prev, value]);
-
       setTotalCorrectChars(totalCorrect);
 
       if (currentSentenceIndex < sentences.length - 1) {
@@ -138,50 +103,33 @@ const TypingTest: React.FC = () => {
   };
 
   const exportTestData = () => {
-  const finishedSentences = [...sentencesTyped];
-
-  if (userInput.length > 0 && (finishedSentences.length <= currentSentenceIndex)) {
-    finishedSentences.push(userInput);
-  }
-
-  const testData = {
-    timestamp: new Date().toISOString(),
-    duration:
-      startTimeRef.current && endTimeRef.current
-        ? (endTimeRef.current - startTimeRef.current) / 1000
+    const testData = {
+      timestamp: new Date().toISOString(),
+      duration: startTimeRef.current && endTimeRef.current 
+        ? (endTimeRef.current - startTimeRef.current) / 1000 
         : 60 - timeLeft,
-    wpm: WPM,
-    accuracy:
-      totalCharsTyped > 0 ? ((totalCorrectChars / totalCharsTyped) * 100).toFixed(2) : "0.00",
-    totalCharactersTyped: totalCharsTyped,
-    correctCharacters: totalCorrectChars,
-    errors: errors,
-    sentencesCompleted:
-      currentSentenceIndex + (userInput.length === sentences[currentSentenceIndex].length ? 1 : 0),
-    totalSentences: sentences.length,
-    completed: testCompleted.current || timeLeft === 0,
+      wpm: WPM,
+      accuracy: totalCharsTyped > 0 
+        ? ((totalCorrectChars / totalCharsTyped) * 100).toFixed(2) : "0.00",
+      totalCharactersTyped: totalCharsTyped,
+      correctCharacters: totalCorrectChars,
+      errors: errors,
+      sentencesCompleted: currentSentenceIndex + (userInput.length === sentences[currentSentenceIndex].length ? 1 : 0),
+      totalSentences: sentences.length,
+      completed: testCompleted.current || timeLeft === 0
+    };
 
-    // Include the sentence to be typed (expected)
-    sentencesTyped: finishedSentences.map((typed, index) => ({
-      typed,
-      expected: sentences[index] || null,
-    })),
-
-    keyLog: keyLog,
+    const jsonStr = JSON.stringify(testData, null, 2);
+    const blob = new Blob([jsonStr], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = `typing-test-${Date.now()}.json`;
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+    URL.revokeObjectURL(url);
   };
-
-  const jsonStr = JSON.stringify(testData, null, 2);
-  const blob = new Blob([jsonStr], { type: "application/json" });
-  const url = URL.createObjectURL(blob);
-  const link = document.createElement("a");
-  link.href = url;
-  link.download = `typing-test-${Date.now()}.json`;
-  document.body.appendChild(link);
-  link.click();
-  document.body.removeChild(link);
-  URL.revokeObjectURL(url);
-};
-
 
   const resetGame = () => {
     clearInterval(timerRef.current!);
@@ -197,10 +145,6 @@ const TypingTest: React.FC = () => {
     endTimeRef.current = null;
     testCompleted.current = false;
     inputRef.current?.focus();
-
-    // clear new state
-    setSentencesTyped([]);
-    setKeyLog([]);
   };
 
   useEffect(() => {
@@ -211,25 +155,37 @@ const TypingTest: React.FC = () => {
   }, []);
 
   return (
-    <div>
+    <div className="page-container">
       <TopButtons />
-      <div className="page-container">
-        <div className="centerElements">
-          <h1>Typing Test</h1>
-          <TypingBox sentence={sentences[currentSentenceIndex]} userInput={userInput} />
-          <TypingInput
-            inputRef={inputRef}
-            userInput={userInput}
-            onChange={handleInputChange}
-            disabled={timeLeft === 0}
-            onKeyDown={handleKeyDown}
-          />
-          <TypingStats timeLeft={timeLeft} WPM={WPM} onReset={resetGame} />
-          {(timeLeft === 0 || testCompleted.current) && <ExportButton onExport={exportTestData} />}
-        </div>
+
+      <div className="centerElements">
+        <h1>Typing Test</h1>
+
+        <TypingBox
+          sentence={sentences[currentSentenceIndex]}
+          userInput={userInput}
+        />
+
+        <TypingInput
+          inputRef={inputRef}
+          userInput={userInput}
+          onChange={handleInputChange}
+          disabled={timeLeft === 0}
+        />
+
+        <TypingStats
+          timeLeft={timeLeft}
+          WPM={WPM}
+          onReset={resetGame}
+        />
+
+        {(timeLeft === 0 || testCompleted.current) && (
+          <ExportButton onExport={exportTestData} />
+        )}
       </div>
     </div>
   );
+
 };
 
 export default TypingTest;
