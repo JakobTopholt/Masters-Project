@@ -139,6 +139,34 @@ button:focus-visible {
   padding: 0 1rem;
 }
 
+/* -------------------------------- Typing Box-------------------------------- */
+
+.typingBox {
+  width: 100%;
+  max-width: 100%;
+  padding: 1rem;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  min-height: 100px;
+
+  font-size: 1.2rem;
+  font-family: monospace;
+  text-align: left;
+
+  /* 🔑 mobile-safe text wrapping */
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  box-sizing: border-box;
+}
+
+/* Individual characters must allow wrapping */
+.typingChar {
+  white-space: pre-wrap;
+}
+
+/* -------------------------------- Typing Box-------------------------------- */
+
 /* -------------------------------- Result Page -------------------------------- */
 .result-container {
   display: flex;
