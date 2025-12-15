@@ -24,15 +24,21 @@ const TypingInput: React.FC<TypingInputProps> = ({
       onChange={onChange}
       onKeyDown={onKeyDown}
       disabled={disabled}
-      style={{
-        padding: "0.75rem 1rem",
-        fontSize: "1.2rem",
-        border: "2px solid #aaa",
-        borderRadius: "8px",
-        width: "500px",
-        fontFamily: "monospace",
-      }}
       placeholder="Start typing here..."
+      style={{
+        width: "100%",
+        maxWidth: "500px",
+        padding: "0.75rem 1rem",
+        fontSize: "clamp(1rem, 4vw, 1.2rem)",
+        fontFamily: "monospace",
+        border: "2px solid #aaa",
+        borderRadius: "10px",
+        boxSizing: "border-box",
+        outline: "none",
+        opacity: disabled ? 0.6 : 1,
+      }}
+      onFocus={(e) => (e.currentTarget.style.borderColor = "#555")}
+      onBlur={(e) => (e.currentTarget.style.borderColor = "#aaa")}
     />
   );
 };
