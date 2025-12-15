@@ -155,33 +155,37 @@ const TypingTest: React.FC = () => {
   }, []);
 
   return (
-    <div>
+    <div className="page-container">
       <TopButtons />
-      <div className="page-container">
-        <div className="centerElements">
-          <h1>Typing Test</h1>
-          <TypingBox
-            sentence={sentences[currentSentenceIndex]}
-            userInput={userInput}
-          />
-          <TypingInput
-            inputRef={inputRef}
-            userInput={userInput}
-            onChange={handleInputChange}
-            disabled={timeLeft === 0}
-          />
-          <TypingStats
-            timeLeft={timeLeft}
-            WPM={WPM}
-            onReset={resetGame}
-          />
-          {(timeLeft === 0 || testCompleted.current) && (
-            <ExportButton onExport={exportTestData} />
-          )}
-        </div>
+
+      <div className="centerElements">
+        <h1>Typing Test</h1>
+
+        <TypingBox
+          sentence={sentences[currentSentenceIndex]}
+          userInput={userInput}
+        />
+
+        <TypingInput
+          inputRef={inputRef}
+          userInput={userInput}
+          onChange={handleInputChange}
+          disabled={timeLeft === 0}
+        />
+
+        <TypingStats
+          timeLeft={timeLeft}
+          WPM={WPM}
+          onReset={resetGame}
+        />
+
+        {(timeLeft === 0 || testCompleted.current) && (
+          <ExportButton onExport={exportTestData} />
+        )}
       </div>
     </div>
   );
+
 };
 
 export default TypingTest;
