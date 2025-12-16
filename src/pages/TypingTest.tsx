@@ -4,16 +4,14 @@ import TypingBox from "../components/TypingBox.tsx";
 import TypingInput from "../components/TypingInput.tsx";
 import TypingStats from "../components/TypingStats.tsx";
 import ExportButton from "../components/ExportButton.tsx";
+import phrasesData from "../data/phrases.json";
+
+const phrases: string[] = phrasesData as string[];
 
 const TypingTest: React.FC = () => {
-  const sentences = [
-    "The pharaohs of ancient Egypt built magnificent pyramids.",
-    "These pyramids served as tombs for their kings and queens.",
-    "They have been admired for centuries.",
-    "and are a site that draws millions of tourists each year.",
-    "archeologists continue to study them to learn more about them",
-  ];
+  const getShuffledSentences = () => [...phrases].sort(() => Math.random() - 0.5);
 
+  const [sentences, setSentences] = useState<string[]>(getShuffledSentences());
   const [currentSentenceIndex, setCurrentSentenceIndex] = useState(0);
   const [userInput, setUserInput] = useState("");
   const [timeLeft, setTimeLeft] = useState(60);
@@ -21,7 +19,15 @@ const TypingTest: React.FC = () => {
   const [isTyping, setIsTyping] = useState(false);
   const timerRef = useRef<NodeJS.Timeout | null>(null);
   const inputRef = useRef<HTMLInputElement | null>(null);
+
+  const [sentencesTyped, setSentencesTyped] = useState<
+    { typed: string; expected: string }[]
+  >([]);
   
+  const [keyEvents, setKeyEvents] = useState<
+    { timestamp: number; key: string; sentenceIndex: number; valueAfter: string}[]
+  >([]);
+
   const [totalCorrectChars, setTotalCorrectChars] = useState(0);
   const [totalCharsTyped, setTotalCharsTyped] = useState(0);
   const [errors, setErrors] = useState(0);
@@ -55,6 +61,15 @@ const TypingTest: React.FC = () => {
     if (value.length > currentSentence.length) {
       return;
     }
+
+    // Log input event
+    setKeyEvents(prev => [
+      ...prev,
+      {timestamp: Date.now(),
+        key: e.nativeEvent.data ?? e.nativeEvent.inputType, // key pressed
+        sentenceIndex: currentSentenceIndex,
+        valueAfter: value }
+    ]);
 
     // Track total characters typed
     if (value.length > userInput.length) {
@@ -90,6 +105,11 @@ const TypingTest: React.FC = () => {
     if (value.length === currentSentence.length) {
       setTotalCorrectChars(totalCorrect);
 
+      setSentencesTyped(prev => [
+        ...prev,
+        { typed: value, expected: currentSentence }
+      ]);
+
       if (currentSentenceIndex < sentences.length - 1) {
         setCurrentSentenceIndex((prev) => prev + 1);
         setUserInput("");
@@ -116,7 +136,9 @@ const TypingTest: React.FC = () => {
       errors: errors,
       sentencesCompleted: currentSentenceIndex + (userInput.length === sentences[currentSentenceIndex].length ? 1 : 0),
       totalSentences: sentences.length,
-      completed: testCompleted.current || timeLeft === 0
+      completed: testCompleted.current || timeLeft === 0,
+      sentencesTyped,
+      keyLog: keyEvents
     };
 
     const jsonStr = JSON.stringify(testData, null, 2);
@@ -141,9 +163,12 @@ const TypingTest: React.FC = () => {
     setTotalCorrectChars(0);
     setTotalCharsTyped(0);
     setErrors(0);
+    setSentencesTyped([]);
+    setKeyEvents([]);
     startTimeRef.current = null;
     endTimeRef.current = null;
     testCompleted.current = false;
+    setSentences(getShuffledSentences());
     inputRef.current?.focus();
   };
 
