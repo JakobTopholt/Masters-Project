@@ -11,6 +11,11 @@ const phrases: string[] = phrasesData as string[];
 const TypingTest: React.FC = () => {
   const getShuffledSentences = () => [...phrases].sort(() => Math.random() - 0.5);
 
+      const handleModeSelect = (selectedMode: "stationary" | "walking" | "stairs") => {
+  setMode(selectedMode);
+};
+
+  const [mode, setMode] = useState<"stationary" | "walking" | "stairs">("stationary"); // tracks condition
   const [sentences, setSentences] = useState<string[]>(getShuffledSentences());
   const [currentSentenceIndex, setCurrentSentenceIndex] = useState(0);
   const [userInput, setUserInput] = useState("");
@@ -61,6 +66,8 @@ const TypingTest: React.FC = () => {
     if (value.length > currentSentence.length) {
       return;
     }
+  
+
 
     // Log input event
     setKeyEvents(prev => [
@@ -124,6 +131,7 @@ const TypingTest: React.FC = () => {
 
   const exportTestData = () => {
     const testData = {
+      mode: mode,
       timestamp: new Date().toISOString(),
       duration: startTimeRef.current && endTimeRef.current 
         ? (endTimeRef.current - startTimeRef.current) / 1000 
@@ -181,7 +189,7 @@ const TypingTest: React.FC = () => {
 
   return (
     <div className="page-container">
-      <TopButtons />
+      <TopButtons onModeSelect={handleModeSelect} />
 
       <div className="centerElements">
         <h1>Typing Test</h1>
