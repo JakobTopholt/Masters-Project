@@ -28,12 +28,6 @@ const TypingArea: React.FC<TypingAreaProps> = ({
       </div>
       <div className="section2">
         <ul className="resultDetails">
-          <li className="time">
-            <p>Time Left:</p>
-            <span>
-              <b>{timeLeft}</b>s
-            </span>
-          </li>
           <li className="mistake">
             <p>Mistakes:</p>
             <span>{mistakes}</span>
