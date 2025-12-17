@@ -62,5 +62,3 @@ const TopButtons: React.FC<TopButtonsProps> = ({ onModeSelect }) => {
     </div>
   );
 };
-
-export default TopButtons;
