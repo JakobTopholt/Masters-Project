@@ -1,0 +1,881 @@
+{
+  "mode": "walking",
+  "timestamp": "2025-12-18T11:32:18.917Z",
+  "duration": 60.002,
+  "wpm": 18,
+  "accuracy": "61.83",
+  "totalCharactersTyped": 131,
+  "correctCharacters": 81,
+  "errors": 60,
+  "sentencesCompleted": 3,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Listen to five hours 0f opera",
+      "expected": "Listen to five hours of opera"
+    },
+    {
+      "typed": "Exceed the maximum speed limit",
+      "expected": "Exceed the maximum speed limit"
+    },
+    {
+      "typed": "Interactions between me and women ",
+      "expected": "Interactions between men and women"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766057474380,
+      "key": "L",
+      "sentenceIndex": 0,
+      "valueAfter": "L"
+    },
+    {
+      "timestamp": 1766057474600,
+      "key": "Li",
+      "sentenceIndex": 0,
+      "valueAfter": "Li"
+    },
+    {
+      "timestamp": 1766057474763,
+      "key": "Lis",
+      "sentenceIndex": 0,
+      "valueAfter": "Lis"
+    },
+    {
+      "timestamp": 1766057474876,
+      "key": "List",
+      "sentenceIndex": 0,
+      "valueAfter": "List"
+    },
+    {
+      "timestamp": 1766057475154,
+      "key": "Liste",
+      "sentenceIndex": 0,
+      "valueAfter": "Liste"
+    },
+    {
+      "timestamp": 1766057475335,
+      "key": "Listen",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen"
+    },
+    {
+      "timestamp": 1766057475825,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen "
+    },
+    {
+      "timestamp": 1766057476269,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen t"
+    },
+    {
+      "timestamp": 1766057476386,
+      "key": "to",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to"
+    },
+    {
+      "timestamp": 1766057476639,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to "
+    },
+    {
+      "timestamp": 1766057477032,
+      "key": "f",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to f"
+    },
+    {
+      "timestamp": 1766057477165,
+      "key": "fi",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to fi"
+    },
+    {
+      "timestamp": 1766057477424,
+      "key": "fiv",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to fiv"
+    },
+    {
+      "timestamp": 1766057477619,
+      "key": "five",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to five"
+    },
+    {
+      "timestamp": 1766057477881,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to five "
+    },
+    {
+      "timestamp": 1766057478563,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to five h"
+    },
+    {
+      "timestamp": 1766057478755,
+      "key": "ho",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to five ho"
+    },
+    {
+      "timestamp": 1766057478933,
+      "key": "hou",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to five hou"
+    },
+    {
+      "timestamp": 1766057479109,
+      "key": "hous",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to five hous"
+    },
+    {
+      "timestamp": 1766057479493,
+      "key": "housr",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to five housr"
+    },
+    {
+      "timestamp": 1766057479793,
+      "key": "housrs",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to five housrs"
+    },
+    {
+      "timestamp": 1766057480808,
+      "key": "hours",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to five hours"
+    },
+    {
+      "timestamp": 1766057480815,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to five hours "
+    },
+    {
+      "timestamp": 1766057481446,
+      "key": "0",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to five hours 0"
+    },
+    {
+      "timestamp": 1766057482474,
+      "key": "0f",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to five hours 0f"
+    },
+    {
+      "timestamp": 1766057482745,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to five hours 0f "
+    },
+    {
+      "timestamp": 1766057483852,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to five hours 0f o"
+    },
+    {
+      "timestamp": 1766057484017,
+      "key": "op",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to five hours 0f op"
+    },
+    {
+      "timestamp": 1766057484183,
+      "key": "ope",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to five hours 0f ope"
+    },
+    {
+      "timestamp": 1766057484364,
+      "key": "oper",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to five hours 0f oper"
+    },
+    {
+      "timestamp": 1766057484632,
+      "key": "opera",
+      "sentenceIndex": 0,
+      "valueAfter": "Listen to five hours 0f opera"
+    },
+    {
+      "timestamp": 1766057487202,
+      "key": "E",
+      "sentenceIndex": 1,
+      "valueAfter": "E"
+    },
+    {
+      "timestamp": 1766057487544,
+      "key": "Ex",
+      "sentenceIndex": 1,
+      "valueAfter": "Ex"
+    },
+    {
+      "timestamp": 1766057487909,
+      "key": "Exc",
+      "sentenceIndex": 1,
+      "valueAfter": "Exc"
+    },
+    {
+      "timestamp": 1766057488119,
+      "key": "Exce",
+      "sentenceIndex": 1,
+      "valueAfter": "Exce"
+    },
+    {
+      "timestamp": 1766057488568,
+      "key": "Excee",
+      "sentenceIndex": 1,
+      "valueAfter": "Excee"
+    },
+    {
+      "timestamp": 1766057489189,
+      "key": "Exceed",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed"
+    },
+    {
+      "timestamp": 1766057489816,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed "
+    },
+    {
+      "timestamp": 1766057490330,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed t"
+    },
+    {
+      "timestamp": 1766057490552,
+      "key": "th",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed th"
+    },
+    {
+      "timestamp": 1766057490668,
+      "key": "the",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed the"
+    },
+    {
+      "timestamp": 1766057490869,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed the "
+    },
+    {
+      "timestamp": 1766057491189,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed the m"
+    },
+    {
+      "timestamp": 1766057491810,
+      "key": "ma",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed the ma"
+    },
+    {
+      "timestamp": 1766057491989,
+      "key": "max",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed the max"
+    },
+    {
+      "timestamp": 1766057492262,
+      "key": "maxi",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed the maxi"
+    },
+    {
+      "timestamp": 1766057492719,
+      "key": "maxim",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed the maxim"
+    },
+    {
+      "timestamp": 1766057493031,
+      "key": "maximu",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed the maximu"
+    },
+    {
+      "timestamp": 1766057493250,
+      "key": "maximum",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed the maximum"
+    },
+    {
+      "timestamp": 1766057493568,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed the maximum "
+    },
+    {
+      "timestamp": 1766057494210,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed the maximum s"
+    },
+    {
+      "timestamp": 1766057494392,
+      "key": "sp",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed the maximum sp"
+    },
+    {
+      "timestamp": 1766057494537,
+      "key": "spe",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed the maximum spe"
+    },
+    {
+      "timestamp": 1766057494737,
+      "key": "spee",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed the maximum spee"
+    },
+    {
+      "timestamp": 1766057495066,
+      "key": "speed",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed the maximum speed"
+    },
+    {
+      "timestamp": 1766057495317,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed the maximum speed "
+    },
+    {
+      "timestamp": 1766057495567,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed the maximum speed l"
+    },
+    {
+      "timestamp": 1766057495758,
+      "key": "li",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed the maximum speed li"
+    },
+    {
+      "timestamp": 1766057495933,
+      "key": "lim",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed the maximum speed lim"
+    },
+    {
+      "timestamp": 1766057496136,
+      "key": "limi",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed the maximum speed limi"
+    },
+    {
+      "timestamp": 1766057496506,
+      "key": "limit",
+      "sentenceIndex": 1,
+      "valueAfter": "Exceed the maximum speed limit"
+    },
+    {
+      "timestamp": 1766057498655,
+      "key": "I",
+      "sentenceIndex": 2,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1766057498868,
+      "key": "In",
+      "sentenceIndex": 2,
+      "valueAfter": "In"
+    },
+    {
+      "timestamp": 1766057499124,
+      "key": "Int",
+      "sentenceIndex": 2,
+      "valueAfter": "Int"
+    },
+    {
+      "timestamp": 1766057499307,
+      "key": "Inte",
+      "sentenceIndex": 2,
+      "valueAfter": "Inte"
+    },
+    {
+      "timestamp": 1766057499549,
+      "key": "Inter",
+      "sentenceIndex": 2,
+      "valueAfter": "Inter"
+    },
+    {
+      "timestamp": 1766057499860,
+      "key": "Inters",
+      "sentenceIndex": 2,
+      "valueAfter": "Inters"
+    },
+    {
+      "timestamp": 1766057500370,
+      "key": "Intersc",
+      "sentenceIndex": 2,
+      "valueAfter": "Intersc"
+    },
+    {
+      "timestamp": 1766057500621,
+      "key": "Intersct",
+      "sentenceIndex": 2,
+      "valueAfter": "Intersct"
+    },
+    {
+      "timestamp": 1766057501439,
+      "key": "Intersctu",
+      "sentenceIndex": 2,
+      "valueAfter": "Intersctu"
+    },
+    {
+      "timestamp": 1766057501679,
+      "key": "Intersctuo",
+      "sentenceIndex": 2,
+      "valueAfter": "Intersctuo"
+    },
+    {
+      "timestamp": 1766057501904,
+      "key": "Intersctuob",
+      "sentenceIndex": 2,
+      "valueAfter": "Intersctuob"
+    },
+    {
+      "timestamp": 1766057502069,
+      "key": "Intersctuobs",
+      "sentenceIndex": 2,
+      "valueAfter": "Intersctuobs"
+    },
+    {
+      "timestamp": 1766057502301,
+      "key": "Interactions",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions"
+    },
+    {
+      "timestamp": 1766057502307,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions "
+    },
+    {
+      "timestamp": 1766057502985,
+      "key": "b",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions b"
+    },
+    {
+      "timestamp": 1766057503165,
+      "key": "be",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions be"
+    },
+    {
+      "timestamp": 1766057503562,
+      "key": "bet",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions bet"
+    },
+    {
+      "timestamp": 1766057503782,
+      "key": "betw",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions betw"
+    },
+    {
+      "timestamp": 1766057504008,
+      "key": "betwe",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions betwe"
+    },
+    {
+      "timestamp": 1766057504172,
+      "key": "betwee",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions betwee"
+    },
+    {
+      "timestamp": 1766057504490,
+      "key": "between",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between"
+    },
+    {
+      "timestamp": 1766057505184,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between "
+    },
+    {
+      "timestamp": 1766057505559,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between a"
+    },
+    {
+      "timestamp": 1766057505723,
+      "key": "an",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between an"
+    },
+    {
+      "timestamp": 1766057505905,
+      "key": "and",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between and"
+    },
+    {
+      "timestamp": 1766057506071,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between and "
+    },
+    {
+      "timestamp": 1766057506452,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between and w"
+    },
+    {
+      "timestamp": 1766057506910,
+      "key": "insertCompositionText",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between and "
+    },
+    {
+      "timestamp": 1766057507483,
+      "key": "m",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between and m"
+    },
+    {
+      "timestamp": 1766057507646,
+      "key": "me",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between and me"
+    },
+    {
+      "timestamp": 1766057507815,
+      "key": "men",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between and men"
+    },
+    {
+      "timestamp": 1766057509445,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between and men "
+    },
+    {
+      "timestamp": 1766057512007,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between and men"
+    },
+    {
+      "timestamp": 1766057512267,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between and me"
+    },
+    {
+      "timestamp": 1766057512590,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between and m"
+    },
+    {
+      "timestamp": 1766057513319,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between and "
+    },
+    {
+      "timestamp": 1766057513811,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between and w"
+    },
+    {
+      "timestamp": 1766057514005,
+      "key": "wo",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between and wo"
+    },
+    {
+      "timestamp": 1766057514244,
+      "key": "wom",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between and wom"
+    },
+    {
+      "timestamp": 1766057514468,
+      "key": "wome",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between and wome"
+    },
+    {
+      "timestamp": 1766057514570,
+      "key": "women",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between and women"
+    },
+    {
+      "timestamp": 1766057515137,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between and women "
+    },
+    {
+      "timestamp": 1766057519033,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between  and women "
+    },
+    {
+      "timestamp": 1766057519227,
+      "key": "m",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between m and women "
+    },
+    {
+      "timestamp": 1766057519441,
+      "key": "me",
+      "sentenceIndex": 2,
+      "valueAfter": "Interactions between me and women "
+    },
+    {
+      "timestamp": 1766057519594,
+      "key": "N",
+      "sentenceIndex": 3,
+      "valueAfter": "N"
+    },
+    {
+      "timestamp": 1766057521522,
+      "key": "insertCompositionText",
+      "sentenceIndex": 3,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766057522055,
+      "key": "E",
+      "sentenceIndex": 3,
+      "valueAfter": "E"
+    },
+    {
+      "timestamp": 1766057522713,
+      "key": "Ep",
+      "sentenceIndex": 3,
+      "valueAfter": "Ep"
+    },
+    {
+      "timestamp": 1766057523268,
+      "key": "Epl",
+      "sentenceIndex": 3,
+      "valueAfter": "Epl"
+    },
+    {
+      "timestamp": 1766057524079,
+      "key": "Ep",
+      "sentenceIndex": 3,
+      "valueAfter": "Ep"
+    },
+    {
+      "timestamp": 1766057524400,
+      "key": "Epl",
+      "sentenceIndex": 3,
+      "valueAfter": "Epl"
+    },
+    {
+      "timestamp": 1766057524718,
+      "key": "Ep",
+      "sentenceIndex": 3,
+      "valueAfter": "Ep"
+    },
+    {
+      "timestamp": 1766057525040,
+      "key": "E",
+      "sentenceIndex": 3,
+      "valueAfter": "E"
+    },
+    {
+      "timestamp": 1766057525984,
+      "key": "Em",
+      "sentenceIndex": 3,
+      "valueAfter": "Em"
+    },
+    {
+      "timestamp": 1766057526241,
+      "key": "Emp",
+      "sentenceIndex": 3,
+      "valueAfter": "Emp"
+    },
+    {
+      "timestamp": 1766057526360,
+      "key": "Empl",
+      "sentenceIndex": 3,
+      "valueAfter": "Empl"
+    },
+    {
+      "timestamp": 1766057526638,
+      "key": "Emplo",
+      "sentenceIndex": 3,
+      "valueAfter": "Emplo"
+    },
+    {
+      "timestamp": 1766057527057,
+      "key": "Employ",
+      "sentenceIndex": 3,
+      "valueAfter": "Employ"
+    },
+    {
+      "timestamp": 1766057527266,
+      "key": "Employe",
+      "sentenceIndex": 3,
+      "valueAfter": "Employe"
+    },
+    {
+      "timestamp": 1766057527471,
+      "key": "Employee",
+      "sentenceIndex": 3,
+      "valueAfter": "Employee"
+    },
+    {
+      "timestamp": 1766057527764,
+      "key": "Employees",
+      "sentenceIndex": 3,
+      "valueAfter": "Employees"
+    },
+    {
+      "timestamp": 1766057528532,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Employees "
+    },
+    {
+      "timestamp": 1766057528818,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Employees r"
+    },
+    {
+      "timestamp": 1766057528994,
+      "key": "re",
+      "sentenceIndex": 3,
+      "valueAfter": "Employees re"
+    },
+    {
+      "timestamp": 1766057529403,
+      "key": "rec",
+      "sentenceIndex": 3,
+      "valueAfter": "Employees rec"
+    },
+    {
+      "timestamp": 1766057530246,
+      "key": "recr",
+      "sentenceIndex": 3,
+      "valueAfter": "Employees recr"
+    },
+    {
+      "timestamp": 1766057530500,
+      "key": "recru",
+      "sentenceIndex": 3,
+      "valueAfter": "Employees recru"
+    },
+    {
+      "timestamp": 1766057530678,
+      "key": "recrui",
+      "sentenceIndex": 3,
+      "valueAfter": "Employees recrui"
+    },
+    {
+      "timestamp": 1766057530896,
+      "key": "recruit",
+      "sentenceIndex": 3,
+      "valueAfter": "Employees recruit"
+    },
+    {
+      "timestamp": 1766057531262,
+      "key": "recruitm",
+      "sentenceIndex": 3,
+      "valueAfter": "Employees recruitm"
+    },
+    {
+      "timestamp": 1766057531584,
+      "key": "recruitme",
+      "sentenceIndex": 3,
+      "valueAfter": "Employees recruitme"
+    },
+    {
+      "timestamp": 1766057531765,
+      "key": "recruitmen",
+      "sentenceIndex": 3,
+      "valueAfter": "Employees recruitmen"
+    },
+    {
+      "timestamp": 1766057532218,
+      "key": "recruitment",
+      "sentenceIndex": 3,
+      "valueAfter": "Employees recruitment"
+    },
+    {
+      "timestamp": 1766057532870,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Employees recruitment "
+    },
+    {
+      "timestamp": 1766057533183,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Employees recruitment t"
+    },
+    {
+      "timestamp": 1766057533415,
+      "key": "ta",
+      "sentenceIndex": 3,
+      "valueAfter": "Employees recruitment ta"
+    },
+    {
+      "timestamp": 1766057533517,
+      "key": "tak",
+      "sentenceIndex": 3,
+      "valueAfter": "Employees recruitment tak"
+    },
+    {
+      "timestamp": 1766057533706,
+      "key": "take",
+      "sentenceIndex": 3,
+      "valueAfter": "Employees recruitment take"
+    },
+    {
+      "timestamp": 1766057533945,
+      "key": "takes",
+      "sentenceIndex": 3,
+      "valueAfter": "Employees recruitment takes"
+    },
+    {
+      "timestamp": 1766057534169,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Employees recruitment takes "
+    }
+  ]
+}

@@ -1,0 +1,925 @@
+{
+  "mode": "stationary",
+  "timestamp": "2025-12-18T09:02:33.587Z",
+  "duration": 60.013,
+  "wpm": 26,
+  "accuracy": "86.90",
+  "totalCharactersTyped": 145,
+  "correctCharacters": 126,
+  "errors": 27,
+  "sentencesCompleted": 5,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "All good boys deserve fudge",
+      "expected": "All good boys deserve fudge"
+    },
+    {
+      "typed": "Soon we will return from the coty",
+      "expected": "Soon we will return from the city"
+    },
+    {
+      "typed": "This is a non profit organisation",
+      "expected": "This is a non profit organization"
+    },
+    {
+      "typed": " It looks like a shac",
+      "expected": "It looks like a shack"
+    },
+    {
+      "typed": "Universally understood to be wrong",
+      "expected": "Universally understood to be wrong"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766048490499,
+      "key": "A",
+      "sentenceIndex": 0,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1766048490669,
+      "key": "Al",
+      "sentenceIndex": 0,
+      "valueAfter": "Al"
+    },
+    {
+      "timestamp": 1766048490753,
+      "key": "All",
+      "sentenceIndex": 0,
+      "valueAfter": "All"
+    },
+    {
+      "timestamp": 1766048491068,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "All "
+    },
+    {
+      "timestamp": 1766048491297,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "All g"
+    },
+    {
+      "timestamp": 1766048491461,
+      "key": "go",
+      "sentenceIndex": 0,
+      "valueAfter": "All go"
+    },
+    {
+      "timestamp": 1766048491642,
+      "key": "goo",
+      "sentenceIndex": 0,
+      "valueAfter": "All goo"
+    },
+    {
+      "timestamp": 1766048491806,
+      "key": "good",
+      "sentenceIndex": 0,
+      "valueAfter": "All good"
+    },
+    {
+      "timestamp": 1766048491937,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "All good "
+    },
+    {
+      "timestamp": 1766048492330,
+      "key": "b",
+      "sentenceIndex": 0,
+      "valueAfter": "All good b"
+    },
+    {
+      "timestamp": 1766048492579,
+      "key": "bo",
+      "sentenceIndex": 0,
+      "valueAfter": "All good bo"
+    },
+    {
+      "timestamp": 1766048493009,
+      "key": "boy",
+      "sentenceIndex": 0,
+      "valueAfter": "All good boy"
+    },
+    {
+      "timestamp": 1766048493256,
+      "key": "boys",
+      "sentenceIndex": 0,
+      "valueAfter": "All good boys"
+    },
+    {
+      "timestamp": 1766048493409,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "All good boys "
+    },
+    {
+      "timestamp": 1766048493612,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "All good boys d"
+    },
+    {
+      "timestamp": 1766048493792,
+      "key": "de",
+      "sentenceIndex": 0,
+      "valueAfter": "All good boys de"
+    },
+    {
+      "timestamp": 1766048494007,
+      "key": "des",
+      "sentenceIndex": 0,
+      "valueAfter": "All good boys des"
+    },
+    {
+      "timestamp": 1766048494338,
+      "key": "dese",
+      "sentenceIndex": 0,
+      "valueAfter": "All good boys dese"
+    },
+    {
+      "timestamp": 1766048494642,
+      "key": "deser",
+      "sentenceIndex": 0,
+      "valueAfter": "All good boys deser"
+    },
+    {
+      "timestamp": 1766048495088,
+      "key": "deserv",
+      "sentenceIndex": 0,
+      "valueAfter": "All good boys deserv"
+    },
+    {
+      "timestamp": 1766048495242,
+      "key": "deserve",
+      "sentenceIndex": 0,
+      "valueAfter": "All good boys deserve"
+    },
+    {
+      "timestamp": 1766048495409,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "All good boys deserve "
+    },
+    {
+      "timestamp": 1766048496634,
+      "key": "f",
+      "sentenceIndex": 0,
+      "valueAfter": "All good boys deserve f"
+    },
+    {
+      "timestamp": 1766048496890,
+      "key": "fu",
+      "sentenceIndex": 0,
+      "valueAfter": "All good boys deserve fu"
+    },
+    {
+      "timestamp": 1766048497251,
+      "key": "fud",
+      "sentenceIndex": 0,
+      "valueAfter": "All good boys deserve fud"
+    },
+    {
+      "timestamp": 1766048497509,
+      "key": "fudg",
+      "sentenceIndex": 0,
+      "valueAfter": "All good boys deserve fudg"
+    },
+    {
+      "timestamp": 1766048497674,
+      "key": "fudge",
+      "sentenceIndex": 0,
+      "valueAfter": "All good boys deserve fudge"
+    },
+    {
+      "timestamp": 1766048497848,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766048499057,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766048500083,
+      "key": "S",
+      "sentenceIndex": 1,
+      "valueAfter": "S"
+    },
+    {
+      "timestamp": 1766048500356,
+      "key": "So",
+      "sentenceIndex": 1,
+      "valueAfter": "So"
+    },
+    {
+      "timestamp": 1766048500446,
+      "key": "Soo",
+      "sentenceIndex": 1,
+      "valueAfter": "Soo"
+    },
+    {
+      "timestamp": 1766048500638,
+      "key": "Soon",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon"
+    },
+    {
+      "timestamp": 1766048500844,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon "
+    },
+    {
+      "timestamp": 1766048501541,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon w"
+    },
+    {
+      "timestamp": 1766048501699,
+      "key": "we",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we"
+    },
+    {
+      "timestamp": 1766048501924,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we "
+    },
+    {
+      "timestamp": 1766048502123,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we w"
+    },
+    {
+      "timestamp": 1766048502364,
+      "key": "wi",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we wi"
+    },
+    {
+      "timestamp": 1766048502627,
+      "key": "wil",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we wil"
+    },
+    {
+      "timestamp": 1766048502770,
+      "key": "will",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will"
+    },
+    {
+      "timestamp": 1766048503025,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will "
+    },
+    {
+      "timestamp": 1766048503629,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will r"
+    },
+    {
+      "timestamp": 1766048503786,
+      "key": "re",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will re"
+    },
+    {
+      "timestamp": 1766048504064,
+      "key": "ret",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will ret"
+    },
+    {
+      "timestamp": 1766048504319,
+      "key": "retu",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will retu"
+    },
+    {
+      "timestamp": 1766048504653,
+      "key": "retur",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will retur"
+    },
+    {
+      "timestamp": 1766048504983,
+      "key": "return",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will return"
+    },
+    {
+      "timestamp": 1766048505267,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will return "
+    },
+    {
+      "timestamp": 1766048505998,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will return f"
+    },
+    {
+      "timestamp": 1766048506209,
+      "key": "fr",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will return fr"
+    },
+    {
+      "timestamp": 1766048506417,
+      "key": "fro",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will return fro"
+    },
+    {
+      "timestamp": 1766048506649,
+      "key": "from",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will return from"
+    },
+    {
+      "timestamp": 1766048506873,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will return from "
+    },
+    {
+      "timestamp": 1766048507069,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will return from t"
+    },
+    {
+      "timestamp": 1766048507308,
+      "key": "th",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will return from th"
+    },
+    {
+      "timestamp": 1766048507463,
+      "key": "the",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will return from the"
+    },
+    {
+      "timestamp": 1766048507639,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will return from the "
+    },
+    {
+      "timestamp": 1766048508569,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will return from the c"
+    },
+    {
+      "timestamp": 1766048508728,
+      "key": "co",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will return from the co"
+    },
+    {
+      "timestamp": 1766048509162,
+      "key": "cot",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will return from the cot"
+    },
+    {
+      "timestamp": 1766048509385,
+      "key": "coty",
+      "sentenceIndex": 1,
+      "valueAfter": "Soon we will return from the coty"
+    },
+    {
+      "timestamp": 1766048510778,
+      "key": "T",
+      "sentenceIndex": 2,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766048510997,
+      "key": "Th",
+      "sentenceIndex": 2,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766048511197,
+      "key": "Thi",
+      "sentenceIndex": 2,
+      "valueAfter": "Thi"
+    },
+    {
+      "timestamp": 1766048511411,
+      "key": "This",
+      "sentenceIndex": 2,
+      "valueAfter": "This"
+    },
+    {
+      "timestamp": 1766048511639,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "This "
+    },
+    {
+      "timestamp": 1766048511956,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "This i"
+    },
+    {
+      "timestamp": 1766048512182,
+      "key": "is",
+      "sentenceIndex": 2,
+      "valueAfter": "This is"
+    },
+    {
+      "timestamp": 1766048512377,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "This is "
+    },
+    {
+      "timestamp": 1766048512947,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "This is a"
+    },
+    {
+      "timestamp": 1766048513121,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "This is a "
+    },
+    {
+      "timestamp": 1766048513384,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "This is a n"
+    },
+    {
+      "timestamp": 1766048513589,
+      "key": "no",
+      "sentenceIndex": 2,
+      "valueAfter": "This is a no"
+    },
+    {
+      "timestamp": 1766048513883,
+      "key": "non",
+      "sentenceIndex": 2,
+      "valueAfter": "This is a non"
+    },
+    {
+      "timestamp": 1766048514119,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "This is a non "
+    },
+    {
+      "timestamp": 1766048514946,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": "This is a non p"
+    },
+    {
+      "timestamp": 1766048515310,
+      "key": "pr",
+      "sentenceIndex": 2,
+      "valueAfter": "This is a non pr"
+    },
+    {
+      "timestamp": 1766048515465,
+      "key": "pro",
+      "sentenceIndex": 2,
+      "valueAfter": "This is a non pro"
+    },
+    {
+      "timestamp": 1766048515902,
+      "key": "prof",
+      "sentenceIndex": 2,
+      "valueAfter": "This is a non prof"
+    },
+    {
+      "timestamp": 1766048516149,
+      "key": "profi",
+      "sentenceIndex": 2,
+      "valueAfter": "This is a non profi"
+    },
+    {
+      "timestamp": 1766048516436,
+      "key": "profit",
+      "sentenceIndex": 2,
+      "valueAfter": "This is a non profit"
+    },
+    {
+      "timestamp": 1766048516657,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "This is a non profit "
+    },
+    {
+      "timestamp": 1766048517551,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "This is a non profit o"
+    },
+    {
+      "timestamp": 1766048517885,
+      "key": "or",
+      "sentenceIndex": 2,
+      "valueAfter": "This is a non profit or"
+    },
+    {
+      "timestamp": 1766048518337,
+      "key": "org",
+      "sentenceIndex": 2,
+      "valueAfter": "This is a non profit org"
+    },
+    {
+      "timestamp": 1766048518463,
+      "key": "orga",
+      "sentenceIndex": 2,
+      "valueAfter": "This is a non profit orga"
+    },
+    {
+      "timestamp": 1766048518750,
+      "key": "organ",
+      "sentenceIndex": 2,
+      "valueAfter": "This is a non profit organ"
+    },
+    {
+      "timestamp": 1766048519566,
+      "key": "organisation",
+      "sentenceIndex": 2,
+      "valueAfter": "This is a non profit organisation"
+    },
+    {
+      "timestamp": 1766048519592,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766048522926,
+      "key": "I",
+      "sentenceIndex": 3,
+      "valueAfter": " I"
+    },
+    {
+      "timestamp": 1766048523326,
+      "key": "It",
+      "sentenceIndex": 3,
+      "valueAfter": " It"
+    },
+    {
+      "timestamp": 1766048523622,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " It "
+    },
+    {
+      "timestamp": 1766048524355,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": " It l"
+    },
+    {
+      "timestamp": 1766048524578,
+      "key": "lo",
+      "sentenceIndex": 3,
+      "valueAfter": " It lo"
+    },
+    {
+      "timestamp": 1766048524743,
+      "key": "loo",
+      "sentenceIndex": 3,
+      "valueAfter": " It loo"
+    },
+    {
+      "timestamp": 1766048525017,
+      "key": "look",
+      "sentenceIndex": 3,
+      "valueAfter": " It look"
+    },
+    {
+      "timestamp": 1766048525323,
+      "key": "looks",
+      "sentenceIndex": 3,
+      "valueAfter": " It looks"
+    },
+    {
+      "timestamp": 1766048525471,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " It looks "
+    },
+    {
+      "timestamp": 1766048526015,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": " It looks l"
+    },
+    {
+      "timestamp": 1766048526310,
+      "key": "li",
+      "sentenceIndex": 3,
+      "valueAfter": " It looks li"
+    },
+    {
+      "timestamp": 1766048526539,
+      "key": "lik",
+      "sentenceIndex": 3,
+      "valueAfter": " It looks lik"
+    },
+    {
+      "timestamp": 1766048526705,
+      "key": "like",
+      "sentenceIndex": 3,
+      "valueAfter": " It looks like"
+    },
+    {
+      "timestamp": 1766048526881,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " It looks like "
+    },
+    {
+      "timestamp": 1766048527030,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": " It looks like a"
+    },
+    {
+      "timestamp": 1766048527170,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " It looks like a "
+    },
+    {
+      "timestamp": 1766048528175,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": " It looks like a s"
+    },
+    {
+      "timestamp": 1766048528434,
+      "key": "sh",
+      "sentenceIndex": 3,
+      "valueAfter": " It looks like a sh"
+    },
+    {
+      "timestamp": 1766048528550,
+      "key": "sha",
+      "sentenceIndex": 3,
+      "valueAfter": " It looks like a sha"
+    },
+    {
+      "timestamp": 1766048529004,
+      "key": "shac",
+      "sentenceIndex": 3,
+      "valueAfter": " It looks like a shac"
+    },
+    {
+      "timestamp": 1766048529295,
+      "key": "K",
+      "sentenceIndex": 4,
+      "valueAfter": "K"
+    },
+    {
+      "timestamp": 1766048530492,
+      "key": "insertCompositionText",
+      "sentenceIndex": 4,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766048533714,
+      "key": "U",
+      "sentenceIndex": 4,
+      "valueAfter": "U"
+    },
+    {
+      "timestamp": 1766048534011,
+      "key": "Un",
+      "sentenceIndex": 4,
+      "valueAfter": "Un"
+    },
+    {
+      "timestamp": 1766048534275,
+      "key": "Uni",
+      "sentenceIndex": 4,
+      "valueAfter": "Uni"
+    },
+    {
+      "timestamp": 1766048534659,
+      "key": "Univ",
+      "sentenceIndex": 4,
+      "valueAfter": "Univ"
+    },
+    {
+      "timestamp": 1766048534909,
+      "key": "Unive",
+      "sentenceIndex": 4,
+      "valueAfter": "Unive"
+    },
+    {
+      "timestamp": 1766048535106,
+      "key": "Univer",
+      "sentenceIndex": 4,
+      "valueAfter": "Univer"
+    },
+    {
+      "timestamp": 1766048535406,
+      "key": "Univers",
+      "sentenceIndex": 4,
+      "valueAfter": "Univers"
+    },
+    {
+      "timestamp": 1766048535838,
+      "key": "Universa",
+      "sentenceIndex": 4,
+      "valueAfter": "Universa"
+    },
+    {
+      "timestamp": 1766048536965,
+      "key": "Universal",
+      "sentenceIndex": 4,
+      "valueAfter": "Universal"
+    },
+    {
+      "timestamp": 1766048537116,
+      "key": "Universall",
+      "sentenceIndex": 4,
+      "valueAfter": "Universall"
+    },
+    {
+      "timestamp": 1766048537363,
+      "key": "Universally",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally"
+    },
+    {
+      "timestamp": 1766048538048,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally "
+    },
+    {
+      "timestamp": 1766048539746,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally u"
+    },
+    {
+      "timestamp": 1766048540018,
+      "key": "un",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally un"
+    },
+    {
+      "timestamp": 1766048540321,
+      "key": "und",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally und"
+    },
+    {
+      "timestamp": 1766048540527,
+      "key": "unde",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally unde"
+    },
+    {
+      "timestamp": 1766048540745,
+      "key": "under",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally under"
+    },
+    {
+      "timestamp": 1766048541390,
+      "key": "unders",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally unders"
+    },
+    {
+      "timestamp": 1766048541705,
+      "key": "underst",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally underst"
+    },
+    {
+      "timestamp": 1766048542150,
+      "key": "understo",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally understo"
+    },
+    {
+      "timestamp": 1766048542297,
+      "key": "understoo",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally understoo"
+    },
+    {
+      "timestamp": 1766048542646,
+      "key": "understood",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally understood"
+    },
+    {
+      "timestamp": 1766048542823,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally understood "
+    },
+    {
+      "timestamp": 1766048543761,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally understood t"
+    },
+    {
+      "timestamp": 1766048543951,
+      "key": "to",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally understood to"
+    },
+    {
+      "timestamp": 1766048544238,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally understood to "
+    },
+    {
+      "timestamp": 1766048544590,
+      "key": "b",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally understood to b"
+    },
+    {
+      "timestamp": 1766048544845,
+      "key": "be",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally understood to be"
+    },
+    {
+      "timestamp": 1766048545065,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally understood to be "
+    },
+    {
+      "timestamp": 1766048545742,
+      "key": "w",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally understood to be w"
+    },
+    {
+      "timestamp": 1766048546062,
+      "key": "wr",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally understood to be wr"
+    },
+    {
+      "timestamp": 1766048546272,
+      "key": "wro",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally understood to be wro"
+    },
+    {
+      "timestamp": 1766048546508,
+      "key": "wron",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally understood to be wron"
+    },
+    {
+      "timestamp": 1766048547784,
+      "key": "wro",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally understood to be wro"
+    },
+    {
+      "timestamp": 1766048548856,
+      "key": "wron",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally understood to be wron"
+    },
+    {
+      "timestamp": 1766048549178,
+      "key": "wrong",
+      "sentenceIndex": 4,
+      "valueAfter": "Universally understood to be wrong"
+    }
+  ]
+}

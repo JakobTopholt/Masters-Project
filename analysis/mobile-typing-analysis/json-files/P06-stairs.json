@@ -1,0 +1,435 @@
+{
+  "mode": "upstairs",
+  "timestamp": "2025-12-17T10:37:30.180Z",
+  "duration": 60.063,
+  "wpm": 7,
+  "accuracy": "49.15",
+  "totalCharactersTyped": 59,
+  "correctCharacters": 29,
+  "errors": 27,
+  "sentencesCompleted": 1,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "The coronation was very excitoin",
+      "expected": "The coronation was very exciting"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765967788469,
+      "key": "T",
+      "sentenceIndex": 0,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765967788560,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765967789061,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765967789701,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765967790078,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "The c"
+    },
+    {
+      "timestamp": 1765967792433,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "The co"
+    },
+    {
+      "timestamp": 1765967793226,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "The cor"
+    },
+    {
+      "timestamp": 1765967795807,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "The coro"
+    },
+    {
+      "timestamp": 1765967796251,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "The coron"
+    },
+    {
+      "timestamp": 1765967796593,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "The corona"
+    },
+    {
+      "timestamp": 1765967797012,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronat"
+    },
+    {
+      "timestamp": 1765967797810,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronati"
+    },
+    {
+      "timestamp": 1765967798008,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronatio"
+    },
+    {
+      "timestamp": 1765967798263,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronation"
+    },
+    {
+      "timestamp": 1765967799986,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronation "
+    },
+    {
+      "timestamp": 1765967800466,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronation w"
+    },
+    {
+      "timestamp": 1765967800768,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronation wa"
+    },
+    {
+      "timestamp": 1765967800966,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronation was"
+    },
+    {
+      "timestamp": 1765967801381,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronation was "
+    },
+    {
+      "timestamp": 1765967803324,
+      "key": "v",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronation was v"
+    },
+    {
+      "timestamp": 1765967803709,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronation was ve"
+    },
+    {
+      "timestamp": 1765967803869,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronation was ver"
+    },
+    {
+      "timestamp": 1765967804174,
+      "key": "y",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronation was very"
+    },
+    {
+      "timestamp": 1765967808628,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronation was very "
+    },
+    {
+      "timestamp": 1765967809838,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronation was very e"
+    },
+    {
+      "timestamp": 1765967810307,
+      "key": "x",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronation was very ex"
+    },
+    {
+      "timestamp": 1765967811626,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronation was very exc"
+    },
+    {
+      "timestamp": 1765967812024,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronation was very exci"
+    },
+    {
+      "timestamp": 1765967812309,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronation was very excit"
+    },
+    {
+      "timestamp": 1765967813011,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronation was very excito"
+    },
+    {
+      "timestamp": 1765967814682,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronation was very excitoi"
+    },
+    {
+      "timestamp": 1765967814934,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "The coronation was very excitoin"
+    },
+    {
+      "timestamp": 1765967816070,
+      "key": "G",
+      "sentenceIndex": 1,
+      "valueAfter": "G"
+    },
+    {
+      "timestamp": 1765967820316,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1765967821311,
+      "key": "D",
+      "sentenceIndex": 1,
+      "valueAfter": "D"
+    },
+    {
+      "timestamp": 1765967822447,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Di"
+    },
+    {
+      "timestamp": 1765967823082,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Did"
+    },
+    {
+      "timestamp": 1765967824875,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "Didy"
+    },
+    {
+      "timestamp": 1765967825294,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Didyo"
+    },
+    {
+      "timestamp": 1765967826107,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "Didyou"
+    },
+    {
+      "timestamp": 1765967826480,
+      "key": "Didymium",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium"
+    },
+    {
+      "timestamp": 1765967826500,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium "
+    },
+    {
+      "timestamp": 1765967827494,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium s"
+    },
+    {
+      "timestamp": 1765967827774,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium se"
+    },
+    {
+      "timestamp": 1765967827944,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium see"
+    },
+    {
+      "timestamp": 1765967830806,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium see "
+    },
+    {
+      "timestamp": 1765967832722,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium see"
+    },
+    {
+      "timestamp": 1765967833135,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium seet"
+    },
+    {
+      "timestamp": 1765967833319,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium seeth"
+    },
+    {
+      "timestamp": 1765967833738,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium seetha"
+    },
+    {
+      "timestamp": 1765967834155,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium seethat"
+    },
+    {
+      "timestamp": 1765967836276,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium seetha"
+    },
+    {
+      "timestamp": 1765967836416,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium seeth"
+    },
+    {
+      "timestamp": 1765967836590,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium seet"
+    },
+    {
+      "timestamp": 1765967836793,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium see"
+    },
+    {
+      "timestamp": 1765967837519,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium see "
+    },
+    {
+      "timestamp": 1765967837947,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium see t"
+    },
+    {
+      "timestamp": 1765967838366,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium see th"
+    },
+    {
+      "timestamp": 1765967838715,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium see tha"
+    },
+    {
+      "timestamp": 1765967838966,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium see that"
+    },
+    {
+      "timestamp": 1765967841448,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium see that "
+    },
+    {
+      "timestamp": 1765967841757,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium see that s"
+    },
+    {
+      "timestamp": 1765967842338,
+      "key": "p",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium see that sp"
+    },
+    {
+      "timestamp": 1765967843109,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium see that spe"
+    },
+    {
+      "timestamp": 1765967843545,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium see that spec"
+    },
+    {
+      "timestamp": 1765967847362,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium see that spe"
+    },
+    {
+      "timestamp": 1765967847695,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium see that sp"
+    },
+    {
+      "timestamp": 1765967847880,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium see that s"
+    },
+    {
+      "timestamp": 1765967848081,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Didymium see that "
+    }
+  ]
+}

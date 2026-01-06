@@ -1,0 +1,1927 @@
+{
+  "mode": "walking",
+  "timestamp": "2025-12-17T09:08:06.532Z",
+  "duration": 60.001,
+  "wpm": 60,
+  "accuracy": "98.03",
+  "totalCharactersTyped": 304,
+  "correctCharacters": 298,
+  "errors": 13,
+  "sentencesCompleted": 11,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "The living is easy",
+      "expected": "The living is easy"
+    },
+    {
+      "typed": "Shall we play a round of cards",
+      "expected": "Shall we play a round of cards"
+    },
+    {
+      "typed": "Quick there is someone knocking",
+      "expected": "Quick there is someone knocking"
+    },
+    {
+      "typed": "A lot of chlorine in the water",
+      "expected": "A lot of chlorine in the water"
+    },
+    {
+      "typed": "Elephants are afraid of mice",
+      "expected": "Elephants are afraid of mice"
+    },
+    {
+      "typed": "An offer you cannot refuse",
+      "expected": "An offer you cannot refuse"
+    },
+    {
+      "typed": "A problem with the engine",
+      "expected": "A problem with the engine"
+    },
+    {
+      "typed": "You must be getting old",
+      "expected": "You must be getting old"
+    },
+    {
+      "typed": "Please provide your date of birth",
+      "expected": "Please provide your date of birth"
+    },
+    {
+      "typed": "Buckle up for safety",
+      "expected": "Buckle up for safety"
+    },
+    {
+      "typed": "Universally understood to be wrong",
+      "expected": "Universally understood to be wrong"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765962422213,
+      "key": "T",
+      "sentenceIndex": 0,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765962422401,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765962422515,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765962422632,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765962422883,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "The l"
+    },
+    {
+      "timestamp": 1765962423090,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "The li"
+    },
+    {
+      "timestamp": 1765962423230,
+      "key": "v",
+      "sentenceIndex": 0,
+      "valueAfter": "The liv"
+    },
+    {
+      "timestamp": 1765962423396,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "The livi"
+    },
+    {
+      "timestamp": 1765962423606,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "The livin"
+    },
+    {
+      "timestamp": 1765962423715,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "The living"
+    },
+    {
+      "timestamp": 1765962423825,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The living "
+    },
+    {
+      "timestamp": 1765962424038,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "The living i"
+    },
+    {
+      "timestamp": 1765962424121,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "The living is"
+    },
+    {
+      "timestamp": 1765962424253,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The living is "
+    },
+    {
+      "timestamp": 1765962424347,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The living is e"
+    },
+    {
+      "timestamp": 1765962424537,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "The living is ea"
+    },
+    {
+      "timestamp": 1765962424712,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "The living is eas"
+    },
+    {
+      "timestamp": 1765962424794,
+      "key": "y",
+      "sentenceIndex": 0,
+      "valueAfter": "The living is easy"
+    },
+    {
+      "timestamp": 1765962425861,
+      "key": "S",
+      "sentenceIndex": 1,
+      "valueAfter": "S"
+    },
+    {
+      "timestamp": 1765962425943,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Sh"
+    },
+    {
+      "timestamp": 1765962426084,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Sha"
+    },
+    {
+      "timestamp": 1765962426164,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Shal"
+    },
+    {
+      "timestamp": 1765962426317,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall"
+    },
+    {
+      "timestamp": 1765962426528,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall "
+    },
+    {
+      "timestamp": 1765962426639,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall w"
+    },
+    {
+      "timestamp": 1765962426772,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we"
+    },
+    {
+      "timestamp": 1765962426844,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we "
+    },
+    {
+      "timestamp": 1765962427087,
+      "key": "p",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we p"
+    },
+    {
+      "timestamp": 1765962427249,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we pl"
+    },
+    {
+      "timestamp": 1765962427375,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we pla"
+    },
+    {
+      "timestamp": 1765962427438,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we play"
+    },
+    {
+      "timestamp": 1765962427992,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we play "
+    },
+    {
+      "timestamp": 1765962428152,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we play a"
+    },
+    {
+      "timestamp": 1765962428310,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we play a "
+    },
+    {
+      "timestamp": 1765962428513,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we play a r"
+    },
+    {
+      "timestamp": 1765962428602,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we play a ro"
+    },
+    {
+      "timestamp": 1765962428801,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we play a rou"
+    },
+    {
+      "timestamp": 1765962428967,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we play a roun"
+    },
+    {
+      "timestamp": 1765962429050,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we play a round"
+    },
+    {
+      "timestamp": 1765962429162,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we play a round "
+    },
+    {
+      "timestamp": 1765962429377,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we play a round o"
+    },
+    {
+      "timestamp": 1765962429450,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we play a round of"
+    },
+    {
+      "timestamp": 1765962429617,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we play a round of "
+    },
+    {
+      "timestamp": 1765962429818,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we play a round of c"
+    },
+    {
+      "timestamp": 1765962429942,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we play a round of ca"
+    },
+    {
+      "timestamp": 1765962430093,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we play a round of car"
+    },
+    {
+      "timestamp": 1765962430217,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we play a round of card"
+    },
+    {
+      "timestamp": 1765962430364,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Shall we play a round of cards"
+    },
+    {
+      "timestamp": 1765962431674,
+      "key": "Q",
+      "sentenceIndex": 2,
+      "valueAfter": "Q"
+    },
+    {
+      "timestamp": 1765962431765,
+      "key": "u",
+      "sentenceIndex": 2,
+      "valueAfter": "Qu"
+    },
+    {
+      "timestamp": 1765962431970,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Qui"
+    },
+    {
+      "timestamp": 1765962432087,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Quic"
+    },
+    {
+      "timestamp": 1765962432269,
+      "key": "k",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick"
+    },
+    {
+      "timestamp": 1765962432532,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick "
+    },
+    {
+      "timestamp": 1765962432978,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick t"
+    },
+    {
+      "timestamp": 1765962433132,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick th"
+    },
+    {
+      "timestamp": 1765962433232,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick the"
+    },
+    {
+      "timestamp": 1765962433382,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick ther"
+    },
+    {
+      "timestamp": 1765962433510,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there"
+    },
+    {
+      "timestamp": 1765962433583,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there "
+    },
+    {
+      "timestamp": 1765962433784,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there i"
+    },
+    {
+      "timestamp": 1765962433871,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is"
+    },
+    {
+      "timestamp": 1765962434007,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is "
+    },
+    {
+      "timestamp": 1765962434073,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is a"
+    },
+    {
+      "timestamp": 1765962434974,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is "
+    },
+    {
+      "timestamp": 1765962435574,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is s"
+    },
+    {
+      "timestamp": 1765962435655,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is so"
+    },
+    {
+      "timestamp": 1765962435838,
+      "key": "m",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is som"
+    },
+    {
+      "timestamp": 1765962435960,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is some"
+    },
+    {
+      "timestamp": 1765962436096,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is someo"
+    },
+    {
+      "timestamp": 1765962436284,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is someon"
+    },
+    {
+      "timestamp": 1765962436403,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is someone"
+    },
+    {
+      "timestamp": 1765962436568,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is someone "
+    },
+    {
+      "timestamp": 1765962436753,
+      "key": "k",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is someone k"
+    },
+    {
+      "timestamp": 1765962436893,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is someone kn"
+    },
+    {
+      "timestamp": 1765962437075,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is someone kno"
+    },
+    {
+      "timestamp": 1765962437176,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is someone know"
+    },
+    {
+      "timestamp": 1765962437967,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is someone kno"
+    },
+    {
+      "timestamp": 1765962438038,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is someone knoc"
+    },
+    {
+      "timestamp": 1765962438197,
+      "key": "k",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is someone knock"
+    },
+    {
+      "timestamp": 1765962438371,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is someone knocki"
+    },
+    {
+      "timestamp": 1765962438540,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is someone knockin"
+    },
+    {
+      "timestamp": 1765962438637,
+      "key": "g",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is someone knocking"
+    },
+    {
+      "timestamp": 1765962439487,
+      "key": "A",
+      "sentenceIndex": 3,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1765962439572,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "A "
+    },
+    {
+      "timestamp": 1765962439820,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "A l"
+    },
+    {
+      "timestamp": 1765962439975,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "A lo"
+    },
+    {
+      "timestamp": 1765962440095,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot"
+    },
+    {
+      "timestamp": 1765962440234,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot "
+    },
+    {
+      "timestamp": 1765962440427,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot o"
+    },
+    {
+      "timestamp": 1765962440519,
+      "key": "f",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of"
+    },
+    {
+      "timestamp": 1765962440666,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of "
+    },
+    {
+      "timestamp": 1765962440765,
+      "key": "c",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of c"
+    },
+    {
+      "timestamp": 1765962440894,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of ch"
+    },
+    {
+      "timestamp": 1765962441232,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of chl"
+    },
+    {
+      "timestamp": 1765962441442,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of chlo"
+    },
+    {
+      "timestamp": 1765962441563,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of chlor"
+    },
+    {
+      "timestamp": 1765962441716,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of chlori"
+    },
+    {
+      "timestamp": 1765962441905,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of chlorin"
+    },
+    {
+      "timestamp": 1765962442082,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of chlorine"
+    },
+    {
+      "timestamp": 1765962442250,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of chlorine "
+    },
+    {
+      "timestamp": 1765962442481,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of chlorine i"
+    },
+    {
+      "timestamp": 1765962442637,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of chlorine in"
+    },
+    {
+      "timestamp": 1765962442815,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of chlorine in "
+    },
+    {
+      "timestamp": 1765962442929,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of chlorine in t"
+    },
+    {
+      "timestamp": 1765962443055,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of chlorine in th"
+    },
+    {
+      "timestamp": 1765962443172,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of chlorine in the"
+    },
+    {
+      "timestamp": 1765962443315,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of chlorine in the "
+    },
+    {
+      "timestamp": 1765962443460,
+      "key": "w",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of chlorine in the w"
+    },
+    {
+      "timestamp": 1765962443622,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of chlorine in the wa"
+    },
+    {
+      "timestamp": 1765962443712,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of chlorine in the wat"
+    },
+    {
+      "timestamp": 1765962443844,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of chlorine in the wate"
+    },
+    {
+      "timestamp": 1765962443984,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "A lot of chlorine in the water"
+    },
+    {
+      "timestamp": 1765962444994,
+      "key": "E",
+      "sentenceIndex": 4,
+      "valueAfter": "E"
+    },
+    {
+      "timestamp": 1765962445100,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "El"
+    },
+    {
+      "timestamp": 1765962445184,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Ele"
+    },
+    {
+      "timestamp": 1765962445541,
+      "key": "p",
+      "sentenceIndex": 4,
+      "valueAfter": "Elep"
+    },
+    {
+      "timestamp": 1765962445804,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "Eleph"
+    },
+    {
+      "timestamp": 1765962445896,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Elepha"
+    },
+    {
+      "timestamp": 1765962446032,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephan"
+    },
+    {
+      "timestamp": 1765962446122,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephant"
+    },
+    {
+      "timestamp": 1765962446295,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephants"
+    },
+    {
+      "timestamp": 1765962446399,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephants "
+    },
+    {
+      "timestamp": 1765962446552,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephants a"
+    },
+    {
+      "timestamp": 1765962446697,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephants ar"
+    },
+    {
+      "timestamp": 1765962446880,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephants are"
+    },
+    {
+      "timestamp": 1765962447047,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephants are "
+    },
+    {
+      "timestamp": 1765962447309,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephants are a"
+    },
+    {
+      "timestamp": 1765962447595,
+      "key": "f",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephants are af"
+    },
+    {
+      "timestamp": 1765962447811,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephants are afa"
+    },
+    {
+      "timestamp": 1765962447982,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephants are afar"
+    },
+    {
+      "timestamp": 1765962448058,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephants are afari"
+    },
+    {
+      "timestamp": 1765962448191,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephants are afarid"
+    },
+    {
+      "timestamp": 1765962448310,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephants are "
+    },
+    {
+      "timestamp": 1765962448320,
+      "key": "afraid ",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephants are afraid "
+    },
+    {
+      "timestamp": 1765962448516,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephants are afraid o"
+    },
+    {
+      "timestamp": 1765962448597,
+      "key": "f",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephants are afraid of"
+    },
+    {
+      "timestamp": 1765962448724,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephants are afraid of "
+    },
+    {
+      "timestamp": 1765962448907,
+      "key": "m",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephants are afraid of m"
+    },
+    {
+      "timestamp": 1765962449042,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephants are afraid of mi"
+    },
+    {
+      "timestamp": 1765962449116,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephants are afraid of mic"
+    },
+    {
+      "timestamp": 1765962449316,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Elephants are afraid of mice"
+    },
+    {
+      "timestamp": 1765962450287,
+      "key": "A",
+      "sentenceIndex": 5,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1765962450344,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "An"
+    },
+    {
+      "timestamp": 1765962450548,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "An "
+    },
+    {
+      "timestamp": 1765962450768,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "An o"
+    },
+    {
+      "timestamp": 1765962450855,
+      "key": "f",
+      "sentenceIndex": 5,
+      "valueAfter": "An of"
+    },
+    {
+      "timestamp": 1765962450993,
+      "key": "f",
+      "sentenceIndex": 5,
+      "valueAfter": "An off"
+    },
+    {
+      "timestamp": 1765962451233,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "An offe"
+    },
+    {
+      "timestamp": 1765962451392,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "An offer"
+    },
+    {
+      "timestamp": 1765962451493,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "An offer "
+    },
+    {
+      "timestamp": 1765962451761,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": "An offer y"
+    },
+    {
+      "timestamp": 1765962451976,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "An offer yo"
+    },
+    {
+      "timestamp": 1765962452133,
+      "key": "u",
+      "sentenceIndex": 5,
+      "valueAfter": "An offer you"
+    },
+    {
+      "timestamp": 1765962452310,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "An offer you "
+    },
+    {
+      "timestamp": 1765962452485,
+      "key": "c",
+      "sentenceIndex": 5,
+      "valueAfter": "An offer you c"
+    },
+    {
+      "timestamp": 1765962452582,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "An offer you ca"
+    },
+    {
+      "timestamp": 1765962452675,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "An offer you can"
+    },
+    {
+      "timestamp": 1765962452815,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "An offer you cann"
+    },
+    {
+      "timestamp": 1765962453022,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "An offer you canno"
+    },
+    {
+      "timestamp": 1765962453132,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "An offer you cannot"
+    },
+    {
+      "timestamp": 1765962453280,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "An offer you cannot "
+    },
+    {
+      "timestamp": 1765962454015,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "An offer you cannot r"
+    },
+    {
+      "timestamp": 1765962454161,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "An offer you cannot re"
+    },
+    {
+      "timestamp": 1765962454338,
+      "key": "f",
+      "sentenceIndex": 5,
+      "valueAfter": "An offer you cannot ref"
+    },
+    {
+      "timestamp": 1765962454461,
+      "key": "u",
+      "sentenceIndex": 5,
+      "valueAfter": "An offer you cannot refu"
+    },
+    {
+      "timestamp": 1765962454746,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "An offer you cannot refus"
+    },
+    {
+      "timestamp": 1765962454953,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "An offer you cannot refuse"
+    },
+    {
+      "timestamp": 1765962456102,
+      "key": "A",
+      "sentenceIndex": 6,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1765962456232,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "A "
+    },
+    {
+      "timestamp": 1765962456508,
+      "key": "p",
+      "sentenceIndex": 6,
+      "valueAfter": "A p"
+    },
+    {
+      "timestamp": 1765962456597,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "A pr"
+    },
+    {
+      "timestamp": 1765962456723,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "A pro"
+    },
+    {
+      "timestamp": 1765962456949,
+      "key": "b",
+      "sentenceIndex": 6,
+      "valueAfter": "A prob"
+    },
+    {
+      "timestamp": 1765962457141,
+      "key": "l",
+      "sentenceIndex": 6,
+      "valueAfter": "A probl"
+    },
+    {
+      "timestamp": 1765962457239,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "A proble"
+    },
+    {
+      "timestamp": 1765962457295,
+      "key": "m",
+      "sentenceIndex": 6,
+      "valueAfter": "A problem"
+    },
+    {
+      "timestamp": 1765962457459,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "A problem "
+    },
+    {
+      "timestamp": 1765962457578,
+      "key": "w",
+      "sentenceIndex": 6,
+      "valueAfter": "A problem w"
+    },
+    {
+      "timestamp": 1765962457663,
+      "key": "i",
+      "sentenceIndex": 6,
+      "valueAfter": "A problem wi"
+    },
+    {
+      "timestamp": 1765962457819,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "A problem wit"
+    },
+    {
+      "timestamp": 1765962457972,
+      "key": "h",
+      "sentenceIndex": 6,
+      "valueAfter": "A problem with"
+    },
+    {
+      "timestamp": 1765962458207,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "A problem with "
+    },
+    {
+      "timestamp": 1765962458310,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "A problem with t"
+    },
+    {
+      "timestamp": 1765962458435,
+      "key": "h",
+      "sentenceIndex": 6,
+      "valueAfter": "A problem with th"
+    },
+    {
+      "timestamp": 1765962458571,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "A problem with the"
+    },
+    {
+      "timestamp": 1765962458686,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "A problem with the "
+    },
+    {
+      "timestamp": 1765962458809,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "A problem with the e"
+    },
+    {
+      "timestamp": 1765962458920,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "A problem with the en"
+    },
+    {
+      "timestamp": 1765962459061,
+      "key": "g",
+      "sentenceIndex": 6,
+      "valueAfter": "A problem with the eng"
+    },
+    {
+      "timestamp": 1765962459168,
+      "key": "i",
+      "sentenceIndex": 6,
+      "valueAfter": "A problem with the engi"
+    },
+    {
+      "timestamp": 1765962459350,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "A problem with the engin"
+    },
+    {
+      "timestamp": 1765962459441,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "A problem with the engine"
+    },
+    {
+      "timestamp": 1765962460434,
+      "key": "Y",
+      "sentenceIndex": 7,
+      "valueAfter": "Y"
+    },
+    {
+      "timestamp": 1765962460623,
+      "key": "o",
+      "sentenceIndex": 7,
+      "valueAfter": "Yo"
+    },
+    {
+      "timestamp": 1765962460779,
+      "key": "u",
+      "sentenceIndex": 7,
+      "valueAfter": "You"
+    },
+    {
+      "timestamp": 1765962460983,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "You "
+    },
+    {
+      "timestamp": 1765962461180,
+      "key": "m",
+      "sentenceIndex": 7,
+      "valueAfter": "You m"
+    },
+    {
+      "timestamp": 1765962461364,
+      "key": "u",
+      "sentenceIndex": 7,
+      "valueAfter": "You mu"
+    },
+    {
+      "timestamp": 1765962461521,
+      "key": "s",
+      "sentenceIndex": 7,
+      "valueAfter": "You mus"
+    },
+    {
+      "timestamp": 1765962461614,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "You must"
+    },
+    {
+      "timestamp": 1765962461847,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "You must "
+    },
+    {
+      "timestamp": 1765962462013,
+      "key": "b",
+      "sentenceIndex": 7,
+      "valueAfter": "You must b"
+    },
+    {
+      "timestamp": 1765962462122,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "You must be"
+    },
+    {
+      "timestamp": 1765962462234,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "You must be "
+    },
+    {
+      "timestamp": 1765962462353,
+      "key": "g",
+      "sentenceIndex": 7,
+      "valueAfter": "You must be g"
+    },
+    {
+      "timestamp": 1765962462536,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "You must be ge"
+    },
+    {
+      "timestamp": 1765962462720,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "You must be get"
+    },
+    {
+      "timestamp": 1765962462869,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "You must be gett"
+    },
+    {
+      "timestamp": 1765962463180,
+      "key": "i",
+      "sentenceIndex": 7,
+      "valueAfter": "You must be getti"
+    },
+    {
+      "timestamp": 1765962463344,
+      "key": "n",
+      "sentenceIndex": 7,
+      "valueAfter": "You must be gettin"
+    },
+    {
+      "timestamp": 1765962463443,
+      "key": "g",
+      "sentenceIndex": 7,
+      "valueAfter": "You must be getting"
+    },
+    {
+      "timestamp": 1765962463578,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "You must be getting "
+    },
+    {
+      "timestamp": 1765962463817,
+      "key": "o",
+      "sentenceIndex": 7,
+      "valueAfter": "You must be getting o"
+    },
+    {
+      "timestamp": 1765962463964,
+      "key": "l",
+      "sentenceIndex": 7,
+      "valueAfter": "You must be getting ol"
+    },
+    {
+      "timestamp": 1765962464066,
+      "key": "d",
+      "sentenceIndex": 7,
+      "valueAfter": "You must be getting old"
+    },
+    {
+      "timestamp": 1765962465065,
+      "key": "P",
+      "sentenceIndex": 8,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1765962465259,
+      "key": "l",
+      "sentenceIndex": 8,
+      "valueAfter": "Pl"
+    },
+    {
+      "timestamp": 1765962465347,
+      "key": "e",
+      "sentenceIndex": 8,
+      "valueAfter": "Ple"
+    },
+    {
+      "timestamp": 1765962465589,
+      "key": "a",
+      "sentenceIndex": 8,
+      "valueAfter": "Plea"
+    },
+    {
+      "timestamp": 1765962465745,
+      "key": "s",
+      "sentenceIndex": 8,
+      "valueAfter": "Pleas"
+    },
+    {
+      "timestamp": 1765962465939,
+      "key": "e",
+      "sentenceIndex": 8,
+      "valueAfter": "Please"
+    },
+    {
+      "timestamp": 1765962466045,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "Please "
+    },
+    {
+      "timestamp": 1765962466336,
+      "key": "p",
+      "sentenceIndex": 8,
+      "valueAfter": "Please p"
+    },
+    {
+      "timestamp": 1765962466469,
+      "key": "r",
+      "sentenceIndex": 8,
+      "valueAfter": "Please pr"
+    },
+    {
+      "timestamp": 1765962466560,
+      "key": "o",
+      "sentenceIndex": 8,
+      "valueAfter": "Please pro"
+    },
+    {
+      "timestamp": 1765962466702,
+      "key": "c",
+      "sentenceIndex": 8,
+      "valueAfter": "Please proc"
+    },
+    {
+      "timestamp": 1765962466826,
+      "key": "i",
+      "sentenceIndex": 8,
+      "valueAfter": "Please proci"
+    },
+    {
+      "timestamp": 1765962466943,
+      "key": "d",
+      "sentenceIndex": 8,
+      "valueAfter": "Please procid"
+    },
+    {
+      "timestamp": 1765962467107,
+      "key": "e",
+      "sentenceIndex": 8,
+      "valueAfter": "Please procide"
+    },
+    {
+      "timestamp": 1765962467202,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 8,
+      "valueAfter": "Please "
+    },
+    {
+      "timestamp": 1765962467220,
+      "key": "provide ",
+      "sentenceIndex": 8,
+      "valueAfter": "Please provide "
+    },
+    {
+      "timestamp": 1765962467442,
+      "key": "y",
+      "sentenceIndex": 8,
+      "valueAfter": "Please provide y"
+    },
+    {
+      "timestamp": 1765962467634,
+      "key": "o",
+      "sentenceIndex": 8,
+      "valueAfter": "Please provide yo"
+    },
+    {
+      "timestamp": 1765962467793,
+      "key": "u",
+      "sentenceIndex": 8,
+      "valueAfter": "Please provide you"
+    },
+    {
+      "timestamp": 1765962467914,
+      "key": "r",
+      "sentenceIndex": 8,
+      "valueAfter": "Please provide your"
+    },
+    {
+      "timestamp": 1765962468024,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "Please provide your "
+    },
+    {
+      "timestamp": 1765962468138,
+      "key": "d",
+      "sentenceIndex": 8,
+      "valueAfter": "Please provide your d"
+    },
+    {
+      "timestamp": 1765962468315,
+      "key": "a",
+      "sentenceIndex": 8,
+      "valueAfter": "Please provide your da"
+    },
+    {
+      "timestamp": 1765962468362,
+      "key": "t",
+      "sentenceIndex": 8,
+      "valueAfter": "Please provide your dat"
+    },
+    {
+      "timestamp": 1765962468523,
+      "key": "e",
+      "sentenceIndex": 8,
+      "valueAfter": "Please provide your date"
+    },
+    {
+      "timestamp": 1765962468580,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "Please provide your date "
+    },
+    {
+      "timestamp": 1765962468814,
+      "key": "o",
+      "sentenceIndex": 8,
+      "valueAfter": "Please provide your date o"
+    },
+    {
+      "timestamp": 1765962468890,
+      "key": "f",
+      "sentenceIndex": 8,
+      "valueAfter": "Please provide your date of"
+    },
+    {
+      "timestamp": 1765962469013,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "Please provide your date of "
+    },
+    {
+      "timestamp": 1765962469178,
+      "key": "b",
+      "sentenceIndex": 8,
+      "valueAfter": "Please provide your date of b"
+    },
+    {
+      "timestamp": 1765962469388,
+      "key": "i",
+      "sentenceIndex": 8,
+      "valueAfter": "Please provide your date of bi"
+    },
+    {
+      "timestamp": 1765962469468,
+      "key": "r",
+      "sentenceIndex": 8,
+      "valueAfter": "Please provide your date of bir"
+    },
+    {
+      "timestamp": 1765962469720,
+      "key": "t",
+      "sentenceIndex": 8,
+      "valueAfter": "Please provide your date of birt"
+    },
+    {
+      "timestamp": 1765962469905,
+      "key": "h",
+      "sentenceIndex": 8,
+      "valueAfter": "Please provide your date of birth"
+    },
+    {
+      "timestamp": 1765962470971,
+      "key": "B",
+      "sentenceIndex": 9,
+      "valueAfter": "B"
+    },
+    {
+      "timestamp": 1765962471173,
+      "key": "u",
+      "sentenceIndex": 9,
+      "valueAfter": "Bu"
+    },
+    {
+      "timestamp": 1765962471266,
+      "key": "c",
+      "sentenceIndex": 9,
+      "valueAfter": "Buc"
+    },
+    {
+      "timestamp": 1765962471414,
+      "key": "k",
+      "sentenceIndex": 9,
+      "valueAfter": "Buck"
+    },
+    {
+      "timestamp": 1765962471609,
+      "key": "l",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckl"
+    },
+    {
+      "timestamp": 1765962471717,
+      "key": "e",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckle"
+    },
+    {
+      "timestamp": 1765962471834,
+      "key": " ",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckle "
+    },
+    {
+      "timestamp": 1765962471907,
+      "key": "f",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckle f"
+    },
+    {
+      "timestamp": 1765962472157,
+      "key": "u",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckle fu"
+    },
+    {
+      "timestamp": 1765962472354,
+      "key": "o",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckle fuo"
+    },
+    {
+      "timestamp": 1765962472723,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckle fu"
+    },
+    {
+      "timestamp": 1765962472871,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckle f"
+    },
+    {
+      "timestamp": 1765962473030,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckle "
+    },
+    {
+      "timestamp": 1765962473247,
+      "key": "u",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckle u"
+    },
+    {
+      "timestamp": 1765962473471,
+      "key": "p",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckle up"
+    },
+    {
+      "timestamp": 1765962473696,
+      "key": " ",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckle up "
+    },
+    {
+      "timestamp": 1765962473811,
+      "key": "f",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckle up f"
+    },
+    {
+      "timestamp": 1765962473917,
+      "key": "o",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckle up fo"
+    },
+    {
+      "timestamp": 1765962474017,
+      "key": "r",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckle up for"
+    },
+    {
+      "timestamp": 1765962474126,
+      "key": " ",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckle up for "
+    },
+    {
+      "timestamp": 1765962474235,
+      "key": "s",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckle up for s"
+    },
+    {
+      "timestamp": 1765962474410,
+      "key": "a",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckle up for sa"
+    },
+    {
+      "timestamp": 1765962474501,
+      "key": "f",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckle up for saf"
+    },
+    {
+      "timestamp": 1765962474640,
+      "key": "e",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckle up for safe"
+    },
+    {
+      "timestamp": 1765962474765,
+      "key": "t",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckle up for safet"
+    },
+    {
+      "timestamp": 1765962474918,
+      "key": "y",
+      "sentenceIndex": 9,
+      "valueAfter": "Buckle up for safety"
+    },
+    {
+      "timestamp": 1765962475959,
+      "key": "U",
+      "sentenceIndex": 10,
+      "valueAfter": "U"
+    },
+    {
+      "timestamp": 1765962476182,
+      "key": "n",
+      "sentenceIndex": 10,
+      "valueAfter": "Un"
+    },
+    {
+      "timestamp": 1765962476381,
+      "key": "i",
+      "sentenceIndex": 10,
+      "valueAfter": "Uni"
+    },
+    {
+      "timestamp": 1765962476603,
+      "key": "v",
+      "sentenceIndex": 10,
+      "valueAfter": "Univ"
+    },
+    {
+      "timestamp": 1765962476727,
+      "key": "e",
+      "sentenceIndex": 10,
+      "valueAfter": "Unive"
+    },
+    {
+      "timestamp": 1765962476896,
+      "key": "r",
+      "sentenceIndex": 10,
+      "valueAfter": "Univer"
+    },
+    {
+      "timestamp": 1765962477096,
+      "key": "s",
+      "sentenceIndex": 10,
+      "valueAfter": "Univers"
+    },
+    {
+      "timestamp": 1765962477350,
+      "key": "a",
+      "sentenceIndex": 10,
+      "valueAfter": "Universa"
+    },
+    {
+      "timestamp": 1765962477453,
+      "key": "l",
+      "sentenceIndex": 10,
+      "valueAfter": "Universal"
+    },
+    {
+      "timestamp": 1765962477610,
+      "key": "l",
+      "sentenceIndex": 10,
+      "valueAfter": "Universall"
+    },
+    {
+      "timestamp": 1765962477812,
+      "key": "y",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally"
+    },
+    {
+      "timestamp": 1765962478013,
+      "key": " ",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally "
+    },
+    {
+      "timestamp": 1765962478235,
+      "key": "u",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally u"
+    },
+    {
+      "timestamp": 1765962478382,
+      "key": "n",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally un"
+    },
+    {
+      "timestamp": 1765962478490,
+      "key": "d",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally und"
+    },
+    {
+      "timestamp": 1765962478694,
+      "key": "e",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally unde"
+    },
+    {
+      "timestamp": 1765962478833,
+      "key": "r",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally under"
+    },
+    {
+      "timestamp": 1765962479033,
+      "key": "s",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally unders"
+    },
+    {
+      "timestamp": 1765962479239,
+      "key": "t",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally underst"
+    },
+    {
+      "timestamp": 1765962479375,
+      "key": "o",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally understo"
+    },
+    {
+      "timestamp": 1765962479566,
+      "key": "o",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally understoo"
+    },
+    {
+      "timestamp": 1765962479671,
+      "key": "d",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally understood"
+    },
+    {
+      "timestamp": 1765962479832,
+      "key": " ",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally understood "
+    },
+    {
+      "timestamp": 1765962479931,
+      "key": "t",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally understood t"
+    },
+    {
+      "timestamp": 1765962480062,
+      "key": "o",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally understood to"
+    },
+    {
+      "timestamp": 1765962480265,
+      "key": " ",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally understood to "
+    },
+    {
+      "timestamp": 1765962480413,
+      "key": "b",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally understood to b"
+    },
+    {
+      "timestamp": 1765962480489,
+      "key": "e",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally understood to be"
+    },
+    {
+      "timestamp": 1765962480623,
+      "key": " ",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally understood to be "
+    },
+    {
+      "timestamp": 1765962480685,
+      "key": "w",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally understood to be w"
+    },
+    {
+      "timestamp": 1765962480843,
+      "key": "r",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally understood to be wr"
+    },
+    {
+      "timestamp": 1765962480929,
+      "key": "o",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally understood to be wro"
+    },
+    {
+      "timestamp": 1765962481094,
+      "key": "n",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally understood to be wron"
+    },
+    {
+      "timestamp": 1765962481170,
+      "key": "g",
+      "sentenceIndex": 10,
+      "valueAfter": "Universally understood to be wrong"
+    },
+    {
+      "timestamp": 1765962482137,
+      "key": "C",
+      "sentenceIndex": 11,
+      "valueAfter": "C"
+    }
+  ]
+}
