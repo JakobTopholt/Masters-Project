@@ -1,0 +1,671 @@
+{
+  "mode": "walking",
+  "timestamp": "2025-12-18T08:55:37.869Z",
+  "duration": 60.009,
+  "wpm": 13,
+  "accuracy": "62.50",
+  "totalCharactersTyped": 104,
+  "correctCharacters": 65,
+  "errors": 61,
+  "sentencesCompleted": 3,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Where did I leave my glasses",
+      "expected": "Where did I leave my glasses"
+    },
+    {
+      "typed": " Victims deserve moreredress",
+      "expected": "Victims deserve more redress"
+    },
+    {
+      "typed": "I am wearing a tir and a jacket",
+      "expected": "I am wearing a tie and a jacket"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766048071568,
+      "key": "W",
+      "sentenceIndex": 0,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1766048071648,
+      "key": "Wh",
+      "sentenceIndex": 0,
+      "valueAfter": "Wh"
+    },
+    {
+      "timestamp": 1766048071770,
+      "key": "Whe",
+      "sentenceIndex": 0,
+      "valueAfter": "Whe"
+    },
+    {
+      "timestamp": 1766048072051,
+      "key": "Wher",
+      "sentenceIndex": 0,
+      "valueAfter": "Wher"
+    },
+    {
+      "timestamp": 1766048073380,
+      "key": "Where",
+      "sentenceIndex": 0,
+      "valueAfter": "Where"
+    },
+    {
+      "timestamp": 1766048073688,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Where "
+    },
+    {
+      "timestamp": 1766048074161,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "Where d"
+    },
+    {
+      "timestamp": 1766048074480,
+      "key": "di",
+      "sentenceIndex": 0,
+      "valueAfter": "Where di"
+    },
+    {
+      "timestamp": 1766048074825,
+      "key": "did",
+      "sentenceIndex": 0,
+      "valueAfter": "Where did"
+    },
+    {
+      "timestamp": 1766048075171,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Where did "
+    },
+    {
+      "timestamp": 1766048076420,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Where did i"
+    },
+    {
+      "timestamp": 1766048077259,
+      "key": "I",
+      "sentenceIndex": 0,
+      "valueAfter": "Where did I"
+    },
+    {
+      "timestamp": 1766048077283,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Where did I "
+    },
+    {
+      "timestamp": 1766048077923,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "Where did I l"
+    },
+    {
+      "timestamp": 1766048079044,
+      "key": "le",
+      "sentenceIndex": 0,
+      "valueAfter": "Where did I le"
+    },
+    {
+      "timestamp": 1766048079278,
+      "key": "lea",
+      "sentenceIndex": 0,
+      "valueAfter": "Where did I lea"
+    },
+    {
+      "timestamp": 1766048079658,
+      "key": "leav",
+      "sentenceIndex": 0,
+      "valueAfter": "Where did I leav"
+    },
+    {
+      "timestamp": 1766048079882,
+      "key": "leave",
+      "sentenceIndex": 0,
+      "valueAfter": "Where did I leave"
+    },
+    {
+      "timestamp": 1766048080092,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Where did I leave "
+    },
+    {
+      "timestamp": 1766048081185,
+      "key": "m",
+      "sentenceIndex": 0,
+      "valueAfter": "Where did I leave m"
+    },
+    {
+      "timestamp": 1766048081500,
+      "key": "my",
+      "sentenceIndex": 0,
+      "valueAfter": "Where did I leave my"
+    },
+    {
+      "timestamp": 1766048081743,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Where did I leave my "
+    },
+    {
+      "timestamp": 1766048082759,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "Where did I leave my g"
+    },
+    {
+      "timestamp": 1766048083073,
+      "key": "gl",
+      "sentenceIndex": 0,
+      "valueAfter": "Where did I leave my gl"
+    },
+    {
+      "timestamp": 1766048083271,
+      "key": "gla",
+      "sentenceIndex": 0,
+      "valueAfter": "Where did I leave my gla"
+    },
+    {
+      "timestamp": 1766048083507,
+      "key": "glas",
+      "sentenceIndex": 0,
+      "valueAfter": "Where did I leave my glas"
+    },
+    {
+      "timestamp": 1766048083624,
+      "key": "glass",
+      "sentenceIndex": 0,
+      "valueAfter": "Where did I leave my glass"
+    },
+    {
+      "timestamp": 1766048084151,
+      "key": "glasses",
+      "sentenceIndex": 0,
+      "valueAfter": "Where did I leave my glasses"
+    },
+    {
+      "timestamp": 1766048084180,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766048086496,
+      "key": "V",
+      "sentenceIndex": 1,
+      "valueAfter": " V"
+    },
+    {
+      "timestamp": 1766048086775,
+      "key": "Vi",
+      "sentenceIndex": 1,
+      "valueAfter": " Vi"
+    },
+    {
+      "timestamp": 1766048087421,
+      "key": "Vic",
+      "sentenceIndex": 1,
+      "valueAfter": " Vic"
+    },
+    {
+      "timestamp": 1766048087757,
+      "key": "Vict",
+      "sentenceIndex": 1,
+      "valueAfter": " Vict"
+    },
+    {
+      "timestamp": 1766048088004,
+      "key": "Victi",
+      "sentenceIndex": 1,
+      "valueAfter": " Victi"
+    },
+    {
+      "timestamp": 1766048088918,
+      "key": "Victim",
+      "sentenceIndex": 1,
+      "valueAfter": " Victim"
+    },
+    {
+      "timestamp": 1766048089264,
+      "key": "Victims",
+      "sentenceIndex": 1,
+      "valueAfter": " Victims"
+    },
+    {
+      "timestamp": 1766048089427,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " Victims "
+    },
+    {
+      "timestamp": 1766048090504,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": " Victims d"
+    },
+    {
+      "timestamp": 1766048090704,
+      "key": "de",
+      "sentenceIndex": 1,
+      "valueAfter": " Victims de"
+    },
+    {
+      "timestamp": 1766048090927,
+      "key": "des",
+      "sentenceIndex": 1,
+      "valueAfter": " Victims des"
+    },
+    {
+      "timestamp": 1766048091206,
+      "key": "dese",
+      "sentenceIndex": 1,
+      "valueAfter": " Victims dese"
+    },
+    {
+      "timestamp": 1766048091443,
+      "key": "deser",
+      "sentenceIndex": 1,
+      "valueAfter": " Victims deser"
+    },
+    {
+      "timestamp": 1766048091917,
+      "key": "deserv",
+      "sentenceIndex": 1,
+      "valueAfter": " Victims deserv"
+    },
+    {
+      "timestamp": 1766048093344,
+      "key": "deserve",
+      "sentenceIndex": 1,
+      "valueAfter": " Victims deserve"
+    },
+    {
+      "timestamp": 1766048096797,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " Victims deserve "
+    },
+    {
+      "timestamp": 1766048097168,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": " Victims deserve m"
+    },
+    {
+      "timestamp": 1766048097625,
+      "key": "mo",
+      "sentenceIndex": 1,
+      "valueAfter": " Victims deserve mo"
+    },
+    {
+      "timestamp": 1766048098061,
+      "key": "mor",
+      "sentenceIndex": 1,
+      "valueAfter": " Victims deserve mor"
+    },
+    {
+      "timestamp": 1766048098244,
+      "key": "more",
+      "sentenceIndex": 1,
+      "valueAfter": " Victims deserve more"
+    },
+    {
+      "timestamp": 1766048100339,
+      "key": "morer",
+      "sentenceIndex": 1,
+      "valueAfter": " Victims deserve morer"
+    },
+    {
+      "timestamp": 1766048100533,
+      "key": "morere",
+      "sentenceIndex": 1,
+      "valueAfter": " Victims deserve morere"
+    },
+    {
+      "timestamp": 1766048102061,
+      "key": "morered",
+      "sentenceIndex": 1,
+      "valueAfter": " Victims deserve morered"
+    },
+    {
+      "timestamp": 1766048102279,
+      "key": "moreredr",
+      "sentenceIndex": 1,
+      "valueAfter": " Victims deserve moreredr"
+    },
+    {
+      "timestamp": 1766048102486,
+      "key": "moreredre",
+      "sentenceIndex": 1,
+      "valueAfter": " Victims deserve moreredre"
+    },
+    {
+      "timestamp": 1766048103849,
+      "key": "moreredres",
+      "sentenceIndex": 1,
+      "valueAfter": " Victims deserve moreredres"
+    },
+    {
+      "timestamp": 1766048103990,
+      "key": "moreredress",
+      "sentenceIndex": 1,
+      "valueAfter": " Victims deserve moreredress"
+    },
+    {
+      "timestamp": 1766048104387,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766048105809,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766048106953,
+      "key": "I",
+      "sentenceIndex": 2,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1766048107462,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "I "
+    },
+    {
+      "timestamp": 1766048107719,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "I a"
+    },
+    {
+      "timestamp": 1766048108747,
+      "key": "am",
+      "sentenceIndex": 2,
+      "valueAfter": "I am"
+    },
+    {
+      "timestamp": 1766048111482,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "I am "
+    },
+    {
+      "timestamp": 1766048111852,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "I am w"
+    },
+    {
+      "timestamp": 1766048112131,
+      "key": "we",
+      "sentenceIndex": 2,
+      "valueAfter": "I am we"
+    },
+    {
+      "timestamp": 1766048112444,
+      "key": "wea",
+      "sentenceIndex": 2,
+      "valueAfter": "I am wea"
+    },
+    {
+      "timestamp": 1766048112778,
+      "key": "wear",
+      "sentenceIndex": 2,
+      "valueAfter": "I am wear"
+    },
+    {
+      "timestamp": 1766048113796,
+      "key": "weari",
+      "sentenceIndex": 2,
+      "valueAfter": "I am weari"
+    },
+    {
+      "timestamp": 1766048114046,
+      "key": "wearin",
+      "sentenceIndex": 2,
+      "valueAfter": "I am wearin"
+    },
+    {
+      "timestamp": 1766048114576,
+      "key": "wearing",
+      "sentenceIndex": 2,
+      "valueAfter": "I am wearing"
+    },
+    {
+      "timestamp": 1766048114814,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "I am wearing "
+    },
+    {
+      "timestamp": 1766048115625,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "I am wearing a"
+    },
+    {
+      "timestamp": 1766048115766,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "I am wearing a "
+    },
+    {
+      "timestamp": 1766048116045,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "I am wearing a t"
+    },
+    {
+      "timestamp": 1766048116351,
+      "key": "ti",
+      "sentenceIndex": 2,
+      "valueAfter": "I am wearing a ti"
+    },
+    {
+      "timestamp": 1766048116648,
+      "key": "tir",
+      "sentenceIndex": 2,
+      "valueAfter": "I am wearing a tir"
+    },
+    {
+      "timestamp": 1766048116901,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "I am wearing a tir "
+    },
+    {
+      "timestamp": 1766048118004,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "I am wearing a tir a"
+    },
+    {
+      "timestamp": 1766048118256,
+      "key": "an",
+      "sentenceIndex": 2,
+      "valueAfter": "I am wearing a tir an"
+    },
+    {
+      "timestamp": 1766048118512,
+      "key": "and",
+      "sentenceIndex": 2,
+      "valueAfter": "I am wearing a tir and"
+    },
+    {
+      "timestamp": 1766048118631,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "I am wearing a tir and "
+    },
+    {
+      "timestamp": 1766048118765,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "I am wearing a tir and a"
+    },
+    {
+      "timestamp": 1766048118959,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "I am wearing a tir and a "
+    },
+    {
+      "timestamp": 1766048119413,
+      "key": "j",
+      "sentenceIndex": 2,
+      "valueAfter": "I am wearing a tir and a j"
+    },
+    {
+      "timestamp": 1766048119561,
+      "key": "ja",
+      "sentenceIndex": 2,
+      "valueAfter": "I am wearing a tir and a ja"
+    },
+    {
+      "timestamp": 1766048120819,
+      "key": "jacket",
+      "sentenceIndex": 2,
+      "valueAfter": "I am wearing a tir and a jacket"
+    },
+    {
+      "timestamp": 1766048120860,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766048122873,
+      "key": "A",
+      "sentenceIndex": 3,
+      "valueAfter": " A"
+    },
+    {
+      "timestamp": 1766048124445,
+      "key": "Ap",
+      "sentenceIndex": 3,
+      "valueAfter": " Ap"
+    },
+    {
+      "timestamp": 1766048125103,
+      "key": "A",
+      "sentenceIndex": 3,
+      "valueAfter": " A"
+    },
+    {
+      "timestamp": 1766048125449,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " A "
+    },
+    {
+      "timestamp": 1766048125735,
+      "key": "p",
+      "sentenceIndex": 3,
+      "valueAfter": " A p"
+    },
+    {
+      "timestamp": 1766048126011,
+      "key": "pi",
+      "sentenceIndex": 3,
+      "valueAfter": " A pi"
+    },
+    {
+      "timestamp": 1766048126447,
+      "key": "pic",
+      "sentenceIndex": 3,
+      "valueAfter": " A pic"
+    },
+    {
+      "timestamp": 1766048126833,
+      "key": "pict",
+      "sentenceIndex": 3,
+      "valueAfter": " A pict"
+    },
+    {
+      "timestamp": 1766048127109,
+      "key": "pictu",
+      "sentenceIndex": 3,
+      "valueAfter": " A pictu"
+    },
+    {
+      "timestamp": 1766048128178,
+      "key": "pictur",
+      "sentenceIndex": 3,
+      "valueAfter": " A pictur"
+    },
+    {
+      "timestamp": 1766048128344,
+      "key": "picture",
+      "sentenceIndex": 3,
+      "valueAfter": " A picture"
+    },
+    {
+      "timestamp": 1766048128620,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " A picture "
+    },
+    {
+      "timestamp": 1766048128873,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": " A picture i"
+    },
+    {
+      "timestamp": 1766048129112,
+      "key": "is",
+      "sentenceIndex": 3,
+      "valueAfter": " A picture is"
+    },
+    {
+      "timestamp": 1766048129300,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " A picture is "
+    },
+    {
+      "timestamp": 1766048130034,
+      "key": "w",
+      "sentenceIndex": 3,
+      "valueAfter": " A picture is w"
+    },
+    {
+      "timestamp": 1766048130261,
+      "key": "wo",
+      "sentenceIndex": 3,
+      "valueAfter": " A picture is wo"
+    },
+    {
+      "timestamp": 1766048130552,
+      "key": "wor",
+      "sentenceIndex": 3,
+      "valueAfter": " A picture is wor"
+    },
+    {
+      "timestamp": 1766048130756,
+      "key": "wort",
+      "sentenceIndex": 3,
+      "valueAfter": " A picture is wort"
+    },
+    {
+      "timestamp": 1766048130977,
+      "key": "worth",
+      "sentenceIndex": 3,
+      "valueAfter": " A picture is worth"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "mode": "stationary",
+  "timestamp": "2025-12-19T12:56:42.172Z",
+  "duration": 60.002,
+  "wpm": 37,
+  "accuracy": "447.37",
+  "totalCharactersTyped": 38,
+  "correctCharacters": 170,
+  "errors": 12,
+  "sentencesCompleted": 6,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "You are not a Jedi yet",
+      "expected": "You are not a jedi yet"
+    },
+    {
+      "typed": "Obligations must be met first",
+      "expected": "Obligations must be met first"
+    },
+    {
+      "typed": "A good stimulus deserves a good response",
+      "expected": "A good stimulus deserves a good response"
+    },
+    {
+      "typed": "The most beautiful sunset",
+      "expected": "The most beautiful sunset"
+    },
+    {
+      "typed": "Back transaction was not registered",
+      "expected": "Bank transaction was not registered"
+    },
+    {
+      "typed": "Relations are very stained ",
+      "expected": "Relations are very strained"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766148939569,
+      "key": "You",
+      "sentenceIndex": 0,
+      "valueAfter": "You"
+    },
+    {
+      "timestamp": 1766148940335,
+      "key": " are",
+      "sentenceIndex": 0,
+      "valueAfter": "You are"
+    },
+    {
+      "timestamp": 1766148940890,
+      "key": " not",
+      "sentenceIndex": 0,
+      "valueAfter": "You are not"
+    },
+    {
+      "timestamp": 1766148941436,
+      "key": " a",
+      "sentenceIndex": 0,
+      "valueAfter": "You are not a"
+    },
+    {
+      "timestamp": 1766148942379,
+      "key": " Jedi",
+      "sentenceIndex": 0,
+      "valueAfter": "You are not a Jedi"
+    },
+    {
+      "timestamp": 1766148943735,
+      "key": " yet",
+      "sentenceIndex": 0,
+      "valueAfter": "You are not a Jedi yet"
+    },
+    {
+      "timestamp": 1766148947168,
+      "key": "Obligatory",
+      "sentenceIndex": 1,
+      "valueAfter": "Obligatory"
+    },
+    {
+      "timestamp": 1766148948890,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766148951595,
+      "key": "Obligations",
+      "sentenceIndex": 1,
+      "valueAfter": "Obligations"
+    },
+    {
+      "timestamp": 1766148953216,
+      "key": " most",
+      "sentenceIndex": 1,
+      "valueAfter": "Obligations most"
+    },
+    {
+      "timestamp": 1766148954553,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Obligations "
+    },
+    {
+      "timestamp": 1766148955223,
+      "key": "must",
+      "sentenceIndex": 1,
+      "valueAfter": "Obligations must"
+    },
+    {
+      "timestamp": 1766148955925,
+      "key": " be",
+      "sentenceIndex": 1,
+      "valueAfter": "Obligations must be"
+    },
+    {
+      "timestamp": 1766148956537,
+      "key": " met",
+      "sentenceIndex": 1,
+      "valueAfter": "Obligations must be met"
+    },
+    {
+      "timestamp": 1766148957702,
+      "key": " first",
+      "sentenceIndex": 1,
+      "valueAfter": "Obligations must be met first"
+    },
+    {
+      "timestamp": 1766148958548,
+      "key": "A",
+      "sentenceIndex": 2,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1766148959527,
+      "key": " good",
+      "sentenceIndex": 2,
+      "valueAfter": "A good"
+    },
+    {
+      "timestamp": 1766148961839,
+      "key": " stimulus",
+      "sentenceIndex": 2,
+      "valueAfter": "A good stimulus"
+    },
+    {
+      "timestamp": 1766148964363,
+      "key": " deserves",
+      "sentenceIndex": 2,
+      "valueAfter": "A good stimulus deserves"
+    },
+    {
+      "timestamp": 1766148965641,
+      "key": " a",
+      "sentenceIndex": 2,
+      "valueAfter": "A good stimulus deserves a"
+    },
+    {
+      "timestamp": 1766148966337,
+      "key": " good",
+      "sentenceIndex": 2,
+      "valueAfter": "A good stimulus deserves a good"
+    },
+    {
+      "timestamp": 1766148968222,
+      "key": " response",
+      "sentenceIndex": 2,
+      "valueAfter": "A good stimulus deserves a good response"
+    },
+    {
+      "timestamp": 1766148969472,
+      "key": "The",
+      "sentenceIndex": 3,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766148970110,
+      "key": " most",
+      "sentenceIndex": 3,
+      "valueAfter": "The most"
+    },
+    {
+      "timestamp": 1766148972322,
+      "key": " beautiful",
+      "sentenceIndex": 3,
+      "valueAfter": "The most beautiful"
+    },
+    {
+      "timestamp": 1766148974029,
+      "key": " sunset",
+      "sentenceIndex": 3,
+      "valueAfter": "The most beautiful sunset"
+    },
+    {
+      "timestamp": 1766148976034,
+      "key": "Back",
+      "sentenceIndex": 4,
+      "valueAfter": "Back"
+    },
+    {
+      "timestamp": 1766148978733,
+      "key": " transaction",
+      "sentenceIndex": 4,
+      "valueAfter": "Back transaction"
+    },
+    {
+      "timestamp": 1766148980217,
+      "key": " was",
+      "sentenceIndex": 4,
+      "valueAfter": "Back transaction was"
+    },
+    {
+      "timestamp": 1766148980718,
+      "key": " not",
+      "sentenceIndex": 4,
+      "valueAfter": "Back transaction was not"
+    },
+    {
+      "timestamp": 1766148982828,
+      "key": " registered",
+      "sentenceIndex": 4,
+      "valueAfter": "Back transaction was not registered"
+    },
+    {
+      "timestamp": 1766148985754,
+      "key": "Tekstens",
+      "sentenceIndex": 5,
+      "valueAfter": "Tekstens"
+    },
+    {
+      "timestamp": 1766148986762,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766148989427,
+      "key": "Relations",
+      "sentenceIndex": 5,
+      "valueAfter": "Relations"
+    },
+    {
+      "timestamp": 1766148990341,
+      "key": " are",
+      "sentenceIndex": 5,
+      "valueAfter": "Relations are"
+    },
+    {
+      "timestamp": 1766148991342,
+      "key": " very",
+      "sentenceIndex": 5,
+      "valueAfter": "Relations are very"
+    },
+    {
+      "timestamp": 1766148993688,
+      "key": " stained",
+      "sentenceIndex": 5,
+      "valueAfter": "Relations are very stained"
+    },
+    {
+      "timestamp": 1766148995594,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Relations are very stained "
+    },
+    {
+      "timestamp": 1766148997107,
+      "key": "It",
+      "sentenceIndex": 6,
+      "valueAfter": "It"
+    },
+    {
+      "timestamp": 1766148998352,
+      "key": " should",
+      "sentenceIndex": 6,
+      "valueAfter": "It should"
+    },
+    {
+      "timestamp": 1766148998852,
+      "key": " be",
+      "sentenceIndex": 6,
+      "valueAfter": "It should be"
+    }
+  ]
+}

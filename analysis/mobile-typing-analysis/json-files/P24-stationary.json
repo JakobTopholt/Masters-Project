@@ -1,0 +1,1789 @@
+{
+  "mode": "stationary",
+  "timestamp": "2025-12-18T13:21:53.632Z",
+  "duration": 60.003,
+  "wpm": 41,
+  "accuracy": "76.49",
+  "totalCharactersTyped": 268,
+  "correctCharacters": 205,
+  "errors": 86,
+  "sentencesCompleted": 8,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "He called seven times",
+      "expected": "He called seven times"
+    },
+    {
+      "typed": " The biggest harmguer i have ever seen",
+      "expected": "The biggest hamburger I have ever seen"
+    },
+    {
+      "typed": "The fire blazed all weekend",
+      "expected": "The fire blazed all weekend"
+    },
+    {
+      "typed": "The algorithm is too complicated",
+      "expected": "The algorithm is too complicated"
+    },
+    {
+      "typed": "Interactions between men and women",
+      "expected": "Interactions between men and women"
+    },
+    {
+      "typed": "That lands is owned by the govermnme",
+      "expected": "That land is owned by the government"
+    },
+    {
+      "typed": "Please keep this confidential",
+      "expected": "Please keep this confidential"
+    },
+    {
+      "typed": "Vote according to your conscience",
+      "expected": "Vote according to your conscience"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766064049403,
+      "key": "H",
+      "sentenceIndex": 0,
+      "valueAfter": "H"
+    },
+    {
+      "timestamp": 1766064049469,
+      "key": "He",
+      "sentenceIndex": 0,
+      "valueAfter": "He"
+    },
+    {
+      "timestamp": 1766064049584,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "He "
+    },
+    {
+      "timestamp": 1766064049684,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "He c"
+    },
+    {
+      "timestamp": 1766064049869,
+      "key": "ca",
+      "sentenceIndex": 0,
+      "valueAfter": "He ca"
+    },
+    {
+      "timestamp": 1766064049911,
+      "key": "cal",
+      "sentenceIndex": 0,
+      "valueAfter": "He cal"
+    },
+    {
+      "timestamp": 1766064050067,
+      "key": "call",
+      "sentenceIndex": 0,
+      "valueAfter": "He call"
+    },
+    {
+      "timestamp": 1766064050179,
+      "key": "calle",
+      "sentenceIndex": 0,
+      "valueAfter": "He calle"
+    },
+    {
+      "timestamp": 1766064050309,
+      "key": "called",
+      "sentenceIndex": 0,
+      "valueAfter": "He called"
+    },
+    {
+      "timestamp": 1766064050444,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "He called "
+    },
+    {
+      "timestamp": 1766064050918,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "He called s"
+    },
+    {
+      "timestamp": 1766064051062,
+      "key": "se",
+      "sentenceIndex": 0,
+      "valueAfter": "He called se"
+    },
+    {
+      "timestamp": 1766064051185,
+      "key": "sev",
+      "sentenceIndex": 0,
+      "valueAfter": "He called sev"
+    },
+    {
+      "timestamp": 1766064051279,
+      "key": "seve",
+      "sentenceIndex": 0,
+      "valueAfter": "He called seve"
+    },
+    {
+      "timestamp": 1766064051380,
+      "key": "seven",
+      "sentenceIndex": 0,
+      "valueAfter": "He called seven"
+    },
+    {
+      "timestamp": 1766064051548,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "He called seven "
+    },
+    {
+      "timestamp": 1766064051645,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "He called seven t"
+    },
+    {
+      "timestamp": 1766064051779,
+      "key": "ti",
+      "sentenceIndex": 0,
+      "valueAfter": "He called seven ti"
+    },
+    {
+      "timestamp": 1766064051917,
+      "key": "tim",
+      "sentenceIndex": 0,
+      "valueAfter": "He called seven tim"
+    },
+    {
+      "timestamp": 1766064051984,
+      "key": "time",
+      "sentenceIndex": 0,
+      "valueAfter": "He called seven time"
+    },
+    {
+      "timestamp": 1766064052142,
+      "key": "times",
+      "sentenceIndex": 0,
+      "valueAfter": "He called seven times"
+    },
+    {
+      "timestamp": 1766064052228,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766064053105,
+      "key": "T",
+      "sentenceIndex": 1,
+      "valueAfter": " T"
+    },
+    {
+      "timestamp": 1766064053183,
+      "key": "Th",
+      "sentenceIndex": 1,
+      "valueAfter": " Th"
+    },
+    {
+      "timestamp": 1766064053259,
+      "key": "The",
+      "sentenceIndex": 1,
+      "valueAfter": " The"
+    },
+    {
+      "timestamp": 1766064053383,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " The "
+    },
+    {
+      "timestamp": 1766064053907,
+      "key": "b",
+      "sentenceIndex": 1,
+      "valueAfter": " The b"
+    },
+    {
+      "timestamp": 1766064054091,
+      "key": "bi",
+      "sentenceIndex": 1,
+      "valueAfter": " The bi"
+    },
+    {
+      "timestamp": 1766064054246,
+      "key": "big",
+      "sentenceIndex": 1,
+      "valueAfter": " The big"
+    },
+    {
+      "timestamp": 1766064054367,
+      "key": "bigg",
+      "sentenceIndex": 1,
+      "valueAfter": " The bigg"
+    },
+    {
+      "timestamp": 1766064054475,
+      "key": "bigge",
+      "sentenceIndex": 1,
+      "valueAfter": " The bigge"
+    },
+    {
+      "timestamp": 1766064054621,
+      "key": "bigges",
+      "sentenceIndex": 1,
+      "valueAfter": " The bigges"
+    },
+    {
+      "timestamp": 1766064054770,
+      "key": "biggest",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest"
+    },
+    {
+      "timestamp": 1766064054883,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest "
+    },
+    {
+      "timestamp": 1766064055283,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest h"
+    },
+    {
+      "timestamp": 1766064055356,
+      "key": "ha",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest ha"
+    },
+    {
+      "timestamp": 1766064055512,
+      "key": "har",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest har"
+    },
+    {
+      "timestamp": 1766064055650,
+      "key": "harm",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harm"
+    },
+    {
+      "timestamp": 1766064056228,
+      "key": "harmg",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harmg"
+    },
+    {
+      "timestamp": 1766064056854,
+      "key": "harmgu",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harmgu"
+    },
+    {
+      "timestamp": 1766064056948,
+      "key": "harmgue",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harmgue"
+    },
+    {
+      "timestamp": 1766064057105,
+      "key": "harmguer",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harmguer"
+    },
+    {
+      "timestamp": 1766064057767,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harmguer "
+    },
+    {
+      "timestamp": 1766064057979,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harmguer i"
+    },
+    {
+      "timestamp": 1766064058218,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harmguer i "
+    },
+    {
+      "timestamp": 1766064058574,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harmguer i h"
+    },
+    {
+      "timestamp": 1766064058631,
+      "key": "ha",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harmguer i ha"
+    },
+    {
+      "timestamp": 1766064058723,
+      "key": "hav",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harmguer i hav"
+    },
+    {
+      "timestamp": 1766064058813,
+      "key": "have",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harmguer i have"
+    },
+    {
+      "timestamp": 1766064058891,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harmguer i have "
+    },
+    {
+      "timestamp": 1766064059237,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harmguer i have e"
+    },
+    {
+      "timestamp": 1766064059373,
+      "key": "ev",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harmguer i have ev"
+    },
+    {
+      "timestamp": 1766064059445,
+      "key": "eve",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harmguer i have eve"
+    },
+    {
+      "timestamp": 1766064059591,
+      "key": "ever",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harmguer i have ever"
+    },
+    {
+      "timestamp": 1766064059683,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harmguer i have ever "
+    },
+    {
+      "timestamp": 1766064059772,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harmguer i have ever s"
+    },
+    {
+      "timestamp": 1766064059926,
+      "key": "se",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harmguer i have ever se"
+    },
+    {
+      "timestamp": 1766064060044,
+      "key": "see",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harmguer i have ever see"
+    },
+    {
+      "timestamp": 1766064060154,
+      "key": "seen",
+      "sentenceIndex": 1,
+      "valueAfter": " The biggest harmguer i have ever seen"
+    },
+    {
+      "timestamp": 1766064060950,
+      "key": "T",
+      "sentenceIndex": 2,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766064061045,
+      "key": "Th",
+      "sentenceIndex": 2,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766064061113,
+      "key": "The",
+      "sentenceIndex": 2,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766064061218,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766064061766,
+      "key": "f",
+      "sentenceIndex": 2,
+      "valueAfter": "The f"
+    },
+    {
+      "timestamp": 1766064061845,
+      "key": "fi",
+      "sentenceIndex": 2,
+      "valueAfter": "The fi"
+    },
+    {
+      "timestamp": 1766064061920,
+      "key": "fir",
+      "sentenceIndex": 2,
+      "valueAfter": "The fir"
+    },
+    {
+      "timestamp": 1766064062074,
+      "key": "fire",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire"
+    },
+    {
+      "timestamp": 1766064062202,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire "
+    },
+    {
+      "timestamp": 1766064062507,
+      "key": "v",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire v"
+    },
+    {
+      "timestamp": 1766064062621,
+      "key": "vl",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire vl"
+    },
+    {
+      "timestamp": 1766064062814,
+      "key": "v",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire v"
+    },
+    {
+      "timestamp": 1766064062948,
+      "key": "insertCompositionText",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire "
+    },
+    {
+      "timestamp": 1766064063226,
+      "key": "b",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire b"
+    },
+    {
+      "timestamp": 1766064063421,
+      "key": "bl",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire bl"
+    },
+    {
+      "timestamp": 1766064063469,
+      "key": "bla",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire bla"
+    },
+    {
+      "timestamp": 1766064063644,
+      "key": "blaz",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire blaz"
+    },
+    {
+      "timestamp": 1766064063832,
+      "key": "blaze",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire blaze"
+    },
+    {
+      "timestamp": 1766064063993,
+      "key": "blazed",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire blazed"
+    },
+    {
+      "timestamp": 1766064064110,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire blazed "
+    },
+    {
+      "timestamp": 1766064064259,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire blazed a"
+    },
+    {
+      "timestamp": 1766064064368,
+      "key": "al",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire blazed al"
+    },
+    {
+      "timestamp": 1766064064515,
+      "key": "all",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire blazed all"
+    },
+    {
+      "timestamp": 1766064064696,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire blazed all "
+    },
+    {
+      "timestamp": 1766064064868,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire blazed all w"
+    },
+    {
+      "timestamp": 1766064065002,
+      "key": "we",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire blazed all we"
+    },
+    {
+      "timestamp": 1766064065141,
+      "key": "wee",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire blazed all wee"
+    },
+    {
+      "timestamp": 1766064065254,
+      "key": "week",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire blazed all week"
+    },
+    {
+      "timestamp": 1766064065307,
+      "key": "weeke",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire blazed all weeke"
+    },
+    {
+      "timestamp": 1766064065417,
+      "key": "weeken",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire blazed all weeken"
+    },
+    {
+      "timestamp": 1766064065476,
+      "key": "weekend",
+      "sentenceIndex": 2,
+      "valueAfter": "The fire blazed all weekend"
+    },
+    {
+      "timestamp": 1766064065602,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766064066433,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766064066661,
+      "key": "T",
+      "sentenceIndex": 3,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766064066791,
+      "key": "Th",
+      "sentenceIndex": 3,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766064066886,
+      "key": "The",
+      "sentenceIndex": 3,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766064067025,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766064067593,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "The a"
+    },
+    {
+      "timestamp": 1766064067658,
+      "key": "al",
+      "sentenceIndex": 3,
+      "valueAfter": "The al"
+    },
+    {
+      "timestamp": 1766064068520,
+      "key": "alg",
+      "sentenceIndex": 3,
+      "valueAfter": "The alg"
+    },
+    {
+      "timestamp": 1766064068732,
+      "key": "algo",
+      "sentenceIndex": 3,
+      "valueAfter": "The algo"
+    },
+    {
+      "timestamp": 1766064069127,
+      "key": "algor",
+      "sentenceIndex": 3,
+      "valueAfter": "The algor"
+    },
+    {
+      "timestamp": 1766064069223,
+      "key": "algoro",
+      "sentenceIndex": 3,
+      "valueAfter": "The algoro"
+    },
+    {
+      "timestamp": 1766064069499,
+      "key": "algorot",
+      "sentenceIndex": 3,
+      "valueAfter": "The algorot"
+    },
+    {
+      "timestamp": 1766064070014,
+      "key": "algorithm",
+      "sentenceIndex": 3,
+      "valueAfter": "The algorithm"
+    },
+    {
+      "timestamp": 1766064070019,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The algorithm "
+    },
+    {
+      "timestamp": 1766064070624,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "The algorithm i"
+    },
+    {
+      "timestamp": 1766064070663,
+      "key": "is",
+      "sentenceIndex": 3,
+      "valueAfter": "The algorithm is"
+    },
+    {
+      "timestamp": 1766064070838,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The algorithm is "
+    },
+    {
+      "timestamp": 1766064070963,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "The algorithm is t"
+    },
+    {
+      "timestamp": 1766064071071,
+      "key": "to",
+      "sentenceIndex": 3,
+      "valueAfter": "The algorithm is to"
+    },
+    {
+      "timestamp": 1766064071198,
+      "key": "too",
+      "sentenceIndex": 3,
+      "valueAfter": "The algorithm is too"
+    },
+    {
+      "timestamp": 1766064071894,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The algorithm is too "
+    },
+    {
+      "timestamp": 1766064072350,
+      "key": "c",
+      "sentenceIndex": 3,
+      "valueAfter": "The algorithm is too c"
+    },
+    {
+      "timestamp": 1766064072470,
+      "key": "co",
+      "sentenceIndex": 3,
+      "valueAfter": "The algorithm is too co"
+    },
+    {
+      "timestamp": 1766064072600,
+      "key": "com",
+      "sentenceIndex": 3,
+      "valueAfter": "The algorithm is too com"
+    },
+    {
+      "timestamp": 1766064072792,
+      "key": "comp",
+      "sentenceIndex": 3,
+      "valueAfter": "The algorithm is too comp"
+    },
+    {
+      "timestamp": 1766064072922,
+      "key": "compl",
+      "sentenceIndex": 3,
+      "valueAfter": "The algorithm is too compl"
+    },
+    {
+      "timestamp": 1766064073075,
+      "key": "compli",
+      "sentenceIndex": 3,
+      "valueAfter": "The algorithm is too compli"
+    },
+    {
+      "timestamp": 1766064073129,
+      "key": "complic",
+      "sentenceIndex": 3,
+      "valueAfter": "The algorithm is too complic"
+    },
+    {
+      "timestamp": 1766064073314,
+      "key": "complica",
+      "sentenceIndex": 3,
+      "valueAfter": "The algorithm is too complica"
+    },
+    {
+      "timestamp": 1766064073397,
+      "key": "complicat",
+      "sentenceIndex": 3,
+      "valueAfter": "The algorithm is too complicat"
+    },
+    {
+      "timestamp": 1766064073514,
+      "key": "complicate",
+      "sentenceIndex": 3,
+      "valueAfter": "The algorithm is too complicate"
+    },
+    {
+      "timestamp": 1766064073670,
+      "key": "complicated",
+      "sentenceIndex": 3,
+      "valueAfter": "The algorithm is too complicated"
+    },
+    {
+      "timestamp": 1766064073679,
+      "key": "complicated",
+      "sentenceIndex": 4,
+      "valueAfter": "complicated"
+    },
+    {
+      "timestamp": 1766064073806,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766064074529,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766064075259,
+      "key": "I",
+      "sentenceIndex": 4,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1766064075452,
+      "key": "In",
+      "sentenceIndex": 4,
+      "valueAfter": "In"
+    },
+    {
+      "timestamp": 1766064075546,
+      "key": "Int",
+      "sentenceIndex": 4,
+      "valueAfter": "Int"
+    },
+    {
+      "timestamp": 1766064075705,
+      "key": "Inte",
+      "sentenceIndex": 4,
+      "valueAfter": "Inte"
+    },
+    {
+      "timestamp": 1766064075849,
+      "key": "Inter",
+      "sentenceIndex": 4,
+      "valueAfter": "Inter"
+    },
+    {
+      "timestamp": 1766064076152,
+      "key": "Intera",
+      "sentenceIndex": 4,
+      "valueAfter": "Intera"
+    },
+    {
+      "timestamp": 1766064076286,
+      "key": "Interac",
+      "sentenceIndex": 4,
+      "valueAfter": "Interac"
+    },
+    {
+      "timestamp": 1766064076431,
+      "key": "Interact",
+      "sentenceIndex": 4,
+      "valueAfter": "Interact"
+    },
+    {
+      "timestamp": 1766064076605,
+      "key": "Interacti",
+      "sentenceIndex": 4,
+      "valueAfter": "Interacti"
+    },
+    {
+      "timestamp": 1766064076761,
+      "key": "Interactio",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactio"
+    },
+    {
+      "timestamp": 1766064076911,
+      "key": "Interaction",
+      "sentenceIndex": 4,
+      "valueAfter": "Interaction"
+    },
+    {
+      "timestamp": 1766064076999,
+      "key": "Interactions",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions"
+    },
+    {
+      "timestamp": 1766064077104,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions "
+    },
+    {
+      "timestamp": 1766064077599,
+      "key": "b",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions b"
+    },
+    {
+      "timestamp": 1766064077632,
+      "key": "be",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions be"
+    },
+    {
+      "timestamp": 1766064077811,
+      "key": "bet",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions bet"
+    },
+    {
+      "timestamp": 1766064078008,
+      "key": "betw",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions betw"
+    },
+    {
+      "timestamp": 1766064078163,
+      "key": "betwe",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions betwe"
+    },
+    {
+      "timestamp": 1766064078321,
+      "key": "betwee",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions betwee"
+    },
+    {
+      "timestamp": 1766064078425,
+      "key": "between",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions between"
+    },
+    {
+      "timestamp": 1766064078594,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions between "
+    },
+    {
+      "timestamp": 1766064079057,
+      "key": "m",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions between m"
+    },
+    {
+      "timestamp": 1766064079111,
+      "key": "me",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions between me"
+    },
+    {
+      "timestamp": 1766064079201,
+      "key": "men",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions between men"
+    },
+    {
+      "timestamp": 1766064079526,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions between men "
+    },
+    {
+      "timestamp": 1766064079925,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions between men a"
+    },
+    {
+      "timestamp": 1766064080016,
+      "key": "an",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions between men an"
+    },
+    {
+      "timestamp": 1766064080096,
+      "key": "and",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions between men and"
+    },
+    {
+      "timestamp": 1766064080200,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions between men and "
+    },
+    {
+      "timestamp": 1766064080365,
+      "key": "w",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions between men and w"
+    },
+    {
+      "timestamp": 1766064080490,
+      "key": "wo",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions between men and wo"
+    },
+    {
+      "timestamp": 1766064080663,
+      "key": "wom",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions between men and wom"
+    },
+    {
+      "timestamp": 1766064080929,
+      "key": "wome",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions between men and wome"
+    },
+    {
+      "timestamp": 1766064081142,
+      "key": "women",
+      "sentenceIndex": 4,
+      "valueAfter": "Interactions between men and women"
+    },
+    {
+      "timestamp": 1766064081590,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766064082145,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766064082384,
+      "key": "T",
+      "sentenceIndex": 5,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766064082489,
+      "key": "Th",
+      "sentenceIndex": 5,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766064082548,
+      "key": "Tha",
+      "sentenceIndex": 5,
+      "valueAfter": "Tha"
+    },
+    {
+      "timestamp": 1766064082683,
+      "key": "That",
+      "sentenceIndex": 5,
+      "valueAfter": "That"
+    },
+    {
+      "timestamp": 1766064082869,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "That "
+    },
+    {
+      "timestamp": 1766064083209,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": "That l"
+    },
+    {
+      "timestamp": 1766064083265,
+      "key": "le",
+      "sentenceIndex": 5,
+      "valueAfter": "That le"
+    },
+    {
+      "timestamp": 1766064083628,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": "That l"
+    },
+    {
+      "timestamp": 1766064083746,
+      "key": "la",
+      "sentenceIndex": 5,
+      "valueAfter": "That la"
+    },
+    {
+      "timestamp": 1766064084010,
+      "key": "lan",
+      "sentenceIndex": 5,
+      "valueAfter": "That lan"
+    },
+    {
+      "timestamp": 1766064084156,
+      "key": "land",
+      "sentenceIndex": 5,
+      "valueAfter": "That land"
+    },
+    {
+      "timestamp": 1766064084332,
+      "key": "lands",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands"
+    },
+    {
+      "timestamp": 1766064084460,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands "
+    },
+    {
+      "timestamp": 1766064084843,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands i"
+    },
+    {
+      "timestamp": 1766064084922,
+      "key": "is",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is"
+    },
+    {
+      "timestamp": 1766064085128,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is "
+    },
+    {
+      "timestamp": 1766064085437,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is o"
+    },
+    {
+      "timestamp": 1766064085542,
+      "key": "ow",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is ow"
+    },
+    {
+      "timestamp": 1766064085697,
+      "key": "owe",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owe"
+    },
+    {
+      "timestamp": 1766064085778,
+      "key": "owen",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owen"
+    },
+    {
+      "timestamp": 1766064085974,
+      "key": "owene",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owene"
+    },
+    {
+      "timestamp": 1766064086139,
+      "key": "owened",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owened"
+    },
+    {
+      "timestamp": 1766064086268,
+      "key": "opened",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is opened"
+    },
+    {
+      "timestamp": 1766064086273,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is opened "
+    },
+    {
+      "timestamp": 1766064087223,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is opened"
+    },
+    {
+      "timestamp": 1766064087330,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is opene"
+    },
+    {
+      "timestamp": 1766064087464,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is open"
+    },
+    {
+      "timestamp": 1766064087601,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is ope"
+    },
+    {
+      "timestamp": 1766064088256,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is op"
+    },
+    {
+      "timestamp": 1766064088383,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is o"
+    },
+    {
+      "timestamp": 1766064088874,
+      "key": "ow",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is ow"
+    },
+    {
+      "timestamp": 1766064089190,
+      "key": "own",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is own"
+    },
+    {
+      "timestamp": 1766064089287,
+      "key": "owne",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owne"
+    },
+    {
+      "timestamp": 1766064089522,
+      "key": "owned",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owned"
+    },
+    {
+      "timestamp": 1766064089652,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owned "
+    },
+    {
+      "timestamp": 1766064090169,
+      "key": "b",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owned b"
+    },
+    {
+      "timestamp": 1766064090346,
+      "key": "by",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owned by"
+    },
+    {
+      "timestamp": 1766064090556,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owned by "
+    },
+    {
+      "timestamp": 1766064090710,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owned by t"
+    },
+    {
+      "timestamp": 1766064090819,
+      "key": "th",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owned by th"
+    },
+    {
+      "timestamp": 1766064090878,
+      "key": "the",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owned by the"
+    },
+    {
+      "timestamp": 1766064091016,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owned by the "
+    },
+    {
+      "timestamp": 1766064091478,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owned by the g"
+    },
+    {
+      "timestamp": 1766064091705,
+      "key": "go",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owned by the go"
+    },
+    {
+      "timestamp": 1766064091887,
+      "key": "gov",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owned by the gov"
+    },
+    {
+      "timestamp": 1766064091970,
+      "key": "gove",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owned by the gove"
+    },
+    {
+      "timestamp": 1766064092141,
+      "key": "gover",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owned by the gover"
+    },
+    {
+      "timestamp": 1766064092217,
+      "key": "goverm",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owned by the goverm"
+    },
+    {
+      "timestamp": 1766064092388,
+      "key": "govermn",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owned by the govermn"
+    },
+    {
+      "timestamp": 1766064093077,
+      "key": "govermnm",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owned by the govermnm"
+    },
+    {
+      "timestamp": 1766064093159,
+      "key": "govermnme",
+      "sentenceIndex": 5,
+      "valueAfter": "That lands is owned by the govermnme"
+    },
+    {
+      "timestamp": 1766064093291,
+      "key": "N",
+      "sentenceIndex": 6,
+      "valueAfter": "N"
+    },
+    {
+      "timestamp": 1766064093388,
+      "key": "Ny",
+      "sentenceIndex": 6,
+      "valueAfter": "Ny"
+    },
+    {
+      "timestamp": 1766064093499,
+      "key": "NY",
+      "sentenceIndex": 6,
+      "valueAfter": "NY"
+    },
+    {
+      "timestamp": 1766064093503,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "NY "
+    },
+    {
+      "timestamp": 1766064093947,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "NY"
+    },
+    {
+      "timestamp": 1766064094060,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "N"
+    },
+    {
+      "timestamp": 1766064094541,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766064094878,
+      "key": "P",
+      "sentenceIndex": 6,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1766064095020,
+      "key": "Pl",
+      "sentenceIndex": 6,
+      "valueAfter": "Pl"
+    },
+    {
+      "timestamp": 1766064095067,
+      "key": "Ple",
+      "sentenceIndex": 6,
+      "valueAfter": "Ple"
+    },
+    {
+      "timestamp": 1766064095222,
+      "key": "Plea",
+      "sentenceIndex": 6,
+      "valueAfter": "Plea"
+    },
+    {
+      "timestamp": 1766064095331,
+      "key": "Pleas",
+      "sentenceIndex": 6,
+      "valueAfter": "Pleas"
+    },
+    {
+      "timestamp": 1766064095473,
+      "key": "Please",
+      "sentenceIndex": 6,
+      "valueAfter": "Please"
+    },
+    {
+      "timestamp": 1766064095653,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Please "
+    },
+    {
+      "timestamp": 1766064095856,
+      "key": "k",
+      "sentenceIndex": 6,
+      "valueAfter": "Please k"
+    },
+    {
+      "timestamp": 1766064095906,
+      "key": "ke",
+      "sentenceIndex": 6,
+      "valueAfter": "Please ke"
+    },
+    {
+      "timestamp": 1766064096055,
+      "key": "kee",
+      "sentenceIndex": 6,
+      "valueAfter": "Please kee"
+    },
+    {
+      "timestamp": 1766064096155,
+      "key": "keep",
+      "sentenceIndex": 6,
+      "valueAfter": "Please keep"
+    },
+    {
+      "timestamp": 1766064096365,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Please keep "
+    },
+    {
+      "timestamp": 1766064096848,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "Please keep t"
+    },
+    {
+      "timestamp": 1766064096980,
+      "key": "th",
+      "sentenceIndex": 6,
+      "valueAfter": "Please keep th"
+    },
+    {
+      "timestamp": 1766064097145,
+      "key": "thi",
+      "sentenceIndex": 6,
+      "valueAfter": "Please keep thi"
+    },
+    {
+      "timestamp": 1766064097215,
+      "key": "this",
+      "sentenceIndex": 6,
+      "valueAfter": "Please keep this"
+    },
+    {
+      "timestamp": 1766064097361,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Please keep this "
+    },
+    {
+      "timestamp": 1766064097583,
+      "key": "c",
+      "sentenceIndex": 6,
+      "valueAfter": "Please keep this c"
+    },
+    {
+      "timestamp": 1766064097666,
+      "key": "co",
+      "sentenceIndex": 6,
+      "valueAfter": "Please keep this co"
+    },
+    {
+      "timestamp": 1766064097799,
+      "key": "con",
+      "sentenceIndex": 6,
+      "valueAfter": "Please keep this con"
+    },
+    {
+      "timestamp": 1766064097914,
+      "key": "conf",
+      "sentenceIndex": 6,
+      "valueAfter": "Please keep this conf"
+    },
+    {
+      "timestamp": 1766064098020,
+      "key": "confi",
+      "sentenceIndex": 6,
+      "valueAfter": "Please keep this confi"
+    },
+    {
+      "timestamp": 1766064099119,
+      "key": "confid",
+      "sentenceIndex": 6,
+      "valueAfter": "Please keep this confid"
+    },
+    {
+      "timestamp": 1766064099285,
+      "key": "confide",
+      "sentenceIndex": 6,
+      "valueAfter": "Please keep this confide"
+    },
+    {
+      "timestamp": 1766064099416,
+      "key": "confiden",
+      "sentenceIndex": 6,
+      "valueAfter": "Please keep this confiden"
+    },
+    {
+      "timestamp": 1766064099539,
+      "key": "confident",
+      "sentenceIndex": 6,
+      "valueAfter": "Please keep this confident"
+    },
+    {
+      "timestamp": 1766064099711,
+      "key": "confidenti",
+      "sentenceIndex": 6,
+      "valueAfter": "Please keep this confidenti"
+    },
+    {
+      "timestamp": 1766064099847,
+      "key": "confidentia",
+      "sentenceIndex": 6,
+      "valueAfter": "Please keep this confidentia"
+    },
+    {
+      "timestamp": 1766064099946,
+      "key": "confidential",
+      "sentenceIndex": 6,
+      "valueAfter": "Please keep this confidential"
+    },
+    {
+      "timestamp": 1766064100141,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766064100819,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766064101430,
+      "key": "V",
+      "sentenceIndex": 7,
+      "valueAfter": "V"
+    },
+    {
+      "timestamp": 1766064101783,
+      "key": "Vo",
+      "sentenceIndex": 7,
+      "valueAfter": "Vo"
+    },
+    {
+      "timestamp": 1766064101849,
+      "key": "Vot",
+      "sentenceIndex": 7,
+      "valueAfter": "Vot"
+    },
+    {
+      "timestamp": 1766064102020,
+      "key": "Vote",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote"
+    },
+    {
+      "timestamp": 1766064102160,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote "
+    },
+    {
+      "timestamp": 1766064102413,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote a"
+    },
+    {
+      "timestamp": 1766064102558,
+      "key": "ac",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote ac"
+    },
+    {
+      "timestamp": 1766064102723,
+      "key": "acc",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote acc"
+    },
+    {
+      "timestamp": 1766064102867,
+      "key": "acco",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote acco"
+    },
+    {
+      "timestamp": 1766064103009,
+      "key": "accou",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote accou"
+    },
+    {
+      "timestamp": 1766064103166,
+      "key": "accoun",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote accoun"
+    },
+    {
+      "timestamp": 1766064103895,
+      "key": "accou",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote accou"
+    },
+    {
+      "timestamp": 1766064104292,
+      "key": "acco",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote acco"
+    },
+    {
+      "timestamp": 1766064104982,
+      "key": "accor",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote accor"
+    },
+    {
+      "timestamp": 1766064105146,
+      "key": "accord",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote accord"
+    },
+    {
+      "timestamp": 1766064105281,
+      "key": "accordi",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote accordi"
+    },
+    {
+      "timestamp": 1766064105527,
+      "key": "accordin",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote accordin"
+    },
+    {
+      "timestamp": 1766064105594,
+      "key": "according",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote according"
+    },
+    {
+      "timestamp": 1766064105735,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote according "
+    },
+    {
+      "timestamp": 1766064105900,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote according t"
+    },
+    {
+      "timestamp": 1766064106027,
+      "key": "to",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote according to"
+    },
+    {
+      "timestamp": 1766064106235,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote according to "
+    },
+    {
+      "timestamp": 1766064106638,
+      "key": "y",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote according to y"
+    },
+    {
+      "timestamp": 1766064106714,
+      "key": "yo",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote according to yo"
+    },
+    {
+      "timestamp": 1766064106868,
+      "key": "you",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote according to you"
+    },
+    {
+      "timestamp": 1766064106941,
+      "key": "your",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote according to your"
+    },
+    {
+      "timestamp": 1766064107099,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote according to your "
+    },
+    {
+      "timestamp": 1766064107528,
+      "key": "c",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote according to your c"
+    },
+    {
+      "timestamp": 1766064107643,
+      "key": "co",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote according to your co"
+    },
+    {
+      "timestamp": 1766064107791,
+      "key": "con",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote according to your con"
+    },
+    {
+      "timestamp": 1766064107863,
+      "key": "cons",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote according to your cons"
+    },
+    {
+      "timestamp": 1766064108056,
+      "key": "consc",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote according to your consc"
+    },
+    {
+      "timestamp": 1766064108175,
+      "key": "consci",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote according to your consci"
+    },
+    {
+      "timestamp": 1766064108280,
+      "key": "conscie",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote according to your conscie"
+    },
+    {
+      "timestamp": 1766064108432,
+      "key": "conscien",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote according to your conscien"
+    },
+    {
+      "timestamp": 1766064108499,
+      "key": "conscienc",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote according to your conscienc"
+    },
+    {
+      "timestamp": 1766064108668,
+      "key": "conscience",
+      "sentenceIndex": 7,
+      "valueAfter": "Vote according to your conscience"
+    },
+    {
+      "timestamp": 1766064108679,
+      "key": "conscience",
+      "sentenceIndex": 8,
+      "valueAfter": "conscience"
+    },
+    {
+      "timestamp": 1766064108765,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": " "
+    }
+  ]
+}

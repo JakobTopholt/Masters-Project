@@ -1,0 +1,1247 @@
+{
+  "mode": "walking",
+  "timestamp": "2025-12-17T13:50:16.625Z",
+  "duration": 60.002,
+  "wpm": 39,
+  "accuracy": "86.73",
+  "totalCharactersTyped": 196,
+  "correctCharacters": 170,
+  "errors": 4,
+  "sentencesCompleted": 6,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Labour unions know how to organize",
+      "expected": "Labour unions know how to organize"
+    },
+    {
+      "typed": "The largest of the five oceans",
+      "expected": "The largest of the five oceans"
+    },
+    {
+      "typed": "I want to hold your hand",
+      "expected": "I want to hold your hand"
+    },
+    {
+      "typed": "Make up a few more phrases",
+      "expected": "Make up a few more phrases"
+    },
+    {
+      "typed": "Seasoned golfers love the game",
+      "expected": "Seasoned golfers love the game"
+    },
+    {
+      "typed": "My watch fell in the water",
+      "expected": "My watch fell in the water"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765979350555,
+      "key": "L",
+      "sentenceIndex": 0,
+      "valueAfter": "L"
+    },
+    {
+      "timestamp": 1765979351117,
+      "key": "LA",
+      "sentenceIndex": 0,
+      "valueAfter": "LA"
+    },
+    {
+      "timestamp": 1765979351578,
+      "key": "L",
+      "sentenceIndex": 0,
+      "valueAfter": "L"
+    },
+    {
+      "timestamp": 1765979352374,
+      "key": "La",
+      "sentenceIndex": 0,
+      "valueAfter": "La"
+    },
+    {
+      "timestamp": 1765979352504,
+      "key": "Lab",
+      "sentenceIndex": 0,
+      "valueAfter": "Lab"
+    },
+    {
+      "timestamp": 1765979352730,
+      "key": "Labo",
+      "sentenceIndex": 0,
+      "valueAfter": "Labo"
+    },
+    {
+      "timestamp": 1765979352918,
+      "key": "Labou",
+      "sentenceIndex": 0,
+      "valueAfter": "Labou"
+    },
+    {
+      "timestamp": 1765979353125,
+      "key": "Labour",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour"
+    },
+    {
+      "timestamp": 1765979353319,
+      "key": "Labour's",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour's"
+    },
+    {
+      "timestamp": 1765979353326,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour's "
+    },
+    {
+      "timestamp": 1765979354707,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour's"
+    },
+    {
+      "timestamp": 1765979354869,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour'"
+    },
+    {
+      "timestamp": 1765979355018,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour"
+    },
+    {
+      "timestamp": 1765979355521,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour "
+    },
+    {
+      "timestamp": 1765979355869,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour u"
+    },
+    {
+      "timestamp": 1765979356097,
+      "key": "un",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour un"
+    },
+    {
+      "timestamp": 1765979356315,
+      "key": "uni",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour uni"
+    },
+    {
+      "timestamp": 1765979356484,
+      "key": "unio",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unio"
+    },
+    {
+      "timestamp": 1765979356677,
+      "key": "union",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour union"
+    },
+    {
+      "timestamp": 1765979356818,
+      "key": "unions",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions"
+    },
+    {
+      "timestamp": 1765979356956,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions "
+    },
+    {
+      "timestamp": 1765979357492,
+      "key": "k",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions k"
+    },
+    {
+      "timestamp": 1765979357681,
+      "key": "kn",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions kn"
+    },
+    {
+      "timestamp": 1765979357882,
+      "key": "kno",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions kno"
+    },
+    {
+      "timestamp": 1765979357981,
+      "key": "know",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know"
+    },
+    {
+      "timestamp": 1765979358178,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know "
+    },
+    {
+      "timestamp": 1765979358643,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know h"
+    },
+    {
+      "timestamp": 1765979358860,
+      "key": "ho",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know ho"
+    },
+    {
+      "timestamp": 1765979358994,
+      "key": "how",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how"
+    },
+    {
+      "timestamp": 1765979359101,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how "
+    },
+    {
+      "timestamp": 1765979360402,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how t"
+    },
+    {
+      "timestamp": 1765979360536,
+      "key": "to",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how to"
+    },
+    {
+      "timestamp": 1765979360735,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how to "
+    },
+    {
+      "timestamp": 1765979361168,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how to o"
+    },
+    {
+      "timestamp": 1765979361417,
+      "key": "or",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how to or"
+    },
+    {
+      "timestamp": 1765979361673,
+      "key": "org",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how to org"
+    },
+    {
+      "timestamp": 1765979361830,
+      "key": "orga",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how to orga"
+    },
+    {
+      "timestamp": 1765979361934,
+      "key": "organ",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how to organ"
+    },
+    {
+      "timestamp": 1765979362167,
+      "key": "organi",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how to organi"
+    },
+    {
+      "timestamp": 1765979362305,
+      "key": "organiz",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how to organiz"
+    },
+    {
+      "timestamp": 1765979362952,
+      "key": "organize",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how to organize"
+    },
+    {
+      "timestamp": 1765979365511,
+      "key": "T",
+      "sentenceIndex": 1,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765979365631,
+      "key": "Th",
+      "sentenceIndex": 1,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765979365751,
+      "key": "The",
+      "sentenceIndex": 1,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765979365830,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765979366069,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "The l"
+    },
+    {
+      "timestamp": 1765979366132,
+      "key": "la",
+      "sentenceIndex": 1,
+      "valueAfter": "The la"
+    },
+    {
+      "timestamp": 1765979366365,
+      "key": "lar",
+      "sentenceIndex": 1,
+      "valueAfter": "The lar"
+    },
+    {
+      "timestamp": 1765979366523,
+      "key": "larg",
+      "sentenceIndex": 1,
+      "valueAfter": "The larg"
+    },
+    {
+      "timestamp": 1765979366669,
+      "key": "large",
+      "sentenceIndex": 1,
+      "valueAfter": "The large"
+    },
+    {
+      "timestamp": 1765979366893,
+      "key": "larges",
+      "sentenceIndex": 1,
+      "valueAfter": "The larges"
+    },
+    {
+      "timestamp": 1765979366948,
+      "key": "largest",
+      "sentenceIndex": 1,
+      "valueAfter": "The largest"
+    },
+    {
+      "timestamp": 1765979367216,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The largest "
+    },
+    {
+      "timestamp": 1765979367691,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "The largest o"
+    },
+    {
+      "timestamp": 1765979367887,
+      "key": "of",
+      "sentenceIndex": 1,
+      "valueAfter": "The largest of"
+    },
+    {
+      "timestamp": 1765979368075,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The largest of "
+    },
+    {
+      "timestamp": 1765979368215,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "The largest of t"
+    },
+    {
+      "timestamp": 1765979368302,
+      "key": "th",
+      "sentenceIndex": 1,
+      "valueAfter": "The largest of th"
+    },
+    {
+      "timestamp": 1765979368468,
+      "key": "the",
+      "sentenceIndex": 1,
+      "valueAfter": "The largest of the"
+    },
+    {
+      "timestamp": 1765979368625,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The largest of the "
+    },
+    {
+      "timestamp": 1765979369242,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "The largest of the f"
+    },
+    {
+      "timestamp": 1765979369435,
+      "key": "fi",
+      "sentenceIndex": 1,
+      "valueAfter": "The largest of the fi"
+    },
+    {
+      "timestamp": 1765979369668,
+      "key": "fiv",
+      "sentenceIndex": 1,
+      "valueAfter": "The largest of the fiv"
+    },
+    {
+      "timestamp": 1765979369812,
+      "key": "five",
+      "sentenceIndex": 1,
+      "valueAfter": "The largest of the five"
+    },
+    {
+      "timestamp": 1765979369915,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The largest of the five "
+    },
+    {
+      "timestamp": 1765979370373,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "The largest of the five o"
+    },
+    {
+      "timestamp": 1765979370610,
+      "key": "oc",
+      "sentenceIndex": 1,
+      "valueAfter": "The largest of the five oc"
+    },
+    {
+      "timestamp": 1765979370896,
+      "key": "oce",
+      "sentenceIndex": 1,
+      "valueAfter": "The largest of the five oce"
+    },
+    {
+      "timestamp": 1765979371127,
+      "key": "ocea",
+      "sentenceIndex": 1,
+      "valueAfter": "The largest of the five ocea"
+    },
+    {
+      "timestamp": 1765979371246,
+      "key": "ocean",
+      "sentenceIndex": 1,
+      "valueAfter": "The largest of the five ocean"
+    },
+    {
+      "timestamp": 1765979371370,
+      "key": "oceans",
+      "sentenceIndex": 1,
+      "valueAfter": "The largest of the five oceans"
+    },
+    {
+      "timestamp": 1765979372909,
+      "key": "I",
+      "sentenceIndex": 2,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1765979373162,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "I "
+    },
+    {
+      "timestamp": 1765979374269,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "I w"
+    },
+    {
+      "timestamp": 1765979374487,
+      "key": "wa",
+      "sentenceIndex": 2,
+      "valueAfter": "I wa"
+    },
+    {
+      "timestamp": 1765979374603,
+      "key": "wan",
+      "sentenceIndex": 2,
+      "valueAfter": "I wan"
+    },
+    {
+      "timestamp": 1765979375401,
+      "key": "want",
+      "sentenceIndex": 2,
+      "valueAfter": "I want"
+    },
+    {
+      "timestamp": 1765979375567,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "I want "
+    },
+    {
+      "timestamp": 1765979375673,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "I want t"
+    },
+    {
+      "timestamp": 1765979375809,
+      "key": "to",
+      "sentenceIndex": 2,
+      "valueAfter": "I want to"
+    },
+    {
+      "timestamp": 1765979375988,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "I want to "
+    },
+    {
+      "timestamp": 1765979376199,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "I want to h"
+    },
+    {
+      "timestamp": 1765979376417,
+      "key": "ho",
+      "sentenceIndex": 2,
+      "valueAfter": "I want to ho"
+    },
+    {
+      "timestamp": 1765979376606,
+      "key": "hol",
+      "sentenceIndex": 2,
+      "valueAfter": "I want to hol"
+    },
+    {
+      "timestamp": 1765979376736,
+      "key": "hold",
+      "sentenceIndex": 2,
+      "valueAfter": "I want to hold"
+    },
+    {
+      "timestamp": 1765979376872,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "I want to hold "
+    },
+    {
+      "timestamp": 1765979377512,
+      "key": "y",
+      "sentenceIndex": 2,
+      "valueAfter": "I want to hold y"
+    },
+    {
+      "timestamp": 1765979377585,
+      "key": "yo",
+      "sentenceIndex": 2,
+      "valueAfter": "I want to hold yo"
+    },
+    {
+      "timestamp": 1765979377764,
+      "key": "you",
+      "sentenceIndex": 2,
+      "valueAfter": "I want to hold you"
+    },
+    {
+      "timestamp": 1765979377989,
+      "key": "your",
+      "sentenceIndex": 2,
+      "valueAfter": "I want to hold your"
+    },
+    {
+      "timestamp": 1765979378197,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "I want to hold your "
+    },
+    {
+      "timestamp": 1765979378467,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "I want to hold your h"
+    },
+    {
+      "timestamp": 1765979378589,
+      "key": "ha",
+      "sentenceIndex": 2,
+      "valueAfter": "I want to hold your ha"
+    },
+    {
+      "timestamp": 1765979378709,
+      "key": "han",
+      "sentenceIndex": 2,
+      "valueAfter": "I want to hold your han"
+    },
+    {
+      "timestamp": 1765979378935,
+      "key": "hand",
+      "sentenceIndex": 2,
+      "valueAfter": "I want to hold your hand"
+    },
+    {
+      "timestamp": 1765979380393,
+      "key": "M",
+      "sentenceIndex": 3,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1765979380564,
+      "key": "Ma",
+      "sentenceIndex": 3,
+      "valueAfter": "Ma"
+    },
+    {
+      "timestamp": 1765979380676,
+      "key": "Mak",
+      "sentenceIndex": 3,
+      "valueAfter": "Mak"
+    },
+    {
+      "timestamp": 1765979380886,
+      "key": "Make",
+      "sentenceIndex": 3,
+      "valueAfter": "Make"
+    },
+    {
+      "timestamp": 1765979381070,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Make "
+    },
+    {
+      "timestamp": 1765979381926,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": "Make u"
+    },
+    {
+      "timestamp": 1765979382165,
+      "key": "up",
+      "sentenceIndex": 3,
+      "valueAfter": "Make up"
+    },
+    {
+      "timestamp": 1765979382551,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Make up "
+    },
+    {
+      "timestamp": 1765979383094,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Make up a"
+    },
+    {
+      "timestamp": 1765979383518,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Make up a "
+    },
+    {
+      "timestamp": 1765979384185,
+      "key": "f",
+      "sentenceIndex": 3,
+      "valueAfter": "Make up a f"
+    },
+    {
+      "timestamp": 1765979384433,
+      "key": "fe",
+      "sentenceIndex": 3,
+      "valueAfter": "Make up a fe"
+    },
+    {
+      "timestamp": 1765979384718,
+      "key": "few",
+      "sentenceIndex": 3,
+      "valueAfter": "Make up a few"
+    },
+    {
+      "timestamp": 1765979384894,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Make up a few "
+    },
+    {
+      "timestamp": 1765979385172,
+      "key": "m",
+      "sentenceIndex": 3,
+      "valueAfter": "Make up a few m"
+    },
+    {
+      "timestamp": 1765979385423,
+      "key": "mo",
+      "sentenceIndex": 3,
+      "valueAfter": "Make up a few mo"
+    },
+    {
+      "timestamp": 1765979385544,
+      "key": "mor",
+      "sentenceIndex": 3,
+      "valueAfter": "Make up a few mor"
+    },
+    {
+      "timestamp": 1765979385737,
+      "key": "more",
+      "sentenceIndex": 3,
+      "valueAfter": "Make up a few more"
+    },
+    {
+      "timestamp": 1765979385844,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Make up a few more "
+    },
+    {
+      "timestamp": 1765979386282,
+      "key": "p",
+      "sentenceIndex": 3,
+      "valueAfter": "Make up a few more p"
+    },
+    {
+      "timestamp": 1765979386582,
+      "key": "ph",
+      "sentenceIndex": 3,
+      "valueAfter": "Make up a few more ph"
+    },
+    {
+      "timestamp": 1765979386745,
+      "key": "phr",
+      "sentenceIndex": 3,
+      "valueAfter": "Make up a few more phr"
+    },
+    {
+      "timestamp": 1765979387011,
+      "key": "phra",
+      "sentenceIndex": 3,
+      "valueAfter": "Make up a few more phra"
+    },
+    {
+      "timestamp": 1765979387251,
+      "key": "phras",
+      "sentenceIndex": 3,
+      "valueAfter": "Make up a few more phras"
+    },
+    {
+      "timestamp": 1765979387494,
+      "key": "phrase",
+      "sentenceIndex": 3,
+      "valueAfter": "Make up a few more phrase"
+    },
+    {
+      "timestamp": 1765979387717,
+      "key": "phrases",
+      "sentenceIndex": 3,
+      "valueAfter": "Make up a few more phrases"
+    },
+    {
+      "timestamp": 1765979389108,
+      "key": "S",
+      "sentenceIndex": 4,
+      "valueAfter": "S"
+    },
+    {
+      "timestamp": 1765979389369,
+      "key": "Se",
+      "sentenceIndex": 4,
+      "valueAfter": "Se"
+    },
+    {
+      "timestamp": 1765979389604,
+      "key": "Sea",
+      "sentenceIndex": 4,
+      "valueAfter": "Sea"
+    },
+    {
+      "timestamp": 1765979389822,
+      "key": "Seas",
+      "sentenceIndex": 4,
+      "valueAfter": "Seas"
+    },
+    {
+      "timestamp": 1765979389924,
+      "key": "Seaso",
+      "sentenceIndex": 4,
+      "valueAfter": "Seaso"
+    },
+    {
+      "timestamp": 1765979390120,
+      "key": "Season",
+      "sentenceIndex": 4,
+      "valueAfter": "Season"
+    },
+    {
+      "timestamp": 1765979390255,
+      "key": "Seasone",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasone"
+    },
+    {
+      "timestamp": 1765979390623,
+      "key": "Seasoned",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned"
+    },
+    {
+      "timestamp": 1765979390925,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned "
+    },
+    {
+      "timestamp": 1765979391522,
+      "key": "g",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned g"
+    },
+    {
+      "timestamp": 1765979391782,
+      "key": "go",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned go"
+    },
+    {
+      "timestamp": 1765979391999,
+      "key": "gol",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned gol"
+    },
+    {
+      "timestamp": 1765979392429,
+      "key": "golf",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned golf"
+    },
+    {
+      "timestamp": 1765979392605,
+      "key": "golfe",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned golfe"
+    },
+    {
+      "timestamp": 1765979392830,
+      "key": "golfer",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned golfer"
+    },
+    {
+      "timestamp": 1765979393195,
+      "key": "golfers",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned golfers"
+    },
+    {
+      "timestamp": 1765979393653,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned golfers "
+    },
+    {
+      "timestamp": 1765979394222,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned golfers l"
+    },
+    {
+      "timestamp": 1765979394447,
+      "key": "lo",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned golfers lo"
+    },
+    {
+      "timestamp": 1765979394712,
+      "key": "lov",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned golfers lov"
+    },
+    {
+      "timestamp": 1765979394822,
+      "key": "love",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned golfers love"
+    },
+    {
+      "timestamp": 1765979394980,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned golfers love "
+    },
+    {
+      "timestamp": 1765979395121,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned golfers love t"
+    },
+    {
+      "timestamp": 1765979395230,
+      "key": "th",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned golfers love th"
+    },
+    {
+      "timestamp": 1765979395381,
+      "key": "the",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned golfers love the"
+    },
+    {
+      "timestamp": 1765979395493,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned golfers love the "
+    },
+    {
+      "timestamp": 1765979396023,
+      "key": "g",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned golfers love the g"
+    },
+    {
+      "timestamp": 1765979396177,
+      "key": "ga",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned golfers love the ga"
+    },
+    {
+      "timestamp": 1765979396276,
+      "key": "gam",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned golfers love the gam"
+    },
+    {
+      "timestamp": 1765979396440,
+      "key": "game",
+      "sentenceIndex": 4,
+      "valueAfter": "Seasoned golfers love the game"
+    },
+    {
+      "timestamp": 1765979397824,
+      "key": "M",
+      "sentenceIndex": 5,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1765979398098,
+      "key": "My",
+      "sentenceIndex": 5,
+      "valueAfter": "My"
+    },
+    {
+      "timestamp": 1765979398308,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "My "
+    },
+    {
+      "timestamp": 1765979398417,
+      "key": "w",
+      "sentenceIndex": 5,
+      "valueAfter": "My w"
+    },
+    {
+      "timestamp": 1765979398610,
+      "key": "wa",
+      "sentenceIndex": 5,
+      "valueAfter": "My wa"
+    },
+    {
+      "timestamp": 1765979398770,
+      "key": "wat",
+      "sentenceIndex": 5,
+      "valueAfter": "My wat"
+    },
+    {
+      "timestamp": 1765979399011,
+      "key": "watc",
+      "sentenceIndex": 5,
+      "valueAfter": "My watc"
+    },
+    {
+      "timestamp": 1765979399149,
+      "key": "watch",
+      "sentenceIndex": 5,
+      "valueAfter": "My watch"
+    },
+    {
+      "timestamp": 1765979399374,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "My watch "
+    },
+    {
+      "timestamp": 1765979399988,
+      "key": "f",
+      "sentenceIndex": 5,
+      "valueAfter": "My watch f"
+    },
+    {
+      "timestamp": 1765979400197,
+      "key": "fe",
+      "sentenceIndex": 5,
+      "valueAfter": "My watch fe"
+    },
+    {
+      "timestamp": 1765979400333,
+      "key": "fel",
+      "sentenceIndex": 5,
+      "valueAfter": "My watch fel"
+    },
+    {
+      "timestamp": 1765979400481,
+      "key": "fell",
+      "sentenceIndex": 5,
+      "valueAfter": "My watch fell"
+    },
+    {
+      "timestamp": 1765979400687,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "My watch fell "
+    },
+    {
+      "timestamp": 1765979400958,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "My watch fell i"
+    },
+    {
+      "timestamp": 1765979401129,
+      "key": "in",
+      "sentenceIndex": 5,
+      "valueAfter": "My watch fell in"
+    },
+    {
+      "timestamp": 1765979401292,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "My watch fell in "
+    },
+    {
+      "timestamp": 1765979401326,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "My watch fell in t"
+    },
+    {
+      "timestamp": 1765979401494,
+      "key": "th",
+      "sentenceIndex": 5,
+      "valueAfter": "My watch fell in th"
+    },
+    {
+      "timestamp": 1765979401586,
+      "key": "the",
+      "sentenceIndex": 5,
+      "valueAfter": "My watch fell in the"
+    },
+    {
+      "timestamp": 1765979401721,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "My watch fell in the "
+    },
+    {
+      "timestamp": 1765979402202,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "My watch fell in the a"
+    },
+    {
+      "timestamp": 1765979402934,
+      "key": "insertCompositionText",
+      "sentenceIndex": 5,
+      "valueAfter": "My watch fell in the "
+    },
+    {
+      "timestamp": 1765979403522,
+      "key": "w",
+      "sentenceIndex": 5,
+      "valueAfter": "My watch fell in the w"
+    },
+    {
+      "timestamp": 1765979403754,
+      "key": "wa",
+      "sentenceIndex": 5,
+      "valueAfter": "My watch fell in the wa"
+    },
+    {
+      "timestamp": 1765979404001,
+      "key": "wat",
+      "sentenceIndex": 5,
+      "valueAfter": "My watch fell in the wat"
+    },
+    {
+      "timestamp": 1765979404198,
+      "key": "wate",
+      "sentenceIndex": 5,
+      "valueAfter": "My watch fell in the wate"
+    },
+    {
+      "timestamp": 1765979404426,
+      "key": "water",
+      "sentenceIndex": 5,
+      "valueAfter": "My watch fell in the water"
+    },
+    {
+      "timestamp": 1765979405861,
+      "key": "I",
+      "sentenceIndex": 6,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1765979406061,
+      "key": "In",
+      "sentenceIndex": 6,
+      "valueAfter": "In"
+    },
+    {
+      "timestamp": 1765979406250,
+      "key": "Inf",
+      "sentenceIndex": 6,
+      "valueAfter": "Inf"
+    },
+    {
+      "timestamp": 1765979406410,
+      "key": "Info",
+      "sentenceIndex": 6,
+      "valueAfter": "Info"
+    },
+    {
+      "timestamp": 1765979406548,
+      "key": "Infor",
+      "sentenceIndex": 6,
+      "valueAfter": "Infor"
+    },
+    {
+      "timestamp": 1765979406707,
+      "key": "Inform",
+      "sentenceIndex": 6,
+      "valueAfter": "Inform"
+    },
+    {
+      "timestamp": 1765979407182,
+      "key": "Informa",
+      "sentenceIndex": 6,
+      "valueAfter": "Informa"
+    },
+    {
+      "timestamp": 1765979407517,
+      "key": "Informat",
+      "sentenceIndex": 6,
+      "valueAfter": "Informat"
+    },
+    {
+      "timestamp": 1765979407664,
+      "key": "Informati",
+      "sentenceIndex": 6,
+      "valueAfter": "Informati"
+    },
+    {
+      "timestamp": 1765979407826,
+      "key": "Informatio",
+      "sentenceIndex": 6,
+      "valueAfter": "Informatio"
+    },
+    {
+      "timestamp": 1765979408044,
+      "key": "Information",
+      "sentenceIndex": 6,
+      "valueAfter": "Information"
+    },
+    {
+      "timestamp": 1765979408258,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Information "
+    },
+    {
+      "timestamp": 1765979408591,
+      "key": "s",
+      "sentenceIndex": 6,
+      "valueAfter": "Information s"
+    },
+    {
+      "timestamp": 1765979408796,
+      "key": "su",
+      "sentenceIndex": 6,
+      "valueAfter": "Information su"
+    },
+    {
+      "timestamp": 1765979409002,
+      "key": "sup",
+      "sentenceIndex": 6,
+      "valueAfter": "Information sup"
+    },
+    {
+      "timestamp": 1765979409107,
+      "key": "supe",
+      "sentenceIndex": 6,
+      "valueAfter": "Information supe"
+    },
+    {
+      "timestamp": 1765979409324,
+      "key": "super",
+      "sentenceIndex": 6,
+      "valueAfter": "Information super"
+    },
+    {
+      "timestamp": 1765979409467,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Information super "
+    },
+    {
+      "timestamp": 1765979409835,
+      "key": "h",
+      "sentenceIndex": 6,
+      "valueAfter": "Information super h"
+    },
+    {
+      "timestamp": 1765979410065,
+      "key": "hi",
+      "sentenceIndex": 6,
+      "valueAfter": "Information super hi"
+    },
+    {
+      "timestamp": 1765979410221,
+      "key": "hig",
+      "sentenceIndex": 6,
+      "valueAfter": "Information super hig"
+    },
+    {
+      "timestamp": 1765979410332,
+      "key": "high",
+      "sentenceIndex": 6,
+      "valueAfter": "Information super high"
+    }
+  ]
+}

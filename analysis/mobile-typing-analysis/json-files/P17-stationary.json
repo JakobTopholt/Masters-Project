@@ -1,0 +1,1527 @@
+{
+  "mode": "stationary",
+  "timestamp": "2025-12-18T13:14:18.684Z",
+  "duration": 60.062,
+  "wpm": 38,
+  "accuracy": "77.88",
+  "totalCharactersTyped": 226,
+  "correctCharacters": 176,
+  "errors": 54,
+  "sentencesCompleted": 7,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "The world is a stage",
+      "expected": "The world is a stage"
+    },
+    {
+      "typed": "Public transit is much faster",
+      "expected": "Public transit is much faster"
+    },
+    {
+      "typed": "We went grocery shopping",
+      "expected": "We went grocery shopping"
+    },
+    {
+      "typed": "A yard is almost as long as a meter",
+      "expected": "A yard is almost as long as a meter"
+    },
+    {
+      "typed": "February has an extra day",
+      "expected": "February has an extra day"
+    },
+    {
+      "typed": "Play it again sam",
+      "expected": "Play it again Sam"
+    },
+    {
+      "typed": "What goes up must come down",
+      "expected": "What goes up must come down"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766063594762,
+      "key": "T",
+      "sentenceIndex": 0,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766063594894,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766063594936,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766063595009,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766063595231,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "The w"
+    },
+    {
+      "timestamp": 1766063595792,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "The wo"
+    },
+    {
+      "timestamp": 1766063595923,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "The wor"
+    },
+    {
+      "timestamp": 1766063595989,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "The worl"
+    },
+    {
+      "timestamp": 1766063596125,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "The world"
+    },
+    {
+      "timestamp": 1766063596249,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The world "
+    },
+    {
+      "timestamp": 1766063596499,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "The world i"
+    },
+    {
+      "timestamp": 1766063596678,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "The world is"
+    },
+    {
+      "timestamp": 1766063596742,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The world is "
+    },
+    {
+      "timestamp": 1766063596871,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "The world is a"
+    },
+    {
+      "timestamp": 1766063597080,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The world is a "
+    },
+    {
+      "timestamp": 1766063597364,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "The world is a s"
+    },
+    {
+      "timestamp": 1766063597614,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "The world is a st"
+    },
+    {
+      "timestamp": 1766063597715,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "The world is a sta"
+    },
+    {
+      "timestamp": 1766063597791,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "The world is a stag"
+    },
+    {
+      "timestamp": 1766063597890,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The world is a stage"
+    },
+    {
+      "timestamp": 1766063597953,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766063598735,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766063599209,
+      "key": "P",
+      "sentenceIndex": 1,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1766063599368,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "Pu"
+    },
+    {
+      "timestamp": 1766063599663,
+      "key": "b",
+      "sentenceIndex": 1,
+      "valueAfter": "Pub"
+    },
+    {
+      "timestamp": 1766063600238,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Publ"
+    },
+    {
+      "timestamp": 1766063600399,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Publi"
+    },
+    {
+      "timestamp": 1766063600569,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "Public"
+    },
+    {
+      "timestamp": 1766063600675,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Public "
+    },
+    {
+      "timestamp": 1766063601149,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Public t"
+    },
+    {
+      "timestamp": 1766063601274,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Public tr"
+    },
+    {
+      "timestamp": 1766063601380,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Public tra"
+    },
+    {
+      "timestamp": 1766063601480,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Public tran"
+    },
+    {
+      "timestamp": 1766063601652,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Public trans"
+    },
+    {
+      "timestamp": 1766063602372,
+      "key": "transport",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transport"
+    },
+    {
+      "timestamp": 1766063602402,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transport "
+    },
+    {
+      "timestamp": 1766063602732,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transport"
+    },
+    {
+      "timestamp": 1766063602890,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transpor"
+    },
+    {
+      "timestamp": 1766063603073,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transpo"
+    },
+    {
+      "timestamp": 1766063603214,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transp"
+    },
+    {
+      "timestamp": 1766063603372,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Public trans"
+    },
+    {
+      "timestamp": 1766063604140,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transo"
+    },
+    {
+      "timestamp": 1766063604252,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transot"
+    },
+    {
+      "timestamp": 1766063604336,
+      "key": "transit",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit"
+    },
+    {
+      "timestamp": 1766063604348,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit "
+    },
+    {
+      "timestamp": 1766063604709,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit i"
+    },
+    {
+      "timestamp": 1766063604832,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is"
+    },
+    {
+      "timestamp": 1766063604960,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is "
+    },
+    {
+      "timestamp": 1766063605163,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is m"
+    },
+    {
+      "timestamp": 1766063605345,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is mu"
+    },
+    {
+      "timestamp": 1766063605454,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is muc"
+    },
+    {
+      "timestamp": 1766063605524,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is much"
+    },
+    {
+      "timestamp": 1766063605696,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is much "
+    },
+    {
+      "timestamp": 1766063606276,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is much f"
+    },
+    {
+      "timestamp": 1766063606411,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is much fa"
+    },
+    {
+      "timestamp": 1766063606541,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is much fas"
+    },
+    {
+      "timestamp": 1766063606627,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is much fast"
+    },
+    {
+      "timestamp": 1766063606760,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is much faste"
+    },
+    {
+      "timestamp": 1766063606899,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is much faster"
+    },
+    {
+      "timestamp": 1766063607987,
+      "key": "W",
+      "sentenceIndex": 2,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1766063608116,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "We"
+    },
+    {
+      "timestamp": 1766063608251,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "We "
+    },
+    {
+      "timestamp": 1766063608965,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "We w"
+    },
+    {
+      "timestamp": 1766063609125,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "We we"
+    },
+    {
+      "timestamp": 1766063609235,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "We wen"
+    },
+    {
+      "timestamp": 1766063609296,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "We went"
+    },
+    {
+      "timestamp": 1766063609846,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "We went "
+    },
+    {
+      "timestamp": 1766063610034,
+      "key": "g",
+      "sentenceIndex": 2,
+      "valueAfter": "We went g"
+    },
+    {
+      "timestamp": 1766063610184,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "We went ge"
+    },
+    {
+      "timestamp": 1766063610244,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "We went geo"
+    },
+    {
+      "timestamp": 1766063611015,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "We went geoc"
+    },
+    {
+      "timestamp": 1766063611144,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "We went geoce"
+    },
+    {
+      "timestamp": 1766063611237,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "We went geocer"
+    },
+    {
+      "timestamp": 1766063611308,
+      "key": "y",
+      "sentenceIndex": 2,
+      "valueAfter": "We went geocery"
+    },
+    {
+      "timestamp": 1766063611534,
+      "key": "grocery",
+      "sentenceIndex": 2,
+      "valueAfter": "We went grocery"
+    },
+    {
+      "timestamp": 1766063611559,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "We went grocery "
+    },
+    {
+      "timestamp": 1766063611829,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "We went grocery s"
+    },
+    {
+      "timestamp": 1766063612130,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "We went grocery sh"
+    },
+    {
+      "timestamp": 1766063612311,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "We went grocery sho"
+    },
+    {
+      "timestamp": 1766063612494,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": "We went grocery shop"
+    },
+    {
+      "timestamp": 1766063612645,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": "We went grocery shopp"
+    },
+    {
+      "timestamp": 1766063612924,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "We went grocery shopp "
+    },
+    {
+      "timestamp": 1766063614002,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "We went grocery shopp"
+    },
+    {
+      "timestamp": 1766063614152,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "We went grocery shop"
+    },
+    {
+      "timestamp": 1766063614828,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": "We went grocery shopp"
+    },
+    {
+      "timestamp": 1766063614976,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "We went grocery shoppi"
+    },
+    {
+      "timestamp": 1766063615127,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "We went grocery shoppin"
+    },
+    {
+      "timestamp": 1766063615246,
+      "key": "g",
+      "sentenceIndex": 2,
+      "valueAfter": "We went grocery shopping"
+    },
+    {
+      "timestamp": 1766063615396,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766063616339,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766063616655,
+      "key": "A",
+      "sentenceIndex": 3,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1766063616757,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "A "
+    },
+    {
+      "timestamp": 1766063617260,
+      "key": "y",
+      "sentenceIndex": 3,
+      "valueAfter": "A y"
+    },
+    {
+      "timestamp": 1766063617408,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "A ye"
+    },
+    {
+      "timestamp": 1766063617772,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "A y"
+    },
+    {
+      "timestamp": 1766063617900,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "A ya"
+    },
+    {
+      "timestamp": 1766063618082,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "A yar"
+    },
+    {
+      "timestamp": 1766063618223,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard"
+    },
+    {
+      "timestamp": 1766063618342,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard "
+    },
+    {
+      "timestamp": 1766063618529,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard i"
+    },
+    {
+      "timestamp": 1766063618653,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is"
+    },
+    {
+      "timestamp": 1766063618740,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is "
+    },
+    {
+      "timestamp": 1766063618981,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is a"
+    },
+    {
+      "timestamp": 1766063619206,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is al"
+    },
+    {
+      "timestamp": 1766063619305,
+      "key": "m",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is alm"
+    },
+    {
+      "timestamp": 1766063619489,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almo"
+    },
+    {
+      "timestamp": 1766063619582,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almos"
+    },
+    {
+      "timestamp": 1766063619667,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almost"
+    },
+    {
+      "timestamp": 1766063619863,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almost "
+    },
+    {
+      "timestamp": 1766063620146,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almost a"
+    },
+    {
+      "timestamp": 1766063620298,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almost as"
+    },
+    {
+      "timestamp": 1766063620383,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almost as "
+    },
+    {
+      "timestamp": 1766063620630,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almost as l"
+    },
+    {
+      "timestamp": 1766063620805,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almost as lo"
+    },
+    {
+      "timestamp": 1766063620923,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almost as lon"
+    },
+    {
+      "timestamp": 1766063621056,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almost as long"
+    },
+    {
+      "timestamp": 1766063621140,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almost as long "
+    },
+    {
+      "timestamp": 1766063621247,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almost as long a"
+    },
+    {
+      "timestamp": 1766063621425,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almost as long as"
+    },
+    {
+      "timestamp": 1766063621518,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almost as long as "
+    },
+    {
+      "timestamp": 1766063621778,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almost as long as a"
+    },
+    {
+      "timestamp": 1766063622002,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almost as long as a "
+    },
+    {
+      "timestamp": 1766063622265,
+      "key": "m",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almost as long as a m"
+    },
+    {
+      "timestamp": 1766063622665,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almost as long as a me"
+    },
+    {
+      "timestamp": 1766063622877,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almost as long as a met"
+    },
+    {
+      "timestamp": 1766063622960,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almost as long as a mete"
+    },
+    {
+      "timestamp": 1766063623048,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "A yard is almost as long as a meter"
+    },
+    {
+      "timestamp": 1766063624592,
+      "key": "F",
+      "sentenceIndex": 4,
+      "valueAfter": "F"
+    },
+    {
+      "timestamp": 1766063624734,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Fe"
+    },
+    {
+      "timestamp": 1766063625011,
+      "key": "b",
+      "sentenceIndex": 4,
+      "valueAfter": "Feb"
+    },
+    {
+      "timestamp": 1766063625438,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "Febu"
+    },
+    {
+      "timestamp": 1766063626871,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Febur"
+    },
+    {
+      "timestamp": 1766063627000,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Febura"
+    },
+    {
+      "timestamp": 1766063628125,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Febur"
+    },
+    {
+      "timestamp": 1766063628260,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Febu"
+    },
+    {
+      "timestamp": 1766063628431,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Feb"
+    },
+    {
+      "timestamp": 1766063629829,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Febr"
+    },
+    {
+      "timestamp": 1766063629927,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Febra"
+    },
+    {
+      "timestamp": 1766063630830,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Febraa"
+    },
+    {
+      "timestamp": 1766063631417,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Febraar"
+    },
+    {
+      "timestamp": 1766063632465,
+      "key": "February",
+      "sentenceIndex": 4,
+      "valueAfter": "February"
+    },
+    {
+      "timestamp": 1766063632486,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "February "
+    },
+    {
+      "timestamp": 1766063633331,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "February h"
+    },
+    {
+      "timestamp": 1766063633456,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "February ha"
+    },
+    {
+      "timestamp": 1766063633528,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "February has"
+    },
+    {
+      "timestamp": 1766063633591,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "February has "
+    },
+    {
+      "timestamp": 1766063633729,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "February has a"
+    },
+    {
+      "timestamp": 1766063633874,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "February has an"
+    },
+    {
+      "timestamp": 1766063633970,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "February has an "
+    },
+    {
+      "timestamp": 1766063634412,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "February has an e"
+    },
+    {
+      "timestamp": 1766063634626,
+      "key": "x",
+      "sentenceIndex": 4,
+      "valueAfter": "February has an ex"
+    },
+    {
+      "timestamp": 1766063634863,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "February has an ext"
+    },
+    {
+      "timestamp": 1766063635010,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "February has an extr"
+    },
+    {
+      "timestamp": 1766063635140,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "February has an extra"
+    },
+    {
+      "timestamp": 1766063635219,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "February has an extra "
+    },
+    {
+      "timestamp": 1766063635494,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "February has an extra d"
+    },
+    {
+      "timestamp": 1766063635705,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "February has an extra da"
+    },
+    {
+      "timestamp": 1766063635795,
+      "key": "y",
+      "sentenceIndex": 4,
+      "valueAfter": "February has an extra day"
+    },
+    {
+      "timestamp": 1766063635973,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766063636655,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766063637185,
+      "key": "P",
+      "sentenceIndex": 5,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1766063637336,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": "Pl"
+    },
+    {
+      "timestamp": 1766063637504,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Pla"
+    },
+    {
+      "timestamp": 1766063637539,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": "Play"
+    },
+    {
+      "timestamp": 1766063637762,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Play "
+    },
+    {
+      "timestamp": 1766063638246,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Play i"
+    },
+    {
+      "timestamp": 1766063638401,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it"
+    },
+    {
+      "timestamp": 1766063638464,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it "
+    },
+    {
+      "timestamp": 1766063638587,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it a"
+    },
+    {
+      "timestamp": 1766063638710,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it ag"
+    },
+    {
+      "timestamp": 1766063638806,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it aga"
+    },
+    {
+      "timestamp": 1766063638870,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it agai"
+    },
+    {
+      "timestamp": 1766063639045,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it again"
+    },
+    {
+      "timestamp": 1766063639203,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it again "
+    },
+    {
+      "timestamp": 1766063639577,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it again s"
+    },
+    {
+      "timestamp": 1766063639720,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it again sa"
+    },
+    {
+      "timestamp": 1766063639809,
+      "key": "m",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it again sam"
+    },
+    {
+      "timestamp": 1766063639934,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766063640515,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766063641097,
+      "key": "W",
+      "sentenceIndex": 6,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1766063641226,
+      "key": "h",
+      "sentenceIndex": 6,
+      "valueAfter": "Wh"
+    },
+    {
+      "timestamp": 1766063641307,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "Wha"
+    },
+    {
+      "timestamp": 1766063641388,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "What"
+    },
+    {
+      "timestamp": 1766063641601,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "What "
+    },
+    {
+      "timestamp": 1766063642096,
+      "key": "h",
+      "sentenceIndex": 6,
+      "valueAfter": "What h"
+    },
+    {
+      "timestamp": 1766063642282,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "What ho"
+    },
+    {
+      "timestamp": 1766063642384,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "What hoe"
+    },
+    {
+      "timestamp": 1766063642522,
+      "key": "s",
+      "sentenceIndex": 6,
+      "valueAfter": "What hoes"
+    },
+    {
+      "timestamp": 1766063642589,
+      "key": "goes",
+      "sentenceIndex": 6,
+      "valueAfter": "What goes"
+    },
+    {
+      "timestamp": 1766063642600,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "What goes "
+    },
+    {
+      "timestamp": 1766063643172,
+      "key": "u",
+      "sentenceIndex": 6,
+      "valueAfter": "What goes u"
+    },
+    {
+      "timestamp": 1766063643412,
+      "key": "p",
+      "sentenceIndex": 6,
+      "valueAfter": "What goes up"
+    },
+    {
+      "timestamp": 1766063643531,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "What goes up "
+    },
+    {
+      "timestamp": 1766063643712,
+      "key": "m",
+      "sentenceIndex": 6,
+      "valueAfter": "What goes up m"
+    },
+    {
+      "timestamp": 1766063643946,
+      "key": "u",
+      "sentenceIndex": 6,
+      "valueAfter": "What goes up mu"
+    },
+    {
+      "timestamp": 1766063644075,
+      "key": "s",
+      "sentenceIndex": 6,
+      "valueAfter": "What goes up mus"
+    },
+    {
+      "timestamp": 1766063644140,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "What goes up must"
+    },
+    {
+      "timestamp": 1766063644394,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "What goes up must "
+    },
+    {
+      "timestamp": 1766063644902,
+      "key": "c",
+      "sentenceIndex": 6,
+      "valueAfter": "What goes up must c"
+    },
+    {
+      "timestamp": 1766063645042,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "What goes up must co"
+    },
+    {
+      "timestamp": 1766063645132,
+      "key": "m",
+      "sentenceIndex": 6,
+      "valueAfter": "What goes up must com"
+    },
+    {
+      "timestamp": 1766063645247,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "What goes up must come"
+    },
+    {
+      "timestamp": 1766063645334,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "What goes up must come "
+    },
+    {
+      "timestamp": 1766063645589,
+      "key": "b",
+      "sentenceIndex": 6,
+      "valueAfter": "What goes up must come b"
+    },
+    {
+      "timestamp": 1766063645923,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "What goes up must come "
+    },
+    {
+      "timestamp": 1766063646154,
+      "key": "d",
+      "sentenceIndex": 6,
+      "valueAfter": "What goes up must come d"
+    },
+    {
+      "timestamp": 1766063646294,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "What goes up must come do"
+    },
+    {
+      "timestamp": 1766063646425,
+      "key": "w",
+      "sentenceIndex": 6,
+      "valueAfter": "What goes up must come dow"
+    },
+    {
+      "timestamp": 1766063646490,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "What goes up must come down"
+    },
+    {
+      "timestamp": 1766063646638,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766063647207,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766063647668,
+      "key": "W",
+      "sentenceIndex": 7,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1766063647799,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "We"
+    },
+    {
+      "timestamp": 1766063647992,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Wee"
+    },
+    {
+      "timestamp": 1766063648185,
+      "key": "p",
+      "sentenceIndex": 7,
+      "valueAfter": "Weep"
+    },
+    {
+      "timestamp": 1766063648445,
+      "key": "i",
+      "sentenceIndex": 7,
+      "valueAfter": "Weepi"
+    },
+    {
+      "timestamp": 1766063648590,
+      "key": "n",
+      "sentenceIndex": 7,
+      "valueAfter": "Weepin"
+    },
+    {
+      "timestamp": 1766063648672,
+      "key": "g",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping"
+    },
+    {
+      "timestamp": 1766063648740,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping "
+    },
+    {
+      "timestamp": 1766063649348,
+      "key": "w",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping w"
+    },
+    {
+      "timestamp": 1766063649486,
+      "key": "i",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping wi"
+    },
+    {
+      "timestamp": 1766063649569,
+      "key": "l",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping wil"
+    },
+    {
+      "timestamp": 1766063649727,
+      "key": "l",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping will"
+    },
+    {
+      "timestamp": 1766063650051,
+      "key": "i",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willi"
+    },
+    {
+      "timestamp": 1766063650993,
+      "key": "o",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willio"
+    },
+    {
+      "timestamp": 1766063651115,
+      "key": "w",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping williow"
+    },
+    {
+      "timestamp": 1766063651663,
+      "key": "willow",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willow"
+    },
+    {
+      "timestamp": 1766063651692,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willow "
+    },
+    {
+      "timestamp": 1766063651839,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willow a"
+    },
+    {
+      "timestamp": 1766063652087,
+      "key": "r",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willow ar"
+    },
+    {
+      "timestamp": 1766063652222,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willow are"
+    },
+    {
+      "timestamp": 1766063652302,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willow are "
+    },
+    {
+      "timestamp": 1766063652752,
+      "key": "f",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willow are f"
+    },
+    {
+      "timestamp": 1766063652874,
+      "key": "o",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willow are fo"
+    },
+    {
+      "timestamp": 1766063653006,
+      "key": "u",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willow are fou"
+    },
+    {
+      "timestamp": 1766063653163,
+      "key": "n",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willow are foun"
+    },
+    {
+      "timestamp": 1766063653261,
+      "key": "d",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willow are found"
+    },
+    {
+      "timestamp": 1766063653324,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willow are found "
+    },
+    {
+      "timestamp": 1766063653543,
+      "key": "n",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willow are found n"
+    },
+    {
+      "timestamp": 1766063653576,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willow are found ne"
+    },
+    {
+      "timestamp": 1766063653742,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willow are found nea"
+    },
+    {
+      "timestamp": 1766063653940,
+      "key": "r",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willow are found near"
+    },
+    {
+      "timestamp": 1766063654038,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willow are found near "
+    },
+    {
+      "timestamp": 1766063654413,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willow are found near e"
+    },
+    {
+      "timestamp": 1766063654575,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willow are found near ea"
+    },
+    {
+      "timestamp": 1766063654639,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willow are found near eat"
+    },
+    {
+      "timestamp": 1766063654753,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Weeping willow are found near eate"
+    }
+  ]
+}

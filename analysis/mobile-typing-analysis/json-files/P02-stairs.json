@@ -1,0 +1,997 @@
+{
+  "mode": "upstairs",
+  "timestamp": "2025-12-17T09:51:20.242Z",
+  "duration": 60.063,
+  "wpm": 24,
+  "accuracy": "66.46",
+  "totalCharactersTyped": 158,
+  "correctCharacters": 105,
+  "errors": 76,
+  "sentencesCompleted": 5,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "The hopes if a new organisation",
+      "expected": "The hopes of a new organization"
+    },
+    {
+      "typed": " My bareface in the wind",
+      "expected": "My bare face in the wind"
+    },
+    {
+      "typed": "Electric cars need big fuel cells",
+      "expected": "Electric cars need big fuel cells"
+    },
+    {
+      "typed": "He was wearing a sweatshirt",
+      "expected": "He was wearing a sweatshirt"
+    },
+    {
+      "typed": " This camera takes nice photograph",
+      "expected": "This camera takes nice photographs"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765965010092,
+      "key": "T",
+      "sentenceIndex": 0,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765965010301,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765965010525,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765965010682,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765965011046,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "The h"
+    },
+    {
+      "timestamp": 1765965011329,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "The ho"
+    },
+    {
+      "timestamp": 1765965011528,
+      "key": "p",
+      "sentenceIndex": 0,
+      "valueAfter": "The hop"
+    },
+    {
+      "timestamp": 1765965011678,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The hope"
+    },
+    {
+      "timestamp": 1765965011897,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "The hopes"
+    },
+    {
+      "timestamp": 1765965012450,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The hopes "
+    },
+    {
+      "timestamp": 1765965012947,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "The hopes i"
+    },
+    {
+      "timestamp": 1765965013281,
+      "key": "f",
+      "sentenceIndex": 0,
+      "valueAfter": "The hopes if"
+    },
+    {
+      "timestamp": 1765965013421,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The hopes if "
+    },
+    {
+      "timestamp": 1765965013630,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "The hopes if a"
+    },
+    {
+      "timestamp": 1765965013818,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The hopes if a "
+    },
+    {
+      "timestamp": 1765965014014,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "The hopes if a n"
+    },
+    {
+      "timestamp": 1765965014231,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The hopes if a ne"
+    },
+    {
+      "timestamp": 1765965014432,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "The hopes if a new"
+    },
+    {
+      "timestamp": 1765965014578,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The hopes if a new "
+    },
+    {
+      "timestamp": 1765965015347,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "The hopes if a new o"
+    },
+    {
+      "timestamp": 1765965015682,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "The hopes if a new or"
+    },
+    {
+      "timestamp": 1765965015952,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "The hopes if a new org"
+    },
+    {
+      "timestamp": 1765965016201,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "The hopes if a new orga"
+    },
+    {
+      "timestamp": 1765965016448,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "The hopes if a new organ"
+    },
+    {
+      "timestamp": 1765965016750,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "The hopes if a new organi"
+    },
+    {
+      "timestamp": 1765965017222,
+      "key": "organisation",
+      "sentenceIndex": 0,
+      "valueAfter": "The hopes if a new organisation"
+    },
+    {
+      "timestamp": 1765965017255,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1765965019265,
+      "key": "M",
+      "sentenceIndex": 1,
+      "valueAfter": " M"
+    },
+    {
+      "timestamp": 1765965019634,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": " My"
+    },
+    {
+      "timestamp": 1765965019953,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " My "
+    },
+    {
+      "timestamp": 1765965020203,
+      "key": "b",
+      "sentenceIndex": 1,
+      "valueAfter": " My b"
+    },
+    {
+      "timestamp": 1765965020403,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": " My ba"
+    },
+    {
+      "timestamp": 1765965020704,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": " My bar"
+    },
+    {
+      "timestamp": 1765965020905,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": " My bare"
+    },
+    {
+      "timestamp": 1765965021751,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": " My baref"
+    },
+    {
+      "timestamp": 1765965021989,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": " My barefa"
+    },
+    {
+      "timestamp": 1765965022100,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": " My barefac"
+    },
+    {
+      "timestamp": 1765965022252,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": " My bareface"
+    },
+    {
+      "timestamp": 1765965024561,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " My bareface "
+    },
+    {
+      "timestamp": 1765965024871,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": " My bareface i"
+    },
+    {
+      "timestamp": 1765965025088,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": " My bareface in"
+    },
+    {
+      "timestamp": 1765965025280,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " My bareface in "
+    },
+    {
+      "timestamp": 1765965025907,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": " My bareface in t"
+    },
+    {
+      "timestamp": 1765965026069,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": " My bareface in th"
+    },
+    {
+      "timestamp": 1765965026324,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": " My bareface in the"
+    },
+    {
+      "timestamp": 1765965026448,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " My bareface in the "
+    },
+    {
+      "timestamp": 1765965026587,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": " My bareface in the w"
+    },
+    {
+      "timestamp": 1765965026860,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": " My bareface in the wi"
+    },
+    {
+      "timestamp": 1765965027127,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": " My bareface in the win"
+    },
+    {
+      "timestamp": 1765965027263,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": " My bareface in the wind"
+    },
+    {
+      "timestamp": 1765965028776,
+      "key": "E",
+      "sentenceIndex": 2,
+      "valueAfter": "E"
+    },
+    {
+      "timestamp": 1765965028992,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "El"
+    },
+    {
+      "timestamp": 1765965029123,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Ele"
+    },
+    {
+      "timestamp": 1765965029509,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Elec"
+    },
+    {
+      "timestamp": 1765965029944,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Elect"
+    },
+    {
+      "timestamp": 1765965030187,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Electr"
+    },
+    {
+      "timestamp": 1765965030414,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Electri"
+    },
+    {
+      "timestamp": 1765965031478,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric"
+    },
+    {
+      "timestamp": 1765965031644,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric "
+    },
+    {
+      "timestamp": 1765965031861,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric c"
+    },
+    {
+      "timestamp": 1765965032112,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric ca"
+    },
+    {
+      "timestamp": 1765965032477,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric car"
+    },
+    {
+      "timestamp": 1765965032695,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars"
+    },
+    {
+      "timestamp": 1765965032884,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars "
+    },
+    {
+      "timestamp": 1765965033595,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars n"
+    },
+    {
+      "timestamp": 1765965033895,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars ne"
+    },
+    {
+      "timestamp": 1765965034064,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars nee"
+    },
+    {
+      "timestamp": 1765965034263,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars need"
+    },
+    {
+      "timestamp": 1765965034473,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars need "
+    },
+    {
+      "timestamp": 1765965034847,
+      "key": "b",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars need b"
+    },
+    {
+      "timestamp": 1765965035161,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars need bi"
+    },
+    {
+      "timestamp": 1765965035514,
+      "key": "g",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars need big"
+    },
+    {
+      "timestamp": 1765965036271,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars need big "
+    },
+    {
+      "timestamp": 1765965036617,
+      "key": "f",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars need big f"
+    },
+    {
+      "timestamp": 1765965036857,
+      "key": "u",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars need big fu"
+    },
+    {
+      "timestamp": 1765965037049,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars need big fue"
+    },
+    {
+      "timestamp": 1765965037172,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars need big fuel"
+    },
+    {
+      "timestamp": 1765965038251,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars need big fuelc"
+    },
+    {
+      "timestamp": 1765965039215,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars need big fuel"
+    },
+    {
+      "timestamp": 1765965039474,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars need big fuel "
+    },
+    {
+      "timestamp": 1765965039686,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars need big fuel c"
+    },
+    {
+      "timestamp": 1765965040069,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars need big fuel ce"
+    },
+    {
+      "timestamp": 1765965040402,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars need big fuel cel"
+    },
+    {
+      "timestamp": 1765965040551,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars need big fuel cell"
+    },
+    {
+      "timestamp": 1765965040703,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Electric cars need big fuel cells"
+    },
+    {
+      "timestamp": 1765965043454,
+      "key": "H",
+      "sentenceIndex": 3,
+      "valueAfter": "H"
+    },
+    {
+      "timestamp": 1765965043711,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "He"
+    },
+    {
+      "timestamp": 1765965043820,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "He "
+    },
+    {
+      "timestamp": 1765965044022,
+      "key": "w",
+      "sentenceIndex": 3,
+      "valueAfter": "He w"
+    },
+    {
+      "timestamp": 1765965044241,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "He wa"
+    },
+    {
+      "timestamp": 1765965044439,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "He was"
+    },
+    {
+      "timestamp": 1765965044552,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "He was "
+    },
+    {
+      "timestamp": 1765965044889,
+      "key": "w",
+      "sentenceIndex": 3,
+      "valueAfter": "He was w"
+    },
+    {
+      "timestamp": 1765965045141,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "He was we"
+    },
+    {
+      "timestamp": 1765965045376,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "He was wea"
+    },
+    {
+      "timestamp": 1765965045673,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "He was wear"
+    },
+    {
+      "timestamp": 1765965045945,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "He was weari"
+    },
+    {
+      "timestamp": 1765965046170,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "He was wearin"
+    },
+    {
+      "timestamp": 1765965046322,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": "He was wearing"
+    },
+    {
+      "timestamp": 1765965046496,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "He was wearing "
+    },
+    {
+      "timestamp": 1765965047260,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "He was wearing a"
+    },
+    {
+      "timestamp": 1765965047407,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "He was wearing a "
+    },
+    {
+      "timestamp": 1765965047593,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "He was wearing a s"
+    },
+    {
+      "timestamp": 1765965047937,
+      "key": "w",
+      "sentenceIndex": 3,
+      "valueAfter": "He was wearing a sw"
+    },
+    {
+      "timestamp": 1765965049059,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "He was wearing a swe"
+    },
+    {
+      "timestamp": 1765965049293,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "He was wearing a swea"
+    },
+    {
+      "timestamp": 1765965049743,
+      "key": "sweatshirt",
+      "sentenceIndex": 3,
+      "valueAfter": "He was wearing a sweatshirt"
+    },
+    {
+      "timestamp": 1765965049775,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1765965051581,
+      "key": "T",
+      "sentenceIndex": 4,
+      "valueAfter": " T"
+    },
+    {
+      "timestamp": 1765965051704,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": " Th"
+    },
+    {
+      "timestamp": 1765965051917,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": " Thi"
+    },
+    {
+      "timestamp": 1765965052077,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": " This"
+    },
+    {
+      "timestamp": 1765965052164,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " This "
+    },
+    {
+      "timestamp": 1765965052479,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": " This c"
+    },
+    {
+      "timestamp": 1765965052612,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": " This ca"
+    },
+    {
+      "timestamp": 1765965052863,
+      "key": "m",
+      "sentenceIndex": 4,
+      "valueAfter": " This cam"
+    },
+    {
+      "timestamp": 1765965053113,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": " This came"
+    },
+    {
+      "timestamp": 1765965053383,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": " This camer"
+    },
+    {
+      "timestamp": 1765965053616,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera"
+    },
+    {
+      "timestamp": 1765965053856,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera "
+    },
+    {
+      "timestamp": 1765965054166,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera t"
+    },
+    {
+      "timestamp": 1765965054430,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera ta"
+    },
+    {
+      "timestamp": 1765965054554,
+      "key": "k",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera tak"
+    },
+    {
+      "timestamp": 1765965054782,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera take"
+    },
+    {
+      "timestamp": 1765965054999,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera takes"
+    },
+    {
+      "timestamp": 1765965055258,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera takes "
+    },
+    {
+      "timestamp": 1765965055783,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera takes n"
+    },
+    {
+      "timestamp": 1765965056099,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera takes ni"
+    },
+    {
+      "timestamp": 1765965056349,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera takes nic"
+    },
+    {
+      "timestamp": 1765965056681,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera takes nice"
+    },
+    {
+      "timestamp": 1765965056886,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera takes nice "
+    },
+    {
+      "timestamp": 1765965058073,
+      "key": "p",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera takes nice p"
+    },
+    {
+      "timestamp": 1765965058382,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera takes nice ph"
+    },
+    {
+      "timestamp": 1765965058648,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera takes nice pho"
+    },
+    {
+      "timestamp": 1765965058932,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera takes nice phot"
+    },
+    {
+      "timestamp": 1765965059100,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera takes nice photo"
+    },
+    {
+      "timestamp": 1765965059373,
+      "key": "g",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera takes nice photog"
+    },
+    {
+      "timestamp": 1765965059635,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera takes nice photogr"
+    },
+    {
+      "timestamp": 1765965059882,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera takes nice photogra"
+    },
+    {
+      "timestamp": 1765965060462,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera takes nice photogra "
+    },
+    {
+      "timestamp": 1765965061899,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera takes nice photogra"
+    },
+    {
+      "timestamp": 1765965062836,
+      "key": "p",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera takes nice photograp"
+    },
+    {
+      "timestamp": 1765965063136,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": " This camera takes nice photograph"
+    },
+    {
+      "timestamp": 1765965063287,
+      "key": "S",
+      "sentenceIndex": 5,
+      "valueAfter": "S"
+    },
+    {
+      "timestamp": 1765965065022,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "Sh"
+    },
+    {
+      "timestamp": 1765965065306,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Shi"
+    },
+    {
+      "timestamp": 1765965066182,
+      "key": "v",
+      "sentenceIndex": 5,
+      "valueAfter": "Shiv"
+    },
+    {
+      "timestamp": 1765965066474,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Shive"
+    },
+    {
+      "timestamp": 1765965066656,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Shiver"
+    },
+    {
+      "timestamp": 1765965066861,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Shiveri"
+    },
+    {
+      "timestamp": 1765965067222,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "Shiverin"
+    },
+    {
+      "timestamp": 1765965067407,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": "Shivering"
+    },
+    {
+      "timestamp": 1765965068506,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Shivering "
+    },
+    {
+      "timestamp": 1765965068821,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Shivering i"
+    },
+    {
+      "timestamp": 1765965068968,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Shivering is"
+    },
+    {
+      "timestamp": 1765965069177,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Shivering is "
+    },
+    {
+      "timestamp": 1765965069459,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "Shivering is o"
+    },
+    {
+      "timestamp": 1765965069692,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "Shivering is on"
+    },
+    {
+      "timestamp": 1765965069976,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Shivering is one"
+    },
+    {
+      "timestamp": 1765965070101,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Shivering is one "
+    }
+  ]
+}

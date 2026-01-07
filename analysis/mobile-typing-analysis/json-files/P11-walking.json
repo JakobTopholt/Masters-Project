@@ -1,0 +1,1189 @@
+{
+  "mode": "walking",
+  "timestamp": "2025-12-18T09:27:52.592Z",
+  "duration": 60.01,
+  "wpm": 33,
+  "accuracy": "83.05",
+  "totalCharactersTyped": 177,
+  "correctCharacters": 147,
+  "errors": 40,
+  "sentencesCompleted": 5,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "I am wearing a tie and a jacket",
+      "expected": "I am wearing a tie and a jacket"
+    },
+    {
+      "typed": "Historic meeting without a result",
+      "expected": "Historic meeting without a result"
+    },
+    {
+      "typed": "The hopes of a new organization",
+      "expected": "The hopes of a new organization"
+    },
+    {
+      "typed": "February had an extra day",
+      "expected": "February has an extra day"
+    },
+    {
+      "typed": "Please follow the guidelines",
+      "expected": "Please follow the guidelines"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766050009580,
+      "key": "I",
+      "sentenceIndex": 0,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1766050010227,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "I "
+    },
+    {
+      "timestamp": 1766050010473,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "I a"
+    },
+    {
+      "timestamp": 1766050010622,
+      "key": "m",
+      "sentenceIndex": 0,
+      "valueAfter": "I am"
+    },
+    {
+      "timestamp": 1766050010803,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "I am "
+    },
+    {
+      "timestamp": 1766050011264,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "I am w"
+    },
+    {
+      "timestamp": 1766050011776,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "I am we"
+    },
+    {
+      "timestamp": 1766050011944,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wea"
+    },
+    {
+      "timestamp": 1766050012085,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wear"
+    },
+    {
+      "timestamp": 1766050012339,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearu"
+    },
+    {
+      "timestamp": 1766050012477,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearun"
+    },
+    {
+      "timestamp": 1766050012587,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearung"
+    },
+    {
+      "timestamp": 1766050012717,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "I am "
+    },
+    {
+      "timestamp": 1766050012725,
+      "key": "wearing ",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearing "
+    },
+    {
+      "timestamp": 1766050013016,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearing a"
+    },
+    {
+      "timestamp": 1766050013152,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearing a "
+    },
+    {
+      "timestamp": 1766050013557,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearing a t"
+    },
+    {
+      "timestamp": 1766050013814,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearing a ti"
+    },
+    {
+      "timestamp": 1766050013921,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearing a tie"
+    },
+    {
+      "timestamp": 1766050014042,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearing a tie "
+    },
+    {
+      "timestamp": 1766050014196,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearing a tie a"
+    },
+    {
+      "timestamp": 1766050014308,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearing a tie an"
+    },
+    {
+      "timestamp": 1766050014408,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearing a tie and"
+    },
+    {
+      "timestamp": 1766050014534,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearing a tie and "
+    },
+    {
+      "timestamp": 1766050014805,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearing a tie and a"
+    },
+    {
+      "timestamp": 1766050014967,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearing a tie and a "
+    },
+    {
+      "timestamp": 1766050015516,
+      "key": "j",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearing a tie and a j"
+    },
+    {
+      "timestamp": 1766050015710,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearing a tie and a ja"
+    },
+    {
+      "timestamp": 1766050015964,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearing a tie and a jac"
+    },
+    {
+      "timestamp": 1766050016171,
+      "key": "k",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearing a tie and a jack"
+    },
+    {
+      "timestamp": 1766050016346,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearing a tie and a jacke"
+    },
+    {
+      "timestamp": 1766050016508,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "I am wearing a tie and a jacket"
+    },
+    {
+      "timestamp": 1766050016598,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766050018917,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766050019327,
+      "key": "H",
+      "sentenceIndex": 1,
+      "valueAfter": "H"
+    },
+    {
+      "timestamp": 1766050019585,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Hi"
+    },
+    {
+      "timestamp": 1766050019720,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "His"
+    },
+    {
+      "timestamp": 1766050021047,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Hist"
+    },
+    {
+      "timestamp": 1766050021351,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Histo"
+    },
+    {
+      "timestamp": 1766050021499,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Histor"
+    },
+    {
+      "timestamp": 1766050021638,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Histori"
+    },
+    {
+      "timestamp": 1766050022709,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic"
+    },
+    {
+      "timestamp": 1766050022864,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic "
+    },
+    {
+      "timestamp": 1766050023080,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic m"
+    },
+    {
+      "timestamp": 1766050023222,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic me"
+    },
+    {
+      "timestamp": 1766050023399,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic mee"
+    },
+    {
+      "timestamp": 1766050023633,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meet"
+    },
+    {
+      "timestamp": 1766050023831,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeti"
+    },
+    {
+      "timestamp": 1766050023965,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meetin"
+    },
+    {
+      "timestamp": 1766050024101,
+      "key": "g",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeting"
+    },
+    {
+      "timestamp": 1766050024199,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeting "
+    },
+    {
+      "timestamp": 1766050024569,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeting w"
+    },
+    {
+      "timestamp": 1766050024742,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeting wi"
+    },
+    {
+      "timestamp": 1766050025277,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeting wit"
+    },
+    {
+      "timestamp": 1766050025558,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeting with"
+    },
+    {
+      "timestamp": 1766050025798,
+      "key": "p",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeting withp"
+    },
+    {
+      "timestamp": 1766050026179,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeting withpu"
+    },
+    {
+      "timestamp": 1766050026328,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeting withput"
+    },
+    {
+      "timestamp": 1766050026433,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeting "
+    },
+    {
+      "timestamp": 1766050026465,
+      "key": "without ",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeting without "
+    },
+    {
+      "timestamp": 1766050026822,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeting without a"
+    },
+    {
+      "timestamp": 1766050026997,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeting without a "
+    },
+    {
+      "timestamp": 1766050027415,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeting without a e"
+    },
+    {
+      "timestamp": 1766050027998,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeting without a "
+    },
+    {
+      "timestamp": 1766050028129,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeting without a r"
+    },
+    {
+      "timestamp": 1766050028296,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeting without a re"
+    },
+    {
+      "timestamp": 1766050028506,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeting without a res"
+    },
+    {
+      "timestamp": 1766050028856,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeting without a resu"
+    },
+    {
+      "timestamp": 1766050029020,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeting without a resul"
+    },
+    {
+      "timestamp": 1766050029129,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Historic meeting without a result"
+    },
+    {
+      "timestamp": 1766050029295,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766050029975,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766050031023,
+      "key": "T",
+      "sentenceIndex": 2,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766050031447,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766050031562,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766050031671,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766050032223,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "The h"
+    },
+    {
+      "timestamp": 1766050032613,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "The ho"
+    },
+    {
+      "timestamp": 1766050032749,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": "The hop"
+    },
+    {
+      "timestamp": 1766050032915,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "The hope"
+    },
+    {
+      "timestamp": 1766050033382,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes"
+    },
+    {
+      "timestamp": 1766050033539,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes "
+    },
+    {
+      "timestamp": 1766050033729,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes a"
+    },
+    {
+      "timestamp": 1766050033825,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes an"
+    },
+    {
+      "timestamp": 1766050034153,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes a"
+    },
+    {
+      "timestamp": 1766050034302,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes "
+    },
+    {
+      "timestamp": 1766050034556,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes o"
+    },
+    {
+      "timestamp": 1766050034654,
+      "key": "f",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes of"
+    },
+    {
+      "timestamp": 1766050034809,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes of "
+    },
+    {
+      "timestamp": 1766050035070,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes of a"
+    },
+    {
+      "timestamp": 1766050035252,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes of a "
+    },
+    {
+      "timestamp": 1766050035605,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes of a n"
+    },
+    {
+      "timestamp": 1766050035746,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes of a ne"
+    },
+    {
+      "timestamp": 1766050035912,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes of a new"
+    },
+    {
+      "timestamp": 1766050036064,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes of a new "
+    },
+    {
+      "timestamp": 1766050036490,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes of a new o"
+    },
+    {
+      "timestamp": 1766050036679,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes of a new or"
+    },
+    {
+      "timestamp": 1766050037136,
+      "key": "g",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes of a new org"
+    },
+    {
+      "timestamp": 1766050037255,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes of a new orga"
+    },
+    {
+      "timestamp": 1766050037343,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes of a new organ"
+    },
+    {
+      "timestamp": 1766050037686,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes of a new organi"
+    },
+    {
+      "timestamp": 1766050038587,
+      "key": "z",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes of a new organiz"
+    },
+    {
+      "timestamp": 1766050038744,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes of a new organiza"
+    },
+    {
+      "timestamp": 1766050038978,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes of a new organizat"
+    },
+    {
+      "timestamp": 1766050039487,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes of a new organizati"
+    },
+    {
+      "timestamp": 1766050039646,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes of a new organizatio"
+    },
+    {
+      "timestamp": 1766050039849,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "The hopes of a new organization"
+    },
+    {
+      "timestamp": 1766050040110,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766050040613,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766050041364,
+      "key": "f",
+      "sentenceIndex": 3,
+      "valueAfter": "f"
+    },
+    {
+      "timestamp": 1766050043411,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766050043835,
+      "key": "F",
+      "sentenceIndex": 3,
+      "valueAfter": "F"
+    },
+    {
+      "timestamp": 1766050044286,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Fa"
+    },
+    {
+      "timestamp": 1766050044583,
+      "key": "b",
+      "sentenceIndex": 3,
+      "valueAfter": "Fab"
+    },
+    {
+      "timestamp": 1766050045619,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Fabr"
+    },
+    {
+      "timestamp": 1766050045977,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": "Fabru"
+    },
+    {
+      "timestamp": 1766050046086,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Fabrua"
+    },
+    {
+      "timestamp": 1766050046536,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Fabruar"
+    },
+    {
+      "timestamp": 1766050046910,
+      "key": "y",
+      "sentenceIndex": 3,
+      "valueAfter": "Fabruary"
+    },
+    {
+      "timestamp": 1766050047340,
+      "key": "February ",
+      "sentenceIndex": 3,
+      "valueAfter": "February "
+    },
+    {
+      "timestamp": 1766050047974,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "February h"
+    },
+    {
+      "timestamp": 1766050048110,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "February ha"
+    },
+    {
+      "timestamp": 1766050048286,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "February had"
+    },
+    {
+      "timestamp": 1766050048402,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "February had "
+    },
+    {
+      "timestamp": 1766050048637,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "February had a"
+    },
+    {
+      "timestamp": 1766050048724,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "February had an"
+    },
+    {
+      "timestamp": 1766050048895,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "February had an "
+    },
+    {
+      "timestamp": 1766050049189,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "February had an e"
+    },
+    {
+      "timestamp": 1766050049789,
+      "key": "x",
+      "sentenceIndex": 3,
+      "valueAfter": "February had an ex"
+    },
+    {
+      "timestamp": 1766050050144,
+      "key": "y",
+      "sentenceIndex": 3,
+      "valueAfter": "February had an exy"
+    },
+    {
+      "timestamp": 1766050050554,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "February had an ex"
+    },
+    {
+      "timestamp": 1766050050828,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "February had an ext"
+    },
+    {
+      "timestamp": 1766050051020,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "February had an extr"
+    },
+    {
+      "timestamp": 1766050051151,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "February had an extra"
+    },
+    {
+      "timestamp": 1766050051320,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "February had an extra "
+    },
+    {
+      "timestamp": 1766050051654,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "February had an extra d"
+    },
+    {
+      "timestamp": 1766050051915,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "February had an extra da"
+    },
+    {
+      "timestamp": 1766050052335,
+      "key": "y",
+      "sentenceIndex": 3,
+      "valueAfter": "February had an extra day"
+    },
+    {
+      "timestamp": 1766050053728,
+      "key": "P",
+      "sentenceIndex": 4,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1766050053995,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Pl"
+    },
+    {
+      "timestamp": 1766050054922,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Ple"
+    },
+    {
+      "timestamp": 1766050055086,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Plea"
+    },
+    {
+      "timestamp": 1766050055290,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Pleas"
+    },
+    {
+      "timestamp": 1766050055475,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Please"
+    },
+    {
+      "timestamp": 1766050055686,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Please "
+    },
+    {
+      "timestamp": 1766050056330,
+      "key": "f",
+      "sentenceIndex": 4,
+      "valueAfter": "Please f"
+    },
+    {
+      "timestamp": 1766050056578,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Please fo"
+    },
+    {
+      "timestamp": 1766050056774,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Please fol"
+    },
+    {
+      "timestamp": 1766050056907,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Please foll"
+    },
+    {
+      "timestamp": 1766050057055,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Please follo"
+    },
+    {
+      "timestamp": 1766050057163,
+      "key": "w",
+      "sentenceIndex": 4,
+      "valueAfter": "Please follow"
+    },
+    {
+      "timestamp": 1766050057341,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Please follow "
+    },
+    {
+      "timestamp": 1766050057496,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Please follow t"
+    },
+    {
+      "timestamp": 1766050057647,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "Please follow th"
+    },
+    {
+      "timestamp": 1766050057744,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Please follow the"
+    },
+    {
+      "timestamp": 1766050057862,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Please follow the "
+    },
+    {
+      "timestamp": 1766050059011,
+      "key": "g",
+      "sentenceIndex": 4,
+      "valueAfter": "Please follow the g"
+    },
+    {
+      "timestamp": 1766050059336,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Please follow the gi"
+    },
+    {
+      "timestamp": 1766050059708,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Please follow the g"
+    },
+    {
+      "timestamp": 1766050060002,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "Please follow the gu"
+    },
+    {
+      "timestamp": 1766050060155,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Please follow the gui"
+    },
+    {
+      "timestamp": 1766050060250,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Please follow the guis"
+    },
+    {
+      "timestamp": 1766050060965,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Please follow the gui"
+    },
+    {
+      "timestamp": 1766050061062,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "Please follow the guid"
+    },
+    {
+      "timestamp": 1766050061384,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Please follow the guide"
+    },
+    {
+      "timestamp": 1766050061777,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Please follow the guidel"
+    },
+    {
+      "timestamp": 1766050061995,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Please follow the guideli"
+    },
+    {
+      "timestamp": 1766050062147,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "Please follow the guidelin"
+    },
+    {
+      "timestamp": 1766050062272,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Please follow the guideline"
+    },
+    {
+      "timestamp": 1766050062455,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Please follow the guidelines"
+    },
+    {
+      "timestamp": 1766050063800,
+      "key": "P",
+      "sentenceIndex": 5,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1766050064014,
+      "key": "w",
+      "sentenceIndex": 5,
+      "valueAfter": "Pw"
+    },
+    {
+      "timestamp": 1766050064483,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1766050064616,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Pe"
+    },
+    {
+      "timestamp": 1766050064840,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Per"
+    },
+    {
+      "timestamp": 1766050065066,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Perr"
+    },
+    {
+      "timestamp": 1766050065330,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "Per"
+    },
+    {
+      "timestamp": 1766050065448,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "Pe"
+    },
+    {
+      "timestamp": 1766050065664,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Pee"
+    },
+    {
+      "timestamp": 1766050065907,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Peer"
+    },
+    {
+      "timestamp": 1766050066213,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Peeri"
+    },
+    {
+      "timestamp": 1766050066708,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "Peerin"
+    },
+    {
+      "timestamp": 1766050066846,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": "Peering"
+    },
+    {
+      "timestamp": 1766050066967,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Peering "
+    },
+    {
+      "timestamp": 1766050067322,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "Peering t"
+    },
+    {
+      "timestamp": 1766050067773,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "Peering th"
+    },
+    {
+      "timestamp": 1766050067902,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Peering thr"
+    },
+    {
+      "timestamp": 1766050068128,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "Peering thro"
+    },
+    {
+      "timestamp": 1766050068351,
+      "key": "u",
+      "sentenceIndex": 5,
+      "valueAfter": "Peering throu"
+    },
+    {
+      "timestamp": 1766050068460,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": "Peering throug"
+    },
+    {
+      "timestamp": 1766050068631,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "Peering through"
+    },
+    {
+      "timestamp": 1766050068877,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Peering through "
+    }
+  ]
+}

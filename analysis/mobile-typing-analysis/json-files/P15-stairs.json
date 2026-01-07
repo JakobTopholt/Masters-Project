@@ -1,0 +1,1317 @@
+{
+  "mode": "upstairs",
+  "timestamp": "2025-12-18T12:32:24.009Z",
+  "duration": 60.627,
+  "wpm": 39,
+  "accuracy": "91.00",
+  "totalCharactersTyped": 211,
+  "correctCharacters": 192,
+  "errors": 71,
+  "sentencesCompleted": 7,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "athe assignmet is fue today",
+      "expected": "The assignment is due today"
+    },
+    {
+      "typed": "The dow jones index has risen",
+      "expected": "The dow jones index has risen"
+    },
+    {
+      "typed": "Video camera with a coom lens",
+      "expected": "Video camera with a zoom lens"
+    },
+    {
+      "typed": "Do not say anything",
+      "expected": "Do not say anything"
+    },
+    {
+      "typed": "What a monkey sees a monkey will do",
+      "expected": "What a monkey sees a monkey will do"
+    },
+    {
+      "typed": "That sticker needs to be validated",
+      "expected": "That sticker needs to be validated"
+    },
+    {
+      "typed": "the fire raged for an entire month",
+      "expected": "The fire raged for an entire month"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766061079050,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "a"
+    },
+    {
+      "timestamp": 1766061079285,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "at"
+    },
+    {
+      "timestamp": 1766061079611,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "ath"
+    },
+    {
+      "timestamp": 1766061079794,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "athe"
+    },
+    {
+      "timestamp": 1766061079916,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "athe "
+    },
+    {
+      "timestamp": 1766061080264,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "athe a"
+    },
+    {
+      "timestamp": 1766061080497,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "athe as"
+    },
+    {
+      "timestamp": 1766061080664,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "athe ass"
+    },
+    {
+      "timestamp": 1766061080874,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "athe assi"
+    },
+    {
+      "timestamp": 1766061081099,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "athe assig"
+    },
+    {
+      "timestamp": 1766061081312,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "athe assign"
+    },
+    {
+      "timestamp": 1766061081623,
+      "key": "m",
+      "sentenceIndex": 0,
+      "valueAfter": "athe assignm"
+    },
+    {
+      "timestamp": 1766061081791,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "athe assignme"
+    },
+    {
+      "timestamp": 1766061083177,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "athe assignmet"
+    },
+    {
+      "timestamp": 1766061083555,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "athe assignmet "
+    },
+    {
+      "timestamp": 1766061083950,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "athe assignmet i"
+    },
+    {
+      "timestamp": 1766061084051,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "athe assignmet is"
+    },
+    {
+      "timestamp": 1766061084236,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "athe assignmet is "
+    },
+    {
+      "timestamp": 1766061084355,
+      "key": "f",
+      "sentenceIndex": 0,
+      "valueAfter": "athe assignmet is f"
+    },
+    {
+      "timestamp": 1766061084513,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "athe assignmet is fu"
+    },
+    {
+      "timestamp": 1766061084751,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "athe assignmet is fue"
+    },
+    {
+      "timestamp": 1766061084922,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "athe assignmet is fue "
+    },
+    {
+      "timestamp": 1766061085315,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "athe assignmet is fue t"
+    },
+    {
+      "timestamp": 1766061085423,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "athe assignmet is fue to"
+    },
+    {
+      "timestamp": 1766061085538,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "athe assignmet is fue tod"
+    },
+    {
+      "timestamp": 1766061085730,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "athe assignmet is fue toda"
+    },
+    {
+      "timestamp": 1766061085886,
+      "key": "y",
+      "sentenceIndex": 0,
+      "valueAfter": "athe assignmet is fue today"
+    },
+    {
+      "timestamp": 1766061087162,
+      "key": "T",
+      "sentenceIndex": 1,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766061087365,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766061087561,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766061087773,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766061087959,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "The d"
+    },
+    {
+      "timestamp": 1766061088131,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "The do"
+    },
+    {
+      "timestamp": 1766061088266,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow"
+    },
+    {
+      "timestamp": 1766061088624,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow "
+    },
+    {
+      "timestamp": 1766061088905,
+      "key": "j",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow j"
+    },
+    {
+      "timestamp": 1766061089113,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow jo"
+    },
+    {
+      "timestamp": 1766061089326,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow jon"
+    },
+    {
+      "timestamp": 1766061089473,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow jone"
+    },
+    {
+      "timestamp": 1766061089729,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow jones"
+    },
+    {
+      "timestamp": 1766061089960,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow jones "
+    },
+    {
+      "timestamp": 1766061090222,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow jones i"
+    },
+    {
+      "timestamp": 1766061090444,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow jones in"
+    },
+    {
+      "timestamp": 1766061090588,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow jones ind"
+    },
+    {
+      "timestamp": 1766061090796,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow jones inde"
+    },
+    {
+      "timestamp": 1766061091151,
+      "key": "x",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow jones index"
+    },
+    {
+      "timestamp": 1766061091370,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow jones index "
+    },
+    {
+      "timestamp": 1766061091761,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow jones index h"
+    },
+    {
+      "timestamp": 1766061091957,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow jones index ha"
+    },
+    {
+      "timestamp": 1766061092186,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow jones index has"
+    },
+    {
+      "timestamp": 1766061092297,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow jones index has "
+    },
+    {
+      "timestamp": 1766061092448,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow jones index has r"
+    },
+    {
+      "timestamp": 1766061092578,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow jones index has ri"
+    },
+    {
+      "timestamp": 1766061092667,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow jones index has ris"
+    },
+    {
+      "timestamp": 1766061092898,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow jones index has rise"
+    },
+    {
+      "timestamp": 1766061093046,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "The dow jones index has risen"
+    },
+    {
+      "timestamp": 1766061094446,
+      "key": "V",
+      "sentenceIndex": 2,
+      "valueAfter": "V"
+    },
+    {
+      "timestamp": 1766061094734,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Vi"
+    },
+    {
+      "timestamp": 1766061094908,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "Vid"
+    },
+    {
+      "timestamp": 1766061095116,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Vide"
+    },
+    {
+      "timestamp": 1766061095560,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Video"
+    },
+    {
+      "timestamp": 1766061097548,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Video "
+    },
+    {
+      "timestamp": 1766061097813,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Video c"
+    },
+    {
+      "timestamp": 1766061097977,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Video ca"
+    },
+    {
+      "timestamp": 1766061098106,
+      "key": "m",
+      "sentenceIndex": 2,
+      "valueAfter": "Video cam"
+    },
+    {
+      "timestamp": 1766061098369,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Video came"
+    },
+    {
+      "timestamp": 1766061098534,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Video camer"
+    },
+    {
+      "timestamp": 1766061098761,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Video camera"
+    },
+    {
+      "timestamp": 1766061098908,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Video camera "
+    },
+    {
+      "timestamp": 1766061099319,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "Video camera w"
+    },
+    {
+      "timestamp": 1766061099471,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Video camera wi"
+    },
+    {
+      "timestamp": 1766061099624,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Video camera wit"
+    },
+    {
+      "timestamp": 1766061099789,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Video camera with"
+    },
+    {
+      "timestamp": 1766061100088,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Video camera with "
+    },
+    {
+      "timestamp": 1766061100281,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Video camera with a"
+    },
+    {
+      "timestamp": 1766061100513,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Video camera with a "
+    },
+    {
+      "timestamp": 1766061100831,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Video camera with a c"
+    },
+    {
+      "timestamp": 1766061100986,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Video camera with a co"
+    },
+    {
+      "timestamp": 1766061101137,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Video camera with a coo"
+    },
+    {
+      "timestamp": 1766061101336,
+      "key": "m",
+      "sentenceIndex": 2,
+      "valueAfter": "Video camera with a coom"
+    },
+    {
+      "timestamp": 1766061101593,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Video camera with a coom "
+    },
+    {
+      "timestamp": 1766061101820,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Video camera with a coom l"
+    },
+    {
+      "timestamp": 1766061101936,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Video camera with a coom le"
+    },
+    {
+      "timestamp": 1766061102040,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Video camera with a coom len"
+    },
+    {
+      "timestamp": 1766061102228,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Video camera with a coom lens"
+    },
+    {
+      "timestamp": 1766061103624,
+      "key": "D",
+      "sentenceIndex": 3,
+      "valueAfter": "D"
+    },
+    {
+      "timestamp": 1766061103795,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Do"
+    },
+    {
+      "timestamp": 1766061104076,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Do "
+    },
+    {
+      "timestamp": 1766061104257,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Do n"
+    },
+    {
+      "timestamp": 1766061104510,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Do no"
+    },
+    {
+      "timestamp": 1766061105361,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Do not"
+    },
+    {
+      "timestamp": 1766061105540,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Do not "
+    },
+    {
+      "timestamp": 1766061105712,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Do not s"
+    },
+    {
+      "timestamp": 1766061105916,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Do not sa"
+    },
+    {
+      "timestamp": 1766061106008,
+      "key": "y",
+      "sentenceIndex": 3,
+      "valueAfter": "Do not say"
+    },
+    {
+      "timestamp": 1766061106267,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Do not say "
+    },
+    {
+      "timestamp": 1766061106468,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Do not say a"
+    },
+    {
+      "timestamp": 1766061106573,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Do not say an"
+    },
+    {
+      "timestamp": 1766061106820,
+      "key": "y",
+      "sentenceIndex": 3,
+      "valueAfter": "Do not say any"
+    },
+    {
+      "timestamp": 1766061107068,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Do not say anyt"
+    },
+    {
+      "timestamp": 1766061107279,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Do not say anyth"
+    },
+    {
+      "timestamp": 1766061107470,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Do not say anythi"
+    },
+    {
+      "timestamp": 1766061107686,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Do not say anythin"
+    },
+    {
+      "timestamp": 1766061107932,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": "Do not say anything"
+    },
+    {
+      "timestamp": 1766061109127,
+      "key": "W",
+      "sentenceIndex": 4,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1766061109301,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "Wh"
+    },
+    {
+      "timestamp": 1766061109414,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Wha"
+    },
+    {
+      "timestamp": 1766061109545,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "What"
+    },
+    {
+      "timestamp": 1766061110277,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "What "
+    },
+    {
+      "timestamp": 1766061111309,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "What a"
+    },
+    {
+      "timestamp": 1766061112451,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "What a "
+    },
+    {
+      "timestamp": 1766061112976,
+      "key": "m",
+      "sentenceIndex": 4,
+      "valueAfter": "What a m"
+    },
+    {
+      "timestamp": 1766061113175,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "What a mo"
+    },
+    {
+      "timestamp": 1766061113411,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "What a mon"
+    },
+    {
+      "timestamp": 1766061113568,
+      "key": "k",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monk"
+    },
+    {
+      "timestamp": 1766061113746,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monke"
+    },
+    {
+      "timestamp": 1766061113949,
+      "key": "y",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey"
+    },
+    {
+      "timestamp": 1766061114226,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey "
+    },
+    {
+      "timestamp": 1766061114552,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey s"
+    },
+    {
+      "timestamp": 1766061114788,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey se"
+    },
+    {
+      "timestamp": 1766061114936,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey see"
+    },
+    {
+      "timestamp": 1766061115171,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey sees"
+    },
+    {
+      "timestamp": 1766061115385,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey sees "
+    },
+    {
+      "timestamp": 1766061115581,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey sees a"
+    },
+    {
+      "timestamp": 1766061115820,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey sees a "
+    },
+    {
+      "timestamp": 1766061116053,
+      "key": "m",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey sees a m"
+    },
+    {
+      "timestamp": 1766061116229,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey sees a mo"
+    },
+    {
+      "timestamp": 1766061116417,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey sees a mon"
+    },
+    {
+      "timestamp": 1766061116619,
+      "key": "k",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey sees a monk"
+    },
+    {
+      "timestamp": 1766061116712,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey sees a monke"
+    },
+    {
+      "timestamp": 1766061116993,
+      "key": "y",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey sees a monkey"
+    },
+    {
+      "timestamp": 1766061117138,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey sees a monkey "
+    },
+    {
+      "timestamp": 1766061117552,
+      "key": "w",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey sees a monkey w"
+    },
+    {
+      "timestamp": 1766061117798,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey sees a monkey wi"
+    },
+    {
+      "timestamp": 1766061117963,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey sees a monkey wil"
+    },
+    {
+      "timestamp": 1766061118115,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey sees a monkey will"
+    },
+    {
+      "timestamp": 1766061118409,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey sees a monkey will "
+    },
+    {
+      "timestamp": 1766061118734,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey sees a monkey will d"
+    },
+    {
+      "timestamp": 1766061118866,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "What a monkey sees a monkey will do"
+    },
+    {
+      "timestamp": 1766061120246,
+      "key": "T",
+      "sentenceIndex": 5,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766061120446,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766061120641,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Tha"
+    },
+    {
+      "timestamp": 1766061120780,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "That"
+    },
+    {
+      "timestamp": 1766061121180,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "That "
+    },
+    {
+      "timestamp": 1766061121361,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "That s"
+    },
+    {
+      "timestamp": 1766061121569,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "That st"
+    },
+    {
+      "timestamp": 1766061121745,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "That sti"
+    },
+    {
+      "timestamp": 1766061121908,
+      "key": "c",
+      "sentenceIndex": 5,
+      "valueAfter": "That stic"
+    },
+    {
+      "timestamp": 1766061122049,
+      "key": "k",
+      "sentenceIndex": 5,
+      "valueAfter": "That stick"
+    },
+    {
+      "timestamp": 1766061122210,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticke"
+    },
+    {
+      "timestamp": 1766061122452,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker"
+    },
+    {
+      "timestamp": 1766061122562,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker "
+    },
+    {
+      "timestamp": 1766061122774,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker n"
+    },
+    {
+      "timestamp": 1766061122840,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker ne"
+    },
+    {
+      "timestamp": 1766061123027,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker nee"
+    },
+    {
+      "timestamp": 1766061123274,
+      "key": "d",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker need"
+    },
+    {
+      "timestamp": 1766061123469,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker needs"
+    },
+    {
+      "timestamp": 1766061123705,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker needs "
+    },
+    {
+      "timestamp": 1766061124339,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker needs t"
+    },
+    {
+      "timestamp": 1766061124470,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker needs to"
+    },
+    {
+      "timestamp": 1766061124689,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker needs to "
+    },
+    {
+      "timestamp": 1766061124871,
+      "key": "b",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker needs to b"
+    },
+    {
+      "timestamp": 1766061125101,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker needs to be"
+    },
+    {
+      "timestamp": 1766061125349,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker needs to be "
+    },
+    {
+      "timestamp": 1766061125761,
+      "key": "v",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker needs to be v"
+    },
+    {
+      "timestamp": 1766061125895,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker needs to be va"
+    },
+    {
+      "timestamp": 1766061126030,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker needs to be val"
+    },
+    {
+      "timestamp": 1766061126234,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker needs to be vali"
+    },
+    {
+      "timestamp": 1766061126368,
+      "key": "d",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker needs to be valid"
+    },
+    {
+      "timestamp": 1766061126582,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker needs to be valida"
+    },
+    {
+      "timestamp": 1766061126748,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker needs to be validat"
+    },
+    {
+      "timestamp": 1766061126953,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker needs to be validate"
+    },
+    {
+      "timestamp": 1766061127205,
+      "key": "d",
+      "sentenceIndex": 5,
+      "valueAfter": "That sticker needs to be validated"
+    },
+    {
+      "timestamp": 1766061128853,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "t"
+    },
+    {
+      "timestamp": 1766061129350,
+      "key": "h",
+      "sentenceIndex": 6,
+      "valueAfter": "th"
+    },
+    {
+      "timestamp": 1766061129830,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "the"
+    },
+    {
+      "timestamp": 1766061130177,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "the "
+    },
+    {
+      "timestamp": 1766061130339,
+      "key": "f",
+      "sentenceIndex": 6,
+      "valueAfter": "the f"
+    },
+    {
+      "timestamp": 1766061130475,
+      "key": "i",
+      "sentenceIndex": 6,
+      "valueAfter": "the fi"
+    },
+    {
+      "timestamp": 1766061130624,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "the fir"
+    },
+    {
+      "timestamp": 1766061130796,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire"
+    },
+    {
+      "timestamp": 1766061131028,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire "
+    },
+    {
+      "timestamp": 1766061131409,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire r"
+    },
+    {
+      "timestamp": 1766061131636,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire ra"
+    },
+    {
+      "timestamp": 1766061131858,
+      "key": "g",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire rag"
+    },
+    {
+      "timestamp": 1766061132104,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire rage"
+    },
+    {
+      "timestamp": 1766061132333,
+      "key": "d",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire raged"
+    },
+    {
+      "timestamp": 1766061132645,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire raged "
+    },
+    {
+      "timestamp": 1766061133070,
+      "key": "f",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire raged f"
+    },
+    {
+      "timestamp": 1766061133239,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire raged fo"
+    },
+    {
+      "timestamp": 1766061133354,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire raged for"
+    },
+    {
+      "timestamp": 1766061133578,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire raged for "
+    },
+    {
+      "timestamp": 1766061133749,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire raged for a"
+    },
+    {
+      "timestamp": 1766061134024,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire raged for an"
+    },
+    {
+      "timestamp": 1766061134247,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire raged for an "
+    },
+    {
+      "timestamp": 1766061134396,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire raged for an e"
+    },
+    {
+      "timestamp": 1766061134504,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire raged for an en"
+    },
+    {
+      "timestamp": 1766061134696,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire raged for an ent"
+    },
+    {
+      "timestamp": 1766061134830,
+      "key": "i",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire raged for an enti"
+    },
+    {
+      "timestamp": 1766061135013,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire raged for an entir"
+    },
+    {
+      "timestamp": 1766061135257,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire raged for an entire"
+    },
+    {
+      "timestamp": 1766061135428,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire raged for an entire "
+    },
+    {
+      "timestamp": 1766061135870,
+      "key": "m",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire raged for an entire m"
+    },
+    {
+      "timestamp": 1766061136114,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire raged for an entire mo"
+    },
+    {
+      "timestamp": 1766061136325,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire raged for an entire mon"
+    },
+    {
+      "timestamp": 1766061136577,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire raged for an entire mont"
+    },
+    {
+      "timestamp": 1766061136782,
+      "key": "h",
+      "sentenceIndex": 6,
+      "valueAfter": "the fire raged for an entire month"
+    },
+    {
+      "timestamp": 1766061137171,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766061137916,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766061138831,
+      "key": "I",
+      "sentenceIndex": 7,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1766061139155,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "I "
+    },
+    {
+      "timestamp": 1766061139465,
+      "key": "w",
+      "sentenceIndex": 7,
+      "valueAfter": "I w"
+    }
+  ]
+}

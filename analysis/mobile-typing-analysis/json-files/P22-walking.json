@@ -1,0 +1,1235 @@
+{
+  "mode": "walking",
+  "timestamp": "2025-12-18T12:59:58.494Z",
+  "duration": 60.073,
+  "wpm": 35,
+  "accuracy": "91.58",
+  "totalCharactersTyped": 190,
+  "correctCharacters": 174,
+  "errors": 19,
+  "sentencesCompleted": 6,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Bank transaction was not registered",
+      "expected": "Bank transaction was not registered"
+    },
+    {
+      "typed": "Keep receipts for all you expenses ",
+      "expected": "Keep receipts for all your expenses"
+    },
+    {
+      "typed": "Weeping willows are found near water",
+      "expected": "Weeping willows are found near water"
+    },
+    {
+      "typed": "The dog will bite you",
+      "expected": "The dog will bite you"
+    },
+    {
+      "typed": "I do not fully agree with you",
+      "expected": "I do not fully agree with you"
+    },
+    {
+      "typed": "Machinery is too complicated",
+      "expected": "Machinery is too complicated"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766062733435,
+      "key": "B",
+      "sentenceIndex": 0,
+      "valueAfter": "B"
+    },
+    {
+      "timestamp": 1766062733686,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Ba"
+    },
+    {
+      "timestamp": 1766062733727,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Ban"
+    },
+    {
+      "timestamp": 1766062733990,
+      "key": "k",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank"
+    },
+    {
+      "timestamp": 1766062734290,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Bankr"
+    },
+    {
+      "timestamp": 1766062734955,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank"
+    },
+    {
+      "timestamp": 1766062735315,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank "
+    },
+    {
+      "timestamp": 1766062735908,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank t"
+    },
+    {
+      "timestamp": 1766062736088,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank tr"
+    },
+    {
+      "timestamp": 1766062736274,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank tra"
+    },
+    {
+      "timestamp": 1766062736368,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank tran"
+    },
+    {
+      "timestamp": 1766062736559,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank trans"
+    },
+    {
+      "timestamp": 1766062736738,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transa"
+    },
+    {
+      "timestamp": 1766062736839,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transac"
+    },
+    {
+      "timestamp": 1766062737038,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transact"
+    },
+    {
+      "timestamp": 1766062737276,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transacti"
+    },
+    {
+      "timestamp": 1766062737460,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transactio"
+    },
+    {
+      "timestamp": 1766062737677,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transaction"
+    },
+    {
+      "timestamp": 1766062737878,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transaction "
+    },
+    {
+      "timestamp": 1766062738572,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transaction w"
+    },
+    {
+      "timestamp": 1766062738792,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transaction wa"
+    },
+    {
+      "timestamp": 1766062738975,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transaction was"
+    },
+    {
+      "timestamp": 1766062739078,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transaction was "
+    },
+    {
+      "timestamp": 1766062739275,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transaction was n"
+    },
+    {
+      "timestamp": 1766062739458,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transaction was no"
+    },
+    {
+      "timestamp": 1766062739573,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transaction was not"
+    },
+    {
+      "timestamp": 1766062739727,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transaction was not "
+    },
+    {
+      "timestamp": 1766062740528,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transaction was not r"
+    },
+    {
+      "timestamp": 1766062740727,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transaction was not re"
+    },
+    {
+      "timestamp": 1766062740944,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transaction was not reg"
+    },
+    {
+      "timestamp": 1766062741143,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transaction was not regi"
+    },
+    {
+      "timestamp": 1766062741260,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transaction was not regis"
+    },
+    {
+      "timestamp": 1766062741370,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transaction was not regist"
+    },
+    {
+      "timestamp": 1766062741565,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transaction was not registe"
+    },
+    {
+      "timestamp": 1766062741727,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transaction was not register"
+    },
+    {
+      "timestamp": 1766062741913,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transaction was not registere"
+    },
+    {
+      "timestamp": 1766062742095,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "Bank transaction was not registered"
+    },
+    {
+      "timestamp": 1766062742200,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766062744333,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766062745323,
+      "key": "K",
+      "sentenceIndex": 1,
+      "valueAfter": "K"
+    },
+    {
+      "timestamp": 1766062745509,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Ke"
+    },
+    {
+      "timestamp": 1766062745794,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Kee"
+    },
+    {
+      "timestamp": 1766062745949,
+      "key": "p",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep"
+    },
+    {
+      "timestamp": 1766062746388,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep "
+    },
+    {
+      "timestamp": 1766062746815,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep r"
+    },
+    {
+      "timestamp": 1766062746982,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep re"
+    },
+    {
+      "timestamp": 1766062747186,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep rec"
+    },
+    {
+      "timestamp": 1766062747482,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep rece"
+    },
+    {
+      "timestamp": 1766062747650,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep recei"
+    },
+    {
+      "timestamp": 1766062747884,
+      "key": "p",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receip"
+    },
+    {
+      "timestamp": 1766062748420,
+      "key": "receipts",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts"
+    },
+    {
+      "timestamp": 1766062748432,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts "
+    },
+    {
+      "timestamp": 1766062749580,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts"
+    },
+    {
+      "timestamp": 1766062749585,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts "
+    },
+    {
+      "timestamp": 1766062749732,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts f"
+    },
+    {
+      "timestamp": 1766062749851,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts fo"
+    },
+    {
+      "timestamp": 1766062749933,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for"
+    },
+    {
+      "timestamp": 1766062750087,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for "
+    },
+    {
+      "timestamp": 1766062750253,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for a"
+    },
+    {
+      "timestamp": 1766062750364,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for al"
+    },
+    {
+      "timestamp": 1766062750527,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all"
+    },
+    {
+      "timestamp": 1766062750797,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all "
+    },
+    {
+      "timestamp": 1766062751086,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all y"
+    },
+    {
+      "timestamp": 1766062751179,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all yo"
+    },
+    {
+      "timestamp": 1766062751367,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all you"
+    },
+    {
+      "timestamp": 1766062751614,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all you "
+    },
+    {
+      "timestamp": 1766062751954,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all you e"
+    },
+    {
+      "timestamp": 1766062752254,
+      "key": "x",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all you ex"
+    },
+    {
+      "timestamp": 1766062752438,
+      "key": "p",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all you exp"
+    },
+    {
+      "timestamp": 1766062752532,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all you expe"
+    },
+    {
+      "timestamp": 1766062752721,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all you expen"
+    },
+    {
+      "timestamp": 1766062752853,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all you expens"
+    },
+    {
+      "timestamp": 1766062753363,
+      "key": "expenses",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all you expenses"
+    },
+    {
+      "timestamp": 1766062753379,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all you expenses "
+    },
+    {
+      "timestamp": 1766062755008,
+      "key": "W",
+      "sentenceIndex": 2,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1766062755185,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "We"
+    },
+    {
+      "timestamp": 1766062755456,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Wee"
+    },
+    {
+      "timestamp": 1766062755572,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Weee"
+    },
+    {
+      "timestamp": 1766062756704,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "Wee"
+    },
+    {
+      "timestamp": 1766062756958,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": "Weep"
+    },
+    {
+      "timestamp": 1766062757273,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Weepi"
+    },
+    {
+      "timestamp": 1766062757505,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Weepin"
+    },
+    {
+      "timestamp": 1766062757691,
+      "key": "g",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping"
+    },
+    {
+      "timestamp": 1766062757880,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping "
+    },
+    {
+      "timestamp": 1766062758345,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping w"
+    },
+    {
+      "timestamp": 1766062758676,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping wi"
+    },
+    {
+      "timestamp": 1766062758893,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping wil"
+    },
+    {
+      "timestamp": 1766062759057,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping will"
+    },
+    {
+      "timestamp": 1766062759241,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willo"
+    },
+    {
+      "timestamp": 1766062759577,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willos"
+    },
+    {
+      "timestamp": 1766062760843,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willoss"
+    },
+    {
+      "timestamp": 1766062761075,
+      "key": "willows",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows"
+    },
+    {
+      "timestamp": 1766062761092,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows "
+    },
+    {
+      "timestamp": 1766062761712,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows a"
+    },
+    {
+      "timestamp": 1766062761976,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows ar"
+    },
+    {
+      "timestamp": 1766062762160,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows are"
+    },
+    {
+      "timestamp": 1766062762317,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows are "
+    },
+    {
+      "timestamp": 1766062762680,
+      "key": "f",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows are f"
+    },
+    {
+      "timestamp": 1766062762845,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows are fo"
+    },
+    {
+      "timestamp": 1766062763063,
+      "key": "u",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows are fou"
+    },
+    {
+      "timestamp": 1766062763330,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows are foun"
+    },
+    {
+      "timestamp": 1766062763597,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows are found"
+    },
+    {
+      "timestamp": 1766062764007,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows are found "
+    },
+    {
+      "timestamp": 1766062764698,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows are found n"
+    },
+    {
+      "timestamp": 1766062764800,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows are found ne"
+    },
+    {
+      "timestamp": 1766062764998,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows are found nea"
+    },
+    {
+      "timestamp": 1766062765165,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows are found near"
+    },
+    {
+      "timestamp": 1766062766309,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows are found near "
+    },
+    {
+      "timestamp": 1766062766548,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows are found near w"
+    },
+    {
+      "timestamp": 1766062766747,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows are found near wa"
+    },
+    {
+      "timestamp": 1766062766874,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows are found near wat"
+    },
+    {
+      "timestamp": 1766062767031,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows are found near wate"
+    },
+    {
+      "timestamp": 1766062767183,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Weeping willows are found near water"
+    },
+    {
+      "timestamp": 1766062767289,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766062768947,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766062769716,
+      "key": "T",
+      "sentenceIndex": 3,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766062769877,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766062769999,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766062770124,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766062770601,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "The d"
+    },
+    {
+      "timestamp": 1766062770726,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "The do"
+    },
+    {
+      "timestamp": 1766062770969,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": "The dog"
+    },
+    {
+      "timestamp": 1766062771193,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The dog "
+    },
+    {
+      "timestamp": 1766062771636,
+      "key": "w",
+      "sentenceIndex": 3,
+      "valueAfter": "The dog w"
+    },
+    {
+      "timestamp": 1766062771836,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "The dog wi"
+    },
+    {
+      "timestamp": 1766062772035,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "The dog wil"
+    },
+    {
+      "timestamp": 1766062772201,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "The dog will"
+    },
+    {
+      "timestamp": 1766062772464,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The dog will "
+    },
+    {
+      "timestamp": 1766062772975,
+      "key": "b",
+      "sentenceIndex": 3,
+      "valueAfter": "The dog will b"
+    },
+    {
+      "timestamp": 1766062773205,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "The dog will bi"
+    },
+    {
+      "timestamp": 1766062773419,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "The dog will bit"
+    },
+    {
+      "timestamp": 1766062773588,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "The dog will bite"
+    },
+    {
+      "timestamp": 1766062773776,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The dog will bite "
+    },
+    {
+      "timestamp": 1766062774205,
+      "key": "y",
+      "sentenceIndex": 3,
+      "valueAfter": "The dog will bite y"
+    },
+    {
+      "timestamp": 1766062774299,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "The dog will bite yo"
+    },
+    {
+      "timestamp": 1766062774489,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": "The dog will bite you"
+    },
+    {
+      "timestamp": 1766062776590,
+      "key": "I",
+      "sentenceIndex": 4,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1766062776808,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "I "
+    },
+    {
+      "timestamp": 1766062777608,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "I d"
+    },
+    {
+      "timestamp": 1766062777790,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "I do"
+    },
+    {
+      "timestamp": 1766062778050,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "I do "
+    },
+    {
+      "timestamp": 1766062778259,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "I do n"
+    },
+    {
+      "timestamp": 1766062778457,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "I do no"
+    },
+    {
+      "timestamp": 1766062778538,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not"
+    },
+    {
+      "timestamp": 1766062778698,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not "
+    },
+    {
+      "timestamp": 1766062779158,
+      "key": "f",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not f"
+    },
+    {
+      "timestamp": 1766062779392,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not fu"
+    },
+    {
+      "timestamp": 1766062779643,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not ful"
+    },
+    {
+      "timestamp": 1766062779808,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not full"
+    },
+    {
+      "timestamp": 1766062780244,
+      "key": "y",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not fully"
+    },
+    {
+      "timestamp": 1766062780485,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not fully "
+    },
+    {
+      "timestamp": 1766062780810,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not fully a"
+    },
+    {
+      "timestamp": 1766062780961,
+      "key": "g",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not fully ag"
+    },
+    {
+      "timestamp": 1766062781161,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not fully agr"
+    },
+    {
+      "timestamp": 1766062781395,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not fully agre"
+    },
+    {
+      "timestamp": 1766062781577,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not fully agree"
+    },
+    {
+      "timestamp": 1766062781754,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not fully agree "
+    },
+    {
+      "timestamp": 1766062781891,
+      "key": "w",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not fully agree w"
+    },
+    {
+      "timestamp": 1766062782027,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not fully agree wi"
+    },
+    {
+      "timestamp": 1766062782138,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not fully agree wit"
+    },
+    {
+      "timestamp": 1766062782295,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not fully agree with"
+    },
+    {
+      "timestamp": 1766062782488,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not fully agree with "
+    },
+    {
+      "timestamp": 1766062782646,
+      "key": "y",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not fully agree with y"
+    },
+    {
+      "timestamp": 1766062782776,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not fully agree with yo"
+    },
+    {
+      "timestamp": 1766062782963,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "I do not fully agree with you"
+    },
+    {
+      "timestamp": 1766062783176,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766062784518,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766062785413,
+      "key": "M",
+      "sentenceIndex": 5,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1766062785574,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Ma"
+    },
+    {
+      "timestamp": 1766062785898,
+      "key": "c",
+      "sentenceIndex": 5,
+      "valueAfter": "Mac"
+    },
+    {
+      "timestamp": 1766062786044,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "Mach"
+    },
+    {
+      "timestamp": 1766062786246,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Machi"
+    },
+    {
+      "timestamp": 1766062786445,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "Machin"
+    },
+    {
+      "timestamp": 1766062786597,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Machine"
+    },
+    {
+      "timestamp": 1766062786764,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Machiner"
+    },
+    {
+      "timestamp": 1766062786949,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinere"
+    },
+    {
+      "timestamp": 1766062787716,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinerey"
+    },
+    {
+      "timestamp": 1766062787893,
+      "key": "Machinery",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinery"
+    },
+    {
+      "timestamp": 1766062787902,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinery "
+    },
+    {
+      "timestamp": 1766062788102,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinery i"
+    },
+    {
+      "timestamp": 1766062788229,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinery is"
+    },
+    {
+      "timestamp": 1766062788333,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinery is "
+    },
+    {
+      "timestamp": 1766062788750,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinery is t"
+    },
+    {
+      "timestamp": 1766062788894,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinery is to"
+    },
+    {
+      "timestamp": 1766062789065,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinery is too"
+    },
+    {
+      "timestamp": 1766062789343,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinery is too "
+    },
+    {
+      "timestamp": 1766062789635,
+      "key": "c",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinery is too c"
+    },
+    {
+      "timestamp": 1766062789747,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinery is too co"
+    },
+    {
+      "timestamp": 1766062789949,
+      "key": "m",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinery is too com"
+    },
+    {
+      "timestamp": 1766062790169,
+      "key": "p",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinery is too comp"
+    },
+    {
+      "timestamp": 1766062790352,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinery is too compl"
+    },
+    {
+      "timestamp": 1766062790523,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinery is too compli"
+    },
+    {
+      "timestamp": 1766062790769,
+      "key": "c",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinery is too complic"
+    },
+    {
+      "timestamp": 1766062790886,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinery is too complica"
+    },
+    {
+      "timestamp": 1766062790947,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinery is too complicat"
+    },
+    {
+      "timestamp": 1766062791136,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinery is too complicate"
+    },
+    {
+      "timestamp": 1766062791281,
+      "key": "d",
+      "sentenceIndex": 5,
+      "valueAfter": "Machinery is too complicated"
+    },
+    {
+      "timestamp": 1766062791391,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766062792800,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": ""
+    }
+  ]
+}

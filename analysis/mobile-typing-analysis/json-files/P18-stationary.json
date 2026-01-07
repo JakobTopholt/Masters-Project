@@ -1,0 +1,623 @@
+{
+  "mode": "stationary",
+  "timestamp": "2025-12-18T09:45:32.293Z",
+  "duration": 60.003,
+  "wpm": 21,
+  "accuracy": "98.97",
+  "totalCharactersTyped": 97,
+  "correctCharacters": 96,
+  "errors": 7,
+  "sentencesCompleted": 3,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Bring the offenders to justice",
+      "expected": "Bring the offenders to justice"
+    },
+    {
+      "typed": "The chamber makes important decisions",
+      "expected": "The chamber makes important decisions"
+    },
+    {
+      "typed": "Head shoulders knees and toes",
+      "expected": "Head shoulders knees and toes"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766051068036,
+      "key": "B",
+      "sentenceIndex": 0,
+      "valueAfter": "B"
+    },
+    {
+      "timestamp": 1766051068311,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Br"
+    },
+    {
+      "timestamp": 1766051068544,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Bri"
+    },
+    {
+      "timestamp": 1766051068910,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Brin"
+    },
+    {
+      "timestamp": 1766051069143,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring"
+    },
+    {
+      "timestamp": 1766051070213,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring "
+    },
+    {
+      "timestamp": 1766051070543,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring t"
+    },
+    {
+      "timestamp": 1766051070724,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring th"
+    },
+    {
+      "timestamp": 1766051070910,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the"
+    },
+    {
+      "timestamp": 1766051071108,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the "
+    },
+    {
+      "timestamp": 1766051072242,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the o"
+    },
+    {
+      "timestamp": 1766051072614,
+      "key": "f",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the of"
+    },
+    {
+      "timestamp": 1766051072790,
+      "key": "f",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the off"
+    },
+    {
+      "timestamp": 1766051073020,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the offe"
+    },
+    {
+      "timestamp": 1766051073923,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the offen"
+    },
+    {
+      "timestamp": 1766051074222,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the offend"
+    },
+    {
+      "timestamp": 1766051074487,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the offende"
+    },
+    {
+      "timestamp": 1766051074704,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the offender"
+    },
+    {
+      "timestamp": 1766051075738,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the offenders"
+    },
+    {
+      "timestamp": 1766051076960,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the offenders "
+    },
+    {
+      "timestamp": 1766051077168,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the offenders t"
+    },
+    {
+      "timestamp": 1766051077400,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the offenders to"
+    },
+    {
+      "timestamp": 1766051077751,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the offenders to "
+    },
+    {
+      "timestamp": 1766051078851,
+      "key": "j",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the offenders to j"
+    },
+    {
+      "timestamp": 1766051079068,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the offenders to ju"
+    },
+    {
+      "timestamp": 1766051079266,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the offenders to jus"
+    },
+    {
+      "timestamp": 1766051079548,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the offenders to just"
+    },
+    {
+      "timestamp": 1766051080484,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the offenders to justi"
+    },
+    {
+      "timestamp": 1766051080931,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the offenders to justic"
+    },
+    {
+      "timestamp": 1766051081229,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Bring the offenders to justice"
+    },
+    {
+      "timestamp": 1766051082914,
+      "key": "T",
+      "sentenceIndex": 1,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766051083095,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766051083328,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766051083554,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766051084314,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "The c"
+    },
+    {
+      "timestamp": 1766051084543,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "The ch"
+    },
+    {
+      "timestamp": 1766051084744,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "The cha"
+    },
+    {
+      "timestamp": 1766051085077,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": "The cham"
+    },
+    {
+      "timestamp": 1766051085593,
+      "key": "b",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamb"
+    },
+    {
+      "timestamp": 1766051087539,
+      "key": "er ",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber "
+    },
+    {
+      "timestamp": 1766051088328,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber m"
+    },
+    {
+      "timestamp": 1766051088457,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber ma"
+    },
+    {
+      "timestamp": 1766051088558,
+      "key": "k",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber mak"
+    },
+    {
+      "timestamp": 1766051088788,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber make"
+    },
+    {
+      "timestamp": 1766051089592,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber makes"
+    },
+    {
+      "timestamp": 1766051091089,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber makesi"
+    },
+    {
+      "timestamp": 1766051091455,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber makesim"
+    },
+    {
+      "timestamp": 1766051092376,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber makesi"
+    },
+    {
+      "timestamp": 1766051092569,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber makes"
+    },
+    {
+      "timestamp": 1766051093303,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber makes "
+    },
+    {
+      "timestamp": 1766051093751,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber makes i"
+    },
+    {
+      "timestamp": 1766051094070,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber makes im"
+    },
+    {
+      "timestamp": 1766051094335,
+      "key": "p",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber makes imp"
+    },
+    {
+      "timestamp": 1766051094534,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber makes impo"
+    },
+    {
+      "timestamp": 1766051096216,
+      "key": "rtant ",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber makes important "
+    },
+    {
+      "timestamp": 1766051097532,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber makes important d"
+    },
+    {
+      "timestamp": 1766051097764,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber makes important de"
+    },
+    {
+      "timestamp": 1766051098163,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber makes important dec"
+    },
+    {
+      "timestamp": 1766051098448,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber makes important deci"
+    },
+    {
+      "timestamp": 1766051101895,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber makes important decis"
+    },
+    {
+      "timestamp": 1766051102227,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber makes important decisi"
+    },
+    {
+      "timestamp": 1766051106643,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber makes important decisio"
+    },
+    {
+      "timestamp": 1766051106989,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber makes important decision"
+    },
+    {
+      "timestamp": 1766051107273,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "The chamber makes important decisions"
+    },
+    {
+      "timestamp": 1766051109872,
+      "key": "H",
+      "sentenceIndex": 2,
+      "valueAfter": "H"
+    },
+    {
+      "timestamp": 1766051110118,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "He"
+    },
+    {
+      "timestamp": 1766051110402,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Hea"
+    },
+    {
+      "timestamp": 1766051110701,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "Head"
+    },
+    {
+      "timestamp": 1766051111893,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Head "
+    },
+    {
+      "timestamp": 1766051112399,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Head s"
+    },
+    {
+      "timestamp": 1766051112615,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Head sh"
+    },
+    {
+      "timestamp": 1766051112899,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Head sho"
+    },
+    {
+      "timestamp": 1766051113098,
+      "key": "u",
+      "sentenceIndex": 2,
+      "valueAfter": "Head shou"
+    },
+    {
+      "timestamp": 1766051113348,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Head shoul"
+    },
+    {
+      "timestamp": 1766051113999,
+      "key": "ders ",
+      "sentenceIndex": 2,
+      "valueAfter": "Head shoulders "
+    },
+    {
+      "timestamp": 1766051115231,
+      "key": "k",
+      "sentenceIndex": 2,
+      "valueAfter": "Head shoulders k"
+    },
+    {
+      "timestamp": 1766051115496,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Head shoulders kn"
+    },
+    {
+      "timestamp": 1766051116066,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Head shoulders kne"
+    },
+    {
+      "timestamp": 1766051116214,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Head shoulders knee"
+    },
+    {
+      "timestamp": 1766051116711,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Head shoulders knees"
+    },
+    {
+      "timestamp": 1766051116963,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Head shoulders knees "
+    },
+    {
+      "timestamp": 1766051117827,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Head shoulders knees a"
+    },
+    {
+      "timestamp": 1766051118310,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Head shoulders knees an"
+    },
+    {
+      "timestamp": 1766051118543,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "Head shoulders knees and"
+    },
+    {
+      "timestamp": 1766051118676,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Head shoulders knees and "
+    },
+    {
+      "timestamp": 1766051119078,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Head shoulders knees and t"
+    },
+    {
+      "timestamp": 1766051119359,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Head shoulders knees and to"
+    },
+    {
+      "timestamp": 1766051119642,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Head shoulders knees and toe"
+    },
+    {
+      "timestamp": 1766051120041,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Head shoulders knees and toes"
+    },
+    {
+      "timestamp": 1766051121592,
+      "key": "I",
+      "sentenceIndex": 3,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1766051121873,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "In"
+    },
+    {
+      "timestamp": 1766051122158,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Int"
+    },
+    {
+      "timestamp": 1766051122491,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Inte"
+    },
+    {
+      "timestamp": 1766051122691,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Inter"
+    },
+    {
+      "timestamp": 1766051123206,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Inters"
+    },
+    {
+      "timestamp": 1766051124704,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Interst"
+    },
+    {
+      "timestamp": 1766051124889,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Intersti"
+    },
+    {
+      "timestamp": 1766051125253,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Interstin"
+    },
+    {
+      "timestamp": 1766051125656,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": "Intersting"
+    }
+  ]
+}

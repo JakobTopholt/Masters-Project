@@ -1,0 +1,509 @@
+{
+  "mode": "upstairs",
+  "timestamp": "2025-12-19T12:54:18.272Z",
+  "duration": 60.002,
+  "wpm": 34,
+  "accuracy": "273.77",
+  "totalCharactersTyped": 61,
+  "correctCharacters": 167,
+  "errors": 21,
+  "sentencesCompleted": 6,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "I can see the rings on Saturn",
+      "expected": "I can see the rings on Saturn"
+    },
+    {
+      "typed": "Olympic athletes use drugs",
+      "expected": "Olympic athletes use drugs"
+    },
+    {
+      "typed": "The laser printer is James ",
+      "expected": "The laser printer is jammed"
+    },
+    {
+      "typed": "The most beautiful sunset",
+      "expected": "The most beautiful sunset"
+    },
+    {
+      "typed": "Soon er will return from the city",
+      "expected": "Soon we will return from the city"
+    },
+    {
+      "typed": "Never too rich and never too thin",
+      "expected": "Never too rich and never too thin"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766148794004,
+      "key": "I",
+      "sentenceIndex": 0,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1766148794875,
+      "key": " can",
+      "sentenceIndex": 0,
+      "valueAfter": "I can"
+    },
+    {
+      "timestamp": 1766148795487,
+      "key": " see",
+      "sentenceIndex": 0,
+      "valueAfter": "I can see"
+    },
+    {
+      "timestamp": 1766148795906,
+      "key": " the",
+      "sentenceIndex": 0,
+      "valueAfter": "I can see the"
+    },
+    {
+      "timestamp": 1766148796951,
+      "key": " rings",
+      "sentenceIndex": 0,
+      "valueAfter": "I can see the rings"
+    },
+    {
+      "timestamp": 1766148797438,
+      "key": " for",
+      "sentenceIndex": 0,
+      "valueAfter": "I can see the rings for"
+    },
+    {
+      "timestamp": 1766148797721,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "I can see the rings "
+    },
+    {
+      "timestamp": 1766148798084,
+      "key": "og",
+      "sentenceIndex": 0,
+      "valueAfter": "I can see the rings og"
+    },
+    {
+      "timestamp": 1766148798649,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "I can see the rings "
+    },
+    {
+      "timestamp": 1766148798907,
+      "key": "on",
+      "sentenceIndex": 0,
+      "valueAfter": "I can see the rings on"
+    },
+    {
+      "timestamp": 1766148800177,
+      "key": " š",
+      "sentenceIndex": 0,
+      "valueAfter": "I can see the rings on š"
+    },
+    {
+      "timestamp": 1766148800623,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "I can see the rings on "
+    },
+    {
+      "timestamp": 1766148801680,
+      "key": "S",
+      "sentenceIndex": 0,
+      "valueAfter": "I can see the rings on S"
+    },
+    {
+      "timestamp": 1766148802146,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "I can see the rings on Sa"
+    },
+    {
+      "timestamp": 1766148802683,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "I can see the rings on Sat"
+    },
+    {
+      "timestamp": 1766148803054,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "I can see the rings on Satu"
+    },
+    {
+      "timestamp": 1766148803399,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "I can see the rings on Satur"
+    },
+    {
+      "timestamp": 1766148803808,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "I can see the rings on Saturn"
+    },
+    {
+      "timestamp": 1766148806658,
+      "key": "Olympics",
+      "sentenceIndex": 1,
+      "valueAfter": "Olympics"
+    },
+    {
+      "timestamp": 1766148807684,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Olympics "
+    },
+    {
+      "timestamp": 1766148808008,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Olympics"
+    },
+    {
+      "timestamp": 1766148808150,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Olympic"
+    },
+    {
+      "timestamp": 1766148808707,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Olympic "
+    },
+    {
+      "timestamp": 1766148810356,
+      "key": "Angeles",
+      "sentenceIndex": 1,
+      "valueAfter": "Olympic Angeles"
+    },
+    {
+      "timestamp": 1766148811035,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Olympic "
+    },
+    {
+      "timestamp": 1766148811598,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Olympic a"
+    },
+    {
+      "timestamp": 1766148811909,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Olympic at"
+    },
+    {
+      "timestamp": 1766148812149,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Olympic ath"
+    },
+    {
+      "timestamp": 1766148812535,
+      "key": "letes ",
+      "sentenceIndex": 1,
+      "valueAfter": "Olympic athletes "
+    },
+    {
+      "timestamp": 1766148813518,
+      "key": "is",
+      "sentenceIndex": 1,
+      "valueAfter": "Olympic athletes is"
+    },
+    {
+      "timestamp": 1766148814343,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Olympic athletes "
+    },
+    {
+      "timestamp": 1766148814886,
+      "key": "use",
+      "sentenceIndex": 1,
+      "valueAfter": "Olympic athletes use"
+    },
+    {
+      "timestamp": 1766148816454,
+      "key": " drugs",
+      "sentenceIndex": 1,
+      "valueAfter": "Olympic athletes use drugs"
+    },
+    {
+      "timestamp": 1766148817640,
+      "key": "The",
+      "sentenceIndex": 2,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766148818538,
+      "key": " last",
+      "sentenceIndex": 2,
+      "valueAfter": "The last"
+    },
+    {
+      "timestamp": 1766148819640,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "The las"
+    },
+    {
+      "timestamp": 1766148819651,
+      "key": "er ",
+      "sentenceIndex": 2,
+      "valueAfter": "The laser "
+    },
+    {
+      "timestamp": 1766148820218,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "The laser i"
+    },
+    {
+      "timestamp": 1766148820463,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "The laser "
+    },
+    {
+      "timestamp": 1766148821714,
+      "key": "printer",
+      "sentenceIndex": 2,
+      "valueAfter": "The laser printer"
+    },
+    {
+      "timestamp": 1766148822640,
+      "key": " is",
+      "sentenceIndex": 2,
+      "valueAfter": "The laser printer is"
+    },
+    {
+      "timestamp": 1766148824251,
+      "key": " James",
+      "sentenceIndex": 2,
+      "valueAfter": "The laser printer is James"
+    },
+    {
+      "timestamp": 1766148825321,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The laser printer is James "
+    },
+    {
+      "timestamp": 1766148827110,
+      "key": "The",
+      "sentenceIndex": 3,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766148827795,
+      "key": " BS",
+      "sentenceIndex": 3,
+      "valueAfter": "The BS"
+    },
+    {
+      "timestamp": 1766148828004,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766148828799,
+      "key": "most",
+      "sentenceIndex": 3,
+      "valueAfter": "The most"
+    },
+    {
+      "timestamp": 1766148830871,
+      "key": " beautiful",
+      "sentenceIndex": 3,
+      "valueAfter": "The most beautiful"
+    },
+    {
+      "timestamp": 1766148832325,
+      "key": " sunset",
+      "sentenceIndex": 3,
+      "valueAfter": "The most beautiful sunset"
+    },
+    {
+      "timestamp": 1766148833592,
+      "key": "Soon",
+      "sentenceIndex": 4,
+      "valueAfter": "Soon"
+    },
+    {
+      "timestamp": 1766148834055,
+      "key": " er",
+      "sentenceIndex": 4,
+      "valueAfter": "Soon er"
+    },
+    {
+      "timestamp": 1766148835157,
+      "key": " will",
+      "sentenceIndex": 4,
+      "valueAfter": "Soon er will"
+    },
+    {
+      "timestamp": 1766148836841,
+      "key": " return",
+      "sentenceIndex": 4,
+      "valueAfter": "Soon er will return"
+    },
+    {
+      "timestamp": 1766148837724,
+      "key": " du",
+      "sentenceIndex": 4,
+      "valueAfter": "Soon er will return du"
+    },
+    {
+      "timestamp": 1766148837978,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Soon er will return "
+    },
+    {
+      "timestamp": 1766148838780,
+      "key": "from",
+      "sentenceIndex": 4,
+      "valueAfter": "Soon er will return from"
+    },
+    {
+      "timestamp": 1766148839225,
+      "key": " the",
+      "sentenceIndex": 4,
+      "valueAfter": "Soon er will return from the"
+    },
+    {
+      "timestamp": 1766148840120,
+      "key": " city",
+      "sentenceIndex": 4,
+      "valueAfter": "Soon er will return from the city"
+    },
+    {
+      "timestamp": 1766148841424,
+      "key": "Never",
+      "sentenceIndex": 5,
+      "valueAfter": "Never"
+    },
+    {
+      "timestamp": 1766148841926,
+      "key": " to",
+      "sentenceIndex": 5,
+      "valueAfter": "Never to"
+    },
+    {
+      "timestamp": 1766148842950,
+      "key": "o ",
+      "sentenceIndex": 5,
+      "valueAfter": "Never too "
+    },
+    {
+      "timestamp": 1766148844271,
+      "key": "rough",
+      "sentenceIndex": 5,
+      "valueAfter": "Never too rough"
+    },
+    {
+      "timestamp": 1766148845124,
+      "key": " and",
+      "sentenceIndex": 5,
+      "valueAfter": "Never too rough and"
+    },
+    {
+      "timestamp": 1766148845565,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "Never too rough "
+    },
+    {
+      "timestamp": 1766148845734,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "Never too rough"
+    },
+    {
+      "timestamp": 1766148845928,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "Never too roug"
+    },
+    {
+      "timestamp": 1766148846482,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "Never too rou"
+    },
+    {
+      "timestamp": 1766148846694,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "Never too ro"
+    },
+    {
+      "timestamp": 1766148847184,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "Never too r"
+    },
+    {
+      "timestamp": 1766148847594,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Never too ri"
+    },
+    {
+      "timestamp": 1766148848563,
+      "key": "c",
+      "sentenceIndex": 5,
+      "valueAfter": "Never too ric"
+    },
+    {
+      "timestamp": 1766148848709,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "Never too rich"
+    },
+    {
+      "timestamp": 1766148849215,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Never too rich "
+    },
+    {
+      "timestamp": 1766148849799,
+      "key": "and",
+      "sentenceIndex": 5,
+      "valueAfter": "Never too rich and"
+    },
+    {
+      "timestamp": 1766148850851,
+      "key": " never",
+      "sentenceIndex": 5,
+      "valueAfter": "Never too rich and never"
+    },
+    {
+      "timestamp": 1766148852003,
+      "key": " too",
+      "sentenceIndex": 5,
+      "valueAfter": "Never too rich and never too"
+    },
+    {
+      "timestamp": 1766148852944,
+      "key": " thin",
+      "sentenceIndex": 5,
+      "valueAfter": "Never too rich and never too thin"
+    },
+    {
+      "timestamp": 1766148853999,
+      "key": "The",
+      "sentenceIndex": 6,
+      "valueAfter": "The"
+    }
+  ]
+}

@@ -1,0 +1,975 @@
+{
+  "mode": "upstairs",
+  "timestamp": "2025-12-18T12:53:54.438Z",
+  "duration": 60.055,
+  "wpm": 18,
+  "accuracy": "49.33",
+  "totalCharactersTyped": 150,
+  "correctCharacters": 74,
+  "errors": 84,
+  "sentencesCompleted": 4,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "These  lot is full of triucks",
+      "expected": "Parking lot is full of trucks"
+    },
+    {
+      "typed": "Would you like to come to my house",
+      "expected": "Would you like to come to my house"
+    },
+    {
+      "typed": "Do not say anything",
+      "expected": "Do not say anything"
+    },
+    {
+      "typed": " How is a non profit. Organisatio",
+      "expected": "This is a non profit organization"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766062367008,
+      "key": "T",
+      "sentenceIndex": 0,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766062367258,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766062367392,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766062367677,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Thes"
+    },
+    {
+      "timestamp": 1766062367843,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "These"
+    },
+    {
+      "timestamp": 1766062368017,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "These "
+    },
+    {
+      "timestamp": 1766062371400,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "These  "
+    },
+    {
+      "timestamp": 1766062371783,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "These  l"
+    },
+    {
+      "timestamp": 1766062372027,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lo"
+    },
+    {
+      "timestamp": 1766062372163,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot"
+    },
+    {
+      "timestamp": 1766062373025,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot "
+    },
+    {
+      "timestamp": 1766062373318,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot i"
+    },
+    {
+      "timestamp": 1766062373445,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot is"
+    },
+    {
+      "timestamp": 1766062373606,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot is "
+    },
+    {
+      "timestamp": 1766062374302,
+      "key": "f",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot is f"
+    },
+    {
+      "timestamp": 1766062374586,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot is fu"
+    },
+    {
+      "timestamp": 1766062374903,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot is ful"
+    },
+    {
+      "timestamp": 1766062375068,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot is full"
+    },
+    {
+      "timestamp": 1766062375295,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot is full "
+    },
+    {
+      "timestamp": 1766062375670,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot is full o"
+    },
+    {
+      "timestamp": 1766062375782,
+      "key": "f",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot is full of"
+    },
+    {
+      "timestamp": 1766062375944,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot is full of "
+    },
+    {
+      "timestamp": 1766062376304,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot is full of t"
+    },
+    {
+      "timestamp": 1766062376471,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot is full of tr"
+    },
+    {
+      "timestamp": 1766062377522,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot is full of tri"
+    },
+    {
+      "timestamp": 1766062377647,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot is full of tric"
+    },
+    {
+      "timestamp": 1766062378142,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot is full of tri"
+    },
+    {
+      "timestamp": 1766062378387,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot is full of triu"
+    },
+    {
+      "timestamp": 1766062378513,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot is full of triuc"
+    },
+    {
+      "timestamp": 1766062378618,
+      "key": "k",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot is full of triuck"
+    },
+    {
+      "timestamp": 1766062378883,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "These  lot is full of triucks"
+    },
+    {
+      "timestamp": 1766062381027,
+      "key": "W",
+      "sentenceIndex": 1,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1766062381308,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Wo"
+    },
+    {
+      "timestamp": 1766062381574,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "Wou"
+    },
+    {
+      "timestamp": 1766062381842,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Woul"
+    },
+    {
+      "timestamp": 1766062382043,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Would"
+    },
+    {
+      "timestamp": 1766062382335,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Would "
+    },
+    {
+      "timestamp": 1766062382892,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "Would y"
+    },
+    {
+      "timestamp": 1766062383054,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Would yo"
+    },
+    {
+      "timestamp": 1766062383293,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you"
+    },
+    {
+      "timestamp": 1766062384871,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you "
+    },
+    {
+      "timestamp": 1766062385528,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you l"
+    },
+    {
+      "timestamp": 1766062385727,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you li"
+    },
+    {
+      "timestamp": 1766062385908,
+      "key": "k",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you lik"
+    },
+    {
+      "timestamp": 1766062386030,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like"
+    },
+    {
+      "timestamp": 1766062386366,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like "
+    },
+    {
+      "timestamp": 1766062386879,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like t"
+    },
+    {
+      "timestamp": 1766062386986,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like to"
+    },
+    {
+      "timestamp": 1766062387221,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like to "
+    },
+    {
+      "timestamp": 1766062387361,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like to c"
+    },
+    {
+      "timestamp": 1766062387493,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like to co"
+    },
+    {
+      "timestamp": 1766062387680,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like to com"
+    },
+    {
+      "timestamp": 1766062387810,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like to comr"
+    },
+    {
+      "timestamp": 1766062387974,
+      "key": "come",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like to come"
+    },
+    {
+      "timestamp": 1766062387999,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like to come "
+    },
+    {
+      "timestamp": 1766062388413,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like to come t"
+    },
+    {
+      "timestamp": 1766062388615,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like to come to"
+    },
+    {
+      "timestamp": 1766062389005,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like to come to "
+    },
+    {
+      "timestamp": 1766062389231,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like to come to m"
+    },
+    {
+      "timestamp": 1766062389481,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like to come to my"
+    },
+    {
+      "timestamp": 1766062389687,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like to come to my "
+    },
+    {
+      "timestamp": 1766062389871,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like to come to my h"
+    },
+    {
+      "timestamp": 1766062390061,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like to come to my ho"
+    },
+    {
+      "timestamp": 1766062390283,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like to come to my hou"
+    },
+    {
+      "timestamp": 1766062390499,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like to come to my hous"
+    },
+    {
+      "timestamp": 1766062390681,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Would you like to come to my house"
+    },
+    {
+      "timestamp": 1766062392450,
+      "key": "D",
+      "sentenceIndex": 2,
+      "valueAfter": "D"
+    },
+    {
+      "timestamp": 1766062392649,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Do"
+    },
+    {
+      "timestamp": 1766062392939,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Do "
+    },
+    {
+      "timestamp": 1766062393127,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Do n"
+    },
+    {
+      "timestamp": 1766062393384,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Do no"
+    },
+    {
+      "timestamp": 1766062393548,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not"
+    },
+    {
+      "timestamp": 1766062394478,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not "
+    },
+    {
+      "timestamp": 1766062394634,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not s"
+    },
+    {
+      "timestamp": 1766062394834,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not sa"
+    },
+    {
+      "timestamp": 1766062395003,
+      "key": "y",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not say"
+    },
+    {
+      "timestamp": 1766062395192,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not say "
+    },
+    {
+      "timestamp": 1766062395353,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not say a"
+    },
+    {
+      "timestamp": 1766062395501,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not say an"
+    },
+    {
+      "timestamp": 1766062395837,
+      "key": "y",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not say any"
+    },
+    {
+      "timestamp": 1766062396053,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not say anyt"
+    },
+    {
+      "timestamp": 1766062396237,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not say anyth"
+    },
+    {
+      "timestamp": 1766062396490,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not say anythi"
+    },
+    {
+      "timestamp": 1766062396720,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not say anythin"
+    },
+    {
+      "timestamp": 1766062397130,
+      "key": "anything",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not say anything"
+    },
+    {
+      "timestamp": 1766062397156,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766062399539,
+      "key": "H",
+      "sentenceIndex": 3,
+      "valueAfter": " H"
+    },
+    {
+      "timestamp": 1766062400306,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": " Hi"
+    },
+    {
+      "timestamp": 1766062400607,
+      "key": "w",
+      "sentenceIndex": 3,
+      "valueAfter": " Hiw"
+    },
+    {
+      "timestamp": 1766062401420,
+      "key": "How",
+      "sentenceIndex": 3,
+      "valueAfter": " How"
+    },
+    {
+      "timestamp": 1766062401432,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " How "
+    },
+    {
+      "timestamp": 1766062401675,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": " How i"
+    },
+    {
+      "timestamp": 1766062401836,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": " How is"
+    },
+    {
+      "timestamp": 1766062401956,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " How is "
+    },
+    {
+      "timestamp": 1766062402640,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a"
+    },
+    {
+      "timestamp": 1766062402848,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a "
+    },
+    {
+      "timestamp": 1766062403136,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a n"
+    },
+    {
+      "timestamp": 1766062403341,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a no"
+    },
+    {
+      "timestamp": 1766062403523,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non"
+    },
+    {
+      "timestamp": 1766062403783,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non "
+    },
+    {
+      "timestamp": 1766062404093,
+      "key": "p",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non p"
+    },
+    {
+      "timestamp": 1766062404274,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non pr"
+    },
+    {
+      "timestamp": 1766062404510,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non pro"
+    },
+    {
+      "timestamp": 1766062404815,
+      "key": "f",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non prof"
+    },
+    {
+      "timestamp": 1766062405027,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non profi"
+    },
+    {
+      "timestamp": 1766062405155,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non profit"
+    },
+    {
+      "timestamp": 1766062405367,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non profit "
+    },
+    {
+      "timestamp": 1766062406374,
+      "key": ".",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non profit."
+    },
+    {
+      "timestamp": 1766062406409,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non profit. "
+    },
+    {
+      "timestamp": 1766062406813,
+      "key": "O",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non profit. O"
+    },
+    {
+      "timestamp": 1766062407080,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non profit. Or"
+    },
+    {
+      "timestamp": 1766062407448,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non profit. Org"
+    },
+    {
+      "timestamp": 1766062407629,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non profit. Orga"
+    },
+    {
+      "timestamp": 1766062407757,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non profit. Organ"
+    },
+    {
+      "timestamp": 1766062408009,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non profit. Organi"
+    },
+    {
+      "timestamp": 1766062408783,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non profit. Organi "
+    },
+    {
+      "timestamp": 1766062410395,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non profit. Organi"
+    },
+    {
+      "timestamp": 1766062411627,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non profit. Organis"
+    },
+    {
+      "timestamp": 1766062412095,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non profit. Organisa"
+    },
+    {
+      "timestamp": 1766062412767,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non profit. Organisat"
+    },
+    {
+      "timestamp": 1766062413084,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non profit. Organisati"
+    },
+    {
+      "timestamp": 1766062413285,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": " How is a non profit. Organisatio"
+    },
+    {
+      "timestamp": 1766062413514,
+      "key": "M",
+      "sentenceIndex": 4,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1766062415702,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766062416388,
+      "key": "T",
+      "sentenceIndex": 4,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766062417133,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766062417588,
+      "key": "S",
+      "sentenceIndex": 4,
+      "valueAfter": "S"
+    },
+    {
+      "timestamp": 1766062417695,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "St"
+    },
+    {
+      "timestamp": 1766062417887,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Sta"
+    },
+    {
+      "timestamp": 1766062418000,
+      "key": "y",
+      "sentenceIndex": 4,
+      "valueAfter": "Stay"
+    },
+    {
+      "timestamp": 1766062418673,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Stayi"
+    },
+    {
+      "timestamp": 1766062418872,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "Stayin"
+    },
+    {
+      "timestamp": 1766062419070,
+      "key": "g",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying"
+    },
+    {
+      "timestamp": 1766062419259,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying "
+    },
+    {
+      "timestamp": 1766062419489,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying u"
+    },
+    {
+      "timestamp": 1766062419739,
+      "key": "p",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up"
+    },
+    {
+      "timestamp": 1766062420033,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up "
+    },
+    {
+      "timestamp": 1766062420623,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up a"
+    },
+    {
+      "timestamp": 1766062420746,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up al"
+    },
+    {
+      "timestamp": 1766062420920,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up all"
+    },
+    {
+      "timestamp": 1766062421340,
+      "key": "N",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up allN"
+    },
+    {
+      "timestamp": 1766062421639,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up allNi"
+    },
+    {
+      "timestamp": 1766062422008,
+      "key": "g",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up allNig"
+    },
+    {
+      "timestamp": 1766062422190,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up allNigh"
+    },
+    {
+      "timestamp": 1766062422425,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up allNight"
+    },
+    {
+      "timestamp": 1766062422612,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up allNight "
+    },
+    {
+      "timestamp": 1766062423142,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up allNight i"
+    },
+    {
+      "timestamp": 1766062423290,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up allNight is"
+    },
+    {
+      "timestamp": 1766062423423,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up allNight is "
+    },
+    {
+      "timestamp": 1766062424192,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up allNight is a"
+    },
+    {
+      "timestamp": 1766062424716,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up allNight is a "
+    },
+    {
+      "timestamp": 1766062425592,
+      "key": "g",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up allNight is a g"
+    },
+    {
+      "timestamp": 1766062425844,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up allNight is a go"
+    },
+    {
+      "timestamp": 1766062426007,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up allNight is a goo"
+    },
+    {
+      "timestamp": 1766062426173,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up allNight is a good"
+    },
+    {
+      "timestamp": 1766062426489,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up allNight is a good "
+    },
+    {
+      "timestamp": 1766062427045,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Staying up allNight is a good i"
+    }
+  ]
+}
