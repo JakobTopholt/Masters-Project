@@ -1,0 +1,731 @@
+{
+  "mode": "stationary",
+  "timestamp": "2025-12-17T10:28:43.198Z",
+  "duration": 60.055,
+  "wpm": 22,
+  "accuracy": "85.84",
+  "totalCharactersTyped": 113,
+  "correctCharacters": 97,
+  "errors": 5,
+  "sentencesCompleted": 3,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "My watch fell in the water",
+      "expected": "My watch fell in the water"
+    },
+    {
+      "typed": "Prevailing wind from the easr",
+      "expected": "Prevailing wind from the east"
+    },
+    {
+      "typed": "A steep learning curve in riding a unicycle",
+      "expected": "A steep learning curve in riding a unicycle"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765967256216,
+      "key": "M",
+      "sentenceIndex": 0,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1765967256488,
+      "key": "y",
+      "sentenceIndex": 0,
+      "valueAfter": "My"
+    },
+    {
+      "timestamp": 1765967256741,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "My "
+    },
+    {
+      "timestamp": 1765967257343,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "My w"
+    },
+    {
+      "timestamp": 1765967257523,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "My wa"
+    },
+    {
+      "timestamp": 1765967257993,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "My wat"
+    },
+    {
+      "timestamp": 1765967259384,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "My watc"
+    },
+    {
+      "timestamp": 1765967259646,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch"
+    },
+    {
+      "timestamp": 1765967259848,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch "
+    },
+    {
+      "timestamp": 1765967261096,
+      "key": "f",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch f"
+    },
+    {
+      "timestamp": 1765967261294,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch fe"
+    },
+    {
+      "timestamp": 1765967261767,
+      "key": "æ",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch feæ"
+    },
+    {
+      "timestamp": 1765967262681,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch fe"
+    },
+    {
+      "timestamp": 1765967264553,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch fel"
+    },
+    {
+      "timestamp": 1765967264788,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch fell"
+    },
+    {
+      "timestamp": 1765967265330,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch fell "
+    },
+    {
+      "timestamp": 1765967265990,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch fell i"
+    },
+    {
+      "timestamp": 1765967266390,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch fell in"
+    },
+    {
+      "timestamp": 1765967266598,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch fell in "
+    },
+    {
+      "timestamp": 1765967266958,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch fell in t"
+    },
+    {
+      "timestamp": 1765967267667,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch fell in th"
+    },
+    {
+      "timestamp": 1765967268239,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch fell in the"
+    },
+    {
+      "timestamp": 1765967268776,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch fell in the "
+    },
+    {
+      "timestamp": 1765967269184,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch fell in the w"
+    },
+    {
+      "timestamp": 1765967269465,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch fell in the wa"
+    },
+    {
+      "timestamp": 1765967269930,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch fell in the wat"
+    },
+    {
+      "timestamp": 1765967270182,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch fell in the wate"
+    },
+    {
+      "timestamp": 1765967270399,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch fell in the water"
+    },
+    {
+      "timestamp": 1765967272755,
+      "key": "P",
+      "sentenceIndex": 1,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1765967273238,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Pr"
+    },
+    {
+      "timestamp": 1765967274213,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Pre"
+    },
+    {
+      "timestamp": 1765967274674,
+      "key": "v",
+      "sentenceIndex": 1,
+      "valueAfter": "Prev"
+    },
+    {
+      "timestamp": 1765967275477,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Preva"
+    },
+    {
+      "timestamp": 1765967276078,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevai"
+    },
+    {
+      "timestamp": 1765967277113,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevail"
+    },
+    {
+      "timestamp": 1765967277713,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevaili"
+    },
+    {
+      "timestamp": 1765967278132,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevailin"
+    },
+    {
+      "timestamp": 1765967278447,
+      "key": "g",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevailing"
+    },
+    {
+      "timestamp": 1765967278751,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevailing "
+    },
+    {
+      "timestamp": 1765967279281,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevailing w"
+    },
+    {
+      "timestamp": 1765967279734,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevailing wi"
+    },
+    {
+      "timestamp": 1765967280098,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevailing win"
+    },
+    {
+      "timestamp": 1765967280600,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevailing wind"
+    },
+    {
+      "timestamp": 1765967281057,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevailing wind "
+    },
+    {
+      "timestamp": 1765967281454,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevailing wind f"
+    },
+    {
+      "timestamp": 1765967281652,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevailing wind fr"
+    },
+    {
+      "timestamp": 1765967282267,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevailing wind fro"
+    },
+    {
+      "timestamp": 1765967282698,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevailing wind from"
+    },
+    {
+      "timestamp": 1765967283080,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevailing wind from "
+    },
+    {
+      "timestamp": 1765967283613,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevailing wind from t"
+    },
+    {
+      "timestamp": 1765967283733,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevailing wind from th"
+    },
+    {
+      "timestamp": 1765967284063,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevailing wind from the"
+    },
+    {
+      "timestamp": 1765967284321,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevailing wind from the "
+    },
+    {
+      "timestamp": 1765967284624,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevailing wind from the e"
+    },
+    {
+      "timestamp": 1765967285029,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevailing wind from the ea"
+    },
+    {
+      "timestamp": 1765967285228,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevailing wind from the eas"
+    },
+    {
+      "timestamp": 1765967285477,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Prevailing wind from the easr"
+    },
+    {
+      "timestamp": 1765967287735,
+      "key": "A",
+      "sentenceIndex": 2,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1765967288025,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "A "
+    },
+    {
+      "timestamp": 1765967288366,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "A s"
+    },
+    {
+      "timestamp": 1765967288902,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "A st"
+    },
+    {
+      "timestamp": 1765967289235,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "A ste"
+    },
+    {
+      "timestamp": 1765967289401,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "A stee"
+    },
+    {
+      "timestamp": 1765967290136,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep"
+    },
+    {
+      "timestamp": 1765967290715,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep "
+    },
+    {
+      "timestamp": 1765967291491,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep l"
+    },
+    {
+      "timestamp": 1765967291863,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep le"
+    },
+    {
+      "timestamp": 1765967292311,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep lea"
+    },
+    {
+      "timestamp": 1765967292797,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep lear"
+    },
+    {
+      "timestamp": 1765967293427,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learn"
+    },
+    {
+      "timestamp": 1765967294018,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learni"
+    },
+    {
+      "timestamp": 1765967294293,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learnin"
+    },
+    {
+      "timestamp": 1765967294766,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learninh"
+    },
+    {
+      "timestamp": 1765967295024,
+      "key": "learning",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning"
+    },
+    {
+      "timestamp": 1765967295051,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning "
+    },
+    {
+      "timestamp": 1765967295765,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning c"
+    },
+    {
+      "timestamp": 1765967296423,
+      "key": "u",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning cu"
+    },
+    {
+      "timestamp": 1765967296772,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning cur"
+    },
+    {
+      "timestamp": 1765967297120,
+      "key": "v",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curv"
+    },
+    {
+      "timestamp": 1765967297536,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve"
+    },
+    {
+      "timestamp": 1765967297934,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve "
+    },
+    {
+      "timestamp": 1765967298403,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve i"
+    },
+    {
+      "timestamp": 1765967298801,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in"
+    },
+    {
+      "timestamp": 1765967299050,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in "
+    },
+    {
+      "timestamp": 1765967299538,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in r"
+    },
+    {
+      "timestamp": 1765967300085,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in ri"
+    },
+    {
+      "timestamp": 1765967300400,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in rid"
+    },
+    {
+      "timestamp": 1765967300855,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in ridi"
+    },
+    {
+      "timestamp": 1765967301188,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in ridin"
+    },
+    {
+      "timestamp": 1765967301611,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in ridinh"
+    },
+    {
+      "timestamp": 1765967302018,
+      "key": "riding",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in riding"
+    },
+    {
+      "timestamp": 1765967302033,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in riding "
+    },
+    {
+      "timestamp": 1765967302431,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in riding a"
+    },
+    {
+      "timestamp": 1765967302687,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in riding a "
+    },
+    {
+      "timestamp": 1765967303293,
+      "key": "u",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in riding a u"
+    },
+    {
+      "timestamp": 1765967303701,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in riding a un"
+    },
+    {
+      "timestamp": 1765967304536,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in riding a uni"
+    },
+    {
+      "timestamp": 1765967305090,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in riding a unic"
+    },
+    {
+      "timestamp": 1765967305585,
+      "key": "y",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in riding a unicy"
+    },
+    {
+      "timestamp": 1765967306421,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in riding a unicyc"
+    },
+    {
+      "timestamp": 1765967307010,
+      "key": "æ",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in riding a unicycæ"
+    },
+    {
+      "timestamp": 1765967307700,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in riding a unicyc"
+    },
+    {
+      "timestamp": 1765967307993,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in riding a unicycl"
+    },
+    {
+      "timestamp": 1765967308358,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "A steep learning curve in riding a unicycle"
+    },
+    {
+      "timestamp": 1765967309834,
+      "key": "W",
+      "sentenceIndex": 3,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1765967309984,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "We"
+    },
+    {
+      "timestamp": 1765967310271,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "We "
+    },
+    {
+      "timestamp": 1765967310766,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "We d"
+    },
+    {
+      "timestamp": 1765967310994,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "We dr"
+    },
+    {
+      "timestamp": 1765967311729,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "We dri"
+    },
+    {
+      "timestamp": 1765967312364,
+      "key": "v",
+      "sentenceIndex": 3,
+      "valueAfter": "We driv"
+    },
+    {
+      "timestamp": 1765967312867,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "We drive"
+    },
+    {
+      "timestamp": 1765967313146,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "We drive "
+    },
+    {
+      "timestamp": 1765967314153,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "We drive o"
+    },
+    {
+      "timestamp": 1765967314520,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "We drive on"
+    },
+    {
+      "timestamp": 1765967314782,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "We drive on "
+    },
+    {
+      "timestamp": 1765967316243,
+      "key": "p",
+      "sentenceIndex": 3,
+      "valueAfter": "We drive on p"
+    }
+  ]
+}

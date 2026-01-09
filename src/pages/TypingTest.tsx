@@ -11,8 +11,10 @@ const phrases: string[] = phrasesData as string[];
 const TypingTest: React.FC = () => {
   const getShuffledSentences = () => [...phrases].sort(() => Math.random() - 0.5);
 
-      const handleModeSelect = (selectedMode: "stationary" | "walking" | "stairs") => {
-  setMode(selectedMode);
+      const handleModeSelect = (e: React.ChangeEvent<HTMLSelectElement>) => {
+        const value = e.target.value as "stationary" | "walking" | "stairs";
+        console.log("selected:", value);
+        setMode(value);
 };
 
   const [mode, setMode] = useState<"stationary" | "walking" | "stairs">("stationary"); // tracks condition

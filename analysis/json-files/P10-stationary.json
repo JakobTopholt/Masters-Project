@@ -1,0 +1,1315 @@
+{
+  "mode": "stationary",
+  "timestamp": "2025-12-17T12:07:30.389Z",
+  "duration": 60.006,
+  "wpm": 42,
+  "accuracy": "98.56",
+  "totalCharactersTyped": 208,
+  "correctCharacters": 205,
+  "errors": 27,
+  "sentencesCompleted": 8,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "My fingers are very cold",
+      "expected": "My fingers are very cold"
+    },
+    {
+      "typed": "Experience is hard to come by",
+      "expected": "Experience is hard to come by"
+    },
+    {
+      "typed": "Always cover all the bases",
+      "expected": "Always cover all the bases"
+    },
+    {
+      "typed": "The laser printer is jammed",
+      "expected": "The laser printer is jammed"
+    },
+    {
+      "typed": "One hecl of a question",
+      "expected": "One heck of a question"
+    },
+    {
+      "typed": "On the way to the cottage",
+      "expected": "On the way to the cottage"
+    },
+    {
+      "typed": "You must be getting old",
+      "expected": "You must be getting old"
+    },
+    {
+      "typed": "Great disturbance in the force",
+      "expected": "Great disturbance in the force"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765973187576,
+      "key": "M",
+      "sentenceIndex": 0,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1765973187990,
+      "key": "y",
+      "sentenceIndex": 0,
+      "valueAfter": "My"
+    },
+    {
+      "timestamp": 1765973188277,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "My "
+    },
+    {
+      "timestamp": 1765973188644,
+      "key": "f",
+      "sentenceIndex": 0,
+      "valueAfter": "My f"
+    },
+    {
+      "timestamp": 1765973188759,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "My fi"
+    },
+    {
+      "timestamp": 1765973188958,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "My fin"
+    },
+    {
+      "timestamp": 1765973189192,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "My fing"
+    },
+    {
+      "timestamp": 1765973189435,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "My finge"
+    },
+    {
+      "timestamp": 1765973189603,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "My finger"
+    },
+    {
+      "timestamp": 1765973189834,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers"
+    },
+    {
+      "timestamp": 1765973190028,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers "
+    },
+    {
+      "timestamp": 1765973190305,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers a"
+    },
+    {
+      "timestamp": 1765973190761,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers ar"
+    },
+    {
+      "timestamp": 1765973190951,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are"
+    },
+    {
+      "timestamp": 1765973191088,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are "
+    },
+    {
+      "timestamp": 1765973191300,
+      "key": "v",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are v"
+    },
+    {
+      "timestamp": 1765973191408,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are ve"
+    },
+    {
+      "timestamp": 1765973191630,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are ver"
+    },
+    {
+      "timestamp": 1765973191769,
+      "key": "y",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are very"
+    },
+    {
+      "timestamp": 1765973192056,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are very "
+    },
+    {
+      "timestamp": 1765973192924,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are very c"
+    },
+    {
+      "timestamp": 1765973193098,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are very co"
+    },
+    {
+      "timestamp": 1765973193578,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are very col"
+    },
+    {
+      "timestamp": 1765973193668,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are very cold"
+    },
+    {
+      "timestamp": 1765973194764,
+      "key": "E",
+      "sentenceIndex": 1,
+      "valueAfter": "E"
+    },
+    {
+      "timestamp": 1765973195098,
+      "key": "x",
+      "sentenceIndex": 1,
+      "valueAfter": "Ex"
+    },
+    {
+      "timestamp": 1765973195427,
+      "key": "p",
+      "sentenceIndex": 1,
+      "valueAfter": "Exp"
+    },
+    {
+      "timestamp": 1765973195545,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Expe"
+    },
+    {
+      "timestamp": 1765973195761,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Exper"
+    },
+    {
+      "timestamp": 1765973196197,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Experi"
+    },
+    {
+      "timestamp": 1765973196367,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Experie"
+    },
+    {
+      "timestamp": 1765973196558,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Experien"
+    },
+    {
+      "timestamp": 1765973197112,
+      "key": "x",
+      "sentenceIndex": 1,
+      "valueAfter": "Experienx"
+    },
+    {
+      "timestamp": 1765973197402,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Experienxe"
+    },
+    {
+      "timestamp": 1765973197770,
+      "key": "Experience ",
+      "sentenceIndex": 1,
+      "valueAfter": "Experience "
+    },
+    {
+      "timestamp": 1765973198109,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Experience i"
+    },
+    {
+      "timestamp": 1765973198214,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Experience is"
+    },
+    {
+      "timestamp": 1765973198401,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Experience is "
+    },
+    {
+      "timestamp": 1765973199448,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Experience is h"
+    },
+    {
+      "timestamp": 1765973199578,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Experience is ha"
+    },
+    {
+      "timestamp": 1765973199875,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Experience is har"
+    },
+    {
+      "timestamp": 1765973200084,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Experience is hard"
+    },
+    {
+      "timestamp": 1765973200293,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Experience is hard "
+    },
+    {
+      "timestamp": 1765973200446,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Experience is hard t"
+    },
+    {
+      "timestamp": 1765973200649,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Experience is hard to"
+    },
+    {
+      "timestamp": 1765973200968,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Experience is hard to "
+    },
+    {
+      "timestamp": 1765973201461,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "Experience is hard to c"
+    },
+    {
+      "timestamp": 1765973201628,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Experience is hard to co"
+    },
+    {
+      "timestamp": 1765973201795,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": "Experience is hard to com"
+    },
+    {
+      "timestamp": 1765973201929,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Experience is hard to come"
+    },
+    {
+      "timestamp": 1765973202073,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Experience is hard to come "
+    },
+    {
+      "timestamp": 1765973202266,
+      "key": "b",
+      "sentenceIndex": 1,
+      "valueAfter": "Experience is hard to come b"
+    },
+    {
+      "timestamp": 1765973202458,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "Experience is hard to come by"
+    },
+    {
+      "timestamp": 1765973203397,
+      "key": "A",
+      "sentenceIndex": 2,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1765973203550,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Al"
+    },
+    {
+      "timestamp": 1765973203769,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "Alw"
+    },
+    {
+      "timestamp": 1765973204000,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Alwa"
+    },
+    {
+      "timestamp": 1765973204170,
+      "key": "y",
+      "sentenceIndex": 2,
+      "valueAfter": "Alway"
+    },
+    {
+      "timestamp": 1765973204270,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Always"
+    },
+    {
+      "timestamp": 1765973204545,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Always "
+    },
+    {
+      "timestamp": 1765973205128,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Always c"
+    },
+    {
+      "timestamp": 1765973205260,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Always co"
+    },
+    {
+      "timestamp": 1765973205601,
+      "key": "v",
+      "sentenceIndex": 2,
+      "valueAfter": "Always cov"
+    },
+    {
+      "timestamp": 1765973205841,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Always cove"
+    },
+    {
+      "timestamp": 1765973205998,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Always cover"
+    },
+    {
+      "timestamp": 1765973206174,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Always cover "
+    },
+    {
+      "timestamp": 1765973206408,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Always cover a"
+    },
+    {
+      "timestamp": 1765973206563,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Always cover al"
+    },
+    {
+      "timestamp": 1765973206693,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Always cover all"
+    },
+    {
+      "timestamp": 1765973207000,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Always cover all "
+    },
+    {
+      "timestamp": 1765973207360,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Always cover all t"
+    },
+    {
+      "timestamp": 1765973207567,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Always cover all th"
+    },
+    {
+      "timestamp": 1765973207693,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Always cover all the"
+    },
+    {
+      "timestamp": 1765973207893,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Always cover all the "
+    },
+    {
+      "timestamp": 1765973208115,
+      "key": "b",
+      "sentenceIndex": 2,
+      "valueAfter": "Always cover all the b"
+    },
+    {
+      "timestamp": 1765973208273,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Always cover all the ba"
+    },
+    {
+      "timestamp": 1765973208493,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Always cover all the bas"
+    },
+    {
+      "timestamp": 1765973208688,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Always cover all the base"
+    },
+    {
+      "timestamp": 1765973208895,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Always cover all the bases"
+    },
+    {
+      "timestamp": 1765973209976,
+      "key": "T",
+      "sentenceIndex": 3,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765973210196,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765973210301,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765973210848,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765973211144,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "The l"
+    },
+    {
+      "timestamp": 1765973211265,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "The la"
+    },
+    {
+      "timestamp": 1765973211475,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "The las"
+    },
+    {
+      "timestamp": 1765973211781,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "The lase"
+    },
+    {
+      "timestamp": 1765973211981,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "The laser"
+    },
+    {
+      "timestamp": 1765973212128,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The laser "
+    },
+    {
+      "timestamp": 1765973212732,
+      "key": "p",
+      "sentenceIndex": 3,
+      "valueAfter": "The laser p"
+    },
+    {
+      "timestamp": 1765973212810,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "The laser pr"
+    },
+    {
+      "timestamp": 1765973212991,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "The laser pro"
+    },
+    {
+      "timestamp": 1765973213201,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "The laser pron"
+    },
+    {
+      "timestamp": 1765973213326,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "The laser pront"
+    },
+    {
+      "timestamp": 1765973213578,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "The laser pronte"
+    },
+    {
+      "timestamp": 1765973213761,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "The laser pronter"
+    },
+    {
+      "timestamp": 1765973213909,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "The laser "
+    },
+    {
+      "timestamp": 1765973213923,
+      "key": "printer ",
+      "sentenceIndex": 3,
+      "valueAfter": "The laser printer "
+    },
+    {
+      "timestamp": 1765973214266,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "The laser printer i"
+    },
+    {
+      "timestamp": 1765973214405,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "The laser printer is"
+    },
+    {
+      "timestamp": 1765973214572,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The laser printer is "
+    },
+    {
+      "timestamp": 1765973214844,
+      "key": "j",
+      "sentenceIndex": 3,
+      "valueAfter": "The laser printer is j"
+    },
+    {
+      "timestamp": 1765973214968,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "The laser printer is ja"
+    },
+    {
+      "timestamp": 1765973215107,
+      "key": "m",
+      "sentenceIndex": 3,
+      "valueAfter": "The laser printer is jam"
+    },
+    {
+      "timestamp": 1765973215269,
+      "key": "m",
+      "sentenceIndex": 3,
+      "valueAfter": "The laser printer is jamm"
+    },
+    {
+      "timestamp": 1765973215298,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "The laser printer is jamme"
+    },
+    {
+      "timestamp": 1765973215658,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "The laser printer is jammed"
+    },
+    {
+      "timestamp": 1765973216796,
+      "key": "O",
+      "sentenceIndex": 4,
+      "valueAfter": "O"
+    },
+    {
+      "timestamp": 1765973216981,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "On"
+    },
+    {
+      "timestamp": 1765973217064,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "One"
+    },
+    {
+      "timestamp": 1765973217579,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "One "
+    },
+    {
+      "timestamp": 1765973217829,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "One h"
+    },
+    {
+      "timestamp": 1765973217915,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "One he"
+    },
+    {
+      "timestamp": 1765973218305,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": "One hec"
+    },
+    {
+      "timestamp": 1765973218377,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "One hecl"
+    },
+    {
+      "timestamp": 1765973218937,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "One hecl "
+    },
+    {
+      "timestamp": 1765973219223,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "One hecl o"
+    },
+    {
+      "timestamp": 1765973219295,
+      "key": "f",
+      "sentenceIndex": 4,
+      "valueAfter": "One hecl of"
+    },
+    {
+      "timestamp": 1765973219476,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "One hecl of "
+    },
+    {
+      "timestamp": 1765973219739,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "One hecl of a"
+    },
+    {
+      "timestamp": 1765973219954,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "One hecl of a "
+    },
+    {
+      "timestamp": 1765973220552,
+      "key": "q",
+      "sentenceIndex": 4,
+      "valueAfter": "One hecl of a q"
+    },
+    {
+      "timestamp": 1765973220806,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "One hecl of a qi"
+    },
+    {
+      "timestamp": 1765973221020,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "One hecl of a qie"
+    },
+    {
+      "timestamp": 1765973222021,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "One hecl of a qi"
+    },
+    {
+      "timestamp": 1765973222141,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "One hecl of a q"
+    },
+    {
+      "timestamp": 1765973222491,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "One hecl of a qu"
+    },
+    {
+      "timestamp": 1765973222600,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "One hecl of a que"
+    },
+    {
+      "timestamp": 1765973222897,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "One hecl of a ques"
+    },
+    {
+      "timestamp": 1765973223317,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "One hecl of a quest"
+    },
+    {
+      "timestamp": 1765973223481,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "One hecl of a questi"
+    },
+    {
+      "timestamp": 1765973223621,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "One hecl of a questio"
+    },
+    {
+      "timestamp": 1765973223834,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "One hecl of a question"
+    },
+    {
+      "timestamp": 1765973224856,
+      "key": "O",
+      "sentenceIndex": 5,
+      "valueAfter": "O"
+    },
+    {
+      "timestamp": 1765973225234,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "On"
+    },
+    {
+      "timestamp": 1765973225660,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "On "
+    },
+    {
+      "timestamp": 1765973225843,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "On t"
+    },
+    {
+      "timestamp": 1765973226028,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "On th"
+    },
+    {
+      "timestamp": 1765973226134,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "On the"
+    },
+    {
+      "timestamp": 1765973226380,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "On the "
+    },
+    {
+      "timestamp": 1765973226645,
+      "key": "w",
+      "sentenceIndex": 5,
+      "valueAfter": "On the w"
+    },
+    {
+      "timestamp": 1765973226885,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "On the wa"
+    },
+    {
+      "timestamp": 1765973227063,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": "On the way"
+    },
+    {
+      "timestamp": 1765973227583,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "On the way "
+    },
+    {
+      "timestamp": 1765973227835,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "On the way t"
+    },
+    {
+      "timestamp": 1765973227935,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "On the way to"
+    },
+    {
+      "timestamp": 1765973228186,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "On the way to "
+    },
+    {
+      "timestamp": 1765973228340,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "On the way to t"
+    },
+    {
+      "timestamp": 1765973228821,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "On the way to th"
+    },
+    {
+      "timestamp": 1765973228913,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "On the way to the"
+    },
+    {
+      "timestamp": 1765973229054,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "On the way to the "
+    },
+    {
+      "timestamp": 1765973229376,
+      "key": "c",
+      "sentenceIndex": 5,
+      "valueAfter": "On the way to the c"
+    },
+    {
+      "timestamp": 1765973229553,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "On the way to the co"
+    },
+    {
+      "timestamp": 1765973230205,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "On the way to the cot"
+    },
+    {
+      "timestamp": 1765973230345,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "On the way to the cott"
+    },
+    {
+      "timestamp": 1765973230543,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "On the way to the cotta"
+    },
+    {
+      "timestamp": 1765973230669,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": "On the way to the cottag"
+    },
+    {
+      "timestamp": 1765973230844,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "On the way to the cottage"
+    },
+    {
+      "timestamp": 1765973232032,
+      "key": "T",
+      "sentenceIndex": 6,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765973232247,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "To"
+    },
+    {
+      "timestamp": 1765973233118,
+      "key": "u",
+      "sentenceIndex": 6,
+      "valueAfter": "Tou"
+    },
+    {
+      "timestamp": 1765973233544,
+      "key": "You ",
+      "sentenceIndex": 6,
+      "valueAfter": "You "
+    },
+    {
+      "timestamp": 1765973233787,
+      "key": "m",
+      "sentenceIndex": 6,
+      "valueAfter": "You m"
+    },
+    {
+      "timestamp": 1765973234109,
+      "key": "u",
+      "sentenceIndex": 6,
+      "valueAfter": "You mu"
+    },
+    {
+      "timestamp": 1765973234266,
+      "key": "s",
+      "sentenceIndex": 6,
+      "valueAfter": "You mus"
+    },
+    {
+      "timestamp": 1765973234533,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "You must"
+    },
+    {
+      "timestamp": 1765973234636,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "You must "
+    },
+    {
+      "timestamp": 1765973234947,
+      "key": "b",
+      "sentenceIndex": 6,
+      "valueAfter": "You must b"
+    },
+    {
+      "timestamp": 1765973235027,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "You must be"
+    },
+    {
+      "timestamp": 1765973235252,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "You must be "
+    },
+    {
+      "timestamp": 1765973235500,
+      "key": "g",
+      "sentenceIndex": 6,
+      "valueAfter": "You must be g"
+    },
+    {
+      "timestamp": 1765973235760,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "You must be ge"
+    },
+    {
+      "timestamp": 1765973236066,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "You must be get"
+    },
+    {
+      "timestamp": 1765973236261,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "You must be gett"
+    },
+    {
+      "timestamp": 1765973236507,
+      "key": "i",
+      "sentenceIndex": 6,
+      "valueAfter": "You must be getti"
+    },
+    {
+      "timestamp": 1765973236709,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "You must be gettin"
+    },
+    {
+      "timestamp": 1765973236791,
+      "key": "g",
+      "sentenceIndex": 6,
+      "valueAfter": "You must be getting"
+    },
+    {
+      "timestamp": 1765973236988,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "You must be getting "
+    },
+    {
+      "timestamp": 1765973237519,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "You must be getting o"
+    },
+    {
+      "timestamp": 1765973237677,
+      "key": "l",
+      "sentenceIndex": 6,
+      "valueAfter": "You must be getting ol"
+    },
+    {
+      "timestamp": 1765973237799,
+      "key": "d",
+      "sentenceIndex": 6,
+      "valueAfter": "You must be getting old"
+    },
+    {
+      "timestamp": 1765973239003,
+      "key": "G",
+      "sentenceIndex": 7,
+      "valueAfter": "G"
+    },
+    {
+      "timestamp": 1765973239193,
+      "key": "r",
+      "sentenceIndex": 7,
+      "valueAfter": "Gr"
+    },
+    {
+      "timestamp": 1765973239392,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Gre"
+    },
+    {
+      "timestamp": 1765973239797,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "Grea"
+    },
+    {
+      "timestamp": 1765973239911,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "Great"
+    },
+    {
+      "timestamp": 1765973240442,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Great "
+    },
+    {
+      "timestamp": 1765973240657,
+      "key": "d",
+      "sentenceIndex": 7,
+      "valueAfter": "Great d"
+    },
+    {
+      "timestamp": 1765973240838,
+      "key": "i",
+      "sentenceIndex": 7,
+      "valueAfter": "Great di"
+    },
+    {
+      "timestamp": 1765973240956,
+      "key": "s",
+      "sentenceIndex": 7,
+      "valueAfter": "Great dis"
+    },
+    {
+      "timestamp": 1765973241257,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "Great dist"
+    },
+    {
+      "timestamp": 1765973241464,
+      "key": "u",
+      "sentenceIndex": 7,
+      "valueAfter": "Great distu"
+    },
+    {
+      "timestamp": 1765973241636,
+      "key": "r",
+      "sentenceIndex": 7,
+      "valueAfter": "Great distur"
+    },
+    {
+      "timestamp": 1765973242324,
+      "key": "b",
+      "sentenceIndex": 7,
+      "valueAfter": "Great disturb"
+    },
+    {
+      "timestamp": 1765973242410,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "Great disturba"
+    },
+    {
+      "timestamp": 1765973242551,
+      "key": "n",
+      "sentenceIndex": 7,
+      "valueAfter": "Great disturban"
+    },
+    {
+      "timestamp": 1765973242813,
+      "key": "c",
+      "sentenceIndex": 7,
+      "valueAfter": "Great disturbanc"
+    },
+    {
+      "timestamp": 1765973243069,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Great disturbance"
+    },
+    {
+      "timestamp": 1765973243280,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Great disturbance "
+    },
+    {
+      "timestamp": 1765973243800,
+      "key": "i",
+      "sentenceIndex": 7,
+      "valueAfter": "Great disturbance i"
+    },
+    {
+      "timestamp": 1765973244114,
+      "key": "n",
+      "sentenceIndex": 7,
+      "valueAfter": "Great disturbance in"
+    },
+    {
+      "timestamp": 1765973244357,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Great disturbance in "
+    },
+    {
+      "timestamp": 1765973244468,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "Great disturbance in t"
+    },
+    {
+      "timestamp": 1765973244669,
+      "key": "h",
+      "sentenceIndex": 7,
+      "valueAfter": "Great disturbance in th"
+    },
+    {
+      "timestamp": 1765973244761,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Great disturbance in the"
+    },
+    {
+      "timestamp": 1765973244981,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Great disturbance in the "
+    },
+    {
+      "timestamp": 1765973245601,
+      "key": "f",
+      "sentenceIndex": 7,
+      "valueAfter": "Great disturbance in the f"
+    },
+    {
+      "timestamp": 1765973245737,
+      "key": "o",
+      "sentenceIndex": 7,
+      "valueAfter": "Great disturbance in the fo"
+    },
+    {
+      "timestamp": 1765973245841,
+      "key": "r",
+      "sentenceIndex": 7,
+      "valueAfter": "Great disturbance in the for"
+    },
+    {
+      "timestamp": 1765973246275,
+      "key": "c",
+      "sentenceIndex": 7,
+      "valueAfter": "Great disturbance in the forc"
+    },
+    {
+      "timestamp": 1765973246360,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Great disturbance in the force"
+    }
+  ]
+}

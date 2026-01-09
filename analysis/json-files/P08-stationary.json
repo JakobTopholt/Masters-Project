@@ -1,0 +1,1193 @@
+{
+  "mode": "stationary",
+  "timestamp": "2025-12-17T10:15:12.285Z",
+  "duration": 60.004,
+  "wpm": 30,
+  "accuracy": "75.54",
+  "totalCharactersTyped": 184,
+  "correctCharacters": 139,
+  "errors": 43,
+  "sentencesCompleted": 6,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "A picture is worth many worda",
+      "expected": "A picture is worth many words"
+    },
+    {
+      "typed": "The store will close at ten",
+      "expected": "The store will close at ten"
+    },
+    {
+      "typed": "Go out for some pizza and beer",
+      "expected": "Go out for some pizza and beer"
+    },
+    {
+      "typed": "Flashing red light means stop",
+      "expected": "Flashing red light means stop"
+    },
+    {
+      "typed": "Do a good deed to someone",
+      "expected": "Do a good deed to someone"
+    },
+    {
+      "typed": " Where did you get that ti",
+      "expected": "Where did you get that tie"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765966447513,
+      "key": "A",
+      "sentenceIndex": 0,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1765966447832,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "A "
+    },
+    {
+      "timestamp": 1765966448163,
+      "key": "p",
+      "sentenceIndex": 0,
+      "valueAfter": "A p"
+    },
+    {
+      "timestamp": 1765966448542,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "A pi"
+    },
+    {
+      "timestamp": 1765966448707,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "A pic"
+    },
+    {
+      "timestamp": 1765966448948,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "A pict"
+    },
+    {
+      "timestamp": 1765966449232,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "A pictu"
+    },
+    {
+      "timestamp": 1765966449391,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "A pictur"
+    },
+    {
+      "timestamp": 1765966449589,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture"
+    },
+    {
+      "timestamp": 1765966449808,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture "
+    },
+    {
+      "timestamp": 1765966450138,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture i"
+    },
+    {
+      "timestamp": 1765966450307,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture is"
+    },
+    {
+      "timestamp": 1765966450481,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture is "
+    },
+    {
+      "timestamp": 1765966450951,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture is w"
+    },
+    {
+      "timestamp": 1765966451113,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture is wo"
+    },
+    {
+      "timestamp": 1765966451275,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture is wor"
+    },
+    {
+      "timestamp": 1765966452402,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture is worr"
+    },
+    {
+      "timestamp": 1765966452592,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture is worrh"
+    },
+    {
+      "timestamp": 1765966453064,
+      "key": "worth",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture is worth"
+    },
+    {
+      "timestamp": 1765966453079,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture is worth "
+    },
+    {
+      "timestamp": 1765966453343,
+      "key": "m",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture is worth m"
+    },
+    {
+      "timestamp": 1765966453460,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture is worth ma"
+    },
+    {
+      "timestamp": 1765966453568,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture is worth man"
+    },
+    {
+      "timestamp": 1765966453759,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture is worth manu"
+    },
+    {
+      "timestamp": 1765966454362,
+      "key": "many",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture is worth many"
+    },
+    {
+      "timestamp": 1765966454381,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture is worth many "
+    },
+    {
+      "timestamp": 1765966454652,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture is worth many w"
+    },
+    {
+      "timestamp": 1765966454828,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture is worth many wo"
+    },
+    {
+      "timestamp": 1765966454935,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture is worth many wor"
+    },
+    {
+      "timestamp": 1765966455128,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture is worth many word"
+    },
+    {
+      "timestamp": 1765966455362,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "A picture is worth many worda"
+    },
+    {
+      "timestamp": 1765966456579,
+      "key": "T",
+      "sentenceIndex": 1,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765966456778,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765966456887,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765966457057,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765966457621,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "The s"
+    },
+    {
+      "timestamp": 1765966457904,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "The st"
+    },
+    {
+      "timestamp": 1765966458107,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "The sto"
+    },
+    {
+      "timestamp": 1765966458180,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "The stor"
+    },
+    {
+      "timestamp": 1765966458388,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The store"
+    },
+    {
+      "timestamp": 1765966458609,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The store "
+    },
+    {
+      "timestamp": 1765966458895,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "The store w"
+    },
+    {
+      "timestamp": 1765966459047,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "The store wi"
+    },
+    {
+      "timestamp": 1765966459248,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "The store wil"
+    },
+    {
+      "timestamp": 1765966459365,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "The store will"
+    },
+    {
+      "timestamp": 1765966459644,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The store will "
+    },
+    {
+      "timestamp": 1765966459815,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "The store will c"
+    },
+    {
+      "timestamp": 1765966459956,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "The store will co"
+    },
+    {
+      "timestamp": 1765966460748,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "The store will c"
+    },
+    {
+      "timestamp": 1765966460967,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "The store will cl"
+    },
+    {
+      "timestamp": 1765966461177,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "The store will clo"
+    },
+    {
+      "timestamp": 1765966461258,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "The store will clos"
+    },
+    {
+      "timestamp": 1765966461458,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The store will close"
+    },
+    {
+      "timestamp": 1765966461704,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The store will close "
+    },
+    {
+      "timestamp": 1765966462293,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "The store will close a"
+    },
+    {
+      "timestamp": 1765966462501,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "The store will close at"
+    },
+    {
+      "timestamp": 1765966462715,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The store will close at "
+    },
+    {
+      "timestamp": 1765966462909,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "The store will close at t"
+    },
+    {
+      "timestamp": 1765966463052,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The store will close at te"
+    },
+    {
+      "timestamp": 1765966463168,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "The store will close at ten"
+    },
+    {
+      "timestamp": 1765966464644,
+      "key": "G",
+      "sentenceIndex": 2,
+      "valueAfter": "G"
+    },
+    {
+      "timestamp": 1765966464838,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Go"
+    },
+    {
+      "timestamp": 1765966465038,
+      "key": "b",
+      "sentenceIndex": 2,
+      "valueAfter": "Gob"
+    },
+    {
+      "timestamp": 1765966465261,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Gobo"
+    },
+    {
+      "timestamp": 1765966465462,
+      "key": "u",
+      "sentenceIndex": 2,
+      "valueAfter": "Gobou"
+    },
+    {
+      "timestamp": 1765966465674,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Gobout"
+    },
+    {
+      "timestamp": 1765966465980,
+      "key": "Go out",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out"
+    },
+    {
+      "timestamp": 1765966465998,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out "
+    },
+    {
+      "timestamp": 1765966466412,
+      "key": "f",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out f"
+    },
+    {
+      "timestamp": 1765966466607,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out fo"
+    },
+    {
+      "timestamp": 1765966466796,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out for"
+    },
+    {
+      "timestamp": 1765966467023,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out for "
+    },
+    {
+      "timestamp": 1765966467479,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out for s"
+    },
+    {
+      "timestamp": 1765966467589,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out for so"
+    },
+    {
+      "timestamp": 1765966467805,
+      "key": "m",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out for som"
+    },
+    {
+      "timestamp": 1765966467906,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out for some"
+    },
+    {
+      "timestamp": 1765966468659,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out for some "
+    },
+    {
+      "timestamp": 1765966469057,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out for some p"
+    },
+    {
+      "timestamp": 1765966469283,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out for some pi"
+    },
+    {
+      "timestamp": 1765966469919,
+      "key": "z",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out for some piz"
+    },
+    {
+      "timestamp": 1765966470056,
+      "key": "z",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out for some pizz"
+    },
+    {
+      "timestamp": 1765966470293,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out for some pizza"
+    },
+    {
+      "timestamp": 1765966470563,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out for some pizza "
+    },
+    {
+      "timestamp": 1765966470859,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out for some pizza a"
+    },
+    {
+      "timestamp": 1765966471040,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out for some pizza an"
+    },
+    {
+      "timestamp": 1765966471150,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out for some pizza and"
+    },
+    {
+      "timestamp": 1765966471358,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out for some pizza and "
+    },
+    {
+      "timestamp": 1765966471810,
+      "key": "b",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out for some pizza and b"
+    },
+    {
+      "timestamp": 1765966471970,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out for some pizza and be"
+    },
+    {
+      "timestamp": 1765966472143,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out for some pizza and bee"
+    },
+    {
+      "timestamp": 1765966472780,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Go out for some pizza and beer"
+    },
+    {
+      "timestamp": 1765966474239,
+      "key": "F",
+      "sentenceIndex": 3,
+      "valueAfter": "F"
+    },
+    {
+      "timestamp": 1765966474461,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Fl"
+    },
+    {
+      "timestamp": 1765966474555,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Fla"
+    },
+    {
+      "timestamp": 1765966474797,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Flas"
+    },
+    {
+      "timestamp": 1765966474978,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Flash"
+    },
+    {
+      "timestamp": 1765966475179,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashi"
+    },
+    {
+      "timestamp": 1765966475414,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashin"
+    },
+    {
+      "timestamp": 1765966475612,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing"
+    },
+    {
+      "timestamp": 1765966476051,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing "
+    },
+    {
+      "timestamp": 1765966476474,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing r"
+    },
+    {
+      "timestamp": 1765966476647,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing re"
+    },
+    {
+      "timestamp": 1765966476955,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing red"
+    },
+    {
+      "timestamp": 1765966477378,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing red "
+    },
+    {
+      "timestamp": 1765966477681,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing red l"
+    },
+    {
+      "timestamp": 1765966477901,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing red li"
+    },
+    {
+      "timestamp": 1765966478082,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing red lig"
+    },
+    {
+      "timestamp": 1765966478265,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing red ligh"
+    },
+    {
+      "timestamp": 1765966478459,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing red light"
+    },
+    {
+      "timestamp": 1765966478889,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing red light "
+    },
+    {
+      "timestamp": 1765966479182,
+      "key": "m",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing red light m"
+    },
+    {
+      "timestamp": 1765966479306,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing red light me"
+    },
+    {
+      "timestamp": 1765966479553,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing red light mea"
+    },
+    {
+      "timestamp": 1765966479719,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing red light mean"
+    },
+    {
+      "timestamp": 1765966479842,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing red light means"
+    },
+    {
+      "timestamp": 1765966480414,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing red light means "
+    },
+    {
+      "timestamp": 1765966480826,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing red light means s"
+    },
+    {
+      "timestamp": 1765966481237,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing red light means st"
+    },
+    {
+      "timestamp": 1765966481410,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing red light means sto"
+    },
+    {
+      "timestamp": 1765966481611,
+      "key": "p",
+      "sentenceIndex": 3,
+      "valueAfter": "Flashing red light means stop"
+    },
+    {
+      "timestamp": 1765966482873,
+      "key": "D",
+      "sentenceIndex": 4,
+      "valueAfter": "D"
+    },
+    {
+      "timestamp": 1765966482978,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Do"
+    },
+    {
+      "timestamp": 1765966483216,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Do "
+    },
+    {
+      "timestamp": 1765966483369,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Do a"
+    },
+    {
+      "timestamp": 1765966483499,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Do a "
+    },
+    {
+      "timestamp": 1765966484355,
+      "key": "g",
+      "sentenceIndex": 4,
+      "valueAfter": "Do a g"
+    },
+    {
+      "timestamp": 1765966484537,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Do a go"
+    },
+    {
+      "timestamp": 1765966484739,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Do a goo"
+    },
+    {
+      "timestamp": 1765966484856,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "Do a good"
+    },
+    {
+      "timestamp": 1765966485182,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Do a good "
+    },
+    {
+      "timestamp": 1765966485630,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "Do a good d"
+    },
+    {
+      "timestamp": 1765966485863,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Do a good de"
+    },
+    {
+      "timestamp": 1765966486021,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Do a good dee"
+    },
+    {
+      "timestamp": 1765966486252,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "Do a good deed"
+    },
+    {
+      "timestamp": 1765966486605,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Do a good deed "
+    },
+    {
+      "timestamp": 1765966486880,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Do a good deed t"
+    },
+    {
+      "timestamp": 1765966487073,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Do a good deed to"
+    },
+    {
+      "timestamp": 1765966487385,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Do a good deed to "
+    },
+    {
+      "timestamp": 1765966487833,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Do a good deed to s"
+    },
+    {
+      "timestamp": 1765966487974,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Do a good deed to so"
+    },
+    {
+      "timestamp": 1765966488188,
+      "key": "m",
+      "sentenceIndex": 4,
+      "valueAfter": "Do a good deed to som"
+    },
+    {
+      "timestamp": 1765966488285,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Do a good deed to some"
+    },
+    {
+      "timestamp": 1765966488491,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Do a good deed to someo"
+    },
+    {
+      "timestamp": 1765966489443,
+      "key": "someone",
+      "sentenceIndex": 4,
+      "valueAfter": "Do a good deed to someone"
+    },
+    {
+      "timestamp": 1765966489463,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1765966492195,
+      "key": "W",
+      "sentenceIndex": 5,
+      "valueAfter": " W"
+    },
+    {
+      "timestamp": 1765966492390,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": " Wh"
+    },
+    {
+      "timestamp": 1765966492540,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": " Whe"
+    },
+    {
+      "timestamp": 1765966492734,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": " Wher"
+    },
+    {
+      "timestamp": 1765966492918,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": " Where"
+    },
+    {
+      "timestamp": 1765966493280,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " Where "
+    },
+    {
+      "timestamp": 1765966493843,
+      "key": "d",
+      "sentenceIndex": 5,
+      "valueAfter": " Where d"
+    },
+    {
+      "timestamp": 1765966494071,
+      "key": "u",
+      "sentenceIndex": 5,
+      "valueAfter": " Where du"
+    },
+    {
+      "timestamp": 1765966494219,
+      "key": "d",
+      "sentenceIndex": 5,
+      "valueAfter": " Where dud"
+    },
+    {
+      "timestamp": 1765966494477,
+      "key": "did",
+      "sentenceIndex": 5,
+      "valueAfter": " Where did"
+    },
+    {
+      "timestamp": 1765966494497,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " Where did "
+    },
+    {
+      "timestamp": 1765966495004,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": " Where did y"
+    },
+    {
+      "timestamp": 1765966495219,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": " Where did yo"
+    },
+    {
+      "timestamp": 1765966495413,
+      "key": "u",
+      "sentenceIndex": 5,
+      "valueAfter": " Where did you"
+    },
+    {
+      "timestamp": 1765966495681,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " Where did you "
+    },
+    {
+      "timestamp": 1765966496153,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": " Where did you g"
+    },
+    {
+      "timestamp": 1765966496314,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": " Where did you ge"
+    },
+    {
+      "timestamp": 1765966496445,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": " Where did you get"
+    },
+    {
+      "timestamp": 1765966496768,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " Where did you get "
+    },
+    {
+      "timestamp": 1765966497030,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": " Where did you get t"
+    },
+    {
+      "timestamp": 1765966497237,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": " Where did you get tg"
+    },
+    {
+      "timestamp": 1765966497411,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": " Where did you get tga"
+    },
+    {
+      "timestamp": 1765966497479,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": " Where did you get tgat"
+    },
+    {
+      "timestamp": 1765966498570,
+      "key": "that",
+      "sentenceIndex": 5,
+      "valueAfter": " Where did you get that"
+    },
+    {
+      "timestamp": 1765966498591,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " Where did you get that "
+    },
+    {
+      "timestamp": 1765966499274,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": " Where did you get that t"
+    },
+    {
+      "timestamp": 1765966499424,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": " Where did you get that ti"
+    },
+    {
+      "timestamp": 1765966499634,
+      "key": "E",
+      "sentenceIndex": 6,
+      "valueAfter": "E"
+    },
+    {
+      "timestamp": 1765966500958,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1765966501216,
+      "key": "A",
+      "sentenceIndex": 6,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1765966501431,
+      "key": "l",
+      "sentenceIndex": 6,
+      "valueAfter": "Al"
+    },
+    {
+      "timestamp": 1765966501940,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1765966502189,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "A "
+    },
+    {
+      "timestamp": 1765966502459,
+      "key": "l",
+      "sentenceIndex": 6,
+      "valueAfter": "A l"
+    },
+    {
+      "timestamp": 1765966502666,
+      "key": "i",
+      "sentenceIndex": 6,
+      "valueAfter": "A li"
+    },
+    {
+      "timestamp": 1765966503128,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "A lit"
+    },
+    {
+      "timestamp": 1765966503334,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "A litt"
+    },
+    {
+      "timestamp": 1765966503615,
+      "key": "l",
+      "sentenceIndex": 6,
+      "valueAfter": "A littl"
+    },
+    {
+      "timestamp": 1765966503726,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "A little"
+    },
+    {
+      "timestamp": 1765966504282,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "A little "
+    },
+    {
+      "timestamp": 1765966504801,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "A little e"
+    },
+    {
+      "timestamp": 1765966505243,
+      "key": "c",
+      "sentenceIndex": 6,
+      "valueAfter": "A little ec"
+    },
+    {
+      "timestamp": 1765966506458,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "A little eco"
+    },
+    {
+      "timestamp": 1765966506679,
+      "key": "u",
+      "sentenceIndex": 6,
+      "valueAfter": "A little ecou"
+    },
+    {
+      "timestamp": 1765966506795,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "A little ecour"
+    },
+    {
+      "timestamp": 1765966507037,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "A little ecoura"
+    },
+    {
+      "timestamp": 1765966507170,
+      "key": "g",
+      "sentenceIndex": 6,
+      "valueAfter": "A little ecourag"
+    }
+  ]
+}

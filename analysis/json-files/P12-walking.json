@@ -1,0 +1,1711 @@
+{
+  "mode": "walking",
+  "timestamp": "2025-12-17T12:45:50.991Z",
+  "duration": 60.087,
+  "wpm": 45,
+  "accuracy": "77.86",
+  "totalCharactersTyped": 262,
+  "correctCharacters": 204,
+  "errors": 70,
+  "sentencesCompleted": 8,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Dinosaurus have been extinct for age",
+      "expected": "Dinosaurs have been extinct for ages"
+    },
+    {
+      "typed": "Keep receipts for all your expensen",
+      "expected": "Keep receipts for all your expenses"
+    },
+    {
+      "typed": "I watched blazing saddles",
+      "expected": "I watched blazing saddles"
+    },
+    {
+      "typed": "Always cover all the bases",
+      "expected": "Always cover all the bases"
+    },
+    {
+      "typed": "Players must know all the rules",
+      "expected": "Players must know all the rules"
+    },
+    {
+      "typed": "Superman never wore a mask",
+      "expected": "Superman never wore a mask"
+    },
+    {
+      "typed": "Take a coffee breal",
+      "expected": "Take a coffee break"
+    },
+    {
+      "typed": "Dolphins leap high out of the water",
+      "expected": "Dolphins leap high out of the water"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765975485346,
+      "key": "D",
+      "sentenceIndex": 0,
+      "valueAfter": "D"
+    },
+    {
+      "timestamp": 1765975485626,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Di"
+    },
+    {
+      "timestamp": 1765975485658,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Din"
+    },
+    {
+      "timestamp": 1765975485899,
+      "key": "p",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinp"
+    },
+    {
+      "timestamp": 1765975486102,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinps"
+    },
+    {
+      "timestamp": 1765975486424,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinpsu"
+    },
+    {
+      "timestamp": 1765975486583,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinpsua"
+    },
+    {
+      "timestamp": 1765975486971,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinpsuau"
+    },
+    {
+      "timestamp": 1765975487064,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinpsuaur"
+    },
+    {
+      "timestamp": 1765975487300,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinpsuaurs"
+    },
+    {
+      "timestamp": 1765975487580,
+      "key": "Dinosaurus",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus"
+    },
+    {
+      "timestamp": 1765975487606,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus "
+    },
+    {
+      "timestamp": 1765975488077,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus h"
+    },
+    {
+      "timestamp": 1765975488180,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus ha"
+    },
+    {
+      "timestamp": 1765975488278,
+      "key": "v",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus hav"
+    },
+    {
+      "timestamp": 1765975488435,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have"
+    },
+    {
+      "timestamp": 1765975488548,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have "
+    },
+    {
+      "timestamp": 1765975488805,
+      "key": "b",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have b"
+    },
+    {
+      "timestamp": 1765975488931,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have be"
+    },
+    {
+      "timestamp": 1765975489208,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have bee"
+    },
+    {
+      "timestamp": 1765975489402,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have been"
+    },
+    {
+      "timestamp": 1765975489622,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have been "
+    },
+    {
+      "timestamp": 1765975489790,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have been e"
+    },
+    {
+      "timestamp": 1765975490141,
+      "key": "x",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have been ex"
+    },
+    {
+      "timestamp": 1765975490408,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have been ext"
+    },
+    {
+      "timestamp": 1765975490519,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have been exti"
+    },
+    {
+      "timestamp": 1765975490759,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have been extin"
+    },
+    {
+      "timestamp": 1765975490942,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have been extinc"
+    },
+    {
+      "timestamp": 1765975491142,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have been extinct"
+    },
+    {
+      "timestamp": 1765975491335,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have been extinct "
+    },
+    {
+      "timestamp": 1765975491708,
+      "key": "f",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have been extinct f"
+    },
+    {
+      "timestamp": 1765975491834,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have been extinct fo"
+    },
+    {
+      "timestamp": 1765975492007,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have been extinct for"
+    },
+    {
+      "timestamp": 1765975492149,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have been extinct for "
+    },
+    {
+      "timestamp": 1765975492289,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have been extinct for a"
+    },
+    {
+      "timestamp": 1765975492437,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have been extinct for ag"
+    },
+    {
+      "timestamp": 1765975492590,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Dinosaurus have been extinct for age"
+    },
+    {
+      "timestamp": 1765975492842,
+      "key": "S",
+      "sentenceIndex": 1,
+      "valueAfter": "S"
+    },
+    {
+      "timestamp": 1765975493602,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1765975494581,
+      "key": "K",
+      "sentenceIndex": 1,
+      "valueAfter": "K"
+    },
+    {
+      "timestamp": 1765975494778,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Ke"
+    },
+    {
+      "timestamp": 1765975494995,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Kee"
+    },
+    {
+      "timestamp": 1765975495143,
+      "key": "p",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep"
+    },
+    {
+      "timestamp": 1765975495421,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep "
+    },
+    {
+      "timestamp": 1765975496149,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep r"
+    },
+    {
+      "timestamp": 1765975496293,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep re"
+    },
+    {
+      "timestamp": 1765975496559,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep rec"
+    },
+    {
+      "timestamp": 1765975496800,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep rece"
+    },
+    {
+      "timestamp": 1765975496989,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep recei"
+    },
+    {
+      "timestamp": 1765975497184,
+      "key": "p",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receip"
+    },
+    {
+      "timestamp": 1765975497434,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receips"
+    },
+    {
+      "timestamp": 1765975497645,
+      "key": "receipts",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts"
+    },
+    {
+      "timestamp": 1765975497667,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts "
+    },
+    {
+      "timestamp": 1765975497849,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts f"
+    },
+    {
+      "timestamp": 1765975497967,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts fo"
+    },
+    {
+      "timestamp": 1765975498059,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for"
+    },
+    {
+      "timestamp": 1765975498184,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for "
+    },
+    {
+      "timestamp": 1765975498315,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for a"
+    },
+    {
+      "timestamp": 1765975498416,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for al"
+    },
+    {
+      "timestamp": 1765975498581,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all"
+    },
+    {
+      "timestamp": 1765975498810,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all "
+    },
+    {
+      "timestamp": 1765975498953,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all y"
+    },
+    {
+      "timestamp": 1765975499082,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all yo"
+    },
+    {
+      "timestamp": 1765975499244,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all yor"
+    },
+    {
+      "timestamp": 1765975499955,
+      "key": "your",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all your"
+    },
+    {
+      "timestamp": 1765975499975,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all your "
+    },
+    {
+      "timestamp": 1765975500418,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all your e"
+    },
+    {
+      "timestamp": 1765975500755,
+      "key": "x",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all your ex"
+    },
+    {
+      "timestamp": 1765975500954,
+      "key": "p",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all your exp"
+    },
+    {
+      "timestamp": 1765975501101,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all your expe"
+    },
+    {
+      "timestamp": 1765975501256,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all your expen"
+    },
+    {
+      "timestamp": 1765975501371,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all your expens"
+    },
+    {
+      "timestamp": 1765975501572,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all your expense"
+    },
+    {
+      "timestamp": 1765975501670,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Keep receipts for all your expensen"
+    },
+    {
+      "timestamp": 1765975501822,
+      "key": "S",
+      "sentenceIndex": 2,
+      "valueAfter": "S"
+    },
+    {
+      "timestamp": 1765975502717,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1765975503459,
+      "key": "I",
+      "sentenceIndex": 2,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1765975503681,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "I "
+    },
+    {
+      "timestamp": 1765975503848,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "I e"
+    },
+    {
+      "timestamp": 1765975504059,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "I ea"
+    },
+    {
+      "timestamp": 1765975504157,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "I eat"
+    },
+    {
+      "timestamp": 1765975504393,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "I eatc"
+    },
+    {
+      "timestamp": 1765975504556,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "I eatch"
+    },
+    {
+      "timestamp": 1765975504695,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "I eatche"
+    },
+    {
+      "timestamp": 1765975504910,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "I eatched"
+    },
+    {
+      "timestamp": 1765975505033,
+      "key": "watched",
+      "sentenceIndex": 2,
+      "valueAfter": "I watched"
+    },
+    {
+      "timestamp": 1765975505049,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "I watched "
+    },
+    {
+      "timestamp": 1765975505642,
+      "key": "b",
+      "sentenceIndex": 2,
+      "valueAfter": "I watched b"
+    },
+    {
+      "timestamp": 1765975505841,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "I watched bl"
+    },
+    {
+      "timestamp": 1765975505943,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "I watched bla"
+    },
+    {
+      "timestamp": 1765975506178,
+      "key": "z",
+      "sentenceIndex": 2,
+      "valueAfter": "I watched blaz"
+    },
+    {
+      "timestamp": 1765975506305,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "I watched blazi"
+    },
+    {
+      "timestamp": 1765975506490,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "I watched blazin"
+    },
+    {
+      "timestamp": 1765975506593,
+      "key": "g",
+      "sentenceIndex": 2,
+      "valueAfter": "I watched blazing"
+    },
+    {
+      "timestamp": 1765975506756,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "I watched blazing "
+    },
+    {
+      "timestamp": 1765975506998,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "I watched blazing s"
+    },
+    {
+      "timestamp": 1765975507177,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "I watched blazing sa"
+    },
+    {
+      "timestamp": 1765975507429,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "I watched blazing sad"
+    },
+    {
+      "timestamp": 1765975507598,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "I watched blazing sadd"
+    },
+    {
+      "timestamp": 1765975507712,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "I watched blazing saddl"
+    },
+    {
+      "timestamp": 1765975507784,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "I watched blazing saddle"
+    },
+    {
+      "timestamp": 1765975507996,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "I watched blazing saddles"
+    },
+    {
+      "timestamp": 1765975508816,
+      "key": "A",
+      "sentenceIndex": 3,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1765975509014,
+      "key": "æ",
+      "sentenceIndex": 3,
+      "valueAfter": "Aæ"
+    },
+    {
+      "timestamp": 1765975509203,
+      "key": "w",
+      "sentenceIndex": 3,
+      "valueAfter": "Aæw"
+    },
+    {
+      "timestamp": 1765975509428,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Aæwa"
+    },
+    {
+      "timestamp": 1765975509596,
+      "key": "y",
+      "sentenceIndex": 3,
+      "valueAfter": "Aæway"
+    },
+    {
+      "timestamp": 1765975509733,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Aæways"
+    },
+    {
+      "timestamp": 1765975509878,
+      "key": "Always",
+      "sentenceIndex": 3,
+      "valueAfter": "Always"
+    },
+    {
+      "timestamp": 1765975509890,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Always "
+    },
+    {
+      "timestamp": 1765975510102,
+      "key": "x",
+      "sentenceIndex": 3,
+      "valueAfter": "Always x"
+    },
+    {
+      "timestamp": 1765975510247,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Always xo"
+    },
+    {
+      "timestamp": 1765975510487,
+      "key": "v",
+      "sentenceIndex": 3,
+      "valueAfter": "Always xov"
+    },
+    {
+      "timestamp": 1765975510596,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Always xove"
+    },
+    {
+      "timestamp": 1765975510790,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Always xover"
+    },
+    {
+      "timestamp": 1765975510891,
+      "key": "cover",
+      "sentenceIndex": 3,
+      "valueAfter": "Always cover"
+    },
+    {
+      "timestamp": 1765975510908,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Always cover "
+    },
+    {
+      "timestamp": 1765975511172,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Always cover a"
+    },
+    {
+      "timestamp": 1765975511284,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Always cover al"
+    },
+    {
+      "timestamp": 1765975511418,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Always cover all"
+    },
+    {
+      "timestamp": 1765975511647,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Always cover all "
+    },
+    {
+      "timestamp": 1765975511787,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Always cover all t"
+    },
+    {
+      "timestamp": 1765975511932,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Always cover all th"
+    },
+    {
+      "timestamp": 1765975512052,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Always cover all the"
+    },
+    {
+      "timestamp": 1765975512172,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Always cover all the "
+    },
+    {
+      "timestamp": 1765975512390,
+      "key": "b",
+      "sentenceIndex": 3,
+      "valueAfter": "Always cover all the b"
+    },
+    {
+      "timestamp": 1765975512491,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Always cover all the ba"
+    },
+    {
+      "timestamp": 1765975512719,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Always cover all the bas"
+    },
+    {
+      "timestamp": 1765975512920,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Always cover all the base"
+    },
+    {
+      "timestamp": 1765975513140,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Always cover all the bases"
+    },
+    {
+      "timestamp": 1765975514058,
+      "key": "P",
+      "sentenceIndex": 4,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1765975514254,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Pl"
+    },
+    {
+      "timestamp": 1765975514473,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Pla"
+    },
+    {
+      "timestamp": 1765975514860,
+      "key": "y",
+      "sentenceIndex": 4,
+      "valueAfter": "Play"
+    },
+    {
+      "timestamp": 1765975514969,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Playe"
+    },
+    {
+      "timestamp": 1765975515161,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Player"
+    },
+    {
+      "timestamp": 1765975515357,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Players"
+    },
+    {
+      "timestamp": 1765975515469,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Players "
+    },
+    {
+      "timestamp": 1765975515691,
+      "key": "m",
+      "sentenceIndex": 4,
+      "valueAfter": "Players m"
+    },
+    {
+      "timestamp": 1765975515894,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "Players mu"
+    },
+    {
+      "timestamp": 1765975516021,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Players mus"
+    },
+    {
+      "timestamp": 1765975516121,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Players must"
+    },
+    {
+      "timestamp": 1765975516348,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Players must "
+    },
+    {
+      "timestamp": 1765975516522,
+      "key": "k",
+      "sentenceIndex": 4,
+      "valueAfter": "Players must k"
+    },
+    {
+      "timestamp": 1765975516676,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "Players must kn"
+    },
+    {
+      "timestamp": 1765975516844,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Players must kno"
+    },
+    {
+      "timestamp": 1765975517012,
+      "key": "w",
+      "sentenceIndex": 4,
+      "valueAfter": "Players must know"
+    },
+    {
+      "timestamp": 1765975517196,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Players must know "
+    },
+    {
+      "timestamp": 1765975517461,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Players must know a"
+    },
+    {
+      "timestamp": 1765975517574,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Players must know al"
+    },
+    {
+      "timestamp": 1765975517727,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Players must know all"
+    },
+    {
+      "timestamp": 1765975517965,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Players must know all "
+    },
+    {
+      "timestamp": 1765975518057,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Players must know all t"
+    },
+    {
+      "timestamp": 1765975518192,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "Players must know all th"
+    },
+    {
+      "timestamp": 1765975518308,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Players must know all the"
+    },
+    {
+      "timestamp": 1765975518450,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Players must know all the "
+    },
+    {
+      "timestamp": 1765975518746,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Players must know all the r"
+    },
+    {
+      "timestamp": 1765975518896,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "Players must know all the ru"
+    },
+    {
+      "timestamp": 1765975519170,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Players must know all the rul"
+    },
+    {
+      "timestamp": 1765975519289,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Players must know all the rule"
+    },
+    {
+      "timestamp": 1765975519513,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Players must know all the rules"
+    },
+    {
+      "timestamp": 1765975520483,
+      "key": "S",
+      "sentenceIndex": 5,
+      "valueAfter": "S"
+    },
+    {
+      "timestamp": 1765975520752,
+      "key": "u",
+      "sentenceIndex": 5,
+      "valueAfter": "Su"
+    },
+    {
+      "timestamp": 1765975520951,
+      "key": "p",
+      "sentenceIndex": 5,
+      "valueAfter": "Sup"
+    },
+    {
+      "timestamp": 1765975521066,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Supe"
+    },
+    {
+      "timestamp": 1765975521243,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Super"
+    },
+    {
+      "timestamp": 1765975521394,
+      "key": "m",
+      "sentenceIndex": 5,
+      "valueAfter": "Superm"
+    },
+    {
+      "timestamp": 1765975521520,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Superma"
+    },
+    {
+      "timestamp": 1765975521653,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "Superman"
+    },
+    {
+      "timestamp": 1765975521972,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Superman "
+    },
+    {
+      "timestamp": 1765975522234,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "Superman n"
+    },
+    {
+      "timestamp": 1765975522347,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Superman ne"
+    },
+    {
+      "timestamp": 1765975522646,
+      "key": "v",
+      "sentenceIndex": 5,
+      "valueAfter": "Superman nev"
+    },
+    {
+      "timestamp": 1765975522781,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Superman neve"
+    },
+    {
+      "timestamp": 1765975523004,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Superman never"
+    },
+    {
+      "timestamp": 1765975523120,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Superman never "
+    },
+    {
+      "timestamp": 1765975523338,
+      "key": "w",
+      "sentenceIndex": 5,
+      "valueAfter": "Superman never w"
+    },
+    {
+      "timestamp": 1765975523463,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "Superman never wo"
+    },
+    {
+      "timestamp": 1765975523599,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Superman never wor"
+    },
+    {
+      "timestamp": 1765975523810,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Superman never wore"
+    },
+    {
+      "timestamp": 1765975523983,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Superman never wore "
+    },
+    {
+      "timestamp": 1765975524086,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Superman never wore a"
+    },
+    {
+      "timestamp": 1765975524307,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Superman never wore a "
+    },
+    {
+      "timestamp": 1765975524573,
+      "key": "m",
+      "sentenceIndex": 5,
+      "valueAfter": "Superman never wore a m"
+    },
+    {
+      "timestamp": 1765975524714,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Superman never wore a ma"
+    },
+    {
+      "timestamp": 1765975524954,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Superman never wore a mas"
+    },
+    {
+      "timestamp": 1765975525099,
+      "key": "k",
+      "sentenceIndex": 5,
+      "valueAfter": "Superman never wore a mask"
+    },
+    {
+      "timestamp": 1765975526231,
+      "key": "T",
+      "sentenceIndex": 6,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765975526324,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "Ta"
+    },
+    {
+      "timestamp": 1765975526433,
+      "key": "k",
+      "sentenceIndex": 6,
+      "valueAfter": "Tak"
+    },
+    {
+      "timestamp": 1765975526573,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Take"
+    },
+    {
+      "timestamp": 1765975526710,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Take "
+    },
+    {
+      "timestamp": 1765975526838,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a"
+    },
+    {
+      "timestamp": 1765975527081,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a "
+    },
+    {
+      "timestamp": 1765975527344,
+      "key": "c",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a c"
+    },
+    {
+      "timestamp": 1765975527507,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a co"
+    },
+    {
+      "timestamp": 1765975527691,
+      "key": "f",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a cof"
+    },
+    {
+      "timestamp": 1765975527839,
+      "key": "f",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a coff"
+    },
+    {
+      "timestamp": 1765975528058,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a coffe"
+    },
+    {
+      "timestamp": 1765975528237,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a coffe "
+    },
+    {
+      "timestamp": 1765975528456,
+      "key": "b",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a coffe b"
+    },
+    {
+      "timestamp": 1765975528575,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a coffe be"
+    },
+    {
+      "timestamp": 1765975528795,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a coffe bee"
+    },
+    {
+      "timestamp": 1765975529295,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a coffe be"
+    },
+    {
+      "timestamp": 1765975529473,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a coffe b"
+    },
+    {
+      "timestamp": 1765975529642,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a coffe "
+    },
+    {
+      "timestamp": 1765975529809,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a coffe"
+    },
+    {
+      "timestamp": 1765975529948,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a coff"
+    },
+    {
+      "timestamp": 1765975530932,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a coffe"
+    },
+    {
+      "timestamp": 1765975531149,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a coffee"
+    },
+    {
+      "timestamp": 1765975531284,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a coffee "
+    },
+    {
+      "timestamp": 1765975531464,
+      "key": "b",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a coffee b"
+    },
+    {
+      "timestamp": 1765975531567,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a coffee br"
+    },
+    {
+      "timestamp": 1765975531730,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a coffee bre"
+    },
+    {
+      "timestamp": 1765975531980,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a coffee brea"
+    },
+    {
+      "timestamp": 1765975532069,
+      "key": "l",
+      "sentenceIndex": 6,
+      "valueAfter": "Take a coffee breal"
+    },
+    {
+      "timestamp": 1765975533318,
+      "key": "D",
+      "sentenceIndex": 7,
+      "valueAfter": "D"
+    },
+    {
+      "timestamp": 1765975533456,
+      "key": "o",
+      "sentenceIndex": 7,
+      "valueAfter": "Do"
+    },
+    {
+      "timestamp": 1765975533616,
+      "key": "l",
+      "sentenceIndex": 7,
+      "valueAfter": "Dol"
+    },
+    {
+      "timestamp": 1765975533801,
+      "key": "p",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolp"
+    },
+    {
+      "timestamp": 1765975533927,
+      "key": "h",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolph"
+    },
+    {
+      "timestamp": 1765975534089,
+      "key": "i",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphi"
+    },
+    {
+      "timestamp": 1765975534269,
+      "key": "n",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphin"
+    },
+    {
+      "timestamp": 1765975534385,
+      "key": "s",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins"
+    },
+    {
+      "timestamp": 1765975534522,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins "
+    },
+    {
+      "timestamp": 1765975534719,
+      "key": "l",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins l"
+    },
+    {
+      "timestamp": 1765975534840,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins le"
+    },
+    {
+      "timestamp": 1765975535087,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins lea"
+    },
+    {
+      "timestamp": 1765975535196,
+      "key": "p",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap"
+    },
+    {
+      "timestamp": 1765975535450,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap "
+    },
+    {
+      "timestamp": 1765975535755,
+      "key": "h",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap h"
+    },
+    {
+      "timestamp": 1765975535900,
+      "key": "o",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap ho"
+    },
+    {
+      "timestamp": 1765975536050,
+      "key": "g",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap hog"
+    },
+    {
+      "timestamp": 1765975536243,
+      "key": "h",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap hogh"
+    },
+    {
+      "timestamp": 1765975536436,
+      "key": "high",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap high"
+    },
+    {
+      "timestamp": 1765975536455,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap high "
+    },
+    {
+      "timestamp": 1765975536671,
+      "key": "l",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap high l"
+    },
+    {
+      "timestamp": 1765975536857,
+      "key": "h",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap high lh"
+    },
+    {
+      "timestamp": 1765975536982,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap high lht"
+    },
+    {
+      "timestamp": 1765975537150,
+      "key": "out",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap high out"
+    },
+    {
+      "timestamp": 1765975537163,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap high out "
+    },
+    {
+      "timestamp": 1765975537740,
+      "key": "p",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap high out p"
+    },
+    {
+      "timestamp": 1765975537943,
+      "key": "g",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap high out pg"
+    },
+    {
+      "timestamp": 1765975538203,
+      "key": "of",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap high out of"
+    },
+    {
+      "timestamp": 1765975538222,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap high out of "
+    },
+    {
+      "timestamp": 1765975538473,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap high out of t"
+    },
+    {
+      "timestamp": 1765975538672,
+      "key": "h",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap high out of th"
+    },
+    {
+      "timestamp": 1765975538858,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap high out of the"
+    },
+    {
+      "timestamp": 1765975539021,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap high out of the "
+    },
+    {
+      "timestamp": 1765975539759,
+      "key": "w",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap high out of the w"
+    },
+    {
+      "timestamp": 1765975539995,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap high out of the wa"
+    },
+    {
+      "timestamp": 1765975540098,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap high out of the wat"
+    },
+    {
+      "timestamp": 1765975540279,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap high out of the wate"
+    },
+    {
+      "timestamp": 1765975540496,
+      "key": "r",
+      "sentenceIndex": 7,
+      "valueAfter": "Dolphins leap high out of the water"
+    },
+    {
+      "timestamp": 1765975541459,
+      "key": "S",
+      "sentenceIndex": 8,
+      "valueAfter": "S"
+    },
+    {
+      "timestamp": 1765975541606,
+      "key": "o",
+      "sentenceIndex": 8,
+      "valueAfter": "So"
+    },
+    {
+      "timestamp": 1765975541781,
+      "key": "x",
+      "sentenceIndex": 8,
+      "valueAfter": "Sox"
+    },
+    {
+      "timestamp": 1765975541901,
+      "key": "Six",
+      "sentenceIndex": 8,
+      "valueAfter": "Six"
+    },
+    {
+      "timestamp": 1765975541911,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "Six "
+    },
+    {
+      "timestamp": 1765975542067,
+      "key": "d",
+      "sentenceIndex": 8,
+      "valueAfter": "Six d"
+    },
+    {
+      "timestamp": 1765975542313,
+      "key": "a",
+      "sentenceIndex": 8,
+      "valueAfter": "Six da"
+    },
+    {
+      "timestamp": 1765975542460,
+      "key": "u",
+      "sentenceIndex": 8,
+      "valueAfter": "Six dau"
+    },
+    {
+      "timestamp": 1765975542668,
+      "key": "g",
+      "sentenceIndex": 8,
+      "valueAfter": "Six daug"
+    },
+    {
+      "timestamp": 1765975542849,
+      "key": "h",
+      "sentenceIndex": 8,
+      "valueAfter": "Six daugh"
+    },
+    {
+      "timestamp": 1765975542963,
+      "key": "t",
+      "sentenceIndex": 8,
+      "valueAfter": "Six daught"
+    },
+    {
+      "timestamp": 1765975543233,
+      "key": "e",
+      "sentenceIndex": 8,
+      "valueAfter": "Six daughte"
+    },
+    {
+      "timestamp": 1765975543431,
+      "key": "r",
+      "sentenceIndex": 8,
+      "valueAfter": "Six daughter"
+    },
+    {
+      "timestamp": 1765975543682,
+      "key": "s",
+      "sentenceIndex": 8,
+      "valueAfter": "Six daughters"
+    },
+    {
+      "timestamp": 1765975543912,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "Six daughters "
+    },
+    {
+      "timestamp": 1765975544181,
+      "key": "a",
+      "sentenceIndex": 8,
+      "valueAfter": "Six daughters a"
+    },
+    {
+      "timestamp": 1765975544599,
+      "key": "n",
+      "sentenceIndex": 8,
+      "valueAfter": "Six daughters an"
+    },
+    {
+      "timestamp": 1765975544726,
+      "key": "d",
+      "sentenceIndex": 8,
+      "valueAfter": "Six daughters and"
+    },
+    {
+      "timestamp": 1765975544863,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "Six daughters and "
+    },
+    {
+      "timestamp": 1765975544982,
+      "key": "s",
+      "sentenceIndex": 8,
+      "valueAfter": "Six daughters and s"
+    },
+    {
+      "timestamp": 1765975545202,
+      "key": "e",
+      "sentenceIndex": 8,
+      "valueAfter": "Six daughters and se"
+    },
+    {
+      "timestamp": 1765975545308,
+      "key": "v",
+      "sentenceIndex": 8,
+      "valueAfter": "Six daughters and sev"
+    },
+    {
+      "timestamp": 1765975545414,
+      "key": "e",
+      "sentenceIndex": 8,
+      "valueAfter": "Six daughters and seve"
+    }
+  ]
+}

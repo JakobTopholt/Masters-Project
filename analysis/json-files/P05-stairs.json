@@ -1,0 +1,1593 @@
+{
+  "mode": "upstairs",
+  "timestamp": "2025-12-17T09:57:22.787Z",
+  "duration": 60.001,
+  "wpm": 34,
+  "accuracy": "71.81",
+  "totalCharactersTyped": 227,
+  "correctCharacters": 163,
+  "errors": 110,
+  "sentencesCompleted": 7,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Interesting observation was made",
+      "expected": "Interesting observation was made"
+    },
+    {
+      "typed": "Do you to shop on Sunday dayd",
+      "expected": "Do you like to shop on Sunday"
+    },
+    {
+      "typed": "I spilled coffee on the carpet",
+      "expected": "I spilled coffee on the carpet"
+    },
+    {
+      "typed": "Valid until the end of the year",
+      "expected": "Valid until the end of the year"
+    },
+    {
+      "typed": "Machinery too complicated ed",
+      "expected": "Machinery is too complicated"
+    },
+    {
+      "typed": "Toy have my sympathy",
+      "expected": "You have my sympathy"
+    },
+    {
+      "typed": "Prepare for the exam in advance",
+      "expected": "Prepare for the exam in advance"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765965382400,
+      "key": "I",
+      "sentenceIndex": 0,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1765965382623,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "In"
+    },
+    {
+      "timestamp": 1765965382754,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Int"
+    },
+    {
+      "timestamp": 1765965383012,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Inte"
+    },
+    {
+      "timestamp": 1765965383197,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Inter"
+    },
+    {
+      "timestamp": 1765965383373,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Intere"
+    },
+    {
+      "timestamp": 1765965383530,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Interes"
+    },
+    {
+      "timestamp": 1765965383759,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Interest"
+    },
+    {
+      "timestamp": 1765965383880,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesti"
+    },
+    {
+      "timestamp": 1765965384034,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Interestin"
+    },
+    {
+      "timestamp": 1765965384154,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting"
+    },
+    {
+      "timestamp": 1765965384278,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting "
+    },
+    {
+      "timestamp": 1765965384486,
+      "key": "p",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting p"
+    },
+    {
+      "timestamp": 1765965384677,
+      "key": "b",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting pb"
+    },
+    {
+      "timestamp": 1765965384825,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting pbe"
+    },
+    {
+      "timestamp": 1765965384965,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting pber"
+    },
+    {
+      "timestamp": 1765965385146,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting pbers"
+    },
+    {
+      "timestamp": 1765965385505,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting pber"
+    },
+    {
+      "timestamp": 1765965385717,
+      "key": "v",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting pberv"
+    },
+    {
+      "timestamp": 1765965386580,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting pber"
+    },
+    {
+      "timestamp": 1765965386870,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting pbe"
+    },
+    {
+      "timestamp": 1765965387082,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting pb"
+    },
+    {
+      "timestamp": 1765965387212,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting p"
+    },
+    {
+      "timestamp": 1765965387315,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting "
+    },
+    {
+      "timestamp": 1765965387515,
+      "key": "p",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting p"
+    },
+    {
+      "timestamp": 1765965387721,
+      "key": "v",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting pv"
+    },
+    {
+      "timestamp": 1765965387872,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting pve"
+    },
+    {
+      "timestamp": 1765965388653,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting "
+    },
+    {
+      "timestamp": 1765965388680,
+      "key": "over ",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting over "
+    },
+    {
+      "timestamp": 1765965388866,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting over"
+    },
+    {
+      "timestamp": 1765965389027,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting ove"
+    },
+    {
+      "timestamp": 1765965389172,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting ov"
+    },
+    {
+      "timestamp": 1765965389310,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting o"
+    },
+    {
+      "timestamp": 1765965389773,
+      "key": "b",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting ob"
+    },
+    {
+      "timestamp": 1765965389985,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting obe"
+    },
+    {
+      "timestamp": 1765965390307,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting ob"
+    },
+    {
+      "timestamp": 1765965390425,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting obs"
+    },
+    {
+      "timestamp": 1765965390617,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting obse"
+    },
+    {
+      "timestamp": 1765965390758,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting obser"
+    },
+    {
+      "timestamp": 1765965390924,
+      "key": "v",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting observ"
+    },
+    {
+      "timestamp": 1765965391005,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting observa"
+    },
+    {
+      "timestamp": 1765965391214,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting observat"
+    },
+    {
+      "timestamp": 1765965391291,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting observati"
+    },
+    {
+      "timestamp": 1765965391432,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting observatio"
+    },
+    {
+      "timestamp": 1765965391577,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting observation"
+    },
+    {
+      "timestamp": 1765965391775,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting observation "
+    },
+    {
+      "timestamp": 1765965391901,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting observation w"
+    },
+    {
+      "timestamp": 1765965392083,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting observation wa"
+    },
+    {
+      "timestamp": 1765965392256,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting observation was"
+    },
+    {
+      "timestamp": 1765965392332,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting observation was "
+    },
+    {
+      "timestamp": 1765965392529,
+      "key": "m",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting observation was m"
+    },
+    {
+      "timestamp": 1765965392602,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting observation was ma"
+    },
+    {
+      "timestamp": 1765965392802,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting observation was mad"
+    },
+    {
+      "timestamp": 1765965392967,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Interesting observation was made"
+    },
+    {
+      "timestamp": 1765965393208,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1765965393695,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1765965393927,
+      "key": "D",
+      "sentenceIndex": 1,
+      "valueAfter": "D"
+    },
+    {
+      "timestamp": 1765965393994,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Do"
+    },
+    {
+      "timestamp": 1765965394275,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Do "
+    },
+    {
+      "timestamp": 1765965394535,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "Do y"
+    },
+    {
+      "timestamp": 1765965394629,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Do yo"
+    },
+    {
+      "timestamp": 1765965394837,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you"
+    },
+    {
+      "timestamp": 1765965395024,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you "
+    },
+    {
+      "timestamp": 1765965395422,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you r"
+    },
+    {
+      "timestamp": 1765965395486,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you ro"
+    },
+    {
+      "timestamp": 1765965395740,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you "
+    },
+    {
+      "timestamp": 1765965395761,
+      "key": "to ",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you to "
+    },
+    {
+      "timestamp": 1765965396520,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you to s"
+    },
+    {
+      "timestamp": 1765965397092,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you to sh"
+    },
+    {
+      "timestamp": 1765965397528,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you to sho"
+    },
+    {
+      "timestamp": 1765965397713,
+      "key": "p",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you to shop"
+    },
+    {
+      "timestamp": 1765965398012,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you to shop "
+    },
+    {
+      "timestamp": 1765965398236,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you to shop o"
+    },
+    {
+      "timestamp": 1765965398385,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you to shop on"
+    },
+    {
+      "timestamp": 1765965398584,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you to shop on "
+    },
+    {
+      "timestamp": 1765965398771,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you to shop on u"
+    },
+    {
+      "timestamp": 1765965398825,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you to shop on us"
+    },
+    {
+      "timestamp": 1765965399141,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you to shop on usn"
+    },
+    {
+      "timestamp": 1765965399280,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you to shop on usnd"
+    },
+    {
+      "timestamp": 1765965399468,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you to shop on usnda"
+    },
+    {
+      "timestamp": 1765965399661,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you to shop on usnday"
+    },
+    {
+      "timestamp": 1765965400661,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you to shop on "
+    },
+    {
+      "timestamp": 1765965400687,
+      "key": "Sunday ",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you to shop on Sunday "
+    },
+    {
+      "timestamp": 1765965401651,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you to shop on Sunday d"
+    },
+    {
+      "timestamp": 1765965401848,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you to shop on Sunday da"
+    },
+    {
+      "timestamp": 1765965401941,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you to shop on Sunday day"
+    },
+    {
+      "timestamp": 1765965402820,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you to shop on Sunday dayd"
+    },
+    {
+      "timestamp": 1765965403864,
+      "key": "I",
+      "sentenceIndex": 2,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1765965404076,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "I "
+    },
+    {
+      "timestamp": 1765965404214,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "I s"
+    },
+    {
+      "timestamp": 1765965404312,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": "I sp"
+    },
+    {
+      "timestamp": 1765965404459,
+      "key": "u",
+      "sentenceIndex": 2,
+      "valueAfter": "I spu"
+    },
+    {
+      "timestamp": 1765965404655,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "I spul"
+    },
+    {
+      "timestamp": 1765965404778,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "I spull"
+    },
+    {
+      "timestamp": 1765965404886,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "I spulle"
+    },
+    {
+      "timestamp": 1765965405040,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "I spulled"
+    },
+    {
+      "timestamp": 1765965405189,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "I "
+    },
+    {
+      "timestamp": 1765965405206,
+      "key": "spilled ",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled "
+    },
+    {
+      "timestamp": 1765965405347,
+      "key": "x",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled x"
+    },
+    {
+      "timestamp": 1765965405464,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled xo"
+    },
+    {
+      "timestamp": 1765965405631,
+      "key": "f",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled xof"
+    },
+    {
+      "timestamp": 1765965405794,
+      "key": "f",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled xoff"
+    },
+    {
+      "timestamp": 1765965406007,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled xoffe"
+    },
+    {
+      "timestamp": 1765965406183,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled xoffee"
+    },
+    {
+      "timestamp": 1765965406388,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled "
+    },
+    {
+      "timestamp": 1765965406415,
+      "key": "coffee ",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled coffee "
+    },
+    {
+      "timestamp": 1765965406565,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled coffee o"
+    },
+    {
+      "timestamp": 1765965406730,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled coffee on"
+    },
+    {
+      "timestamp": 1765965406923,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled coffee on "
+    },
+    {
+      "timestamp": 1765965407029,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled coffee on t"
+    },
+    {
+      "timestamp": 1765965407167,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled coffee on th"
+    },
+    {
+      "timestamp": 1765965407325,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled coffee on the"
+    },
+    {
+      "timestamp": 1765965407385,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled coffee on the "
+    },
+    {
+      "timestamp": 1765965407680,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled coffee on the c"
+    },
+    {
+      "timestamp": 1765965407902,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled coffee on the ca"
+    },
+    {
+      "timestamp": 1765965408079,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled coffee on the car"
+    },
+    {
+      "timestamp": 1765965408158,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled coffee on the carp"
+    },
+    {
+      "timestamp": 1765965408306,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled coffee on the carpe"
+    },
+    {
+      "timestamp": 1765965408470,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "I spilled coffee on the carpet"
+    },
+    {
+      "timestamp": 1765965409857,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1765965410040,
+      "key": "V",
+      "sentenceIndex": 3,
+      "valueAfter": " V"
+    },
+    {
+      "timestamp": 1765965410424,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1765965410546,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1765965411114,
+      "key": "V",
+      "sentenceIndex": 3,
+      "valueAfter": "V"
+    },
+    {
+      "timestamp": 1765965411274,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Va"
+    },
+    {
+      "timestamp": 1765965411388,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Val"
+    },
+    {
+      "timestamp": 1765965411546,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Vali"
+    },
+    {
+      "timestamp": 1765965411670,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid"
+    },
+    {
+      "timestamp": 1765965411817,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid "
+    },
+    {
+      "timestamp": 1765965411987,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid u"
+    },
+    {
+      "timestamp": 1765965412144,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid un"
+    },
+    {
+      "timestamp": 1765965412293,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid unt"
+    },
+    {
+      "timestamp": 1765965412360,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid unti"
+    },
+    {
+      "timestamp": 1765965412508,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid until"
+    },
+    {
+      "timestamp": 1765965412710,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid until "
+    },
+    {
+      "timestamp": 1765965412958,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid until t"
+    },
+    {
+      "timestamp": 1765965413127,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid until th"
+    },
+    {
+      "timestamp": 1765965413293,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid until the"
+    },
+    {
+      "timestamp": 1765965413439,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid until the "
+    },
+    {
+      "timestamp": 1765965413732,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid until the e"
+    },
+    {
+      "timestamp": 1765965413844,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid until the en"
+    },
+    {
+      "timestamp": 1765965414024,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid until the end"
+    },
+    {
+      "timestamp": 1765965414130,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid until the end "
+    },
+    {
+      "timestamp": 1765965414338,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid until the end o"
+    },
+    {
+      "timestamp": 1765965414414,
+      "key": "f",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid until the end of"
+    },
+    {
+      "timestamp": 1765965414575,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid until the end of "
+    },
+    {
+      "timestamp": 1765965414663,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid until the end of t"
+    },
+    {
+      "timestamp": 1765965414817,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid until the end of th"
+    },
+    {
+      "timestamp": 1765965414983,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid until the end of the"
+    },
+    {
+      "timestamp": 1765965415079,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid until the end of the "
+    },
+    {
+      "timestamp": 1765965415335,
+      "key": "y",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid until the end of the y"
+    },
+    {
+      "timestamp": 1765965415464,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid until the end of the ye"
+    },
+    {
+      "timestamp": 1765965415656,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid until the end of the yea"
+    },
+    {
+      "timestamp": 1765965416152,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Valid until the end of the year"
+    },
+    {
+      "timestamp": 1765965417010,
+      "key": "M",
+      "sentenceIndex": 4,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1765965417114,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Ma"
+    },
+    {
+      "timestamp": 1765965417292,
+      "key": "x",
+      "sentenceIndex": 4,
+      "valueAfter": "Max"
+    },
+    {
+      "timestamp": 1765965417409,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "Maxh"
+    },
+    {
+      "timestamp": 1765965417564,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Maxhi"
+    },
+    {
+      "timestamp": 1765965417738,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "Maxhin"
+    },
+    {
+      "timestamp": 1765965417850,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Maxhine"
+    },
+    {
+      "timestamp": 1765965417999,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Maxhiner"
+    },
+    {
+      "timestamp": 1765965418131,
+      "key": "y",
+      "sentenceIndex": 4,
+      "valueAfter": "Maxhinery"
+    },
+    {
+      "timestamp": 1765965418346,
+      "key": "Machinery ",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery "
+    },
+    {
+      "timestamp": 1765965418502,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery t"
+    },
+    {
+      "timestamp": 1765965418567,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery to"
+    },
+    {
+      "timestamp": 1765965418708,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too"
+    },
+    {
+      "timestamp": 1765965418938,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too "
+    },
+    {
+      "timestamp": 1765965419107,
+      "key": "x",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too x"
+    },
+    {
+      "timestamp": 1765965419192,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too xo"
+    },
+    {
+      "timestamp": 1765965419657,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too xoo"
+    },
+    {
+      "timestamp": 1765965420632,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too "
+    },
+    {
+      "timestamp": 1765965420655,
+      "key": "cool ",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too cool "
+    },
+    {
+      "timestamp": 1765965421016,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too cool l"
+    },
+    {
+      "timestamp": 1765965421202,
+      "key": "m",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too cool lm"
+    },
+    {
+      "timestamp": 1765965421501,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too cool l"
+    },
+    {
+      "timestamp": 1765965421640,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too cool "
+    },
+    {
+      "timestamp": 1765965422268,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too cool"
+    },
+    {
+      "timestamp": 1765965422966,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too cool "
+    },
+    {
+      "timestamp": 1765965423615,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too cool"
+    },
+    {
+      "timestamp": 1765965423752,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too coo"
+    },
+    {
+      "timestamp": 1765965423895,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too co"
+    },
+    {
+      "timestamp": 1765965424027,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too c"
+    },
+    {
+      "timestamp": 1765965424739,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too co"
+    },
+    {
+      "timestamp": 1765965424937,
+      "key": "m",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too com"
+    },
+    {
+      "timestamp": 1765965425253,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too com "
+    },
+    {
+      "timestamp": 1765965425682,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too com"
+    },
+    {
+      "timestamp": 1765965426168,
+      "key": "p",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too comp"
+    },
+    {
+      "timestamp": 1765965426369,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too compl"
+    },
+    {
+      "timestamp": 1765965426550,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too compli"
+    },
+    {
+      "timestamp": 1765965426655,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too complic"
+    },
+    {
+      "timestamp": 1765965426873,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too complics"
+    },
+    {
+      "timestamp": 1765965427086,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too complicst"
+    },
+    {
+      "timestamp": 1765965427297,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too complicste"
+    },
+    {
+      "timestamp": 1765965427449,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too complicsted"
+    },
+    {
+      "timestamp": 1765965427861,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too complic"
+    },
+    {
+      "timestamp": 1765965427886,
+      "key": "ated ",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too complicated "
+    },
+    {
+      "timestamp": 1765965428936,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too complicated e"
+    },
+    {
+      "timestamp": 1765965429094,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "Machinery too complicated ed"
+    },
+    {
+      "timestamp": 1765965430126,
+      "key": "T",
+      "sentenceIndex": 5,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765965430223,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "To"
+    },
+    {
+      "timestamp": 1765965430393,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": "Toy"
+    },
+    {
+      "timestamp": 1765965430591,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Toy "
+    },
+    {
+      "timestamp": 1765965430783,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "Toy h"
+    },
+    {
+      "timestamp": 1765965430967,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Toy ha"
+    },
+    {
+      "timestamp": 1765965431117,
+      "key": "v",
+      "sentenceIndex": 5,
+      "valueAfter": "Toy hav"
+    },
+    {
+      "timestamp": 1765965431239,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Toy have"
+    },
+    {
+      "timestamp": 1765965431453,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Toy have "
+    },
+    {
+      "timestamp": 1765965431627,
+      "key": "m",
+      "sentenceIndex": 5,
+      "valueAfter": "Toy have m"
+    },
+    {
+      "timestamp": 1765965431873,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": "Toy have my"
+    },
+    {
+      "timestamp": 1765965432055,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Toy have my "
+    },
+    {
+      "timestamp": 1765965432334,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Toy have my s"
+    },
+    {
+      "timestamp": 1765965432410,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": "Toy have my sy"
+    },
+    {
+      "timestamp": 1765965432600,
+      "key": "m",
+      "sentenceIndex": 5,
+      "valueAfter": "Toy have my sym"
+    },
+    {
+      "timestamp": 1765965432853,
+      "key": "p",
+      "sentenceIndex": 5,
+      "valueAfter": "Toy have my symp"
+    },
+    {
+      "timestamp": 1765965433053,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Toy have my sympa"
+    },
+    {
+      "timestamp": 1765965433261,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "Toy have my sympah"
+    },
+    {
+      "timestamp": 1765965433534,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "Toy have my sympa"
+    },
+    {
+      "timestamp": 1765965433658,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "Toy have my sympat"
+    },
+    {
+      "timestamp": 1765965433838,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "Toy have my sympath"
+    },
+    {
+      "timestamp": 1765965434362,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": "Toy have my sympathy"
+    },
+    {
+      "timestamp": 1765965435247,
+      "key": "Æ",
+      "sentenceIndex": 6,
+      "valueAfter": "Æ"
+    },
+    {
+      "timestamp": 1765965435432,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "Ær"
+    },
+    {
+      "timestamp": 1765965435590,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Ære"
+    },
+    {
+      "timestamp": 1765965435667,
+      "key": "p",
+      "sentenceIndex": 6,
+      "valueAfter": "Ærep"
+    },
+    {
+      "timestamp": 1765965435827,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "Ærepa"
+    },
+    {
+      "timestamp": 1765965436067,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "Ærepar"
+    },
+    {
+      "timestamp": 1765965436217,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Ærepare"
+    },
+    {
+      "timestamp": 1765965436420,
+      "key": "Prepare ",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare "
+    },
+    {
+      "timestamp": 1765965436549,
+      "key": "f",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare f"
+    },
+    {
+      "timestamp": 1765965436661,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare fo"
+    },
+    {
+      "timestamp": 1765965436794,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for"
+    },
+    {
+      "timestamp": 1765965437023,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for "
+    },
+    {
+      "timestamp": 1765965437114,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for t"
+    },
+    {
+      "timestamp": 1765965437241,
+      "key": "h",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for th"
+    },
+    {
+      "timestamp": 1765965437392,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for the"
+    },
+    {
+      "timestamp": 1765965437529,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for the "
+    },
+    {
+      "timestamp": 1765965437815,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for the e"
+    },
+    {
+      "timestamp": 1765965438072,
+      "key": "z",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for the ez"
+    },
+    {
+      "timestamp": 1765965438283,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for the eza"
+    },
+    {
+      "timestamp": 1765965438392,
+      "key": "m",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for the ezam"
+    },
+    {
+      "timestamp": 1765965438620,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for the "
+    },
+    {
+      "timestamp": 1765965438647,
+      "key": "exam ",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for the exam "
+    },
+    {
+      "timestamp": 1765965438816,
+      "key": "i",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for the exam i"
+    },
+    {
+      "timestamp": 1765965438957,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for the exam in"
+    },
+    {
+      "timestamp": 1765965439109,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for the exam in "
+    },
+    {
+      "timestamp": 1765965439416,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for the exam in a"
+    },
+    {
+      "timestamp": 1765965439731,
+      "key": "d",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for the exam in ad"
+    },
+    {
+      "timestamp": 1765965439969,
+      "key": "v",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for the exam in adv"
+    },
+    {
+      "timestamp": 1765965440122,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for the exam in adva"
+    },
+    {
+      "timestamp": 1765965440232,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for the exam in advan"
+    },
+    {
+      "timestamp": 1765965440385,
+      "key": "c",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for the exam in advanc"
+    },
+    {
+      "timestamp": 1765965440612,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Prepare for the exam in advance"
+    },
+    {
+      "timestamp": 1765965441619,
+      "key": "T",
+      "sentenceIndex": 7,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765965441847,
+      "key": "h",
+      "sentenceIndex": 7,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765965441980,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765965442191,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765965442362,
+      "key": "r",
+      "sentenceIndex": 7,
+      "valueAfter": "The r"
+    }
+  ]
+}

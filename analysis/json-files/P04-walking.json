@@ -1,0 +1,1465 @@
+{
+  "mode": "walking",
+  "timestamp": "2025-12-17T10:05:40.391Z",
+  "duration": 60.001,
+  "wpm": 45,
+  "accuracy": "88.41",
+  "totalCharactersTyped": 233,
+  "correctCharacters": 206,
+  "errors": 84,
+  "sentencesCompleted": 8,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "The force is with tou",
+      "expected": "The force is with you"
+    },
+    {
+      "typed": "Breathing is dofficult",
+      "expected": "Breathing is difficult"
+    },
+    {
+      "typed": "My bank account is overfrawn",
+      "expected": "My bank account is overdrawn"
+    },
+    {
+      "typed": "He is shouting loudly",
+      "expected": "He is shouting loudly"
+    },
+    {
+      "typed": "O e of the poorest nations",
+      "expected": "One of the poorest nations"
+    },
+    {
+      "typed": "Gra ite is the hardest of all rocks",
+      "expected": "Granite is the hardest of all rocks"
+    },
+    {
+      "typed": "Never mix religion and politics",
+      "expected": "Never mix religion and politics"
+    },
+    {
+      "typed": "Machinery is too complocated",
+      "expected": "Machinery is too complicated"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765965874721,
+      "key": "T",
+      "sentenceIndex": 0,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765965874897,
+      "key": "Th",
+      "sentenceIndex": 0,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765965875076,
+      "key": "The",
+      "sentenceIndex": 0,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765965875204,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765965875406,
+      "key": "f",
+      "sentenceIndex": 0,
+      "valueAfter": "The f"
+    },
+    {
+      "timestamp": 1765965875565,
+      "key": "fo",
+      "sentenceIndex": 0,
+      "valueAfter": "The fo"
+    },
+    {
+      "timestamp": 1765965875680,
+      "key": "for",
+      "sentenceIndex": 0,
+      "valueAfter": "The for"
+    },
+    {
+      "timestamp": 1765965875933,
+      "key": "forc",
+      "sentenceIndex": 0,
+      "valueAfter": "The forc"
+    },
+    {
+      "timestamp": 1765965876190,
+      "key": "force",
+      "sentenceIndex": 0,
+      "valueAfter": "The force"
+    },
+    {
+      "timestamp": 1765965876280,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The force "
+    },
+    {
+      "timestamp": 1765965876591,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "The force i"
+    },
+    {
+      "timestamp": 1765965876734,
+      "key": "is",
+      "sentenceIndex": 0,
+      "valueAfter": "The force is"
+    },
+    {
+      "timestamp": 1765965876951,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The force is "
+    },
+    {
+      "timestamp": 1765965877110,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "The force is w"
+    },
+    {
+      "timestamp": 1765965877301,
+      "key": "wi",
+      "sentenceIndex": 0,
+      "valueAfter": "The force is wi"
+    },
+    {
+      "timestamp": 1765965877527,
+      "key": "wit",
+      "sentenceIndex": 0,
+      "valueAfter": "The force is wit"
+    },
+    {
+      "timestamp": 1765965877559,
+      "key": "with",
+      "sentenceIndex": 0,
+      "valueAfter": "The force is with"
+    },
+    {
+      "timestamp": 1765965877889,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The force is with "
+    },
+    {
+      "timestamp": 1765965878238,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "The force is with t"
+    },
+    {
+      "timestamp": 1765965878353,
+      "key": "to",
+      "sentenceIndex": 0,
+      "valueAfter": "The force is with to"
+    },
+    {
+      "timestamp": 1765965878540,
+      "key": "tou",
+      "sentenceIndex": 0,
+      "valueAfter": "The force is with tou"
+    },
+    {
+      "timestamp": 1765965879915,
+      "key": "B",
+      "sentenceIndex": 1,
+      "valueAfter": "B"
+    },
+    {
+      "timestamp": 1765965880181,
+      "key": "Br",
+      "sentenceIndex": 1,
+      "valueAfter": "Br"
+    },
+    {
+      "timestamp": 1765965880390,
+      "key": "Brw",
+      "sentenceIndex": 1,
+      "valueAfter": "Brw"
+    },
+    {
+      "timestamp": 1765965881088,
+      "key": "Br",
+      "sentenceIndex": 1,
+      "valueAfter": "Br"
+    },
+    {
+      "timestamp": 1765965881392,
+      "key": "Bre",
+      "sentenceIndex": 1,
+      "valueAfter": "Bre"
+    },
+    {
+      "timestamp": 1765965881610,
+      "key": "Brea",
+      "sentenceIndex": 1,
+      "valueAfter": "Brea"
+    },
+    {
+      "timestamp": 1765965881903,
+      "key": "Breat",
+      "sentenceIndex": 1,
+      "valueAfter": "Breat"
+    },
+    {
+      "timestamp": 1765965882011,
+      "key": "Breath",
+      "sentenceIndex": 1,
+      "valueAfter": "Breath"
+    },
+    {
+      "timestamp": 1765965882219,
+      "key": "Breathi",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathi"
+    },
+    {
+      "timestamp": 1765965882444,
+      "key": "Breathin",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathin"
+    },
+    {
+      "timestamp": 1765965882588,
+      "key": "Breathing",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing"
+    },
+    {
+      "timestamp": 1765965883000,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing "
+    },
+    {
+      "timestamp": 1765965883646,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing i"
+    },
+    {
+      "timestamp": 1765965883913,
+      "key": "is",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is"
+    },
+    {
+      "timestamp": 1765965884099,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is "
+    },
+    {
+      "timestamp": 1765965884366,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is d"
+    },
+    {
+      "timestamp": 1765965884582,
+      "key": "do",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is do"
+    },
+    {
+      "timestamp": 1765965884942,
+      "key": "dof",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is dof"
+    },
+    {
+      "timestamp": 1765965885127,
+      "key": "doff",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is doff"
+    },
+    {
+      "timestamp": 1765965885294,
+      "key": "doffi",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is doffi"
+    },
+    {
+      "timestamp": 1765965885502,
+      "key": "doffic",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is doffic"
+    },
+    {
+      "timestamp": 1765965885636,
+      "key": "dofficu",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is dofficu"
+    },
+    {
+      "timestamp": 1765965885894,
+      "key": "dofficul",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is dofficul"
+    },
+    {
+      "timestamp": 1765965886069,
+      "key": "dofficult",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is dofficult"
+    },
+    {
+      "timestamp": 1765965886230,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1765965886880,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1765965887580,
+      "key": "M",
+      "sentenceIndex": 2,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1765965887917,
+      "key": "My",
+      "sentenceIndex": 2,
+      "valueAfter": "My"
+    },
+    {
+      "timestamp": 1765965888077,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "My "
+    },
+    {
+      "timestamp": 1765965888349,
+      "key": "b",
+      "sentenceIndex": 2,
+      "valueAfter": "My b"
+    },
+    {
+      "timestamp": 1765965888642,
+      "key": "ba",
+      "sentenceIndex": 2,
+      "valueAfter": "My ba"
+    },
+    {
+      "timestamp": 1765965888743,
+      "key": "ban",
+      "sentenceIndex": 2,
+      "valueAfter": "My ban"
+    },
+    {
+      "timestamp": 1765965888959,
+      "key": "bank",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank"
+    },
+    {
+      "timestamp": 1765965889225,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank "
+    },
+    {
+      "timestamp": 1765965889461,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank a"
+    },
+    {
+      "timestamp": 1765965889837,
+      "key": "ac",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank ac"
+    },
+    {
+      "timestamp": 1765965890031,
+      "key": "acc",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank acc"
+    },
+    {
+      "timestamp": 1765965890094,
+      "key": "acco",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank acco"
+    },
+    {
+      "timestamp": 1765965890312,
+      "key": "accou",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank accou"
+    },
+    {
+      "timestamp": 1765965890537,
+      "key": "accoun",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank accoun"
+    },
+    {
+      "timestamp": 1765965890712,
+      "key": "account",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank account"
+    },
+    {
+      "timestamp": 1765965892083,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank account "
+    },
+    {
+      "timestamp": 1765965892409,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank account i"
+    },
+    {
+      "timestamp": 1765965892608,
+      "key": "is",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank account is"
+    },
+    {
+      "timestamp": 1765965892761,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank account is "
+    },
+    {
+      "timestamp": 1765965893103,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank account is o"
+    },
+    {
+      "timestamp": 1765965893369,
+      "key": "ov",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank account is ov"
+    },
+    {
+      "timestamp": 1765965893551,
+      "key": "ove",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank account is ove"
+    },
+    {
+      "timestamp": 1765965893745,
+      "key": "over",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank account is over"
+    },
+    {
+      "timestamp": 1765965893978,
+      "key": "overf",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank account is overf"
+    },
+    {
+      "timestamp": 1765965894195,
+      "key": "overfr",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank account is overfr"
+    },
+    {
+      "timestamp": 1765965894512,
+      "key": "overfra",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank account is overfra"
+    },
+    {
+      "timestamp": 1765965894865,
+      "key": "overfraw",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank account is overfraw"
+    },
+    {
+      "timestamp": 1765965894989,
+      "key": "overfrawn",
+      "sentenceIndex": 2,
+      "valueAfter": "My bank account is overfrawn"
+    },
+    {
+      "timestamp": 1765965896349,
+      "key": "H",
+      "sentenceIndex": 3,
+      "valueAfter": "H"
+    },
+    {
+      "timestamp": 1765965896561,
+      "key": "He",
+      "sentenceIndex": 3,
+      "valueAfter": "He"
+    },
+    {
+      "timestamp": 1765965896667,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "He "
+    },
+    {
+      "timestamp": 1765965896974,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "He i"
+    },
+    {
+      "timestamp": 1765965897119,
+      "key": "is",
+      "sentenceIndex": 3,
+      "valueAfter": "He is"
+    },
+    {
+      "timestamp": 1765965897317,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "He is "
+    },
+    {
+      "timestamp": 1765965897443,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "He is s"
+    },
+    {
+      "timestamp": 1765965897769,
+      "key": "sh",
+      "sentenceIndex": 3,
+      "valueAfter": "He is sh"
+    },
+    {
+      "timestamp": 1765965898045,
+      "key": "sho",
+      "sentenceIndex": 3,
+      "valueAfter": "He is sho"
+    },
+    {
+      "timestamp": 1765965898287,
+      "key": "shou",
+      "sentenceIndex": 3,
+      "valueAfter": "He is shou"
+    },
+    {
+      "timestamp": 1765965898512,
+      "key": "shout",
+      "sentenceIndex": 3,
+      "valueAfter": "He is shout"
+    },
+    {
+      "timestamp": 1765965898621,
+      "key": "shouti",
+      "sentenceIndex": 3,
+      "valueAfter": "He is shouti"
+    },
+    {
+      "timestamp": 1765965898856,
+      "key": "shoutin",
+      "sentenceIndex": 3,
+      "valueAfter": "He is shoutin"
+    },
+    {
+      "timestamp": 1765965899007,
+      "key": "shouting",
+      "sentenceIndex": 3,
+      "valueAfter": "He is shouting"
+    },
+    {
+      "timestamp": 1765965899138,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "He is shouting "
+    },
+    {
+      "timestamp": 1765965899557,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "He is shouting l"
+    },
+    {
+      "timestamp": 1765965899832,
+      "key": "lo",
+      "sentenceIndex": 3,
+      "valueAfter": "He is shouting lo"
+    },
+    {
+      "timestamp": 1765965900083,
+      "key": "lou",
+      "sentenceIndex": 3,
+      "valueAfter": "He is shouting lou"
+    },
+    {
+      "timestamp": 1765965900226,
+      "key": "loud",
+      "sentenceIndex": 3,
+      "valueAfter": "He is shouting loud"
+    },
+    {
+      "timestamp": 1765965900385,
+      "key": "loudl",
+      "sentenceIndex": 3,
+      "valueAfter": "He is shouting loudl"
+    },
+    {
+      "timestamp": 1765965900570,
+      "key": "loudly",
+      "sentenceIndex": 3,
+      "valueAfter": "He is shouting loudly"
+    },
+    {
+      "timestamp": 1765965901609,
+      "key": "O",
+      "sentenceIndex": 4,
+      "valueAfter": "O"
+    },
+    {
+      "timestamp": 1765965901856,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "O "
+    },
+    {
+      "timestamp": 1765965902048,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "O e"
+    },
+    {
+      "timestamp": 1765965902143,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "O e "
+    },
+    {
+      "timestamp": 1765965902423,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "O e o"
+    },
+    {
+      "timestamp": 1765965902566,
+      "key": "of",
+      "sentenceIndex": 4,
+      "valueAfter": "O e of"
+    },
+    {
+      "timestamp": 1765965902737,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "O e of "
+    },
+    {
+      "timestamp": 1765965902881,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "O e of t"
+    },
+    {
+      "timestamp": 1765965903099,
+      "key": "th",
+      "sentenceIndex": 4,
+      "valueAfter": "O e of th"
+    },
+    {
+      "timestamp": 1765965903259,
+      "key": "the",
+      "sentenceIndex": 4,
+      "valueAfter": "O e of the"
+    },
+    {
+      "timestamp": 1765965903400,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "O e of the "
+    },
+    {
+      "timestamp": 1765965903876,
+      "key": "p",
+      "sentenceIndex": 4,
+      "valueAfter": "O e of the p"
+    },
+    {
+      "timestamp": 1765965904134,
+      "key": "po",
+      "sentenceIndex": 4,
+      "valueAfter": "O e of the po"
+    },
+    {
+      "timestamp": 1765965904320,
+      "key": "poo",
+      "sentenceIndex": 4,
+      "valueAfter": "O e of the poo"
+    },
+    {
+      "timestamp": 1765965904497,
+      "key": "poor",
+      "sentenceIndex": 4,
+      "valueAfter": "O e of the poor"
+    },
+    {
+      "timestamp": 1765965904711,
+      "key": "poore",
+      "sentenceIndex": 4,
+      "valueAfter": "O e of the poore"
+    },
+    {
+      "timestamp": 1765965904911,
+      "key": "poores",
+      "sentenceIndex": 4,
+      "valueAfter": "O e of the poores"
+    },
+    {
+      "timestamp": 1765965905171,
+      "key": "poorest",
+      "sentenceIndex": 4,
+      "valueAfter": "O e of the poorest"
+    },
+    {
+      "timestamp": 1765965905334,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "O e of the poorest "
+    },
+    {
+      "timestamp": 1765965905848,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "O e of the poorest n"
+    },
+    {
+      "timestamp": 1765965906017,
+      "key": "na",
+      "sentenceIndex": 4,
+      "valueAfter": "O e of the poorest na"
+    },
+    {
+      "timestamp": 1765965906299,
+      "key": "nat",
+      "sentenceIndex": 4,
+      "valueAfter": "O e of the poorest nat"
+    },
+    {
+      "timestamp": 1765965906424,
+      "key": "nati",
+      "sentenceIndex": 4,
+      "valueAfter": "O e of the poorest nati"
+    },
+    {
+      "timestamp": 1765965906632,
+      "key": "natio",
+      "sentenceIndex": 4,
+      "valueAfter": "O e of the poorest natio"
+    },
+    {
+      "timestamp": 1765965906849,
+      "key": "nation",
+      "sentenceIndex": 4,
+      "valueAfter": "O e of the poorest nation"
+    },
+    {
+      "timestamp": 1765965907160,
+      "key": "nations",
+      "sentenceIndex": 4,
+      "valueAfter": "O e of the poorest nations"
+    },
+    {
+      "timestamp": 1765965908411,
+      "key": "G",
+      "sentenceIndex": 5,
+      "valueAfter": "G"
+    },
+    {
+      "timestamp": 1765965908694,
+      "key": "Gr",
+      "sentenceIndex": 5,
+      "valueAfter": "Gr"
+    },
+    {
+      "timestamp": 1765965908979,
+      "key": "Gra",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra"
+    },
+    {
+      "timestamp": 1765965909104,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra "
+    },
+    {
+      "timestamp": 1765965909354,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra i"
+    },
+    {
+      "timestamp": 1765965909516,
+      "key": "it",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra it"
+    },
+    {
+      "timestamp": 1765965909773,
+      "key": "ite",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite"
+    },
+    {
+      "timestamp": 1765965909865,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite "
+    },
+    {
+      "timestamp": 1765965910174,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite i"
+    },
+    {
+      "timestamp": 1765965910316,
+      "key": "is",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is"
+    },
+    {
+      "timestamp": 1765965910525,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is "
+    },
+    {
+      "timestamp": 1765965910743,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is t"
+    },
+    {
+      "timestamp": 1765965910874,
+      "key": "th",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is th"
+    },
+    {
+      "timestamp": 1765965911034,
+      "key": "the",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the"
+    },
+    {
+      "timestamp": 1765965911175,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the "
+    },
+    {
+      "timestamp": 1765965911392,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the h"
+    },
+    {
+      "timestamp": 1765965911582,
+      "key": "ha",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the ha"
+    },
+    {
+      "timestamp": 1765965911826,
+      "key": "har",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the har"
+    },
+    {
+      "timestamp": 1765965912060,
+      "key": "hard",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the hard"
+    },
+    {
+      "timestamp": 1765965912261,
+      "key": "harde",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the harde"
+    },
+    {
+      "timestamp": 1765965912485,
+      "key": "hardes",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the hardes"
+    },
+    {
+      "timestamp": 1765965912746,
+      "key": "hardest",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the hardest"
+    },
+    {
+      "timestamp": 1765965912932,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the hardest "
+    },
+    {
+      "timestamp": 1765965913230,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the hardest o"
+    },
+    {
+      "timestamp": 1765965913398,
+      "key": "of",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the hardest of"
+    },
+    {
+      "timestamp": 1765965913599,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the hardest of "
+    },
+    {
+      "timestamp": 1765965913890,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the hardest of a"
+    },
+    {
+      "timestamp": 1765965914058,
+      "key": "al",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the hardest of al"
+    },
+    {
+      "timestamp": 1765965914224,
+      "key": "all",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the hardest of all"
+    },
+    {
+      "timestamp": 1765965914467,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the hardest of all "
+    },
+    {
+      "timestamp": 1765965914699,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the hardest of all r"
+    },
+    {
+      "timestamp": 1765965914833,
+      "key": "ro",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the hardest of all ro"
+    },
+    {
+      "timestamp": 1765965915016,
+      "key": "roc",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the hardest of all roc"
+    },
+    {
+      "timestamp": 1765965915101,
+      "key": "rock",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the hardest of all rock"
+    },
+    {
+      "timestamp": 1765965915285,
+      "key": "rocks",
+      "sentenceIndex": 5,
+      "valueAfter": "Gra ite is the hardest of all rocks"
+    },
+    {
+      "timestamp": 1765965916304,
+      "key": "N",
+      "sentenceIndex": 6,
+      "valueAfter": "N"
+    },
+    {
+      "timestamp": 1765965916554,
+      "key": "Ne",
+      "sentenceIndex": 6,
+      "valueAfter": "Ne"
+    },
+    {
+      "timestamp": 1765965916736,
+      "key": "Nev",
+      "sentenceIndex": 6,
+      "valueAfter": "Nev"
+    },
+    {
+      "timestamp": 1765965916862,
+      "key": "Neve",
+      "sentenceIndex": 6,
+      "valueAfter": "Neve"
+    },
+    {
+      "timestamp": 1765965917054,
+      "key": "Never",
+      "sentenceIndex": 6,
+      "valueAfter": "Never"
+    },
+    {
+      "timestamp": 1765965917160,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Never "
+    },
+    {
+      "timestamp": 1765965917370,
+      "key": "m",
+      "sentenceIndex": 6,
+      "valueAfter": "Never m"
+    },
+    {
+      "timestamp": 1765965917614,
+      "key": "mi",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mi"
+    },
+    {
+      "timestamp": 1765965917757,
+      "key": "mix",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix"
+    },
+    {
+      "timestamp": 1765965917975,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix "
+    },
+    {
+      "timestamp": 1765965918142,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix r"
+    },
+    {
+      "timestamp": 1765965918374,
+      "key": "re",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix re"
+    },
+    {
+      "timestamp": 1765965918483,
+      "key": "rel",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix rel"
+    },
+    {
+      "timestamp": 1765965918724,
+      "key": "reli",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix reli"
+    },
+    {
+      "timestamp": 1765965919083,
+      "key": "relig",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix relig"
+    },
+    {
+      "timestamp": 1765965919200,
+      "key": "religi",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix religi"
+    },
+    {
+      "timestamp": 1765965919392,
+      "key": "religio",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix religio"
+    },
+    {
+      "timestamp": 1765965919635,
+      "key": "religion",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix religion"
+    },
+    {
+      "timestamp": 1765965920179,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix religion "
+    },
+    {
+      "timestamp": 1765965920394,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix religion a"
+    },
+    {
+      "timestamp": 1765965920529,
+      "key": "an",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix religion an"
+    },
+    {
+      "timestamp": 1765965920714,
+      "key": "and",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix religion and"
+    },
+    {
+      "timestamp": 1765965920821,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix religion and "
+    },
+    {
+      "timestamp": 1765965921206,
+      "key": "p",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix religion and p"
+    },
+    {
+      "timestamp": 1765965921454,
+      "key": "po",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix religion and po"
+    },
+    {
+      "timestamp": 1765965921756,
+      "key": "pol",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix religion and pol"
+    },
+    {
+      "timestamp": 1765965922056,
+      "key": "poli",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix religion and poli"
+    },
+    {
+      "timestamp": 1765965922190,
+      "key": "polit",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix religion and polit"
+    },
+    {
+      "timestamp": 1765965922317,
+      "key": "politi",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix religion and politi"
+    },
+    {
+      "timestamp": 1765965922465,
+      "key": "politic",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix religion and politic"
+    },
+    {
+      "timestamp": 1765965922744,
+      "key": "politics",
+      "sentenceIndex": 6,
+      "valueAfter": "Never mix religion and politics"
+    },
+    {
+      "timestamp": 1765965923642,
+      "key": "M",
+      "sentenceIndex": 7,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1765965923894,
+      "key": "Ma",
+      "sentenceIndex": 7,
+      "valueAfter": "Ma"
+    },
+    {
+      "timestamp": 1765965924194,
+      "key": "Mac",
+      "sentenceIndex": 7,
+      "valueAfter": "Mac"
+    },
+    {
+      "timestamp": 1765965924303,
+      "key": "Mach",
+      "sentenceIndex": 7,
+      "valueAfter": "Mach"
+    },
+    {
+      "timestamp": 1765965924527,
+      "key": "Machi",
+      "sentenceIndex": 7,
+      "valueAfter": "Machi"
+    },
+    {
+      "timestamp": 1765965924761,
+      "key": "Machin",
+      "sentenceIndex": 7,
+      "valueAfter": "Machin"
+    },
+    {
+      "timestamp": 1765965924863,
+      "key": "Machine",
+      "sentenceIndex": 7,
+      "valueAfter": "Machine"
+    },
+    {
+      "timestamp": 1765965925071,
+      "key": "Machiner",
+      "sentenceIndex": 7,
+      "valueAfter": "Machiner"
+    },
+    {
+      "timestamp": 1765965925296,
+      "key": "Machinery",
+      "sentenceIndex": 7,
+      "valueAfter": "Machinery"
+    },
+    {
+      "timestamp": 1765965925437,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Machinery "
+    },
+    {
+      "timestamp": 1765965925732,
+      "key": "i",
+      "sentenceIndex": 7,
+      "valueAfter": "Machinery i"
+    },
+    {
+      "timestamp": 1765965925911,
+      "key": "is",
+      "sentenceIndex": 7,
+      "valueAfter": "Machinery is"
+    },
+    {
+      "timestamp": 1765965926058,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Machinery is "
+    },
+    {
+      "timestamp": 1765965926236,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "Machinery is t"
+    },
+    {
+      "timestamp": 1765965926410,
+      "key": "to",
+      "sentenceIndex": 7,
+      "valueAfter": "Machinery is to"
+    },
+    {
+      "timestamp": 1765965926588,
+      "key": "too",
+      "sentenceIndex": 7,
+      "valueAfter": "Machinery is too"
+    },
+    {
+      "timestamp": 1765965927010,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Machinery is too "
+    },
+    {
+      "timestamp": 1765965927702,
+      "key": "c",
+      "sentenceIndex": 7,
+      "valueAfter": "Machinery is too c"
+    },
+    {
+      "timestamp": 1765965927926,
+      "key": "co",
+      "sentenceIndex": 7,
+      "valueAfter": "Machinery is too co"
+    },
+    {
+      "timestamp": 1765965928231,
+      "key": "com",
+      "sentenceIndex": 7,
+      "valueAfter": "Machinery is too com"
+    },
+    {
+      "timestamp": 1765965928539,
+      "key": "comp",
+      "sentenceIndex": 7,
+      "valueAfter": "Machinery is too comp"
+    },
+    {
+      "timestamp": 1765965928763,
+      "key": "compl",
+      "sentenceIndex": 7,
+      "valueAfter": "Machinery is too compl"
+    },
+    {
+      "timestamp": 1765965929013,
+      "key": "complo",
+      "sentenceIndex": 7,
+      "valueAfter": "Machinery is too complo"
+    },
+    {
+      "timestamp": 1765965929205,
+      "key": "comploc",
+      "sentenceIndex": 7,
+      "valueAfter": "Machinery is too comploc"
+    },
+    {
+      "timestamp": 1765965929489,
+      "key": "comploca",
+      "sentenceIndex": 7,
+      "valueAfter": "Machinery is too comploca"
+    },
+    {
+      "timestamp": 1765965929781,
+      "key": "complocat",
+      "sentenceIndex": 7,
+      "valueAfter": "Machinery is too complocat"
+    },
+    {
+      "timestamp": 1765965930025,
+      "key": "complocate",
+      "sentenceIndex": 7,
+      "valueAfter": "Machinery is too complocate"
+    },
+    {
+      "timestamp": 1765965930250,
+      "key": "complocated",
+      "sentenceIndex": 7,
+      "valueAfter": "Machinery is too complocated"
+    },
+    {
+      "timestamp": 1765965931306,
+      "key": "V",
+      "sentenceIndex": 8,
+      "valueAfter": "V"
+    },
+    {
+      "timestamp": 1765965931502,
+      "key": "Va",
+      "sentenceIndex": 8,
+      "valueAfter": "Va"
+    },
+    {
+      "timestamp": 1765965931618,
+      "key": "Val",
+      "sentenceIndex": 8,
+      "valueAfter": "Val"
+    },
+    {
+      "timestamp": 1765965931854,
+      "key": "Vali",
+      "sentenceIndex": 8,
+      "valueAfter": "Vali"
+    },
+    {
+      "timestamp": 1765965932012,
+      "key": "Valid",
+      "sentenceIndex": 8,
+      "valueAfter": "Valid"
+    },
+    {
+      "timestamp": 1765965932230,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "Valid "
+    },
+    {
+      "timestamp": 1765965932504,
+      "key": "u",
+      "sentenceIndex": 8,
+      "valueAfter": "Valid u"
+    },
+    {
+      "timestamp": 1765965932738,
+      "key": "un",
+      "sentenceIndex": 8,
+      "valueAfter": "Valid un"
+    },
+    {
+      "timestamp": 1765965932954,
+      "key": "unt",
+      "sentenceIndex": 8,
+      "valueAfter": "Valid unt"
+    },
+    {
+      "timestamp": 1765965933080,
+      "key": "unti",
+      "sentenceIndex": 8,
+      "valueAfter": "Valid unti"
+    },
+    {
+      "timestamp": 1765965933314,
+      "key": "until",
+      "sentenceIndex": 8,
+      "valueAfter": "Valid until"
+    },
+    {
+      "timestamp": 1765965933583,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "Valid until "
+    },
+    {
+      "timestamp": 1765965933750,
+      "key": "y",
+      "sentenceIndex": 8,
+      "valueAfter": "Valid until y"
+    },
+    {
+      "timestamp": 1765965933872,
+      "key": "yh",
+      "sentenceIndex": 8,
+      "valueAfter": "Valid until yh"
+    },
+    {
+      "timestamp": 1765965934059,
+      "key": "yhe",
+      "sentenceIndex": 8,
+      "valueAfter": "Valid until yhe"
+    },
+    {
+      "timestamp": 1765965934212,
+      "key": "the",
+      "sentenceIndex": 8,
+      "valueAfter": "Valid until the"
+    },
+    {
+      "timestamp": 1765965934220,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "Valid until the "
+    },
+    {
+      "timestamp": 1765965934333,
+      "key": "e",
+      "sentenceIndex": 8,
+      "valueAfter": "Valid until the e"
+    },
+    {
+      "timestamp": 1765965934509,
+      "key": "en",
+      "sentenceIndex": 8,
+      "valueAfter": "Valid until the en"
+    },
+    {
+      "timestamp": 1765965934708,
+      "key": "end",
+      "sentenceIndex": 8,
+      "valueAfter": "Valid until the end"
+    }
+  ]
+}

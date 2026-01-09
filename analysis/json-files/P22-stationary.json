@@ -1,0 +1,1115 @@
+{
+  "mode": "stationary",
+  "timestamp": "2025-12-18T13:03:02.800Z",
+  "duration": 60.055,
+  "wpm": 32,
+  "accuracy": "90.40",
+  "totalCharactersTyped": 177,
+  "correctCharacters": 160,
+  "errors": 33,
+  "sentencesCompleted": 6,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "We went grocery shopping",
+      "expected": "We went grocery shopping"
+    },
+    {
+      "typed": "Shivering is one way to keep warm",
+      "expected": "Shivering is one way to keep warm"
+    },
+    {
+      "typed": "World population is growing",
+      "expected": "World population is growing"
+    },
+    {
+      "typed": "Parking tickets can be challenged",
+      "expected": "Parking tickets can be challenged"
+    },
+    {
+      "typed": "Gas bills are sent monthly",
+      "expected": "Gas bills are sent monthly"
+    },
+    {
+      "typed": "Ian allergic to beees and peanuts",
+      "expected": "I am allergic to bees and peanuts"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766062915218,
+      "key": "W",
+      "sentenceIndex": 0,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1766062915366,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "We"
+    },
+    {
+      "timestamp": 1766062915545,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "We "
+    },
+    {
+      "timestamp": 1766062915725,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "We w"
+    },
+    {
+      "timestamp": 1766062915901,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "We we"
+    },
+    {
+      "timestamp": 1766062916001,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "We wen"
+    },
+    {
+      "timestamp": 1766062916153,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "We went"
+    },
+    {
+      "timestamp": 1766062916289,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "We went "
+    },
+    {
+      "timestamp": 1766062916979,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "We went g"
+    },
+    {
+      "timestamp": 1766062917141,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "We went gr"
+    },
+    {
+      "timestamp": 1766062917284,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "We went gro"
+    },
+    {
+      "timestamp": 1766062917577,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "We went groc"
+    },
+    {
+      "timestamp": 1766062917724,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "We went groce"
+    },
+    {
+      "timestamp": 1766062917877,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "We went grocer"
+    },
+    {
+      "timestamp": 1766062918005,
+      "key": "y",
+      "sentenceIndex": 0,
+      "valueAfter": "We went grocery"
+    },
+    {
+      "timestamp": 1766062918251,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "We went grocery "
+    },
+    {
+      "timestamp": 1766062918458,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "We went grocery s"
+    },
+    {
+      "timestamp": 1766062918585,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "We went grocery sh"
+    },
+    {
+      "timestamp": 1766062918978,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "We went grocery sho"
+    },
+    {
+      "timestamp": 1766062919240,
+      "key": "p",
+      "sentenceIndex": 0,
+      "valueAfter": "We went grocery shop"
+    },
+    {
+      "timestamp": 1766062919411,
+      "key": "p",
+      "sentenceIndex": 0,
+      "valueAfter": "We went grocery shopp"
+    },
+    {
+      "timestamp": 1766062920379,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "We went grocery shoppi"
+    },
+    {
+      "timestamp": 1766062920594,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "We went grocery shoppin"
+    },
+    {
+      "timestamp": 1766062920779,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "We went grocery shopping"
+    },
+    {
+      "timestamp": 1766062920972,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766062922430,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766062923346,
+      "key": "S",
+      "sentenceIndex": 1,
+      "valueAfter": "S"
+    },
+    {
+      "timestamp": 1766062923564,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Sh"
+    },
+    {
+      "timestamp": 1766062924598,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Shi"
+    },
+    {
+      "timestamp": 1766062924897,
+      "key": "v",
+      "sentenceIndex": 1,
+      "valueAfter": "Shiv"
+    },
+    {
+      "timestamp": 1766062925049,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Shive"
+    },
+    {
+      "timestamp": 1766062925247,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Shiver"
+    },
+    {
+      "timestamp": 1766062925372,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Shiveri"
+    },
+    {
+      "timestamp": 1766062925600,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Shiverin"
+    },
+    {
+      "timestamp": 1766062925799,
+      "key": "g",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering"
+    },
+    {
+      "timestamp": 1766062925984,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering "
+    },
+    {
+      "timestamp": 1766062926216,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering i"
+    },
+    {
+      "timestamp": 1766062926324,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is"
+    },
+    {
+      "timestamp": 1766062926431,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is "
+    },
+    {
+      "timestamp": 1766062926633,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is o"
+    },
+    {
+      "timestamp": 1766062926833,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is on"
+    },
+    {
+      "timestamp": 1766062926929,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is one"
+    },
+    {
+      "timestamp": 1766062927043,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is one "
+    },
+    {
+      "timestamp": 1766062927601,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is one w"
+    },
+    {
+      "timestamp": 1766062927834,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is one wa"
+    },
+    {
+      "timestamp": 1766062927960,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is one way"
+    },
+    {
+      "timestamp": 1766062928210,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is one way "
+    },
+    {
+      "timestamp": 1766062928567,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is one way t"
+    },
+    {
+      "timestamp": 1766062928716,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is one way to"
+    },
+    {
+      "timestamp": 1766062928926,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is one way to "
+    },
+    {
+      "timestamp": 1766062929152,
+      "key": "k",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is one way to k"
+    },
+    {
+      "timestamp": 1766062929248,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is one way to ke"
+    },
+    {
+      "timestamp": 1766062929419,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is one way to kee"
+    },
+    {
+      "timestamp": 1766062929568,
+      "key": "p",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is one way to keep"
+    },
+    {
+      "timestamp": 1766062929830,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is one way to keep "
+    },
+    {
+      "timestamp": 1766062930085,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is one way to keep w"
+    },
+    {
+      "timestamp": 1766062930287,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is one way to keep wa"
+    },
+    {
+      "timestamp": 1766062930487,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is one way to keep war"
+    },
+    {
+      "timestamp": 1766062930637,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": "Shivering is one way to keep warm"
+    },
+    {
+      "timestamp": 1766062931759,
+      "key": "W",
+      "sentenceIndex": 2,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1766062932004,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Wo"
+    },
+    {
+      "timestamp": 1766062932134,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Wor"
+    },
+    {
+      "timestamp": 1766062932303,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Worl"
+    },
+    {
+      "timestamp": 1766062932453,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "World"
+    },
+    {
+      "timestamp": 1766062932742,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "World "
+    },
+    {
+      "timestamp": 1766062933253,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": "World p"
+    },
+    {
+      "timestamp": 1766062933506,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "World po"
+    },
+    {
+      "timestamp": 1766062933706,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": "World pop"
+    },
+    {
+      "timestamp": 1766062933973,
+      "key": "u",
+      "sentenceIndex": 2,
+      "valueAfter": "World popu"
+    },
+    {
+      "timestamp": 1766062934224,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "World popul"
+    },
+    {
+      "timestamp": 1766062934317,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "World popula"
+    },
+    {
+      "timestamp": 1766062934822,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "World populat"
+    },
+    {
+      "timestamp": 1766062935022,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "World populati"
+    },
+    {
+      "timestamp": 1766062935188,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "World populatio"
+    },
+    {
+      "timestamp": 1766062935424,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "World population"
+    },
+    {
+      "timestamp": 1766062935619,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "World population "
+    },
+    {
+      "timestamp": 1766062935806,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "World population i"
+    },
+    {
+      "timestamp": 1766062935956,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "World population is"
+    },
+    {
+      "timestamp": 1766062936057,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "World population is "
+    },
+    {
+      "timestamp": 1766062936757,
+      "key": "g",
+      "sentenceIndex": 2,
+      "valueAfter": "World population is g"
+    },
+    {
+      "timestamp": 1766062936922,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "World population is gr"
+    },
+    {
+      "timestamp": 1766062937072,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "World population is gro"
+    },
+    {
+      "timestamp": 1766062937204,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "World population is grow"
+    },
+    {
+      "timestamp": 1766062937335,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "World population is growi"
+    },
+    {
+      "timestamp": 1766062937559,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "World population is growin"
+    },
+    {
+      "timestamp": 1766062937760,
+      "key": "g",
+      "sentenceIndex": 2,
+      "valueAfter": "World population is growing"
+    },
+    {
+      "timestamp": 1766062939161,
+      "key": "P",
+      "sentenceIndex": 3,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1766062939261,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Pa"
+    },
+    {
+      "timestamp": 1766062939460,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Par"
+    },
+    {
+      "timestamp": 1766062939627,
+      "key": "k",
+      "sentenceIndex": 3,
+      "valueAfter": "Park"
+    },
+    {
+      "timestamp": 1766062939827,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Parki"
+    },
+    {
+      "timestamp": 1766062940512,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Parkin"
+    },
+    {
+      "timestamp": 1766062940762,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking"
+    },
+    {
+      "timestamp": 1766062940961,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking "
+    },
+    {
+      "timestamp": 1766062941728,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking t"
+    },
+    {
+      "timestamp": 1766062941911,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking ti"
+    },
+    {
+      "timestamp": 1766062942146,
+      "key": "c",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking tic"
+    },
+    {
+      "timestamp": 1766062942289,
+      "key": "k",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking tick"
+    },
+    {
+      "timestamp": 1766062942532,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking ticke"
+    },
+    {
+      "timestamp": 1766062942747,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking ticket"
+    },
+    {
+      "timestamp": 1766062942889,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking tickets"
+    },
+    {
+      "timestamp": 1766062943031,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking tickets "
+    },
+    {
+      "timestamp": 1766062943697,
+      "key": "c",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking tickets c"
+    },
+    {
+      "timestamp": 1766062943837,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking tickets ca"
+    },
+    {
+      "timestamp": 1766062943966,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking tickets can"
+    },
+    {
+      "timestamp": 1766062944207,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking tickets can "
+    },
+    {
+      "timestamp": 1766062945149,
+      "key": "b",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking tickets can b"
+    },
+    {
+      "timestamp": 1766062945273,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking tickets can be"
+    },
+    {
+      "timestamp": 1766062945383,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking tickets can be "
+    },
+    {
+      "timestamp": 1766062945850,
+      "key": "c",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking tickets can be c"
+    },
+    {
+      "timestamp": 1766062945995,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking tickets can be ch"
+    },
+    {
+      "timestamp": 1766062946197,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking tickets can be cha"
+    },
+    {
+      "timestamp": 1766062946618,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking tickets can be chal"
+    },
+    {
+      "timestamp": 1766062947334,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking tickets can be chall"
+    },
+    {
+      "timestamp": 1766062947585,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking tickets can be challe"
+    },
+    {
+      "timestamp": 1766062947783,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking tickets can be challen"
+    },
+    {
+      "timestamp": 1766062948089,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking tickets can be challeng"
+    },
+    {
+      "timestamp": 1766062948402,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking tickets can be challenge"
+    },
+    {
+      "timestamp": 1766062948582,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "Parking tickets can be challenged"
+    },
+    {
+      "timestamp": 1766062950989,
+      "key": "G",
+      "sentenceIndex": 4,
+      "valueAfter": "G"
+    },
+    {
+      "timestamp": 1766062951201,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Ga"
+    },
+    {
+      "timestamp": 1766062951438,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas"
+    },
+    {
+      "timestamp": 1766062951623,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas "
+    },
+    {
+      "timestamp": 1766062952238,
+      "key": "b",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas b"
+    },
+    {
+      "timestamp": 1766062952522,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas bi"
+    },
+    {
+      "timestamp": 1766062952753,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas bil"
+    },
+    {
+      "timestamp": 1766062952956,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas bill"
+    },
+    {
+      "timestamp": 1766062953121,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas bills"
+    },
+    {
+      "timestamp": 1766062953288,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas bills "
+    },
+    {
+      "timestamp": 1766062953740,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas bills a"
+    },
+    {
+      "timestamp": 1766062953931,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas bills ar"
+    },
+    {
+      "timestamp": 1766062954157,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas bills are"
+    },
+    {
+      "timestamp": 1766062954284,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas bills are "
+    },
+    {
+      "timestamp": 1766062954457,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas bills are s"
+    },
+    {
+      "timestamp": 1766062954637,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas bills are se"
+    },
+    {
+      "timestamp": 1766062954754,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas bills are sen"
+    },
+    {
+      "timestamp": 1766062954922,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas bills are sent"
+    },
+    {
+      "timestamp": 1766062955063,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas bills are sent "
+    },
+    {
+      "timestamp": 1766062955607,
+      "key": "m",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas bills are sent m"
+    },
+    {
+      "timestamp": 1766062955824,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas bills are sent mo"
+    },
+    {
+      "timestamp": 1766062956041,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas bills are sent mon"
+    },
+    {
+      "timestamp": 1766062956191,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas bills are sent mont"
+    },
+    {
+      "timestamp": 1766062956408,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas bills are sent month"
+    },
+    {
+      "timestamp": 1766062956691,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas bills are sent monthl"
+    },
+    {
+      "timestamp": 1766062956940,
+      "key": "y",
+      "sentenceIndex": 4,
+      "valueAfter": "Gas bills are sent monthly"
+    },
+    {
+      "timestamp": 1766062960426,
+      "key": "I",
+      "sentenceIndex": 5,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1766062961028,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Ia"
+    },
+    {
+      "timestamp": 1766062961226,
+      "key": "m",
+      "sentenceIndex": 5,
+      "valueAfter": "Iam"
+    },
+    {
+      "timestamp": 1766062961458,
+      "key": "Ian",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian"
+    },
+    {
+      "timestamp": 1766062961485,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian "
+    },
+    {
+      "timestamp": 1766062961860,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian a"
+    },
+    {
+      "timestamp": 1766062962212,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian al"
+    },
+    {
+      "timestamp": 1766062962496,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian all"
+    },
+    {
+      "timestamp": 1766062963013,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian alle"
+    },
+    {
+      "timestamp": 1766062963210,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian aller"
+    },
+    {
+      "timestamp": 1766062965130,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allerg"
+    },
+    {
+      "timestamp": 1766062965365,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergi"
+    },
+    {
+      "timestamp": 1766062965946,
+      "key": "c",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic"
+    },
+    {
+      "timestamp": 1766062966421,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic "
+    },
+    {
+      "timestamp": 1766062967348,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic t"
+    },
+    {
+      "timestamp": 1766062967495,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic to"
+    },
+    {
+      "timestamp": 1766062967777,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic to "
+    },
+    {
+      "timestamp": 1766062968901,
+      "key": "b",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic to b"
+    },
+    {
+      "timestamp": 1766062969066,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic to be"
+    },
+    {
+      "timestamp": 1766062969235,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic to bee"
+    },
+    {
+      "timestamp": 1766062970271,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic to beee"
+    },
+    {
+      "timestamp": 1766062970469,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic to beees"
+    },
+    {
+      "timestamp": 1766062970642,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic to beees "
+    },
+    {
+      "timestamp": 1766062971334,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic to beees a"
+    },
+    {
+      "timestamp": 1766062971568,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic to beees an"
+    },
+    {
+      "timestamp": 1766062971701,
+      "key": "d",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic to beees and"
+    },
+    {
+      "timestamp": 1766062971890,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic to beees and "
+    },
+    {
+      "timestamp": 1766062972853,
+      "key": "p",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic to beees and p"
+    },
+    {
+      "timestamp": 1766062972966,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic to beees and pe"
+    },
+    {
+      "timestamp": 1766062974372,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic to beees and pea"
+    },
+    {
+      "timestamp": 1766062974641,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic to beees and pean"
+    },
+    {
+      "timestamp": 1766062974873,
+      "key": "u",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic to beees and peanu"
+    },
+    {
+      "timestamp": 1766062975122,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic to beees and peanut"
+    },
+    {
+      "timestamp": 1766062975247,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Ian allergic to beees and peanuts"
+    }
+  ]
+}

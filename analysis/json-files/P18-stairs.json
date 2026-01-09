@@ -1,0 +1,433 @@
+{
+  "mode": "upstairs",
+  "timestamp": "2025-12-18T09:40:45.194Z",
+  "duration": 60.003,
+  "wpm": 15,
+  "accuracy": "86.57",
+  "totalCharactersTyped": 67,
+  "correctCharacters": 58,
+  "errors": 2,
+  "sentencesCompleted": 2,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Soon we will return from the city",
+      "expected": "Soon we will return from the city"
+    },
+    {
+      "typed": "The kids are very excited",
+      "expected": "The kids are very excited"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766050764609,
+      "key": "S",
+      "sentenceIndex": 0,
+      "valueAfter": "S"
+    },
+    {
+      "timestamp": 1766050766453,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "So"
+    },
+    {
+      "timestamp": 1766050767303,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Soo"
+    },
+    {
+      "timestamp": 1766050767802,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Soon"
+    },
+    {
+      "timestamp": 1766050770267,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "Soonw"
+    },
+    {
+      "timestamp": 1766050770531,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Soonwe"
+    },
+    {
+      "timestamp": 1766050771948,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Soon"
+    },
+    {
+      "timestamp": 1766050771976,
+      "key": " we ",
+      "sentenceIndex": 0,
+      "valueAfter": "Soon we "
+    },
+    {
+      "timestamp": 1766050773364,
+      "key": "will ",
+      "sentenceIndex": 0,
+      "valueAfter": "Soon we will "
+    },
+    {
+      "timestamp": 1766050775212,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Soon we will r"
+    },
+    {
+      "timestamp": 1766050775410,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Soon we will re"
+    },
+    {
+      "timestamp": 1766050775791,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Soon we will ret"
+    },
+    {
+      "timestamp": 1766050776693,
+      "key": "urn ",
+      "sentenceIndex": 0,
+      "valueAfter": "Soon we will return "
+    },
+    {
+      "timestamp": 1766050778307,
+      "key": "f",
+      "sentenceIndex": 0,
+      "valueAfter": "Soon we will return f"
+    },
+    {
+      "timestamp": 1766050778573,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Soon we will return fr"
+    },
+    {
+      "timestamp": 1766050779056,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Soon we will return fro"
+    },
+    {
+      "timestamp": 1766050779523,
+      "key": "m",
+      "sentenceIndex": 0,
+      "valueAfter": "Soon we will return from"
+    },
+    {
+      "timestamp": 1766050783753,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Soon we will return from "
+    },
+    {
+      "timestamp": 1766050784066,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Soon we will return from t"
+    },
+    {
+      "timestamp": 1766050784317,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Soon we will return from th"
+    },
+    {
+      "timestamp": 1766050784469,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Soon we will return from the"
+    },
+    {
+      "timestamp": 1766050784750,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Soon we will return from the "
+    },
+    {
+      "timestamp": 1766050785515,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "Soon we will return from the c"
+    },
+    {
+      "timestamp": 1766050785850,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Soon we will return from the ci"
+    },
+    {
+      "timestamp": 1766050786299,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Soon we will return from the cit"
+    },
+    {
+      "timestamp": 1766050786766,
+      "key": "y",
+      "sentenceIndex": 0,
+      "valueAfter": "Soon we will return from the city"
+    },
+    {
+      "timestamp": 1766050792459,
+      "key": "T",
+      "sentenceIndex": 1,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766050793009,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766050793291,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766050794175,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766050794473,
+      "key": "k",
+      "sentenceIndex": 1,
+      "valueAfter": "The k"
+    },
+    {
+      "timestamp": 1766050794805,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "The ki"
+    },
+    {
+      "timestamp": 1766050796340,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "The kid"
+    },
+    {
+      "timestamp": 1766050796571,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "The kids"
+    },
+    {
+      "timestamp": 1766050799103,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The kids "
+    },
+    {
+      "timestamp": 1766050799484,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "The kids a"
+    },
+    {
+      "timestamp": 1766050799817,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "The kids ar"
+    },
+    {
+      "timestamp": 1766050800017,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The kids are"
+    },
+    {
+      "timestamp": 1766050802051,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The kids are "
+    },
+    {
+      "timestamp": 1766050803200,
+      "key": "v",
+      "sentenceIndex": 1,
+      "valueAfter": "The kids are v"
+    },
+    {
+      "timestamp": 1766050803713,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The kids are ve"
+    },
+    {
+      "timestamp": 1766050803914,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "The kids are ver"
+    },
+    {
+      "timestamp": 1766050804264,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "The kids are very"
+    },
+    {
+      "timestamp": 1766050805848,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The kids are very "
+    },
+    {
+      "timestamp": 1766050806995,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The kids are very e"
+    },
+    {
+      "timestamp": 1766050807427,
+      "key": "x",
+      "sentenceIndex": 1,
+      "valueAfter": "The kids are very ex"
+    },
+    {
+      "timestamp": 1766050807943,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "The kids are very exc"
+    },
+    {
+      "timestamp": 1766050808443,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "The kids are very exci"
+    },
+    {
+      "timestamp": 1766050812222,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "The kids are very excit"
+    },
+    {
+      "timestamp": 1766050812705,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The kids are very excite"
+    },
+    {
+      "timestamp": 1766050812906,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "The kids are very excited"
+    },
+    {
+      "timestamp": 1766050815120,
+      "key": "L",
+      "sentenceIndex": 2,
+      "valueAfter": "L"
+    },
+    {
+      "timestamp": 1766050815518,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Li"
+    },
+    {
+      "timestamp": 1766050815986,
+      "key": "f",
+      "sentenceIndex": 2,
+      "valueAfter": "Lif"
+    },
+    {
+      "timestamp": 1766050816268,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Life"
+    },
+    {
+      "timestamp": 1766050817087,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Life "
+    },
+    {
+      "timestamp": 1766050818083,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Life i"
+    },
+    {
+      "timestamp": 1766050818715,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Life is"
+    },
+    {
+      "timestamp": 1766050819474,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Life is "
+    },
+    {
+      "timestamp": 1766050820534,
+      "key": "b",
+      "sentenceIndex": 2,
+      "valueAfter": "Life is b"
+    },
+    {
+      "timestamp": 1766050820981,
+      "key": "u",
+      "sentenceIndex": 2,
+      "valueAfter": "Life is bu"
+    },
+    {
+      "timestamp": 1766050821247,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Life is but"
+    },
+    {
+      "timestamp": 1766050821580,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Life is but "
+    },
+    {
+      "timestamp": 1766050822678,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Life is but a"
+    },
+    {
+      "timestamp": 1766050823213,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Life is but a "
+    },
+    {
+      "timestamp": 1766050823797,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "Life is but a d"
+    },
+    {
+      "timestamp": 1766050824026,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Life is but a dr"
+    },
+    {
+      "timestamp": 1766050824509,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Life is but a dre"
+    }
+  ]
+}

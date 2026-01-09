@@ -1,0 +1,1413 @@
+{
+  "mode": "walking",
+  "timestamp": "2025-12-18T12:29:13.498Z",
+  "duration": 60.957,
+  "wpm": 40,
+  "accuracy": "87.50",
+  "totalCharactersTyped": 216,
+  "correctCharacters": 189,
+  "errors": 38,
+  "sentencesCompleted": 7,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Watch out for low flying objects",
+      "expected": "Watch out for low flying objects"
+    },
+    {
+      "typed": "Public transit is much faster",
+      "expected": "Public transit is much faster"
+    },
+    {
+      "typed": "A loy og chlorine in the water",
+      "expected": "A lot of chlorine in the water"
+    },
+    {
+      "typed": "Breathing is difficult",
+      "expected": "Breathing is difficult"
+    },
+    {
+      "typed": "You must be getting old",
+      "expected": "You must be getting old"
+    },
+    {
+      "typed": "Physics and chemistry are hard",
+      "expected": "Physics and chemistry are hard"
+    },
+    {
+      "typed": "On the way to the cottage",
+      "expected": "On the way to the cottage"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766060886710,
+      "key": "W",
+      "sentenceIndex": 0,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1766060886892,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Wa"
+    },
+    {
+      "timestamp": 1766060887224,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Wat"
+    },
+    {
+      "timestamp": 1766060887412,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "Watc"
+    },
+    {
+      "timestamp": 1766060887590,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch"
+    },
+    {
+      "timestamp": 1766060888058,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch "
+    },
+    {
+      "timestamp": 1766060888391,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch o"
+    },
+    {
+      "timestamp": 1766060888606,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch ou"
+    },
+    {
+      "timestamp": 1766060888904,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out"
+    },
+    {
+      "timestamp": 1766060889059,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out "
+    },
+    {
+      "timestamp": 1766060889355,
+      "key": "f",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out f"
+    },
+    {
+      "timestamp": 1766060889456,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out fo"
+    },
+    {
+      "timestamp": 1766060889623,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out for"
+    },
+    {
+      "timestamp": 1766060889736,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out for "
+    },
+    {
+      "timestamp": 1766060889921,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out for l"
+    },
+    {
+      "timestamp": 1766060890111,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out for lo"
+    },
+    {
+      "timestamp": 1766060890478,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out for low"
+    },
+    {
+      "timestamp": 1766060890805,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out for low "
+    },
+    {
+      "timestamp": 1766060891096,
+      "key": "f",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out for low f"
+    },
+    {
+      "timestamp": 1766060891235,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out for low fl"
+    },
+    {
+      "timestamp": 1766060891426,
+      "key": "y",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out for low fly"
+    },
+    {
+      "timestamp": 1766060891576,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out for low flyi"
+    },
+    {
+      "timestamp": 1766060891783,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out for low flyin"
+    },
+    {
+      "timestamp": 1766060891907,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out for low flying"
+    },
+    {
+      "timestamp": 1766060892058,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out for low flying "
+    },
+    {
+      "timestamp": 1766060892539,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out for low flying o"
+    },
+    {
+      "timestamp": 1766060892769,
+      "key": "b",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out for low flying ob"
+    },
+    {
+      "timestamp": 1766060892963,
+      "key": "j",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out for low flying obj"
+    },
+    {
+      "timestamp": 1766060893127,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out for low flying obje"
+    },
+    {
+      "timestamp": 1766060893327,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out for low flying objec"
+    },
+    {
+      "timestamp": 1766060893548,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out for low flying object"
+    },
+    {
+      "timestamp": 1766060893785,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Watch out for low flying objects"
+    },
+    {
+      "timestamp": 1766060894954,
+      "key": "P",
+      "sentenceIndex": 1,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1766060895319,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "Pu"
+    },
+    {
+      "timestamp": 1766060895667,
+      "key": "b",
+      "sentenceIndex": 1,
+      "valueAfter": "Pub"
+    },
+    {
+      "timestamp": 1766060895869,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Publ"
+    },
+    {
+      "timestamp": 1766060896045,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Publi"
+    },
+    {
+      "timestamp": 1766060896267,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "Public"
+    },
+    {
+      "timestamp": 1766060896392,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Public "
+    },
+    {
+      "timestamp": 1766060897072,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Public t"
+    },
+    {
+      "timestamp": 1766060897240,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Public tr"
+    },
+    {
+      "timestamp": 1766060897395,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Public tra"
+    },
+    {
+      "timestamp": 1766060897546,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Public tran"
+    },
+    {
+      "timestamp": 1766060897675,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Public trans"
+    },
+    {
+      "timestamp": 1766060897941,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transi"
+    },
+    {
+      "timestamp": 1766060898177,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit"
+    },
+    {
+      "timestamp": 1766060898417,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit "
+    },
+    {
+      "timestamp": 1766060898913,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit i"
+    },
+    {
+      "timestamp": 1766060899047,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is"
+    },
+    {
+      "timestamp": 1766060899191,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is "
+    },
+    {
+      "timestamp": 1766060899356,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is m"
+    },
+    {
+      "timestamp": 1766060899576,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is mu"
+    },
+    {
+      "timestamp": 1766060899691,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is muc"
+    },
+    {
+      "timestamp": 1766060899903,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is much"
+    },
+    {
+      "timestamp": 1766060900103,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is much "
+    },
+    {
+      "timestamp": 1766060900282,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is much m"
+    },
+    {
+      "timestamp": 1766060900541,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is much "
+    },
+    {
+      "timestamp": 1766060900726,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is much f"
+    },
+    {
+      "timestamp": 1766060901082,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is much fa"
+    },
+    {
+      "timestamp": 1766060901372,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is much fas"
+    },
+    {
+      "timestamp": 1766060901639,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is much fast"
+    },
+    {
+      "timestamp": 1766060901850,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is much faste"
+    },
+    {
+      "timestamp": 1766060902038,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Public transit is much faster"
+    },
+    {
+      "timestamp": 1766060903541,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766060903941,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766060904943,
+      "key": "A",
+      "sentenceIndex": 2,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1766060905124,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "A "
+    },
+    {
+      "timestamp": 1766060905456,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "A l"
+    },
+    {
+      "timestamp": 1766060905647,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "A lo"
+    },
+    {
+      "timestamp": 1766060905846,
+      "key": "y",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy"
+    },
+    {
+      "timestamp": 1766060906016,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy "
+    },
+    {
+      "timestamp": 1766060906260,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy o"
+    },
+    {
+      "timestamp": 1766060906388,
+      "key": "g",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og"
+    },
+    {
+      "timestamp": 1766060906520,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og "
+    },
+    {
+      "timestamp": 1766060906883,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og c"
+    },
+    {
+      "timestamp": 1766060907067,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og ch"
+    },
+    {
+      "timestamp": 1766060907307,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og chl"
+    },
+    {
+      "timestamp": 1766060907484,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og chlo"
+    },
+    {
+      "timestamp": 1766060907669,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og chlor"
+    },
+    {
+      "timestamp": 1766060908075,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og chlori"
+    },
+    {
+      "timestamp": 1766060908300,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og chlorin"
+    },
+    {
+      "timestamp": 1766060908490,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og chlorine"
+    },
+    {
+      "timestamp": 1766060908763,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og chlorine "
+    },
+    {
+      "timestamp": 1766060909073,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og chlorine i"
+    },
+    {
+      "timestamp": 1766060909251,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og chlorine in"
+    },
+    {
+      "timestamp": 1766060909457,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og chlorine in "
+    },
+    {
+      "timestamp": 1766060909587,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og chlorine in t"
+    },
+    {
+      "timestamp": 1766060909751,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og chlorine in th"
+    },
+    {
+      "timestamp": 1766060909864,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og chlorine in the"
+    },
+    {
+      "timestamp": 1766060910013,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og chlorine in the "
+    },
+    {
+      "timestamp": 1766060910216,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og chlorine in the w"
+    },
+    {
+      "timestamp": 1766060910392,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og chlorine in the wa"
+    },
+    {
+      "timestamp": 1766060910550,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og chlorine in the wat"
+    },
+    {
+      "timestamp": 1766060910741,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og chlorine in the wate"
+    },
+    {
+      "timestamp": 1766060910938,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "A loy og chlorine in the water"
+    },
+    {
+      "timestamp": 1766060912076,
+      "key": "B",
+      "sentenceIndex": 3,
+      "valueAfter": "B"
+    },
+    {
+      "timestamp": 1766060912239,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Br"
+    },
+    {
+      "timestamp": 1766060912413,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Bre"
+    },
+    {
+      "timestamp": 1766060912589,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Brea"
+    },
+    {
+      "timestamp": 1766060912818,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Breat"
+    },
+    {
+      "timestamp": 1766060912996,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Breath"
+    },
+    {
+      "timestamp": 1766060913172,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathi"
+    },
+    {
+      "timestamp": 1766060913371,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathin"
+    },
+    {
+      "timestamp": 1766060913538,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing"
+    },
+    {
+      "timestamp": 1766060913687,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing "
+    },
+    {
+      "timestamp": 1766060913893,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing o"
+    },
+    {
+      "timestamp": 1766060914004,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing os"
+    },
+    {
+      "timestamp": 1766060914148,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing os "
+    },
+    {
+      "timestamp": 1766060914451,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing os"
+    },
+    {
+      "timestamp": 1766060914630,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing o"
+    },
+    {
+      "timestamp": 1766060914781,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing "
+    },
+    {
+      "timestamp": 1766060915213,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing i"
+    },
+    {
+      "timestamp": 1766060915324,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing is"
+    },
+    {
+      "timestamp": 1766060915462,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing is "
+    },
+    {
+      "timestamp": 1766060915640,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing is d"
+    },
+    {
+      "timestamp": 1766060915755,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing is di"
+    },
+    {
+      "timestamp": 1766060915892,
+      "key": "f",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing is dif"
+    },
+    {
+      "timestamp": 1766060916073,
+      "key": "f",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing is diff"
+    },
+    {
+      "timestamp": 1766060916368,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing is diffi"
+    },
+    {
+      "timestamp": 1766060916628,
+      "key": "c",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing is diffic"
+    },
+    {
+      "timestamp": 1766060916763,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing is difficu"
+    },
+    {
+      "timestamp": 1766060916981,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing is difficul"
+    },
+    {
+      "timestamp": 1766060917114,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing is difficult"
+    },
+    {
+      "timestamp": 1766060918409,
+      "key": "Y",
+      "sentenceIndex": 4,
+      "valueAfter": "Y"
+    },
+    {
+      "timestamp": 1766060918546,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Yo"
+    },
+    {
+      "timestamp": 1766060918843,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "You"
+    },
+    {
+      "timestamp": 1766060919078,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "You "
+    },
+    {
+      "timestamp": 1766060919281,
+      "key": "m",
+      "sentenceIndex": 4,
+      "valueAfter": "You m"
+    },
+    {
+      "timestamp": 1766060919482,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "You mu"
+    },
+    {
+      "timestamp": 1766060919572,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "You mus"
+    },
+    {
+      "timestamp": 1766060919809,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "You must"
+    },
+    {
+      "timestamp": 1766060920105,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "You must "
+    },
+    {
+      "timestamp": 1766060920309,
+      "key": "b",
+      "sentenceIndex": 4,
+      "valueAfter": "You must b"
+    },
+    {
+      "timestamp": 1766060920452,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "You must be"
+    },
+    {
+      "timestamp": 1766060920936,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "You must be "
+    },
+    {
+      "timestamp": 1766060921091,
+      "key": "g",
+      "sentenceIndex": 4,
+      "valueAfter": "You must be g"
+    },
+    {
+      "timestamp": 1766060921317,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "You must be ge"
+    },
+    {
+      "timestamp": 1766060921522,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "You must be get"
+    },
+    {
+      "timestamp": 1766060921682,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "You must be gett"
+    },
+    {
+      "timestamp": 1766060921797,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "You must be getti"
+    },
+    {
+      "timestamp": 1766060922030,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "You must be gettin"
+    },
+    {
+      "timestamp": 1766060922170,
+      "key": "g",
+      "sentenceIndex": 4,
+      "valueAfter": "You must be getting"
+    },
+    {
+      "timestamp": 1766060922315,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "You must be getting "
+    },
+    {
+      "timestamp": 1766060922594,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "You must be getting o"
+    },
+    {
+      "timestamp": 1766060922782,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "You must be getting ol"
+    },
+    {
+      "timestamp": 1766060922915,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "You must be getting old"
+    },
+    {
+      "timestamp": 1766060924043,
+      "key": "P",
+      "sentenceIndex": 5,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1766060924224,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Ps"
+    },
+    {
+      "timestamp": 1766060924710,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1766060924989,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "Ph"
+    },
+    {
+      "timestamp": 1766060925168,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": "Phy"
+    },
+    {
+      "timestamp": 1766060925266,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Phys"
+    },
+    {
+      "timestamp": 1766060926662,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Physi"
+    },
+    {
+      "timestamp": 1766060926793,
+      "key": "c",
+      "sentenceIndex": 5,
+      "valueAfter": "Physic"
+    },
+    {
+      "timestamp": 1766060927001,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics"
+    },
+    {
+      "timestamp": 1766060927207,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics "
+    },
+    {
+      "timestamp": 1766060927275,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics a"
+    },
+    {
+      "timestamp": 1766060927407,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics an"
+    },
+    {
+      "timestamp": 1766060927542,
+      "key": "d",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and"
+    },
+    {
+      "timestamp": 1766060927641,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and "
+    },
+    {
+      "timestamp": 1766060927892,
+      "key": "c",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and c"
+    },
+    {
+      "timestamp": 1766060928067,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and ch"
+    },
+    {
+      "timestamp": 1766060928159,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and che"
+    },
+    {
+      "timestamp": 1766060928307,
+      "key": "m",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and chem"
+    },
+    {
+      "timestamp": 1766060928473,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and chems"
+    },
+    {
+      "timestamp": 1766060928493,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and chemsi"
+    },
+    {
+      "timestamp": 1766060928821,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and chems"
+    },
+    {
+      "timestamp": 1766060928938,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and chem"
+    },
+    {
+      "timestamp": 1766060929148,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and chemi"
+    },
+    {
+      "timestamp": 1766060929290,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and chemis"
+    },
+    {
+      "timestamp": 1766060929913,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and chemist"
+    },
+    {
+      "timestamp": 1766060930092,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and chemistr"
+    },
+    {
+      "timestamp": 1766060930314,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and chemistry"
+    },
+    {
+      "timestamp": 1766060930583,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and chemistry "
+    },
+    {
+      "timestamp": 1766060930830,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and chemistry a"
+    },
+    {
+      "timestamp": 1766060931131,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and chemistry ar"
+    },
+    {
+      "timestamp": 1766060931285,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and chemistry are"
+    },
+    {
+      "timestamp": 1766060931425,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and chemistry are "
+    },
+    {
+      "timestamp": 1766060931740,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and chemistry are h"
+    },
+    {
+      "timestamp": 1766060931826,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and chemistry are ha"
+    },
+    {
+      "timestamp": 1766060932103,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and chemistry are har"
+    },
+    {
+      "timestamp": 1766060932333,
+      "key": "d",
+      "sentenceIndex": 5,
+      "valueAfter": "Physics and chemistry are hard"
+    },
+    {
+      "timestamp": 1766060933709,
+      "key": "O",
+      "sentenceIndex": 6,
+      "valueAfter": "O"
+    },
+    {
+      "timestamp": 1766060933938,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "On"
+    },
+    {
+      "timestamp": 1766060934163,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "On "
+    },
+    {
+      "timestamp": 1766060934419,
+      "key": "h",
+      "sentenceIndex": 6,
+      "valueAfter": "On h"
+    },
+    {
+      "timestamp": 1766060934503,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "On ha"
+    },
+    {
+      "timestamp": 1766060934782,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "On har"
+    },
+    {
+      "timestamp": 1766060935201,
+      "key": "d",
+      "sentenceIndex": 6,
+      "valueAfter": "On hard"
+    },
+    {
+      "timestamp": 1766060935754,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "On har"
+    },
+    {
+      "timestamp": 1766060935924,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "On ha"
+    },
+    {
+      "timestamp": 1766060936121,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "On h"
+    },
+    {
+      "timestamp": 1766060936288,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "On "
+    },
+    {
+      "timestamp": 1766060937352,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "On t"
+    },
+    {
+      "timestamp": 1766060937501,
+      "key": "h",
+      "sentenceIndex": 6,
+      "valueAfter": "On th"
+    },
+    {
+      "timestamp": 1766060937615,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "On the"
+    },
+    {
+      "timestamp": 1766060937757,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "On the "
+    },
+    {
+      "timestamp": 1766060938026,
+      "key": "w",
+      "sentenceIndex": 6,
+      "valueAfter": "On the w"
+    },
+    {
+      "timestamp": 1766060938344,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "On the wa"
+    },
+    {
+      "timestamp": 1766060938532,
+      "key": "y",
+      "sentenceIndex": 6,
+      "valueAfter": "On the way"
+    },
+    {
+      "timestamp": 1766060939077,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "On the way "
+    },
+    {
+      "timestamp": 1766060939606,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "On the way t"
+    },
+    {
+      "timestamp": 1766060939705,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "On the way to"
+    },
+    {
+      "timestamp": 1766060940083,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "On the way to "
+    },
+    {
+      "timestamp": 1766060940349,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "On the way to t"
+    },
+    {
+      "timestamp": 1766060940523,
+      "key": "h",
+      "sentenceIndex": 6,
+      "valueAfter": "On the way to th"
+    },
+    {
+      "timestamp": 1766060940658,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "On the way to the"
+    },
+    {
+      "timestamp": 1766060940807,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "On the way to the "
+    },
+    {
+      "timestamp": 1766060940980,
+      "key": "c",
+      "sentenceIndex": 6,
+      "valueAfter": "On the way to the c"
+    },
+    {
+      "timestamp": 1766060941075,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "On the way to the co"
+    },
+    {
+      "timestamp": 1766060941251,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "On the way to the cot"
+    },
+    {
+      "timestamp": 1766060941404,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "On the way to the cott"
+    },
+    {
+      "timestamp": 1766060941670,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "On the way to the cotta"
+    },
+    {
+      "timestamp": 1766060941872,
+      "key": "g",
+      "sentenceIndex": 6,
+      "valueAfter": "On the way to the cottag"
+    },
+    {
+      "timestamp": 1766060942023,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "On the way to the cottage"
+    },
+    {
+      "timestamp": 1766060943834,
+      "key": "D",
+      "sentenceIndex": 7,
+      "valueAfter": "D"
+    },
+    {
+      "timestamp": 1766060944040,
+      "key": "o",
+      "sentenceIndex": 7,
+      "valueAfter": "Do"
+    },
+    {
+      "timestamp": 1766060944319,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Do "
+    },
+    {
+      "timestamp": 1766060945824,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "Do a"
+    },
+    {
+      "timestamp": 1766060946123,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Do a "
+    },
+    {
+      "timestamp": 1766060946510,
+      "key": "g",
+      "sentenceIndex": 7,
+      "valueAfter": "Do a g"
+    },
+    {
+      "timestamp": 1766060946615,
+      "key": "o",
+      "sentenceIndex": 7,
+      "valueAfter": "Do a go"
+    },
+    {
+      "timestamp": 1766060946795,
+      "key": "o",
+      "sentenceIndex": 7,
+      "valueAfter": "Do a goo"
+    },
+    {
+      "timestamp": 1766060946926,
+      "key": "d",
+      "sentenceIndex": 7,
+      "valueAfter": "Do a good"
+    },
+    {
+      "timestamp": 1766060947043,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Do a good "
+    },
+    {
+      "timestamp": 1766060947169,
+      "key": "d",
+      "sentenceIndex": 7,
+      "valueAfter": "Do a good d"
+    },
+    {
+      "timestamp": 1766060947400,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Do a good de"
+    },
+    {
+      "timestamp": 1766060947613,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Do a good dee"
+    }
+  ]
+}
