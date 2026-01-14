@@ -1,0 +1,1399 @@
+{
+  "mode": "upstairs",
+  "timestamp": "2025-12-17T10:40:01.567Z",
+  "duration": 60.024,
+  "wpm": 43,
+  "accuracy": "97.51",
+  "totalCharactersTyped": 201,
+  "correctCharacters": 196,
+  "errors": 18,
+  "sentencesCompleted": 8,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "You are a wonderful example",
+      "expected": "You are a wonderful example"
+    },
+    {
+      "typed": "Breathing is difficult",
+      "expected": "Breathing is difficult"
+    },
+    {
+      "typed": "The cotton is high",
+      "expected": "The cotton is high"
+    },
+    {
+      "typed": "My preferred treat is chocolate",
+      "expected": "My preferred treat is chocolate"
+    },
+    {
+      "typed": "Beware the ides of March",
+      "expected": "Beware the ides of March"
+    },
+    {
+      "typed": "Space is a high priority",
+      "expected": "Space is a high priority"
+    },
+    {
+      "typed": "Nobody cares anymore",
+      "expected": "Nobody cares anymore"
+    },
+    {
+      "typed": "Win first prize in the contest",
+      "expected": "Win first prize in the contest"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765967939400,
+      "key": "You",
+      "sentenceIndex": 0,
+      "valueAfter": "You"
+    },
+    {
+      "timestamp": 1765967940098,
+      "key": " are",
+      "sentenceIndex": 0,
+      "valueAfter": "You are"
+    },
+    {
+      "timestamp": 1765967940426,
+      "key": " s",
+      "sentenceIndex": 0,
+      "valueAfter": "You are s"
+    },
+    {
+      "timestamp": 1765967941211,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "You are "
+    },
+    {
+      "timestamp": 1765967941474,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "You are a"
+    },
+    {
+      "timestamp": 1765967941615,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "You are a "
+    },
+    {
+      "timestamp": 1765967941839,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "You are a w"
+    },
+    {
+      "timestamp": 1765967941898,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "You are a wo"
+    },
+    {
+      "timestamp": 1765967942017,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "You are a won"
+    },
+    {
+      "timestamp": 1765967942124,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "You are a wond"
+    },
+    {
+      "timestamp": 1765967942279,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "You are a wonde"
+    },
+    {
+      "timestamp": 1765967942528,
+      "key": "rful ",
+      "sentenceIndex": 0,
+      "valueAfter": "You are a wonderful "
+    },
+    {
+      "timestamp": 1765967943686,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "You are a wonderful e"
+    },
+    {
+      "timestamp": 1765967943956,
+      "key": "x",
+      "sentenceIndex": 0,
+      "valueAfter": "You are a wonderful ex"
+    },
+    {
+      "timestamp": 1765967944181,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "You are a wonderful exa"
+    },
+    {
+      "timestamp": 1765967945347,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "You are a wonderful ex"
+    },
+    {
+      "timestamp": 1765967945477,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "You are a wonderful e"
+    },
+    {
+      "timestamp": 1765967945575,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "You are a wonderful "
+    },
+    {
+      "timestamp": 1765967945762,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "You are a wonderful e"
+    },
+    {
+      "timestamp": 1765967945974,
+      "key": "x",
+      "sentenceIndex": 0,
+      "valueAfter": "You are a wonderful ex"
+    },
+    {
+      "timestamp": 1765967946221,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "You are a wonderful exa"
+    },
+    {
+      "timestamp": 1765967946268,
+      "key": "m",
+      "sentenceIndex": 0,
+      "valueAfter": "You are a wonderful exam"
+    },
+    {
+      "timestamp": 1765967946424,
+      "key": "p",
+      "sentenceIndex": 0,
+      "valueAfter": "You are a wonderful examp"
+    },
+    {
+      "timestamp": 1765967946537,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "You are a wonderful exampl"
+    },
+    {
+      "timestamp": 1765967946610,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "You are a wonderful example"
+    },
+    {
+      "timestamp": 1765967947429,
+      "key": "B",
+      "sentenceIndex": 1,
+      "valueAfter": "B"
+    },
+    {
+      "timestamp": 1765967947593,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Br"
+    },
+    {
+      "timestamp": 1765967947720,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Bre"
+    },
+    {
+      "timestamp": 1765967947903,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Brea"
+    },
+    {
+      "timestamp": 1765967947948,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Breat"
+    },
+    {
+      "timestamp": 1765967948094,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Breath"
+    },
+    {
+      "timestamp": 1765967948357,
+      "key": "ing ",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing "
+    },
+    {
+      "timestamp": 1765967948767,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing i"
+    },
+    {
+      "timestamp": 1765967948887,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is"
+    },
+    {
+      "timestamp": 1765967949128,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is "
+    },
+    {
+      "timestamp": 1765967949279,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is d"
+    },
+    {
+      "timestamp": 1765967949363,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is di"
+    },
+    {
+      "timestamp": 1765967949516,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is dif"
+    },
+    {
+      "timestamp": 1765967949673,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is diff"
+    },
+    {
+      "timestamp": 1765967950636,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is dif"
+    },
+    {
+      "timestamp": 1765967951140,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is diff"
+    },
+    {
+      "timestamp": 1765967951323,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is diffi"
+    },
+    {
+      "timestamp": 1765967951514,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is diffic"
+    },
+    {
+      "timestamp": 1765967951624,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is difficu"
+    },
+    {
+      "timestamp": 1765967952632,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is difficul"
+    },
+    {
+      "timestamp": 1765967952789,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Breathing is difficult"
+    },
+    {
+      "timestamp": 1765967953826,
+      "key": "T",
+      "sentenceIndex": 2,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765967953948,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765967954073,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765967954141,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765967954346,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "The c"
+    },
+    {
+      "timestamp": 1765967954432,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "The co"
+    },
+    {
+      "timestamp": 1765967954589,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "The cot"
+    },
+    {
+      "timestamp": 1765967954752,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "The cott"
+    },
+    {
+      "timestamp": 1765967954826,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "The cotto"
+    },
+    {
+      "timestamp": 1765967955027,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "The cotton"
+    },
+    {
+      "timestamp": 1765967955560,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The cotton "
+    },
+    {
+      "timestamp": 1765967955811,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "The cotton i"
+    },
+    {
+      "timestamp": 1765967955978,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "The cotton is"
+    },
+    {
+      "timestamp": 1765967956105,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The cotton is "
+    },
+    {
+      "timestamp": 1765967956402,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "The cotton is h"
+    },
+    {
+      "timestamp": 1765967956529,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "The cotton is hi"
+    },
+    {
+      "timestamp": 1765967956699,
+      "key": "g",
+      "sentenceIndex": 2,
+      "valueAfter": "The cotton is hig"
+    },
+    {
+      "timestamp": 1765967956801,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "The cotton is high"
+    },
+    {
+      "timestamp": 1765967956978,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1765967957544,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1765967958404,
+      "key": "My",
+      "sentenceIndex": 3,
+      "valueAfter": "My"
+    },
+    {
+      "timestamp": 1765967959712,
+      "key": " preferred",
+      "sentenceIndex": 3,
+      "valueAfter": "My preferred"
+    },
+    {
+      "timestamp": 1765967960649,
+      "key": " t",
+      "sentenceIndex": 3,
+      "valueAfter": "My preferred t"
+    },
+    {
+      "timestamp": 1765967961012,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "My preferred tr"
+    },
+    {
+      "timestamp": 1765967961173,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "My preferred tre"
+    },
+    {
+      "timestamp": 1765967961530,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "My preferred trea"
+    },
+    {
+      "timestamp": 1765967961607,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "My preferred treat"
+    },
+    {
+      "timestamp": 1765967962080,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "My preferred treat "
+    },
+    {
+      "timestamp": 1765967962307,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "My preferred treat i"
+    },
+    {
+      "timestamp": 1765967962495,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "My preferred treat is"
+    },
+    {
+      "timestamp": 1765967962690,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "My preferred treat is "
+    },
+    {
+      "timestamp": 1765967963075,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "My preferred treat is a"
+    },
+    {
+      "timestamp": 1765967963693,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "My preferred treat is "
+    },
+    {
+      "timestamp": 1765967965464,
+      "key": "chocolate",
+      "sentenceIndex": 3,
+      "valueAfter": "My preferred treat is chocolate"
+    },
+    {
+      "timestamp": 1765967967467,
+      "key": "Beer",
+      "sentenceIndex": 4,
+      "valueAfter": "Beer"
+    },
+    {
+      "timestamp": 1765967968396,
+      "key": " the",
+      "sentenceIndex": 4,
+      "valueAfter": "Beer the"
+    },
+    {
+      "timestamp": 1765967968708,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Beer "
+    },
+    {
+      "timestamp": 1765967968818,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Beer"
+    },
+    {
+      "timestamp": 1765967968964,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Bee"
+    },
+    {
+      "timestamp": 1765967969080,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Be"
+    },
+    {
+      "timestamp": 1765967969427,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "B"
+    },
+    {
+      "timestamp": 1765967969884,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Be"
+    },
+    {
+      "timestamp": 1765967970081,
+      "key": "w",
+      "sentenceIndex": 4,
+      "valueAfter": "Bew"
+    },
+    {
+      "timestamp": 1765967970289,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Bewa"
+    },
+    {
+      "timestamp": 1765967970917,
+      "key": "re ",
+      "sentenceIndex": 4,
+      "valueAfter": "Beware "
+    },
+    {
+      "timestamp": 1765967971328,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Beware t"
+    },
+    {
+      "timestamp": 1765967971489,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "Beware th"
+    },
+    {
+      "timestamp": 1765967971591,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Beware the"
+    },
+    {
+      "timestamp": 1765967971778,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Beware the "
+    },
+    {
+      "timestamp": 1765967971946,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Beware the i"
+    },
+    {
+      "timestamp": 1765967972073,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "Beware the id"
+    },
+    {
+      "timestamp": 1765967972345,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Beware the ide"
+    },
+    {
+      "timestamp": 1765967972903,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Beware the ides"
+    },
+    {
+      "timestamp": 1765967973039,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Beware the ides "
+    },
+    {
+      "timestamp": 1765967973293,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Beware the ides o"
+    },
+    {
+      "timestamp": 1765967973458,
+      "key": "f",
+      "sentenceIndex": 4,
+      "valueAfter": "Beware the ides of"
+    },
+    {
+      "timestamp": 1765967973555,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Beware the ides of "
+    },
+    {
+      "timestamp": 1765967973851,
+      "key": "M",
+      "sentenceIndex": 4,
+      "valueAfter": "Beware the ides of M"
+    },
+    {
+      "timestamp": 1765967973976,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Beware the ides of Ma"
+    },
+    {
+      "timestamp": 1765967974174,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Beware the ides of Mar"
+    },
+    {
+      "timestamp": 1765967974288,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": "Beware the ides of Marc"
+    },
+    {
+      "timestamp": 1765967974395,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "Beware the ides of March"
+    },
+    {
+      "timestamp": 1765967975249,
+      "key": "S",
+      "sentenceIndex": 5,
+      "valueAfter": "S"
+    },
+    {
+      "timestamp": 1765967975330,
+      "key": "p",
+      "sentenceIndex": 5,
+      "valueAfter": "Sp"
+    },
+    {
+      "timestamp": 1765967975492,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Spa"
+    },
+    {
+      "timestamp": 1765967975585,
+      "key": "c",
+      "sentenceIndex": 5,
+      "valueAfter": "Spac"
+    },
+    {
+      "timestamp": 1765967975790,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Space"
+    },
+    {
+      "timestamp": 1765967975913,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Space "
+    },
+    {
+      "timestamp": 1765967976132,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Space i"
+    },
+    {
+      "timestamp": 1765967976256,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Space is"
+    },
+    {
+      "timestamp": 1765967976341,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Space is "
+    },
+    {
+      "timestamp": 1765967976465,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Space is a"
+    },
+    {
+      "timestamp": 1765967976520,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Space is a "
+    },
+    {
+      "timestamp": 1765967976857,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "Space is a h"
+    },
+    {
+      "timestamp": 1765967976987,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Space is a hi"
+    },
+    {
+      "timestamp": 1765967977145,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": "Space is a hig"
+    },
+    {
+      "timestamp": 1765967977237,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "Space is a high"
+    },
+    {
+      "timestamp": 1765967977382,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Space is a high "
+    },
+    {
+      "timestamp": 1765967977597,
+      "key": "p",
+      "sentenceIndex": 5,
+      "valueAfter": "Space is a high p"
+    },
+    {
+      "timestamp": 1765967977687,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Space is a high pr"
+    },
+    {
+      "timestamp": 1765967977798,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Space is a high pri"
+    },
+    {
+      "timestamp": 1765967977907,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "Space is a high prio"
+    },
+    {
+      "timestamp": 1765967979084,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "Space is a high pri"
+    },
+    {
+      "timestamp": 1765967980791,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "Space is a high prio"
+    },
+    {
+      "timestamp": 1765967980944,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Space is a high prior"
+    },
+    {
+      "timestamp": 1765967981253,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Space is a high priori"
+    },
+    {
+      "timestamp": 1765967981404,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "Space is a high priorit"
+    },
+    {
+      "timestamp": 1765967981587,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": "Space is a high priority"
+    },
+    {
+      "timestamp": 1765967982433,
+      "key": "N",
+      "sentenceIndex": 6,
+      "valueAfter": "N"
+    },
+    {
+      "timestamp": 1765967982510,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "No"
+    },
+    {
+      "timestamp": 1765967982662,
+      "key": "b",
+      "sentenceIndex": 6,
+      "valueAfter": "Nob"
+    },
+    {
+      "timestamp": 1765967982882,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobo"
+    },
+    {
+      "timestamp": 1765967983717,
+      "key": "d",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobod"
+    },
+    {
+      "timestamp": 1765967983845,
+      "key": "y",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobody"
+    },
+    {
+      "timestamp": 1765967984106,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobody "
+    },
+    {
+      "timestamp": 1765967984348,
+      "key": "c",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobody c"
+    },
+    {
+      "timestamp": 1765967984487,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobody ca"
+    },
+    {
+      "timestamp": 1765967984708,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobody car"
+    },
+    {
+      "timestamp": 1765967984844,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobody care"
+    },
+    {
+      "timestamp": 1765967985068,
+      "key": "s",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobody cares"
+    },
+    {
+      "timestamp": 1765967985183,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobody cares "
+    },
+    {
+      "timestamp": 1765967985441,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobody cares a"
+    },
+    {
+      "timestamp": 1765967985496,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobody cares an"
+    },
+    {
+      "timestamp": 1765967985707,
+      "key": "y",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobody cares any"
+    },
+    {
+      "timestamp": 1765967985820,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobody cares any "
+    },
+    {
+      "timestamp": 1765967985986,
+      "key": "l",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobody cares any l"
+    },
+    {
+      "timestamp": 1765967986065,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobody cares any lo"
+    },
+    {
+      "timestamp": 1765967986418,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobody cares any l"
+    },
+    {
+      "timestamp": 1765967986520,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobody cares any "
+    },
+    {
+      "timestamp": 1765967986667,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobody cares any"
+    },
+    {
+      "timestamp": 1765967986909,
+      "key": "m",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobody cares anym"
+    },
+    {
+      "timestamp": 1765967987062,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobody cares anymo"
+    },
+    {
+      "timestamp": 1765967987182,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobody cares anymor"
+    },
+    {
+      "timestamp": 1765967987339,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Nobody cares anymore"
+    },
+    {
+      "timestamp": 1765967988121,
+      "key": "W",
+      "sentenceIndex": 7,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1765967988208,
+      "key": "i",
+      "sentenceIndex": 7,
+      "valueAfter": "Wi"
+    },
+    {
+      "timestamp": 1765967988315,
+      "key": "n",
+      "sentenceIndex": 7,
+      "valueAfter": "Win"
+    },
+    {
+      "timestamp": 1765967988418,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Win "
+    },
+    {
+      "timestamp": 1765967988579,
+      "key": "f",
+      "sentenceIndex": 7,
+      "valueAfter": "Win f"
+    },
+    {
+      "timestamp": 1765967988638,
+      "key": "i",
+      "sentenceIndex": 7,
+      "valueAfter": "Win fi"
+    },
+    {
+      "timestamp": 1765967988706,
+      "key": "r",
+      "sentenceIndex": 7,
+      "valueAfter": "Win fir"
+    },
+    {
+      "timestamp": 1765967988899,
+      "key": "s",
+      "sentenceIndex": 7,
+      "valueAfter": "Win firs"
+    },
+    {
+      "timestamp": 1765967988944,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first"
+    },
+    {
+      "timestamp": 1765967989099,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first "
+    },
+    {
+      "timestamp": 1765967989421,
+      "key": "p",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first p"
+    },
+    {
+      "timestamp": 1765967989578,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first pe"
+    },
+    {
+      "timestamp": 1765967989682,
+      "key": "i",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first pei"
+    },
+    {
+      "timestamp": 1765967989800,
+      "key": "z",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first peiz"
+    },
+    {
+      "timestamp": 1765967990040,
+      "key": "w",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first peizw"
+    },
+    {
+      "timestamp": 1765967990632,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first p"
+    },
+    {
+      "timestamp": 1765967990649,
+      "key": "rize ",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize "
+    },
+    {
+      "timestamp": 1765967991041,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize"
+    },
+    {
+      "timestamp": 1765967991568,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize "
+    },
+    {
+      "timestamp": 1765967991807,
+      "key": "i",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize i"
+    },
+    {
+      "timestamp": 1765967991925,
+      "key": "n",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in"
+    },
+    {
+      "timestamp": 1765967992063,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in "
+    },
+    {
+      "timestamp": 1765967992265,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in t"
+    },
+    {
+      "timestamp": 1765967992377,
+      "key": "h",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in th"
+    },
+    {
+      "timestamp": 1765967992524,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in the"
+    },
+    {
+      "timestamp": 1765967992599,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in the "
+    },
+    {
+      "timestamp": 1765967992780,
+      "key": "x",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in the x"
+    },
+    {
+      "timestamp": 1765967992851,
+      "key": "o",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in the xo"
+    },
+    {
+      "timestamp": 1765967992928,
+      "key": "n",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in the xon"
+    },
+    {
+      "timestamp": 1765967993107,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in the xont"
+    },
+    {
+      "timestamp": 1765967993293,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in the xonte"
+    },
+    {
+      "timestamp": 1765967993497,
+      "key": "s",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in the xontes"
+    },
+    {
+      "timestamp": 1765967994056,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in the xonte"
+    },
+    {
+      "timestamp": 1765967994185,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in the xont"
+    },
+    {
+      "timestamp": 1765967994309,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in the xon"
+    },
+    {
+      "timestamp": 1765967994433,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in the xo"
+    },
+    {
+      "timestamp": 1765967994555,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in the x"
+    },
+    {
+      "timestamp": 1765967994672,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in the "
+    },
+    {
+      "timestamp": 1765967995170,
+      "key": "c",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in the c"
+    },
+    {
+      "timestamp": 1765967995237,
+      "key": "o",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in the co"
+    },
+    {
+      "timestamp": 1765967995348,
+      "key": "n",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in the con"
+    },
+    {
+      "timestamp": 1765967995500,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in the cont"
+    },
+    {
+      "timestamp": 1765967995692,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in the conte"
+    },
+    {
+      "timestamp": 1765967995898,
+      "key": "s",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in the contes"
+    },
+    {
+      "timestamp": 1765967995976,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "Win first prize in the contest"
+    },
+    {
+      "timestamp": 1765967996782,
+      "key": "M",
+      "sentenceIndex": 8,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1765967996965,
+      "key": "y",
+      "sentenceIndex": 8,
+      "valueAfter": "My"
+    },
+    {
+      "timestamp": 1765967997138,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "My "
+    },
+    {
+      "timestamp": 1765967997226,
+      "key": "d",
+      "sentenceIndex": 8,
+      "valueAfter": "My d"
+    },
+    {
+      "timestamp": 1765967997298,
+      "key": "o",
+      "sentenceIndex": 8,
+      "valueAfter": "My do"
+    },
+    {
+      "timestamp": 1765967997434,
+      "key": "g",
+      "sentenceIndex": 8,
+      "valueAfter": "My dog"
+    },
+    {
+      "timestamp": 1765967997501,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "My dog "
+    },
+    {
+      "timestamp": 1765967997688,
+      "key": "s",
+      "sentenceIndex": 8,
+      "valueAfter": "My dog s"
+    },
+    {
+      "timestamp": 1765967997773,
+      "key": "h",
+      "sentenceIndex": 8,
+      "valueAfter": "My dog sh"
+    },
+    {
+      "timestamp": 1765967997903,
+      "key": "e",
+      "sentenceIndex": 8,
+      "valueAfter": "My dog she"
+    },
+    {
+      "timestamp": 1765967998053,
+      "key": "d",
+      "sentenceIndex": 8,
+      "valueAfter": "My dog shed"
+    },
+    {
+      "timestamp": 1765967998275,
+      "key": "s",
+      "sentenceIndex": 8,
+      "valueAfter": "My dog sheds"
+    },
+    {
+      "timestamp": 1765967998418,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "My dog sheds "
+    },
+    {
+      "timestamp": 1765967998645,
+      "key": "h",
+      "sentenceIndex": 8,
+      "valueAfter": "My dog sheds h"
+    },
+    {
+      "timestamp": 1765967998811,
+      "key": "i",
+      "sentenceIndex": 8,
+      "valueAfter": "My dog sheds hi"
+    },
+    {
+      "timestamp": 1765967998966,
+      "key": "s",
+      "sentenceIndex": 8,
+      "valueAfter": "My dog sheds his"
+    },
+    {
+      "timestamp": 1765967999005,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "My dog sheds his "
+    },
+    {
+      "timestamp": 1765967999198,
+      "key": "h",
+      "sentenceIndex": 8,
+      "valueAfter": "My dog sheds his h"
+    },
+    {
+      "timestamp": 1765967999352,
+      "key": "a",
+      "sentenceIndex": 8,
+      "valueAfter": "My dog sheds his ha"
+    },
+    {
+      "timestamp": 1765967999401,
+      "key": "i",
+      "sentenceIndex": 8,
+      "valueAfter": "My dog sheds his hai"
+    }
+  ]
+}

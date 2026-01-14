@@ -1,0 +1,299 @@
+{
+  "mode": "walking",
+  "timestamp": "2025-12-17T10:14:56.826Z",
+  "duration": 60.005,
+  "wpm": 41,
+  "accuracy": "420.51",
+  "totalCharactersTyped": 39,
+  "correctCharacters": 164,
+  "errors": 10,
+  "sentencesCompleted": 6,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Fall is my favorite season",
+      "expected": "Fall is my favorite season"
+    },
+    {
+      "typed": "Do you like to shop on Sunday",
+      "expected": "Do you like to shop on Sunday"
+    },
+    {
+      "typed": "Drugs should be avoided",
+      "expected": "Drugs should be avoided"
+    },
+    {
+      "typed": "That sticker needs to be validated",
+      "expected": "That sticker needs to be validated"
+    },
+    {
+      "typed": "Never mix religion and politics",
+      "expected": "Never mix religion and politics"
+    },
+    {
+      "typed": "Min mave her s turtleneck",
+      "expected": "Mom made her a turtleneck"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765966431855,
+      "key": "Fall",
+      "sentenceIndex": 0,
+      "valueAfter": "Fall"
+    },
+    {
+      "timestamp": 1765966432574,
+      "key": " is",
+      "sentenceIndex": 0,
+      "valueAfter": "Fall is"
+    },
+    {
+      "timestamp": 1765966433048,
+      "key": " my",
+      "sentenceIndex": 0,
+      "valueAfter": "Fall is my"
+    },
+    {
+      "timestamp": 1765966434657,
+      "key": " favorite",
+      "sentenceIndex": 0,
+      "valueAfter": "Fall is my favorite"
+    },
+    {
+      "timestamp": 1765966436377,
+      "key": " season",
+      "sentenceIndex": 0,
+      "valueAfter": "Fall is my favorite season"
+    },
+    {
+      "timestamp": 1765966438178,
+      "key": "Do",
+      "sentenceIndex": 1,
+      "valueAfter": "Do"
+    },
+    {
+      "timestamp": 1765966438935,
+      "key": " you",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you"
+    },
+    {
+      "timestamp": 1765966439563,
+      "key": " like",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you like"
+    },
+    {
+      "timestamp": 1765966440202,
+      "key": " to",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you like to"
+    },
+    {
+      "timestamp": 1765966441735,
+      "key": " shop",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you like to shop"
+    },
+    {
+      "timestamp": 1765966442428,
+      "key": " on",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you like to shop on"
+    },
+    {
+      "timestamp": 1765966444257,
+      "key": " Sunday",
+      "sentenceIndex": 1,
+      "valueAfter": "Do you like to shop on Sunday"
+    },
+    {
+      "timestamp": 1765966446189,
+      "key": "Drugs",
+      "sentenceIndex": 2,
+      "valueAfter": "Drugs"
+    },
+    {
+      "timestamp": 1765966447379,
+      "key": " should",
+      "sentenceIndex": 2,
+      "valueAfter": "Drugs should"
+    },
+    {
+      "timestamp": 1765966447945,
+      "key": " be",
+      "sentenceIndex": 2,
+      "valueAfter": "Drugs should be"
+    },
+    {
+      "timestamp": 1765966449177,
+      "key": " avoided",
+      "sentenceIndex": 2,
+      "valueAfter": "Drugs should be avoided"
+    },
+    {
+      "timestamp": 1765966450696,
+      "key": "That",
+      "sentenceIndex": 3,
+      "valueAfter": "That"
+    },
+    {
+      "timestamp": 1765966452060,
+      "key": " society",
+      "sentenceIndex": 3,
+      "valueAfter": "That society"
+    },
+    {
+      "timestamp": 1765966452909,
+      "key": " beer",
+      "sentenceIndex": 3,
+      "valueAfter": "That society beer"
+    },
+    {
+      "timestamp": 1765966453368,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "That society "
+    },
+    {
+      "timestamp": 1765966453580,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "That society"
+    },
+    {
+      "timestamp": 1765966454972,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "That s"
+    },
+    {
+      "timestamp": 1765966454984,
+      "key": "ticker ",
+      "sentenceIndex": 3,
+      "valueAfter": "That sticker "
+    },
+    {
+      "timestamp": 1765966456014,
+      "key": "needs",
+      "sentenceIndex": 3,
+      "valueAfter": "That sticker needs"
+    },
+    {
+      "timestamp": 1765966456931,
+      "key": " to",
+      "sentenceIndex": 3,
+      "valueAfter": "That sticker needs to"
+    },
+    {
+      "timestamp": 1765966458319,
+      "key": " be",
+      "sentenceIndex": 3,
+      "valueAfter": "That sticker needs to be"
+    },
+    {
+      "timestamp": 1765966460329,
+      "key": " validated",
+      "sentenceIndex": 3,
+      "valueAfter": "That sticker needs to be validated"
+    },
+    {
+      "timestamp": 1765966462884,
+      "key": "Never",
+      "sentenceIndex": 4,
+      "valueAfter": "Never"
+    },
+    {
+      "timestamp": 1765966463776,
+      "key": " mix",
+      "sentenceIndex": 4,
+      "valueAfter": "Never mix"
+    },
+    {
+      "timestamp": 1765966465559,
+      "key": " religion",
+      "sentenceIndex": 4,
+      "valueAfter": "Never mix religion"
+    },
+    {
+      "timestamp": 1765966466562,
+      "key": " and",
+      "sentenceIndex": 4,
+      "valueAfter": "Never mix religion and"
+    },
+    {
+      "timestamp": 1765966468154,
+      "key": " politics",
+      "sentenceIndex": 4,
+      "valueAfter": "Never mix religion and politics"
+    },
+    {
+      "timestamp": 1765966469648,
+      "key": "Min",
+      "sentenceIndex": 5,
+      "valueAfter": "Min"
+    },
+    {
+      "timestamp": 1765966470546,
+      "key": " mave",
+      "sentenceIndex": 5,
+      "valueAfter": "Min mave"
+    },
+    {
+      "timestamp": 1765966471301,
+      "key": " her",
+      "sentenceIndex": 5,
+      "valueAfter": "Min mave her"
+    },
+    {
+      "timestamp": 1765966471696,
+      "key": " s",
+      "sentenceIndex": 5,
+      "valueAfter": "Min mave her s"
+    },
+    {
+      "timestamp": 1765966472208,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Min mave her s "
+    },
+    {
+      "timestamp": 1765966475868,
+      "key": "turtleneck",
+      "sentenceIndex": 5,
+      "valueAfter": "Min mave her s turtleneck"
+    },
+    {
+      "timestamp": 1765966478026,
+      "key": "Correct",
+      "sentenceIndex": 6,
+      "valueAfter": "Correct"
+    },
+    {
+      "timestamp": 1765966479778,
+      "key": " your",
+      "sentenceIndex": 6,
+      "valueAfter": "Correct your"
+    },
+    {
+      "timestamp": 1765966483067,
+      "key": " specific",
+      "sentenceIndex": 6,
+      "valueAfter": "Correct your specific"
+    },
+    {
+      "timestamp": 1765966484263,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "Correct your "
+    },
+    {
+      "timestamp": 1765966484274,
+      "key": "direction ",
+      "sentenceIndex": 6,
+      "valueAfter": "Correct your direction "
+    }
+  ]
+}

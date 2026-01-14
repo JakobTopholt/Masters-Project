@@ -1,0 +1,1269 @@
+{
+  "mode": "upstairs",
+  "timestamp": "2025-12-18T13:11:35.363Z",
+  "duration": 60.084,
+  "wpm": 34,
+  "accuracy": "85.05",
+  "totalCharactersTyped": 194,
+  "correctCharacters": 165,
+  "errors": 73,
+  "sentencesCompleted": 7,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Motivational seminars make me sick",
+      "expected": "Motivational seminars make me sick"
+    },
+    {
+      "typed": "Take it to the recycling depot",
+      "expected": "Take it to the recycling depot"
+    },
+    {
+      "typed": "Everybody loses in custody battles ",
+      "expected": "Everybody looses in custody battles"
+    },
+    {
+      "typed": "Breathing ls difficult",
+      "expected": "Breathing is difficult"
+    },
+    {
+      "typed": " Joined on the pario",
+      "expected": "Join us on the patio"
+    },
+    {
+      "typed": "I do not fully agree with uoæ",
+      "expected": "I do not fully agree with you"
+    },
+    {
+      "typed": "A psychiatrist will help you",
+      "expected": "A psychiatrist will help you"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766063426914,
+      "key": "M",
+      "sentenceIndex": 0,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1766063427063,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Mo"
+    },
+    {
+      "timestamp": 1766063427322,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Mot"
+    },
+    {
+      "timestamp": 1766063427418,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Moti"
+    },
+    {
+      "timestamp": 1766063427740,
+      "key": "v",
+      "sentenceIndex": 0,
+      "valueAfter": "Motiv"
+    },
+    {
+      "timestamp": 1766063427831,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Motiva"
+    },
+    {
+      "timestamp": 1766063428121,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivat"
+    },
+    {
+      "timestamp": 1766063428244,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivati"
+    },
+    {
+      "timestamp": 1766063428412,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivatio"
+    },
+    {
+      "timestamp": 1766063428595,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivation"
+    },
+    {
+      "timestamp": 1766063428823,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivationa"
+    },
+    {
+      "timestamp": 1766063428853,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational"
+    },
+    {
+      "timestamp": 1766063429078,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational "
+    },
+    {
+      "timestamp": 1766063429957,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational s"
+    },
+    {
+      "timestamp": 1766063430205,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational se"
+    },
+    {
+      "timestamp": 1766063430455,
+      "key": "m",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational sem"
+    },
+    {
+      "timestamp": 1766063431137,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational semi"
+    },
+    {
+      "timestamp": 1766063431607,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational semin"
+    },
+    {
+      "timestamp": 1766063431929,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational semina"
+    },
+    {
+      "timestamp": 1766063432191,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational seminar"
+    },
+    {
+      "timestamp": 1766063432405,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational seminars"
+    },
+    {
+      "timestamp": 1766063432607,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational seminars "
+    },
+    {
+      "timestamp": 1766063432858,
+      "key": "m",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational seminars m"
+    },
+    {
+      "timestamp": 1766063433011,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational seminars ma"
+    },
+    {
+      "timestamp": 1766063433109,
+      "key": "k",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational seminars mak"
+    },
+    {
+      "timestamp": 1766063433213,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational seminars make"
+    },
+    {
+      "timestamp": 1766063433294,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational seminars make "
+    },
+    {
+      "timestamp": 1766063433410,
+      "key": "m",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational seminars make m"
+    },
+    {
+      "timestamp": 1766063433510,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational seminars make me"
+    },
+    {
+      "timestamp": 1766063433581,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational seminars make me "
+    },
+    {
+      "timestamp": 1766063434208,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational seminars make me s"
+    },
+    {
+      "timestamp": 1766063434460,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational seminars make me si"
+    },
+    {
+      "timestamp": 1766063434690,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational seminars make me sic"
+    },
+    {
+      "timestamp": 1766063434847,
+      "key": "k",
+      "sentenceIndex": 0,
+      "valueAfter": "Motivational seminars make me sick"
+    },
+    {
+      "timestamp": 1766063435053,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766063435931,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766063436470,
+      "key": "T",
+      "sentenceIndex": 1,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766063436568,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Ta"
+    },
+    {
+      "timestamp": 1766063436620,
+      "key": "k",
+      "sentenceIndex": 1,
+      "valueAfter": "Tak"
+    },
+    {
+      "timestamp": 1766063436751,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Take"
+    },
+    {
+      "timestamp": 1766063437179,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Take "
+    },
+    {
+      "timestamp": 1766063437337,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Take i"
+    },
+    {
+      "timestamp": 1766063437482,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it"
+    },
+    {
+      "timestamp": 1766063437567,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it "
+    },
+    {
+      "timestamp": 1766063437747,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it t"
+    },
+    {
+      "timestamp": 1766063437855,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it to"
+    },
+    {
+      "timestamp": 1766063438011,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it to "
+    },
+    {
+      "timestamp": 1766063438873,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it to t"
+    },
+    {
+      "timestamp": 1766063439015,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it to th"
+    },
+    {
+      "timestamp": 1766063439117,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it to the"
+    },
+    {
+      "timestamp": 1766063439204,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it to the "
+    },
+    {
+      "timestamp": 1766063439633,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it to the r"
+    },
+    {
+      "timestamp": 1766063439815,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it to the re"
+    },
+    {
+      "timestamp": 1766063440167,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it to the rec"
+    },
+    {
+      "timestamp": 1766063440398,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it to the recy"
+    },
+    {
+      "timestamp": 1766063440726,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it to the recyc"
+    },
+    {
+      "timestamp": 1766063440867,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it to the recycl"
+    },
+    {
+      "timestamp": 1766063441582,
+      "key": "recycling",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it to the recycling"
+    },
+    {
+      "timestamp": 1766063441604,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it to the recycling "
+    },
+    {
+      "timestamp": 1766063442508,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it to the recycling d"
+    },
+    {
+      "timestamp": 1766063442671,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it to the recycling de"
+    },
+    {
+      "timestamp": 1766063443474,
+      "key": "p",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it to the recycling dep"
+    },
+    {
+      "timestamp": 1766063443601,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it to the recycling depo"
+    },
+    {
+      "timestamp": 1766063443673,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Take it to the recycling depot"
+    },
+    {
+      "timestamp": 1766063444844,
+      "key": "W",
+      "sentenceIndex": 2,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1766063445097,
+      "key": "v",
+      "sentenceIndex": 2,
+      "valueAfter": "Wv"
+    },
+    {
+      "timestamp": 1766063445196,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Wve"
+    },
+    {
+      "timestamp": 1766063445337,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Wver"
+    },
+    {
+      "timestamp": 1766063446390,
+      "key": "b",
+      "sentenceIndex": 2,
+      "valueAfter": "Wverb"
+    },
+    {
+      "timestamp": 1766063446643,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Wverbo"
+    },
+    {
+      "timestamp": 1766063447746,
+      "key": "Everybody",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody"
+    },
+    {
+      "timestamp": 1766063447788,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody "
+    },
+    {
+      "timestamp": 1766063448565,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody l"
+    },
+    {
+      "timestamp": 1766063448699,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody lo"
+    },
+    {
+      "timestamp": 1766063448832,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody los"
+    },
+    {
+      "timestamp": 1766063449048,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody lose"
+    },
+    {
+      "timestamp": 1766063449184,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses"
+    },
+    {
+      "timestamp": 1766063449463,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses "
+    },
+    {
+      "timestamp": 1766063449667,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses i"
+    },
+    {
+      "timestamp": 1766063449894,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses in"
+    },
+    {
+      "timestamp": 1766063450139,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses in "
+    },
+    {
+      "timestamp": 1766063450904,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses in c"
+    },
+    {
+      "timestamp": 1766063451252,
+      "key": "u",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses in cu"
+    },
+    {
+      "timestamp": 1766063451399,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses in cud"
+    },
+    {
+      "timestamp": 1766063452308,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses in cudt"
+    },
+    {
+      "timestamp": 1766063452439,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses in cudto"
+    },
+    {
+      "timestamp": 1766063452816,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses in cudtod"
+    },
+    {
+      "timestamp": 1766063452929,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses in cudtodi"
+    },
+    {
+      "timestamp": 1766063453227,
+      "key": "custody",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses in custody"
+    },
+    {
+      "timestamp": 1766063453248,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses in custody "
+    },
+    {
+      "timestamp": 1766063454206,
+      "key": "b",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses in custody b"
+    },
+    {
+      "timestamp": 1766063454344,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses in custody ba"
+    },
+    {
+      "timestamp": 1766063454365,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses in custody bat"
+    },
+    {
+      "timestamp": 1766063454522,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses in custody batt"
+    },
+    {
+      "timestamp": 1766063454712,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses in custody battl"
+    },
+    {
+      "timestamp": 1766063454810,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses in custody battle"
+    },
+    {
+      "timestamp": 1766063454958,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses in custody battles"
+    },
+    {
+      "timestamp": 1766063455046,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Everybody loses in custody battles "
+    },
+    {
+      "timestamp": 1766063456520,
+      "key": "B",
+      "sentenceIndex": 3,
+      "valueAfter": "B"
+    },
+    {
+      "timestamp": 1766063456730,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Br"
+    },
+    {
+      "timestamp": 1766063456856,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Bre"
+    },
+    {
+      "timestamp": 1766063457086,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Brea"
+    },
+    {
+      "timestamp": 1766063457216,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Breat"
+    },
+    {
+      "timestamp": 1766063457687,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Breath"
+    },
+    {
+      "timestamp": 1766063458111,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathi"
+    },
+    {
+      "timestamp": 1766063458260,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathin"
+    },
+    {
+      "timestamp": 1766063458334,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing"
+    },
+    {
+      "timestamp": 1766063458442,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing "
+    },
+    {
+      "timestamp": 1766063458624,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing l"
+    },
+    {
+      "timestamp": 1766063458766,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing ls"
+    },
+    {
+      "timestamp": 1766063458836,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing ls "
+    },
+    {
+      "timestamp": 1766063459321,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing ls d"
+    },
+    {
+      "timestamp": 1766063459550,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing ls di"
+    },
+    {
+      "timestamp": 1766063459693,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing ls did"
+    },
+    {
+      "timestamp": 1766063459863,
+      "key": "f",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing ls didf"
+    },
+    {
+      "timestamp": 1766063460755,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing ls didfi"
+    },
+    {
+      "timestamp": 1766063461504,
+      "key": "c",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing ls didfic"
+    },
+    {
+      "timestamp": 1766063461636,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing ls didficu"
+    },
+    {
+      "timestamp": 1766063462162,
+      "key": "difficult",
+      "sentenceIndex": 3,
+      "valueAfter": "Breathing ls difficult"
+    },
+    {
+      "timestamp": 1766063462211,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766063464135,
+      "key": "J",
+      "sentenceIndex": 4,
+      "valueAfter": " J"
+    },
+    {
+      "timestamp": 1766063464293,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": " Jo"
+    },
+    {
+      "timestamp": 1766063464460,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": " Joi"
+    },
+    {
+      "timestamp": 1766063464603,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": " Join"
+    },
+    {
+      "timestamp": 1766063464797,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " Join "
+    },
+    {
+      "timestamp": 1766063465866,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": " Join"
+    },
+    {
+      "timestamp": 1766063466063,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": " Joini"
+    },
+    {
+      "timestamp": 1766063466203,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": " Joinid"
+    },
+    {
+      "timestamp": 1766063466270,
+      "key": "Joined",
+      "sentenceIndex": 4,
+      "valueAfter": " Joined"
+    },
+    {
+      "timestamp": 1766063466282,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " Joined "
+    },
+    {
+      "timestamp": 1766063466981,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": " Joined o"
+    },
+    {
+      "timestamp": 1766063467158,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": " Joined on"
+    },
+    {
+      "timestamp": 1766063467327,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " Joined on "
+    },
+    {
+      "timestamp": 1766063467513,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": " Joined on t"
+    },
+    {
+      "timestamp": 1766063467666,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": " Joined on th"
+    },
+    {
+      "timestamp": 1766063467781,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": " Joined on the"
+    },
+    {
+      "timestamp": 1766063467854,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " Joined on the "
+    },
+    {
+      "timestamp": 1766063468254,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": " Joined on the t"
+    },
+    {
+      "timestamp": 1766063468567,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": " Joined on the "
+    },
+    {
+      "timestamp": 1766063468780,
+      "key": "p",
+      "sentenceIndex": 4,
+      "valueAfter": " Joined on the p"
+    },
+    {
+      "timestamp": 1766063468899,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": " Joined on the pa"
+    },
+    {
+      "timestamp": 1766063469073,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": " Joined on the par"
+    },
+    {
+      "timestamp": 1766063469153,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": " Joined on the pari"
+    },
+    {
+      "timestamp": 1766063469304,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": " Joined on the pario"
+    },
+    {
+      "timestamp": 1766063469466,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766063470152,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766063470803,
+      "key": "I",
+      "sentenceIndex": 5,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1766063471006,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "I "
+    },
+    {
+      "timestamp": 1766063471135,
+      "key": "d",
+      "sentenceIndex": 5,
+      "valueAfter": "I d"
+    },
+    {
+      "timestamp": 1766063471256,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "I do"
+    },
+    {
+      "timestamp": 1766063471419,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "I do "
+    },
+    {
+      "timestamp": 1766063471835,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "I do n"
+    },
+    {
+      "timestamp": 1766063471978,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "I do no"
+    },
+    {
+      "timestamp": 1766063472104,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not"
+    },
+    {
+      "timestamp": 1766063472220,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not "
+    },
+    {
+      "timestamp": 1766063472752,
+      "key": "f",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not f"
+    },
+    {
+      "timestamp": 1766063472943,
+      "key": "u",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not fu"
+    },
+    {
+      "timestamp": 1766063473149,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not ful"
+    },
+    {
+      "timestamp": 1766063473280,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not full"
+    },
+    {
+      "timestamp": 1766063473418,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not fully"
+    },
+    {
+      "timestamp": 1766063473545,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not fully "
+    },
+    {
+      "timestamp": 1766063474254,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not fully a"
+    },
+    {
+      "timestamp": 1766063474476,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not fully ag"
+    },
+    {
+      "timestamp": 1766063474658,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not fully agr"
+    },
+    {
+      "timestamp": 1766063474841,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not fully agre"
+    },
+    {
+      "timestamp": 1766063474997,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not fully agree"
+    },
+    {
+      "timestamp": 1766063475112,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not fully agree "
+    },
+    {
+      "timestamp": 1766063475771,
+      "key": "w",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not fully agree w"
+    },
+    {
+      "timestamp": 1766063475917,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not fully agree wo"
+    },
+    {
+      "timestamp": 1766063475987,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not fully agree wor"
+    },
+    {
+      "timestamp": 1766063476051,
+      "key": "j",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not fully agree worj"
+    },
+    {
+      "timestamp": 1766063476238,
+      "key": "with",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not fully agree with"
+    },
+    {
+      "timestamp": 1766063476260,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not fully agree with "
+    },
+    {
+      "timestamp": 1766063476637,
+      "key": "u",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not fully agree with u"
+    },
+    {
+      "timestamp": 1766063476883,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not fully agree with uo"
+    },
+    {
+      "timestamp": 1766063477481,
+      "key": "æ",
+      "sentenceIndex": 5,
+      "valueAfter": "I do not fully agree with uoæ"
+    },
+    {
+      "timestamp": 1766063477729,
+      "key": "Y",
+      "sentenceIndex": 6,
+      "valueAfter": "Y"
+    },
+    {
+      "timestamp": 1766063477840,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "Yo"
+    },
+    {
+      "timestamp": 1766063478574,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "Y"
+    },
+    {
+      "timestamp": 1766063478760,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766063479449,
+      "key": "A",
+      "sentenceIndex": 6,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1766063479676,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "A "
+    },
+    {
+      "timestamp": 1766063480047,
+      "key": "p",
+      "sentenceIndex": 6,
+      "valueAfter": "A p"
+    },
+    {
+      "timestamp": 1766063480422,
+      "key": "s",
+      "sentenceIndex": 6,
+      "valueAfter": "A ps"
+    },
+    {
+      "timestamp": 1766063481977,
+      "key": "psychiatrist",
+      "sentenceIndex": 6,
+      "valueAfter": "A psychiatrist"
+    },
+    {
+      "timestamp": 1766063482006,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "A psychiatrist "
+    },
+    {
+      "timestamp": 1766063482945,
+      "key": "w",
+      "sentenceIndex": 6,
+      "valueAfter": "A psychiatrist w"
+    },
+    {
+      "timestamp": 1766063483057,
+      "key": "i",
+      "sentenceIndex": 6,
+      "valueAfter": "A psychiatrist wi"
+    },
+    {
+      "timestamp": 1766063483225,
+      "key": "l",
+      "sentenceIndex": 6,
+      "valueAfter": "A psychiatrist wil"
+    },
+    {
+      "timestamp": 1766063483369,
+      "key": "l",
+      "sentenceIndex": 6,
+      "valueAfter": "A psychiatrist will"
+    },
+    {
+      "timestamp": 1766063483572,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "A psychiatrist will "
+    },
+    {
+      "timestamp": 1766063483722,
+      "key": "h",
+      "sentenceIndex": 6,
+      "valueAfter": "A psychiatrist will h"
+    },
+    {
+      "timestamp": 1766063483935,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "A psychiatrist will he"
+    },
+    {
+      "timestamp": 1766063484059,
+      "key": "l",
+      "sentenceIndex": 6,
+      "valueAfter": "A psychiatrist will hel"
+    },
+    {
+      "timestamp": 1766063484283,
+      "key": "p",
+      "sentenceIndex": 6,
+      "valueAfter": "A psychiatrist will help"
+    },
+    {
+      "timestamp": 1766063484489,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "A psychiatrist will help "
+    },
+    {
+      "timestamp": 1766063484702,
+      "key": "y",
+      "sentenceIndex": 6,
+      "valueAfter": "A psychiatrist will help y"
+    },
+    {
+      "timestamp": 1766063484826,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "A psychiatrist will help yo"
+    },
+    {
+      "timestamp": 1766063484988,
+      "key": "u",
+      "sentenceIndex": 6,
+      "valueAfter": "A psychiatrist will help you"
+    },
+    {
+      "timestamp": 1766063485254,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766063485899,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766063486749,
+      "key": "C",
+      "sentenceIndex": 7,
+      "valueAfter": "C"
+    },
+    {
+      "timestamp": 1766063486874,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "Ca"
+    },
+    {
+      "timestamp": 1766063486893,
+      "key": "n",
+      "sentenceIndex": 7,
+      "valueAfter": "Can"
+    }
+  ]
+}

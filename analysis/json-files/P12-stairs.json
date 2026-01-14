@@ -1,0 +1,1401 @@
+{
+  "mode": "upstairs",
+  "timestamp": "2025-12-17T12:51:05.603Z",
+  "duration": 60.06,
+  "wpm": 40,
+  "accuracy": "91.51",
+  "totalCharactersTyped": 212,
+  "correctCharacters": 194,
+  "errors": 29,
+  "sentencesCompleted": 7,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Public transit is much daster",
+      "expected": "Public transit is much faster"
+    },
+    {
+      "typed": "An inefficient way to heat a house",
+      "expected": "An inefficient way to heat a house"
+    },
+    {
+      "typed": "We have enough witnesses",
+      "expected": "We have enough witnesses"
+    },
+    {
+      "typed": "The daring young man",
+      "expected": "The daring young man"
+    },
+    {
+      "typed": "So you think you deserve a raise",
+      "expected": "So you think you deserve a raise"
+    },
+    {
+      "typed": "We better investigate this",
+      "expected": "We better investigate this"
+    },
+    {
+      "typed": "The chancellor was very boring",
+      "expected": "The chancellor was very boring"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765975801922,
+      "key": "P",
+      "sentenceIndex": 0,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1765975802270,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "Pu"
+    },
+    {
+      "timestamp": 1765975802547,
+      "key": "b",
+      "sentenceIndex": 0,
+      "valueAfter": "Pub"
+    },
+    {
+      "timestamp": 1765975802669,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "Publ"
+    },
+    {
+      "timestamp": 1765975802873,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Publi"
+    },
+    {
+      "timestamp": 1765975803017,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "Public"
+    },
+    {
+      "timestamp": 1765975803160,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Public "
+    },
+    {
+      "timestamp": 1765975803406,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Public t"
+    },
+    {
+      "timestamp": 1765975803575,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Public tr"
+    },
+    {
+      "timestamp": 1765975803740,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Public tra"
+    },
+    {
+      "timestamp": 1765975803831,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Public tran"
+    },
+    {
+      "timestamp": 1765975804056,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Public trani"
+    },
+    {
+      "timestamp": 1765975804188,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Public tranis"
+    },
+    {
+      "timestamp": 1765975804599,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Public tranist"
+    },
+    {
+      "timestamp": 1765975804700,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Public tranisti"
+    },
+    {
+      "timestamp": 1765975804964,
+      "key": "transits",
+      "sentenceIndex": 0,
+      "valueAfter": "Public transits"
+    },
+    {
+      "timestamp": 1765975804986,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Public transits "
+    },
+    {
+      "timestamp": 1765975805925,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Public transits"
+    },
+    {
+      "timestamp": 1765975806087,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Public transit"
+    },
+    {
+      "timestamp": 1765975806417,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Public transit "
+    },
+    {
+      "timestamp": 1765975806693,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Public transit i"
+    },
+    {
+      "timestamp": 1765975806824,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Public transit is"
+    },
+    {
+      "timestamp": 1765975806925,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Public transit is "
+    },
+    {
+      "timestamp": 1765975807113,
+      "key": "m",
+      "sentenceIndex": 0,
+      "valueAfter": "Public transit is m"
+    },
+    {
+      "timestamp": 1765975807292,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "Public transit is mu"
+    },
+    {
+      "timestamp": 1765975807443,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "Public transit is muc"
+    },
+    {
+      "timestamp": 1765975807611,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Public transit is much"
+    },
+    {
+      "timestamp": 1765975807821,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Public transit is much "
+    },
+    {
+      "timestamp": 1765975807893,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "Public transit is much d"
+    },
+    {
+      "timestamp": 1765975808095,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Public transit is much da"
+    },
+    {
+      "timestamp": 1765975808303,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Public transit is much das"
+    },
+    {
+      "timestamp": 1765975808402,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Public transit is much dast"
+    },
+    {
+      "timestamp": 1765975808561,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Public transit is much daste"
+    },
+    {
+      "timestamp": 1765975808780,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Public transit is much daster"
+    },
+    {
+      "timestamp": 1765975810004,
+      "key": "A",
+      "sentenceIndex": 1,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1765975810179,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "An"
+    },
+    {
+      "timestamp": 1765975810440,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "An "
+    },
+    {
+      "timestamp": 1765975810564,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "An e"
+    },
+    {
+      "timestamp": 1765975810851,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "An ef"
+    },
+    {
+      "timestamp": 1765975811013,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "An eff"
+    },
+    {
+      "timestamp": 1765975811166,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "An effi"
+    },
+    {
+      "timestamp": 1765975811406,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "An effie"
+    },
+    {
+      "timestamp": 1765975812115,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "An effi"
+    },
+    {
+      "timestamp": 1765975816135,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "An eff"
+    },
+    {
+      "timestamp": 1765975816326,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "An ef"
+    },
+    {
+      "timestamp": 1765975816805,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "An e"
+    },
+    {
+      "timestamp": 1765975816967,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "An "
+    },
+    {
+      "timestamp": 1765975817609,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "An i"
+    },
+    {
+      "timestamp": 1765975817791,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "An in"
+    },
+    {
+      "timestamp": 1765975817972,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "An ine"
+    },
+    {
+      "timestamp": 1765975818212,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "An inef"
+    },
+    {
+      "timestamp": 1765975818379,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "An ineff"
+    },
+    {
+      "timestamp": 1765975818610,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "An ineffe"
+    },
+    {
+      "timestamp": 1765975819047,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "An ineffec"
+    },
+    {
+      "timestamp": 1765975819190,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "An ineffeci"
+    },
+    {
+      "timestamp": 1765975819376,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "An ineffecie"
+    },
+    {
+      "timestamp": 1765975819526,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "An ineffecien"
+    },
+    {
+      "timestamp": 1765975819646,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "An ineffecient"
+    },
+    {
+      "timestamp": 1765975819825,
+      "key": "inefficient",
+      "sentenceIndex": 1,
+      "valueAfter": "An inefficient"
+    },
+    {
+      "timestamp": 1765975819848,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "An inefficient "
+    },
+    {
+      "timestamp": 1765975820181,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "An inefficient w"
+    },
+    {
+      "timestamp": 1765975820532,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "An inefficient wa"
+    },
+    {
+      "timestamp": 1765975820784,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "An inefficient way"
+    },
+    {
+      "timestamp": 1765975820990,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "An inefficient way "
+    },
+    {
+      "timestamp": 1765975821104,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "An inefficient way t"
+    },
+    {
+      "timestamp": 1765975821210,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "An inefficient way to"
+    },
+    {
+      "timestamp": 1765975821404,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "An inefficient way to "
+    },
+    {
+      "timestamp": 1765975821599,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "An inefficient way to h"
+    },
+    {
+      "timestamp": 1765975821702,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "An inefficient way to he"
+    },
+    {
+      "timestamp": 1765975821914,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "An inefficient way to hea"
+    },
+    {
+      "timestamp": 1765975821996,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "An inefficient way to heat"
+    },
+    {
+      "timestamp": 1765975822266,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "An inefficient way to heat "
+    },
+    {
+      "timestamp": 1765975822434,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "An inefficient way to heat a"
+    },
+    {
+      "timestamp": 1765975822559,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "An inefficient way to heat a "
+    },
+    {
+      "timestamp": 1765975822981,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "An inefficient way to heat a h"
+    },
+    {
+      "timestamp": 1765975823095,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "An inefficient way to heat a ho"
+    },
+    {
+      "timestamp": 1765975823334,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "An inefficient way to heat a hou"
+    },
+    {
+      "timestamp": 1765975823533,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "An inefficient way to heat a hous"
+    },
+    {
+      "timestamp": 1765975823850,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "An inefficient way to heat a house"
+    },
+    {
+      "timestamp": 1765975825136,
+      "key": "W",
+      "sentenceIndex": 2,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1765975825355,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "We"
+    },
+    {
+      "timestamp": 1765975825491,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "We "
+    },
+    {
+      "timestamp": 1765975825944,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "We h"
+    },
+    {
+      "timestamp": 1765975826043,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "We ha"
+    },
+    {
+      "timestamp": 1765975826134,
+      "key": "v",
+      "sentenceIndex": 2,
+      "valueAfter": "We hav"
+    },
+    {
+      "timestamp": 1765975826251,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "We have"
+    },
+    {
+      "timestamp": 1765975826353,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "We have "
+    },
+    {
+      "timestamp": 1765975826506,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "We have e"
+    },
+    {
+      "timestamp": 1765975826615,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "We have en"
+    },
+    {
+      "timestamp": 1765975826841,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "We have eno"
+    },
+    {
+      "timestamp": 1765975827062,
+      "key": "u",
+      "sentenceIndex": 2,
+      "valueAfter": "We have enou"
+    },
+    {
+      "timestamp": 1765975827259,
+      "key": "g",
+      "sentenceIndex": 2,
+      "valueAfter": "We have enoug"
+    },
+    {
+      "timestamp": 1765975827425,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "We have enough"
+    },
+    {
+      "timestamp": 1765975827667,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "We have enough "
+    },
+    {
+      "timestamp": 1765975828241,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "We have enough w"
+    },
+    {
+      "timestamp": 1765975828592,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "We have enough wi"
+    },
+    {
+      "timestamp": 1765975828774,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "We have enough wit"
+    },
+    {
+      "timestamp": 1765975828933,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "We have enough witn"
+    },
+    {
+      "timestamp": 1765975829072,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "We have enough witne"
+    },
+    {
+      "timestamp": 1765975829308,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "We have enough witnes"
+    },
+    {
+      "timestamp": 1765975829508,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "We have enough witness"
+    },
+    {
+      "timestamp": 1765975829693,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "We have enough witnesse"
+    },
+    {
+      "timestamp": 1765975829927,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "We have enough witnesses"
+    },
+    {
+      "timestamp": 1765975831162,
+      "key": "T",
+      "sentenceIndex": 3,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765975831306,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765975831428,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765975831568,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765975831695,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "The d"
+    },
+    {
+      "timestamp": 1765975831928,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "The da"
+    },
+    {
+      "timestamp": 1765975832814,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "The dar"
+    },
+    {
+      "timestamp": 1765975832961,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "The dari"
+    },
+    {
+      "timestamp": 1765975833199,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "The darin"
+    },
+    {
+      "timestamp": 1765975833816,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "The dari"
+    },
+    {
+      "timestamp": 1765975834700,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "The darin"
+    },
+    {
+      "timestamp": 1765975834896,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": "The daring"
+    },
+    {
+      "timestamp": 1765975835073,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The daring "
+    },
+    {
+      "timestamp": 1765975835300,
+      "key": "y",
+      "sentenceIndex": 3,
+      "valueAfter": "The daring y"
+    },
+    {
+      "timestamp": 1765975835408,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "The daring yo"
+    },
+    {
+      "timestamp": 1765975835602,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": "The daring you"
+    },
+    {
+      "timestamp": 1765975835786,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "The daring youn"
+    },
+    {
+      "timestamp": 1765975835968,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": "The daring young"
+    },
+    {
+      "timestamp": 1765975836123,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The daring young "
+    },
+    {
+      "timestamp": 1765975836332,
+      "key": "m",
+      "sentenceIndex": 3,
+      "valueAfter": "The daring young m"
+    },
+    {
+      "timestamp": 1765975836434,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "The daring young ma"
+    },
+    {
+      "timestamp": 1765975836532,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "The daring young man"
+    },
+    {
+      "timestamp": 1765975837592,
+      "key": "S",
+      "sentenceIndex": 4,
+      "valueAfter": "S"
+    },
+    {
+      "timestamp": 1765975837683,
+      "key": "p",
+      "sentenceIndex": 4,
+      "valueAfter": "Sp"
+    },
+    {
+      "timestamp": 1765975837899,
+      "key": "Så",
+      "sentenceIndex": 4,
+      "valueAfter": "Så"
+    },
+    {
+      "timestamp": 1765975837912,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Så "
+    },
+    {
+      "timestamp": 1765975838088,
+      "key": "y",
+      "sentenceIndex": 4,
+      "valueAfter": "Så y"
+    },
+    {
+      "timestamp": 1765975838199,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Så yo"
+    },
+    {
+      "timestamp": 1765975838318,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "Så you"
+    },
+    {
+      "timestamp": 1765975838451,
+      "key": "So you",
+      "sentenceIndex": 4,
+      "valueAfter": "So you"
+    },
+    {
+      "timestamp": 1765975838462,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "So you "
+    },
+    {
+      "timestamp": 1765975838690,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "So you t"
+    },
+    {
+      "timestamp": 1765975838923,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "So you th"
+    },
+    {
+      "timestamp": 1765975839122,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "So you thi"
+    },
+    {
+      "timestamp": 1765975839307,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "So you thin"
+    },
+    {
+      "timestamp": 1765975839439,
+      "key": "k",
+      "sentenceIndex": 4,
+      "valueAfter": "So you think"
+    },
+    {
+      "timestamp": 1765975839681,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "So you think "
+    },
+    {
+      "timestamp": 1765975840343,
+      "key": "y",
+      "sentenceIndex": 4,
+      "valueAfter": "So you think y"
+    },
+    {
+      "timestamp": 1765975840429,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "So you think yo"
+    },
+    {
+      "timestamp": 1765975840555,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "So you think you"
+    },
+    {
+      "timestamp": 1765975840719,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "So you think you "
+    },
+    {
+      "timestamp": 1765975840909,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "So you think you d"
+    },
+    {
+      "timestamp": 1765975841110,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "So you think you de"
+    },
+    {
+      "timestamp": 1765975841344,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "So you think you des"
+    },
+    {
+      "timestamp": 1765975841576,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "So you think you dese"
+    },
+    {
+      "timestamp": 1765975841776,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "So you think you deser"
+    },
+    {
+      "timestamp": 1765975841911,
+      "key": "v",
+      "sentenceIndex": 4,
+      "valueAfter": "So you think you deserv"
+    },
+    {
+      "timestamp": 1765975842041,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "So you think you deserve"
+    },
+    {
+      "timestamp": 1765975842182,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "So you think you deserve "
+    },
+    {
+      "timestamp": 1765975842478,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "So you think you deserve a"
+    },
+    {
+      "timestamp": 1765975842661,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "So you think you deserve a "
+    },
+    {
+      "timestamp": 1765975842826,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "So you think you deserve a r"
+    },
+    {
+      "timestamp": 1765975843127,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "So you think you deserve a ra"
+    },
+    {
+      "timestamp": 1765975843259,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "So you think you deserve a rai"
+    },
+    {
+      "timestamp": 1765975843409,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "So you think you deserve a rais"
+    },
+    {
+      "timestamp": 1765975843626,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "So you think you deserve a raise"
+    },
+    {
+      "timestamp": 1765975844664,
+      "key": "W",
+      "sentenceIndex": 5,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1765975844882,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "We"
+    },
+    {
+      "timestamp": 1765975845045,
+      "key": "b",
+      "sentenceIndex": 5,
+      "valueAfter": "Web"
+    },
+    {
+      "timestamp": 1765975845614,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "We"
+    },
+    {
+      "timestamp": 1765975845904,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "We "
+    },
+    {
+      "timestamp": 1765975846117,
+      "key": "b",
+      "sentenceIndex": 5,
+      "valueAfter": "We b"
+    },
+    {
+      "timestamp": 1765975846245,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "We be"
+    },
+    {
+      "timestamp": 1765975846451,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "We bet"
+    },
+    {
+      "timestamp": 1765975846595,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "We bett"
+    },
+    {
+      "timestamp": 1765975846730,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "We bette"
+    },
+    {
+      "timestamp": 1765975846932,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "We better"
+    },
+    {
+      "timestamp": 1765975847065,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "We better "
+    },
+    {
+      "timestamp": 1765975847265,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "We better i"
+    },
+    {
+      "timestamp": 1765975848300,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "We better in"
+    },
+    {
+      "timestamp": 1765975848652,
+      "key": "v",
+      "sentenceIndex": 5,
+      "valueAfter": "We better inv"
+    },
+    {
+      "timestamp": 1765975848801,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "We better inve"
+    },
+    {
+      "timestamp": 1765975849101,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "We better inves"
+    },
+    {
+      "timestamp": 1765975849216,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "We better invest"
+    },
+    {
+      "timestamp": 1765975849402,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "We better investi"
+    },
+    {
+      "timestamp": 1765975849587,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": "We better investig"
+    },
+    {
+      "timestamp": 1765975849804,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "We better investiga"
+    },
+    {
+      "timestamp": 1765975849898,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "We better investigat"
+    },
+    {
+      "timestamp": 1765975850072,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "We better investigate"
+    },
+    {
+      "timestamp": 1765975850250,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "We better investigate "
+    },
+    {
+      "timestamp": 1765975850385,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "We better investigate t"
+    },
+    {
+      "timestamp": 1765975850983,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "We better investigate th"
+    },
+    {
+      "timestamp": 1765975851148,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "We better investigate thi"
+    },
+    {
+      "timestamp": 1765975851282,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "We better investigate this"
+    },
+    {
+      "timestamp": 1765975852258,
+      "key": "R",
+      "sentenceIndex": 6,
+      "valueAfter": "R"
+    },
+    {
+      "timestamp": 1765975852708,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1765975852858,
+      "key": "T",
+      "sentenceIndex": 6,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765975853002,
+      "key": "h",
+      "sentenceIndex": 6,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765975853122,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765975853247,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765975853467,
+      "key": "c",
+      "sentenceIndex": 6,
+      "valueAfter": "The c"
+    },
+    {
+      "timestamp": 1765975853634,
+      "key": "h",
+      "sentenceIndex": 6,
+      "valueAfter": "The ch"
+    },
+    {
+      "timestamp": 1765975853755,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "The cha"
+    },
+    {
+      "timestamp": 1765975853870,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "The chan"
+    },
+    {
+      "timestamp": 1765975854092,
+      "key": "c",
+      "sentenceIndex": 6,
+      "valueAfter": "The chanc"
+    },
+    {
+      "timestamp": 1765975854241,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "The chance"
+    },
+    {
+      "timestamp": 1765975854390,
+      "key": "l",
+      "sentenceIndex": 6,
+      "valueAfter": "The chancel"
+    },
+    {
+      "timestamp": 1765975854578,
+      "key": "l",
+      "sentenceIndex": 6,
+      "valueAfter": "The chancell"
+    },
+    {
+      "timestamp": 1765975854757,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "The chancello"
+    },
+    {
+      "timestamp": 1765975854871,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "The chancellor"
+    },
+    {
+      "timestamp": 1765975855088,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "The chancellor "
+    },
+    {
+      "timestamp": 1765975855793,
+      "key": "w",
+      "sentenceIndex": 6,
+      "valueAfter": "The chancellor w"
+    },
+    {
+      "timestamp": 1765975856030,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "The chancellor wa"
+    },
+    {
+      "timestamp": 1765975856279,
+      "key": "s",
+      "sentenceIndex": 6,
+      "valueAfter": "The chancellor was"
+    },
+    {
+      "timestamp": 1765975856452,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "The chancellor was "
+    },
+    {
+      "timestamp": 1765975856648,
+      "key": "v",
+      "sentenceIndex": 6,
+      "valueAfter": "The chancellor was v"
+    },
+    {
+      "timestamp": 1765975856771,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "The chancellor was ve"
+    },
+    {
+      "timestamp": 1765975856995,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "The chancellor was ver"
+    },
+    {
+      "timestamp": 1765975857108,
+      "key": "y",
+      "sentenceIndex": 6,
+      "valueAfter": "The chancellor was very"
+    },
+    {
+      "timestamp": 1765975857335,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "The chancellor was very "
+    },
+    {
+      "timestamp": 1765975857566,
+      "key": "b",
+      "sentenceIndex": 6,
+      "valueAfter": "The chancellor was very b"
+    },
+    {
+      "timestamp": 1765975857816,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "The chancellor was very bo"
+    },
+    {
+      "timestamp": 1765975858005,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "The chancellor was very bor"
+    },
+    {
+      "timestamp": 1765975858181,
+      "key": "i",
+      "sentenceIndex": 6,
+      "valueAfter": "The chancellor was very bori"
+    },
+    {
+      "timestamp": 1765975858699,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "The chancellor was very borin"
+    },
+    {
+      "timestamp": 1765975858856,
+      "key": "g",
+      "sentenceIndex": 6,
+      "valueAfter": "The chancellor was very boring"
+    },
+    {
+      "timestamp": 1765975860402,
+      "key": "T",
+      "sentenceIndex": 7,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765975860603,
+      "key": "h",
+      "sentenceIndex": 7,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765975860837,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765975861060,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765975861287,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "The t"
+    },
+    {
+      "timestamp": 1765975861522,
+      "key": "r",
+      "sentenceIndex": 7,
+      "valueAfter": "The tr"
+    },
+    {
+      "timestamp": 1765975861818,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "The tre"
+    }
+  ]
+}

@@ -1,0 +1,1117 @@
+{
+  "mode": "upstairs",
+  "timestamp": "2025-12-18T09:29:25.185Z",
+  "duration": 60.001,
+  "wpm": 26,
+  "accuracy": "77.02",
+  "totalCharactersTyped": 161,
+  "correctCharacters": 124,
+  "errors": 32,
+  "sentencesCompleted": 5,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Lie detector test never works",
+      "expected": "Lie detector tests never work"
+    },
+    {
+      "typed": "User friendly interface",
+      "expected": "User friendly interface"
+    },
+    {
+      "typed": "Do not drink the water",
+      "expected": "Do not drink the water"
+    },
+    {
+      "typed": "Do you like to shop on Sunday",
+      "expected": "Do you like to shop on Sunday"
+    },
+    {
+      "typed": "This mission statement is baloney",
+      "expected": "This mission statement is baloney"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766050102447,
+      "key": "L",
+      "sentenceIndex": 0,
+      "valueAfter": "L"
+    },
+    {
+      "timestamp": 1766050102864,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Li"
+    },
+    {
+      "timestamp": 1766050103133,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie"
+    },
+    {
+      "timestamp": 1766050103324,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie "
+    },
+    {
+      "timestamp": 1766050103820,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie s"
+    },
+    {
+      "timestamp": 1766050104056,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie se"
+    },
+    {
+      "timestamp": 1766050104439,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie s"
+    },
+    {
+      "timestamp": 1766050104576,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie "
+    },
+    {
+      "timestamp": 1766050104721,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie d"
+    },
+    {
+      "timestamp": 1766050104896,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie de"
+    },
+    {
+      "timestamp": 1766050106212,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie det"
+    },
+    {
+      "timestamp": 1766050106401,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie dete"
+    },
+    {
+      "timestamp": 1766050106731,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detec"
+    },
+    {
+      "timestamp": 1766050106991,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detect"
+    },
+    {
+      "timestamp": 1766050107226,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detecte"
+    },
+    {
+      "timestamp": 1766050107425,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detecter"
+    },
+    {
+      "timestamp": 1766050107569,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie "
+    },
+    {
+      "timestamp": 1766050107581,
+      "key": "detector ",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector "
+    },
+    {
+      "timestamp": 1766050108147,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector r"
+    },
+    {
+      "timestamp": 1766050108609,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector "
+    },
+    {
+      "timestamp": 1766050108734,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector t"
+    },
+    {
+      "timestamp": 1766050109074,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector te"
+    },
+    {
+      "timestamp": 1766050109291,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector tes"
+    },
+    {
+      "timestamp": 1766050109543,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector test"
+    },
+    {
+      "timestamp": 1766050109661,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector test "
+    },
+    {
+      "timestamp": 1766050110199,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector test n"
+    },
+    {
+      "timestamp": 1766050110387,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector test ne"
+    },
+    {
+      "timestamp": 1766050110806,
+      "key": "v",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector test nev"
+    },
+    {
+      "timestamp": 1766050110923,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector test neve"
+    },
+    {
+      "timestamp": 1766050111090,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector test never"
+    },
+    {
+      "timestamp": 1766050111242,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector test never "
+    },
+    {
+      "timestamp": 1766050112086,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector test never w"
+    },
+    {
+      "timestamp": 1766050112752,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector test never wo"
+    },
+    {
+      "timestamp": 1766050112899,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector test never wor"
+    },
+    {
+      "timestamp": 1766050113153,
+      "key": "k",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector test never work"
+    },
+    {
+      "timestamp": 1766050114199,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector test never wor"
+    },
+    {
+      "timestamp": 1766050114982,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector test never wo"
+    },
+    {
+      "timestamp": 1766050115136,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector test never w"
+    },
+    {
+      "timestamp": 1766050116252,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector test never wo"
+    },
+    {
+      "timestamp": 1766050116545,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector test never wor"
+    },
+    {
+      "timestamp": 1766050116882,
+      "key": "k",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector test never work"
+    },
+    {
+      "timestamp": 1766050117004,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Lie detector test never works"
+    },
+    {
+      "timestamp": 1766050118098,
+      "key": "U",
+      "sentenceIndex": 1,
+      "valueAfter": "U"
+    },
+    {
+      "timestamp": 1766050118445,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Us"
+    },
+    {
+      "timestamp": 1766050118644,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "Usw"
+    },
+    {
+      "timestamp": 1766050119097,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Us"
+    },
+    {
+      "timestamp": 1766050119247,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Use"
+    },
+    {
+      "timestamp": 1766050119428,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "User"
+    },
+    {
+      "timestamp": 1766050119958,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "User "
+    },
+    {
+      "timestamp": 1766050120517,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "User f"
+    },
+    {
+      "timestamp": 1766050120754,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "User fr"
+    },
+    {
+      "timestamp": 1766050121003,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "User fri"
+    },
+    {
+      "timestamp": 1766050121118,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "User frie"
+    },
+    {
+      "timestamp": 1766050121255,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "User frien"
+    },
+    {
+      "timestamp": 1766050121366,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "User friend"
+    },
+    {
+      "timestamp": 1766050122197,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "User friendl"
+    },
+    {
+      "timestamp": 1766050122741,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "User friendly"
+    },
+    {
+      "timestamp": 1766050122969,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "User friendly "
+    },
+    {
+      "timestamp": 1766050123515,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "User friendly i"
+    },
+    {
+      "timestamp": 1766050123685,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "User friendly in"
+    },
+    {
+      "timestamp": 1766050124061,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "User friendly int"
+    },
+    {
+      "timestamp": 1766050124405,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "User friendly inte"
+    },
+    {
+      "timestamp": 1766050124579,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "User friendly inter"
+    },
+    {
+      "timestamp": 1766050124958,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "User friendly interf"
+    },
+    {
+      "timestamp": 1766050125236,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "User friendly interfa"
+    },
+    {
+      "timestamp": 1766050125406,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "User friendly interfac"
+    },
+    {
+      "timestamp": 1766050125527,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "User friendly interface"
+    },
+    {
+      "timestamp": 1766050125694,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766050126360,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766050127191,
+      "key": "D",
+      "sentenceIndex": 2,
+      "valueAfter": "D"
+    },
+    {
+      "timestamp": 1766050127429,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Do"
+    },
+    {
+      "timestamp": 1766050127720,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Do "
+    },
+    {
+      "timestamp": 1766050127959,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Do n"
+    },
+    {
+      "timestamp": 1766050128141,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Do no"
+    },
+    {
+      "timestamp": 1766050128296,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not"
+    },
+    {
+      "timestamp": 1766050128415,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not "
+    },
+    {
+      "timestamp": 1766050128870,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not d"
+    },
+    {
+      "timestamp": 1766050129507,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not dr"
+    },
+    {
+      "timestamp": 1766050129937,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not dri"
+    },
+    {
+      "timestamp": 1766050130121,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not drin"
+    },
+    {
+      "timestamp": 1766050130402,
+      "key": "k",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not drink"
+    },
+    {
+      "timestamp": 1766050131203,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not drink "
+    },
+    {
+      "timestamp": 1766050131719,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not drink t"
+    },
+    {
+      "timestamp": 1766050132099,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not drink th"
+    },
+    {
+      "timestamp": 1766050132405,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not drink the"
+    },
+    {
+      "timestamp": 1766050132606,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not drink the "
+    },
+    {
+      "timestamp": 1766050132953,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not drink the w"
+    },
+    {
+      "timestamp": 1766050133181,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not drink the wa"
+    },
+    {
+      "timestamp": 1766050133396,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not drink the wat"
+    },
+    {
+      "timestamp": 1766050133578,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not drink the wate"
+    },
+    {
+      "timestamp": 1766050133761,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Do not drink the water"
+    },
+    {
+      "timestamp": 1766050133900,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766050134701,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766050134923,
+      "key": "D",
+      "sentenceIndex": 3,
+      "valueAfter": "D"
+    },
+    {
+      "timestamp": 1766050135097,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Do"
+    },
+    {
+      "timestamp": 1766050135368,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Do "
+    },
+    {
+      "timestamp": 1766050136259,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": "Do u"
+    },
+    {
+      "timestamp": 1766050136530,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Do ul"
+    },
+    {
+      "timestamp": 1766050136839,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "Do u"
+    },
+    {
+      "timestamp": 1766050136989,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "Do "
+    },
+    {
+      "timestamp": 1766050137121,
+      "key": "y",
+      "sentenceIndex": 3,
+      "valueAfter": "Do y"
+    },
+    {
+      "timestamp": 1766050137209,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Do yo"
+    },
+    {
+      "timestamp": 1766050137336,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you"
+    },
+    {
+      "timestamp": 1766050137507,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you "
+    },
+    {
+      "timestamp": 1766050138087,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you l"
+    },
+    {
+      "timestamp": 1766050138285,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you li"
+    },
+    {
+      "timestamp": 1766050138429,
+      "key": "k",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you lik"
+    },
+    {
+      "timestamp": 1766050138563,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you like"
+    },
+    {
+      "timestamp": 1766050138694,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you like "
+    },
+    {
+      "timestamp": 1766050138882,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you like t"
+    },
+    {
+      "timestamp": 1766050138991,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you like to"
+    },
+    {
+      "timestamp": 1766050139179,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you like to "
+    },
+    {
+      "timestamp": 1766050139602,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you like to s"
+    },
+    {
+      "timestamp": 1766050139988,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you like to sh"
+    },
+    {
+      "timestamp": 1766050140370,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you like to sho"
+    },
+    {
+      "timestamp": 1766050140519,
+      "key": "p",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you like to shop"
+    },
+    {
+      "timestamp": 1766050140778,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you like to shop "
+    },
+    {
+      "timestamp": 1766050141293,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you like to shop o"
+    },
+    {
+      "timestamp": 1766050141486,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you like to shop on"
+    },
+    {
+      "timestamp": 1766050141674,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you like to shop on "
+    },
+    {
+      "timestamp": 1766050142724,
+      "key": "S",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you like to shop on S"
+    },
+    {
+      "timestamp": 1766050143209,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you like to shop on Su"
+    },
+    {
+      "timestamp": 1766050143376,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you like to shop on Sun"
+    },
+    {
+      "timestamp": 1766050143505,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you like to shop on Sund"
+    },
+    {
+      "timestamp": 1766050143720,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you like to shop on Sunda"
+    },
+    {
+      "timestamp": 1766050143870,
+      "key": "y",
+      "sentenceIndex": 3,
+      "valueAfter": "Do you like to shop on Sunday"
+    },
+    {
+      "timestamp": 1766050145278,
+      "key": "T",
+      "sentenceIndex": 4,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766050145526,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766050145873,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Thi"
+    },
+    {
+      "timestamp": 1766050146021,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "This"
+    },
+    {
+      "timestamp": 1766050146204,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "This "
+    },
+    {
+      "timestamp": 1766050146707,
+      "key": "m",
+      "sentenceIndex": 4,
+      "valueAfter": "This m"
+    },
+    {
+      "timestamp": 1766050146939,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "This mo"
+    },
+    {
+      "timestamp": 1766050147155,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "This mos"
+    },
+    {
+      "timestamp": 1766050147426,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "This mo"
+    },
+    {
+      "timestamp": 1766050147592,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "This m"
+    },
+    {
+      "timestamp": 1766050147900,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "This mi"
+    },
+    {
+      "timestamp": 1766050148240,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "This mis"
+    },
+    {
+      "timestamp": 1766050148432,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "This miss"
+    },
+    {
+      "timestamp": 1766050148722,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "This missi"
+    },
+    {
+      "timestamp": 1766050148818,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "This missio"
+    },
+    {
+      "timestamp": 1766050149020,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission"
+    },
+    {
+      "timestamp": 1766050149714,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "This missions"
+    },
+    {
+      "timestamp": 1766050150209,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "This missionsr"
+    },
+    {
+      "timestamp": 1766050150463,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "This missionsre"
+    },
+    {
+      "timestamp": 1766050150992,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "This missionsr"
+    },
+    {
+      "timestamp": 1766050151123,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "This missions"
+    },
+    {
+      "timestamp": 1766050151606,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "This missions "
+    },
+    {
+      "timestamp": 1766050152111,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "This missions"
+    },
+    {
+      "timestamp": 1766050152248,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission"
+    },
+    {
+      "timestamp": 1766050152465,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission "
+    },
+    {
+      "timestamp": 1766050152780,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission s"
+    },
+    {
+      "timestamp": 1766050153039,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission st"
+    },
+    {
+      "timestamp": 1766050153238,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission ste"
+    },
+    {
+      "timestamp": 1766050153999,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission st"
+    },
+    {
+      "timestamp": 1766050154115,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission sta"
+    },
+    {
+      "timestamp": 1766050154663,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission stat"
+    },
+    {
+      "timestamp": 1766050154790,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission state"
+    },
+    {
+      "timestamp": 1766050154971,
+      "key": "m",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission statem"
+    },
+    {
+      "timestamp": 1766050155166,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission stateme"
+    },
+    {
+      "timestamp": 1766050155360,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission statemen"
+    },
+    {
+      "timestamp": 1766050156088,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission statement"
+    },
+    {
+      "timestamp": 1766050156626,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission statement "
+    },
+    {
+      "timestamp": 1766050156950,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission statement i"
+    },
+    {
+      "timestamp": 1766050157102,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission statement is"
+    },
+    {
+      "timestamp": 1766050157266,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission statement is "
+    },
+    {
+      "timestamp": 1766050158088,
+      "key": "b",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission statement is b"
+    },
+    {
+      "timestamp": 1766050158268,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission statement is ba"
+    },
+    {
+      "timestamp": 1766050158832,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission statement is bal"
+    },
+    {
+      "timestamp": 1766050159005,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission statement is balo"
+    },
+    {
+      "timestamp": 1766050159160,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission statement is balon"
+    },
+    {
+      "timestamp": 1766050159323,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission statement is balone"
+    },
+    {
+      "timestamp": 1766050159527,
+      "key": "y",
+      "sentenceIndex": 4,
+      "valueAfter": "This mission statement is baloney"
+    },
+    {
+      "timestamp": 1766050160855,
+      "key": "P",
+      "sentenceIndex": 5,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1766050161078,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Pa"
+    },
+    {
+      "timestamp": 1766050161510,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Par"
+    },
+    {
+      "timestamp": 1766050161931,
+      "key": "k",
+      "sentenceIndex": 5,
+      "valueAfter": "Park"
+    },
+    {
+      "timestamp": 1766050162095,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Parki"
+    },
+    {
+      "timestamp": 1766050162247,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "Parkin"
+    },
+    {
+      "timestamp": 1766050162368,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": "Parking"
+    }
+  ]
+}

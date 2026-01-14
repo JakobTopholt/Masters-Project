@@ -1,0 +1,891 @@
+{
+  "mode": "stationary",
+  "timestamp": "2025-12-17T09:31:01.847Z",
+  "duration": 60.005,
+  "wpm": 21,
+  "accuracy": "71.01",
+  "totalCharactersTyped": 138,
+  "correctCharacters": 98,
+  "errors": 50,
+  "sentencesCompleted": 4,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Coming up with killer sound bites",
+      "expected": "Coming up with killer sound bites"
+    },
+    {
+      "typed": "An excellent way to communicate",
+      "expected": "An excellent way to communicate"
+    },
+    {
+      "typed": " Well connected with peopl",
+      "expected": "Well connected with people"
+    },
+    {
+      "typed": "The treasury department is broke",
+      "expected": "The treasury department is broke"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765963797918,
+      "key": "C",
+      "sentenceIndex": 0,
+      "valueAfter": "C"
+    },
+    {
+      "timestamp": 1765963798431,
+      "key": "Ci",
+      "sentenceIndex": 0,
+      "valueAfter": "Ci"
+    },
+    {
+      "timestamp": 1765963798677,
+      "key": "Cim",
+      "sentenceIndex": 0,
+      "valueAfter": "Cim"
+    },
+    {
+      "timestamp": 1765963799094,
+      "key": "Cimi",
+      "sentenceIndex": 0,
+      "valueAfter": "Cimi"
+    },
+    {
+      "timestamp": 1765963799428,
+      "key": "Cimin",
+      "sentenceIndex": 0,
+      "valueAfter": "Cimin"
+    },
+    {
+      "timestamp": 1765963799779,
+      "key": "Ciming",
+      "sentenceIndex": 0,
+      "valueAfter": "Ciming"
+    },
+    {
+      "timestamp": 1765963803670,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1765963803680,
+      "key": "Coming",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming"
+    },
+    {
+      "timestamp": 1765963803685,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming "
+    },
+    {
+      "timestamp": 1765963804565,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming u"
+    },
+    {
+      "timestamp": 1765963804808,
+      "key": "up",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up"
+    },
+    {
+      "timestamp": 1765963805396,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up "
+    },
+    {
+      "timestamp": 1765963805750,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up w"
+    },
+    {
+      "timestamp": 1765963805983,
+      "key": "wi",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up wi"
+    },
+    {
+      "timestamp": 1765963806243,
+      "key": "wit",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up wit"
+    },
+    {
+      "timestamp": 1765963806450,
+      "key": "with",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up with"
+    },
+    {
+      "timestamp": 1765963806918,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up with "
+    },
+    {
+      "timestamp": 1765963807164,
+      "key": "k",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up with k"
+    },
+    {
+      "timestamp": 1765963807373,
+      "key": "ki",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up with ki"
+    },
+    {
+      "timestamp": 1765963807556,
+      "key": "kil",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up with kil"
+    },
+    {
+      "timestamp": 1765963807711,
+      "key": "kill",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up with kill"
+    },
+    {
+      "timestamp": 1765963807802,
+      "key": "kille",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up with kille"
+    },
+    {
+      "timestamp": 1765963807993,
+      "key": "killer",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up with killer"
+    },
+    {
+      "timestamp": 1765963808158,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up with killer "
+    },
+    {
+      "timestamp": 1765963808503,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up with killer s"
+    },
+    {
+      "timestamp": 1765963808920,
+      "key": "so",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up with killer so"
+    },
+    {
+      "timestamp": 1765963809287,
+      "key": "sou",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up with killer sou"
+    },
+    {
+      "timestamp": 1765963809508,
+      "key": "soun",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up with killer soun"
+    },
+    {
+      "timestamp": 1765963809670,
+      "key": "sound",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up with killer sound"
+    },
+    {
+      "timestamp": 1765963809959,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up with killer sound "
+    },
+    {
+      "timestamp": 1765963810530,
+      "key": "b",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up with killer sound b"
+    },
+    {
+      "timestamp": 1765963810805,
+      "key": "bi",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up with killer sound bi"
+    },
+    {
+      "timestamp": 1765963811055,
+      "key": "bit",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up with killer sound bit"
+    },
+    {
+      "timestamp": 1765963811211,
+      "key": "bite",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up with killer sound bite"
+    },
+    {
+      "timestamp": 1765963811410,
+      "key": "bites",
+      "sentenceIndex": 0,
+      "valueAfter": "Coming up with killer sound bites"
+    },
+    {
+      "timestamp": 1765963814922,
+      "key": "A",
+      "sentenceIndex": 1,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1765963815510,
+      "key": "An",
+      "sentenceIndex": 1,
+      "valueAfter": "An"
+    },
+    {
+      "timestamp": 1765963816030,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "An "
+    },
+    {
+      "timestamp": 1765963816354,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "An e"
+    },
+    {
+      "timestamp": 1765963816704,
+      "key": "ex",
+      "sentenceIndex": 1,
+      "valueAfter": "An ex"
+    },
+    {
+      "timestamp": 1765963817522,
+      "key": "exc",
+      "sentenceIndex": 1,
+      "valueAfter": "An exc"
+    },
+    {
+      "timestamp": 1765963817738,
+      "key": "exce",
+      "sentenceIndex": 1,
+      "valueAfter": "An exce"
+    },
+    {
+      "timestamp": 1765963817951,
+      "key": "excel",
+      "sentenceIndex": 1,
+      "valueAfter": "An excel"
+    },
+    {
+      "timestamp": 1765963818088,
+      "key": "excell",
+      "sentenceIndex": 1,
+      "valueAfter": "An excell"
+    },
+    {
+      "timestamp": 1765963818338,
+      "key": "excelle",
+      "sentenceIndex": 1,
+      "valueAfter": "An excelle"
+    },
+    {
+      "timestamp": 1765963818551,
+      "key": "excellen",
+      "sentenceIndex": 1,
+      "valueAfter": "An excellen"
+    },
+    {
+      "timestamp": 1765963818770,
+      "key": "excellent",
+      "sentenceIndex": 1,
+      "valueAfter": "An excellent"
+    },
+    {
+      "timestamp": 1765963819302,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "An excellent "
+    },
+    {
+      "timestamp": 1765963819613,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "An excellent w"
+    },
+    {
+      "timestamp": 1765963819844,
+      "key": "wa",
+      "sentenceIndex": 1,
+      "valueAfter": "An excellent wa"
+    },
+    {
+      "timestamp": 1765963820040,
+      "key": "way",
+      "sentenceIndex": 1,
+      "valueAfter": "An excellent way"
+    },
+    {
+      "timestamp": 1765963820378,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "An excellent way "
+    },
+    {
+      "timestamp": 1765963820656,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "An excellent way t"
+    },
+    {
+      "timestamp": 1765963820822,
+      "key": "to",
+      "sentenceIndex": 1,
+      "valueAfter": "An excellent way to"
+    },
+    {
+      "timestamp": 1765963821213,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "An excellent way to "
+    },
+    {
+      "timestamp": 1765963821726,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "An excellent way to c"
+    },
+    {
+      "timestamp": 1765963822044,
+      "key": "co",
+      "sentenceIndex": 1,
+      "valueAfter": "An excellent way to co"
+    },
+    {
+      "timestamp": 1765963822265,
+      "key": "com",
+      "sentenceIndex": 1,
+      "valueAfter": "An excellent way to com"
+    },
+    {
+      "timestamp": 1765963822425,
+      "key": "comm",
+      "sentenceIndex": 1,
+      "valueAfter": "An excellent way to comm"
+    },
+    {
+      "timestamp": 1765963824169,
+      "key": "communicate",
+      "sentenceIndex": 1,
+      "valueAfter": "An excellent way to communicate"
+    },
+    {
+      "timestamp": 1765963824177,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1765963828533,
+      "key": "W",
+      "sentenceIndex": 2,
+      "valueAfter": " W"
+    },
+    {
+      "timestamp": 1765963828737,
+      "key": "We",
+      "sentenceIndex": 2,
+      "valueAfter": " We"
+    },
+    {
+      "timestamp": 1765963828932,
+      "key": "Wel",
+      "sentenceIndex": 2,
+      "valueAfter": " Wel"
+    },
+    {
+      "timestamp": 1765963829066,
+      "key": "Well",
+      "sentenceIndex": 2,
+      "valueAfter": " Well"
+    },
+    {
+      "timestamp": 1765963829382,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": " Well "
+    },
+    {
+      "timestamp": 1765963829959,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": " Well c"
+    },
+    {
+      "timestamp": 1765963830267,
+      "key": "co",
+      "sentenceIndex": 2,
+      "valueAfter": " Well co"
+    },
+    {
+      "timestamp": 1765963830482,
+      "key": "con",
+      "sentenceIndex": 2,
+      "valueAfter": " Well con"
+    },
+    {
+      "timestamp": 1765963830625,
+      "key": "conn",
+      "sentenceIndex": 2,
+      "valueAfter": " Well conn"
+    },
+    {
+      "timestamp": 1765963830769,
+      "key": "conne",
+      "sentenceIndex": 2,
+      "valueAfter": " Well conne"
+    },
+    {
+      "timestamp": 1765963830920,
+      "key": "connec",
+      "sentenceIndex": 2,
+      "valueAfter": " Well connec"
+    },
+    {
+      "timestamp": 1765963831176,
+      "key": "connect",
+      "sentenceIndex": 2,
+      "valueAfter": " Well connect"
+    },
+    {
+      "timestamp": 1765963831327,
+      "key": "connecte",
+      "sentenceIndex": 2,
+      "valueAfter": " Well connecte"
+    },
+    {
+      "timestamp": 1765963831568,
+      "key": "connected",
+      "sentenceIndex": 2,
+      "valueAfter": " Well connected"
+    },
+    {
+      "timestamp": 1765963831917,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": " Well connected "
+    },
+    {
+      "timestamp": 1765963832169,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": " Well connected w"
+    },
+    {
+      "timestamp": 1765963832348,
+      "key": "wi",
+      "sentenceIndex": 2,
+      "valueAfter": " Well connected wi"
+    },
+    {
+      "timestamp": 1765963832643,
+      "key": "wit",
+      "sentenceIndex": 2,
+      "valueAfter": " Well connected wit"
+    },
+    {
+      "timestamp": 1765963832861,
+      "key": "with",
+      "sentenceIndex": 2,
+      "valueAfter": " Well connected with"
+    },
+    {
+      "timestamp": 1765963833126,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": " Well connected with "
+    },
+    {
+      "timestamp": 1765963833505,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": " Well connected with p"
+    },
+    {
+      "timestamp": 1765963833620,
+      "key": "pe",
+      "sentenceIndex": 2,
+      "valueAfter": " Well connected with pe"
+    },
+    {
+      "timestamp": 1765963833739,
+      "key": "peo",
+      "sentenceIndex": 2,
+      "valueAfter": " Well connected with peo"
+    },
+    {
+      "timestamp": 1765963833947,
+      "key": "peop",
+      "sentenceIndex": 2,
+      "valueAfter": " Well connected with peop"
+    },
+    {
+      "timestamp": 1765963834096,
+      "key": "peopl",
+      "sentenceIndex": 2,
+      "valueAfter": " Well connected with peopl"
+    },
+    {
+      "timestamp": 1765963834262,
+      "key": "E",
+      "sentenceIndex": 3,
+      "valueAfter": "E"
+    },
+    {
+      "timestamp": 1765963836232,
+      "key": "ET",
+      "sentenceIndex": 3,
+      "valueAfter": "ET"
+    },
+    {
+      "timestamp": 1765963836432,
+      "key": "ETh",
+      "sentenceIndex": 3,
+      "valueAfter": "ETh"
+    },
+    {
+      "timestamp": 1765963836558,
+      "key": "EThe",
+      "sentenceIndex": 3,
+      "valueAfter": "EThe"
+    },
+    {
+      "timestamp": 1765963838020,
+      "key": "ETh",
+      "sentenceIndex": 3,
+      "valueAfter": "ETh"
+    },
+    {
+      "timestamp": 1765963838438,
+      "key": "ET",
+      "sentenceIndex": 3,
+      "valueAfter": "ET"
+    },
+    {
+      "timestamp": 1765963838486,
+      "key": "E",
+      "sentenceIndex": 3,
+      "valueAfter": "E"
+    },
+    {
+      "timestamp": 1765963838545,
+      "key": "insertCompositionText",
+      "sentenceIndex": 3,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1765963840285,
+      "key": "T",
+      "sentenceIndex": 3,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765963840479,
+      "key": "Th",
+      "sentenceIndex": 3,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765963840570,
+      "key": "The",
+      "sentenceIndex": 3,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765963841360,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765963841815,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "The t"
+    },
+    {
+      "timestamp": 1765963842071,
+      "key": "tr",
+      "sentenceIndex": 3,
+      "valueAfter": "The tr"
+    },
+    {
+      "timestamp": 1765963842228,
+      "key": "tre",
+      "sentenceIndex": 3,
+      "valueAfter": "The tre"
+    },
+    {
+      "timestamp": 1765963842647,
+      "key": "trea",
+      "sentenceIndex": 3,
+      "valueAfter": "The trea"
+    },
+    {
+      "timestamp": 1765963843515,
+      "key": "treas",
+      "sentenceIndex": 3,
+      "valueAfter": "The treas"
+    },
+    {
+      "timestamp": 1765963843717,
+      "key": "treasu",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasu"
+    },
+    {
+      "timestamp": 1765963843880,
+      "key": "treasur",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasur"
+    },
+    {
+      "timestamp": 1765963844224,
+      "key": "treasury",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasury"
+    },
+    {
+      "timestamp": 1765963844846,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasury "
+    },
+    {
+      "timestamp": 1765963845123,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasury d"
+    },
+    {
+      "timestamp": 1765963845319,
+      "key": "de",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasury de"
+    },
+    {
+      "timestamp": 1765963845565,
+      "key": "dep",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasury dep"
+    },
+    {
+      "timestamp": 1765963845730,
+      "key": "depa",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasury depa"
+    },
+    {
+      "timestamp": 1765963846008,
+      "key": "depar",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasury depar"
+    },
+    {
+      "timestamp": 1765963846180,
+      "key": "depart",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasury depart"
+    },
+    {
+      "timestamp": 1765963846929,
+      "key": "departm",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasury departm"
+    },
+    {
+      "timestamp": 1765963847043,
+      "key": "departme",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasury departme"
+    },
+    {
+      "timestamp": 1765963847110,
+      "key": "departmen",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasury departmen"
+    },
+    {
+      "timestamp": 1765963847434,
+      "key": "department",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasury department"
+    },
+    {
+      "timestamp": 1765963847663,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasury department "
+    },
+    {
+      "timestamp": 1765963847909,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasury department i"
+    },
+    {
+      "timestamp": 1765963848019,
+      "key": "is",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasury department is"
+    },
+    {
+      "timestamp": 1765963848523,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasury department is "
+    },
+    {
+      "timestamp": 1765963848777,
+      "key": "b",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasury department is b"
+    },
+    {
+      "timestamp": 1765963848968,
+      "key": "br",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasury department is br"
+    },
+    {
+      "timestamp": 1765963849112,
+      "key": "bro",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasury department is bro"
+    },
+    {
+      "timestamp": 1765963849298,
+      "key": "brok",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasury department is brok"
+    },
+    {
+      "timestamp": 1765963849351,
+      "key": "broke",
+      "sentenceIndex": 3,
+      "valueAfter": "The treasury department is broke"
+    },
+    {
+      "timestamp": 1765963850843,
+      "key": "I",
+      "sentenceIndex": 4,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1765963851035,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "I "
+    },
+    {
+      "timestamp": 1765963851191,
+      "key": "J",
+      "sentenceIndex": 4,
+      "valueAfter": "I J"
+    },
+    {
+      "timestamp": 1765963851368,
+      "key": "JU",
+      "sentenceIndex": 4,
+      "valueAfter": "I JU"
+    },
+    {
+      "timestamp": 1765963851473,
+      "key": "JUS",
+      "sentenceIndex": 4,
+      "valueAfter": "I JUS"
+    },
+    {
+      "timestamp": 1765963851596,
+      "key": "JUST",
+      "sentenceIndex": 4,
+      "valueAfter": "I JUST"
+    },
+    {
+      "timestamp": 1765963853817,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "I JUST "
+    },
+    {
+      "timestamp": 1765963854390,
+      "key": "C",
+      "sentenceIndex": 4,
+      "valueAfter": "I JUST C"
+    },
+    {
+      "timestamp": 1765963854529,
+      "key": "CA",
+      "sentenceIndex": 4,
+      "valueAfter": "I JUST CA"
+    },
+    {
+      "timestamp": 1765963854649,
+      "key": "CAN",
+      "sentenceIndex": 4,
+      "valueAfter": "I JUST CAN"
+    },
+    {
+      "timestamp": 1765963854784,
+      "key": "CANN",
+      "sentenceIndex": 4,
+      "valueAfter": "I JUST CANN"
+    },
+    {
+      "timestamp": 1765963855024,
+      "key": "CANNO",
+      "sentenceIndex": 4,
+      "valueAfter": "I JUST CANNO"
+    },
+    {
+      "timestamp": 1765963855234,
+      "key": "CANNOT",
+      "sentenceIndex": 4,
+      "valueAfter": "I JUST CANNOT"
+    },
+    {
+      "timestamp": 1765963855590,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "I JUST CANNOT "
+    },
+    {
+      "timestamp": 1765963856220,
+      "key": "F",
+      "sentenceIndex": 4,
+      "valueAfter": "I JUST CANNOT F"
+    },
+    {
+      "timestamp": 1765963856997,
+      "key": "FI",
+      "sentenceIndex": 4,
+      "valueAfter": "I JUST CANNOT FI"
+    },
+    {
+      "timestamp": 1765963857531,
+      "key": "FIG",
+      "sentenceIndex": 4,
+      "valueAfter": "I JUST CANNOT FIG"
+    }
+  ]
+}

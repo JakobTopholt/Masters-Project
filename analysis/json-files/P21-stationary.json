@@ -1,0 +1,1079 @@
+{
+  "mode": "stationary",
+  "timestamp": "2025-12-19T11:29:23.348Z",
+  "duration": 60.022,
+  "wpm": 25,
+  "accuracy": "79.11",
+  "totalCharactersTyped": 158,
+  "correctCharacters": 125,
+  "errors": 59,
+  "sentencesCompleted": 6,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "My fingers are very cold",
+      "expected": "My fingers are very cold"
+    },
+    {
+      "typed": "That is very unvomfortav",
+      "expected": "That is very unfortunate"
+    },
+    {
+      "typed": "Spill ciffer on the. Arpet",
+      "expected": "Spill coffee on the carpet"
+    },
+    {
+      "typed": "This is too much to handle",
+      "expected": "This is too much to handle"
+    },
+    {
+      "typed": "No kissing in the libarya",
+      "expected": "No kissing in the library"
+    },
+    {
+      "typed": "Er losser your borthday",
+      "expected": "We missed your birthday"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766143701865,
+      "key": "M",
+      "sentenceIndex": 0,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1766143702233,
+      "key": "y",
+      "sentenceIndex": 0,
+      "valueAfter": "My"
+    },
+    {
+      "timestamp": 1766143702569,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "My "
+    },
+    {
+      "timestamp": 1766143703116,
+      "key": "f",
+      "sentenceIndex": 0,
+      "valueAfter": "My f"
+    },
+    {
+      "timestamp": 1766143703298,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "My fi"
+    },
+    {
+      "timestamp": 1766143703515,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "My fin"
+    },
+    {
+      "timestamp": 1766143703766,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "My fing"
+    },
+    {
+      "timestamp": 1766143704016,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "My finge"
+    },
+    {
+      "timestamp": 1766143704200,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "My finger"
+    },
+    {
+      "timestamp": 1766143704549,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers"
+    },
+    {
+      "timestamp": 1766143704860,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers "
+    },
+    {
+      "timestamp": 1766143705342,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers a"
+    },
+    {
+      "timestamp": 1766143705743,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers ar"
+    },
+    {
+      "timestamp": 1766143705928,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are"
+    },
+    {
+      "timestamp": 1766143706079,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are "
+    },
+    {
+      "timestamp": 1766143706344,
+      "key": "v",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are v"
+    },
+    {
+      "timestamp": 1766143706493,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are ve"
+    },
+    {
+      "timestamp": 1766143706710,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are ver"
+    },
+    {
+      "timestamp": 1766143706978,
+      "key": "y",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are very"
+    },
+    {
+      "timestamp": 1766143707265,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are very "
+    },
+    {
+      "timestamp": 1766143707460,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are very c"
+    },
+    {
+      "timestamp": 1766143707811,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are very co"
+    },
+    {
+      "timestamp": 1766143708060,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are very col"
+    },
+    {
+      "timestamp": 1766143708261,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "My fingers are very cold"
+    },
+    {
+      "timestamp": 1766143708444,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766143709110,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766143710366,
+      "key": "T",
+      "sentenceIndex": 1,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766143710499,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766143710883,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Tha"
+    },
+    {
+      "timestamp": 1766143711049,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "That"
+    },
+    {
+      "timestamp": 1766143711321,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "That "
+    },
+    {
+      "timestamp": 1766143711516,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "That i"
+    },
+    {
+      "timestamp": 1766143711666,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "That is"
+    },
+    {
+      "timestamp": 1766143711840,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "That is "
+    },
+    {
+      "timestamp": 1766143712316,
+      "key": "v",
+      "sentenceIndex": 1,
+      "valueAfter": "That is v"
+    },
+    {
+      "timestamp": 1766143712532,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "That is ve"
+    },
+    {
+      "timestamp": 1766143712751,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "That is ver"
+    },
+    {
+      "timestamp": 1766143712864,
+      "key": "her",
+      "sentenceIndex": 1,
+      "valueAfter": "That is her"
+    },
+    {
+      "timestamp": 1766143712874,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "That is her "
+    },
+    {
+      "timestamp": 1766143713698,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "That is her"
+    },
+    {
+      "timestamp": 1766143713880,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "That is he"
+    },
+    {
+      "timestamp": 1766143714047,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "That is h"
+    },
+    {
+      "timestamp": 1766143714231,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "That is "
+    },
+    {
+      "timestamp": 1766143714983,
+      "key": "v",
+      "sentenceIndex": 1,
+      "valueAfter": "That is v"
+    },
+    {
+      "timestamp": 1766143715199,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "That is ve"
+    },
+    {
+      "timestamp": 1766143715433,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "That is ver"
+    },
+    {
+      "timestamp": 1766143715668,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "That is very"
+    },
+    {
+      "timestamp": 1766143715944,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "That is very "
+    },
+    {
+      "timestamp": 1766143716185,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "That is very u"
+    },
+    {
+      "timestamp": 1766143716450,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "That is very un"
+    },
+    {
+      "timestamp": 1766143717083,
+      "key": "v",
+      "sentenceIndex": 1,
+      "valueAfter": "That is very unv"
+    },
+    {
+      "timestamp": 1766143717233,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "That is very unvo"
+    },
+    {
+      "timestamp": 1766143717484,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": "That is very unvom"
+    },
+    {
+      "timestamp": 1766143717700,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "That is very unvomf"
+    },
+    {
+      "timestamp": 1766143718050,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "That is very unvomfo"
+    },
+    {
+      "timestamp": 1766143718305,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "That is very unvomfor"
+    },
+    {
+      "timestamp": 1766143718551,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "That is very unvomfort"
+    },
+    {
+      "timestamp": 1766143718815,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "That is very unvomforta"
+    },
+    {
+      "timestamp": 1766143719022,
+      "key": "v",
+      "sentenceIndex": 1,
+      "valueAfter": "That is very unvomfortav"
+    },
+    {
+      "timestamp": 1766143719336,
+      "key": "L",
+      "sentenceIndex": 2,
+      "valueAfter": "L"
+    },
+    {
+      "timestamp": 1766143719584,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Le"
+    },
+    {
+      "timestamp": 1766143719718,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Le "
+    },
+    {
+      "timestamp": 1766143720149,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "Le"
+    },
+    {
+      "timestamp": 1766143720330,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "L"
+    },
+    {
+      "timestamp": 1766143720532,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766143721383,
+      "key": "S",
+      "sentenceIndex": 2,
+      "valueAfter": "S"
+    },
+    {
+      "timestamp": 1766143721617,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": "Sp"
+    },
+    {
+      "timestamp": 1766143721893,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Spi"
+    },
+    {
+      "timestamp": 1766143722185,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Spil"
+    },
+    {
+      "timestamp": 1766143722619,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill"
+    },
+    {
+      "timestamp": 1766143722954,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill "
+    },
+    {
+      "timestamp": 1766143724084,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill c"
+    },
+    {
+      "timestamp": 1766143724399,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill co"
+    },
+    {
+      "timestamp": 1766143724751,
+      "key": "g",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill cog"
+    },
+    {
+      "timestamp": 1766143725716,
+      "key": "f",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill cogf"
+    },
+    {
+      "timestamp": 1766143726237,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill cogfe"
+    },
+    {
+      "timestamp": 1766143726433,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill cogfee"
+    },
+    {
+      "timestamp": 1766143726630,
+      "key": "ciffer",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill ciffer"
+    },
+    {
+      "timestamp": 1766143726645,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill ciffer "
+    },
+    {
+      "timestamp": 1766143726920,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill ciffer o"
+    },
+    {
+      "timestamp": 1766143727204,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill ciffer on"
+    },
+    {
+      "timestamp": 1766143727420,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill ciffer on "
+    },
+    {
+      "timestamp": 1766143727817,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill ciffer on t"
+    },
+    {
+      "timestamp": 1766143727967,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill ciffer on th"
+    },
+    {
+      "timestamp": 1766143728167,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill ciffer on the"
+    },
+    {
+      "timestamp": 1766143728308,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill ciffer on the "
+    },
+    {
+      "timestamp": 1766143728598,
+      "key": ".",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill ciffer on the."
+    },
+    {
+      "timestamp": 1766143728611,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill ciffer on the. "
+    },
+    {
+      "timestamp": 1766143728710,
+      "key": "A",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill ciffer on the. A"
+    },
+    {
+      "timestamp": 1766143728968,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill ciffer on the. Ar"
+    },
+    {
+      "timestamp": 1766143729467,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill ciffer on the. Arp"
+    },
+    {
+      "timestamp": 1766143729720,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill ciffer on the. Arpe"
+    },
+    {
+      "timestamp": 1766143729952,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Spill ciffer on the. Arpet"
+    },
+    {
+      "timestamp": 1766143732000,
+      "key": "T",
+      "sentenceIndex": 3,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766143732132,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766143732354,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Thi"
+    },
+    {
+      "timestamp": 1766143732533,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "This"
+    },
+    {
+      "timestamp": 1766143732703,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "This "
+    },
+    {
+      "timestamp": 1766143732918,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "This i"
+    },
+    {
+      "timestamp": 1766143733050,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "This is"
+    },
+    {
+      "timestamp": 1766143733242,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "This is "
+    },
+    {
+      "timestamp": 1766143733691,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "This is t"
+    },
+    {
+      "timestamp": 1766143733967,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "This is to"
+    },
+    {
+      "timestamp": 1766143734201,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "This is too"
+    },
+    {
+      "timestamp": 1766143734692,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "This is too "
+    },
+    {
+      "timestamp": 1766143734901,
+      "key": "m",
+      "sentenceIndex": 3,
+      "valueAfter": "This is too m"
+    },
+    {
+      "timestamp": 1766143735153,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": "This is too mu"
+    },
+    {
+      "timestamp": 1766143735418,
+      "key": "c",
+      "sentenceIndex": 3,
+      "valueAfter": "This is too muc"
+    },
+    {
+      "timestamp": 1766143735668,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "This is too much"
+    },
+    {
+      "timestamp": 1766143735941,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "This is too much "
+    },
+    {
+      "timestamp": 1766143736184,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "This is too much t"
+    },
+    {
+      "timestamp": 1766143736335,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "This is too much to"
+    },
+    {
+      "timestamp": 1766143736575,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "This is too much to "
+    },
+    {
+      "timestamp": 1766143736735,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "This is too much to h"
+    },
+    {
+      "timestamp": 1766143736887,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "This is too much to ha"
+    },
+    {
+      "timestamp": 1766143737000,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "This is too much to han"
+    },
+    {
+      "timestamp": 1766143737168,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "This is too much to hand"
+    },
+    {
+      "timestamp": 1766143737284,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "This is too much to handl"
+    },
+    {
+      "timestamp": 1766143737404,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "This is too much to handle"
+    },
+    {
+      "timestamp": 1766143737551,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766143738299,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766143739968,
+      "key": "N",
+      "sentenceIndex": 4,
+      "valueAfter": "N"
+    },
+    {
+      "timestamp": 1766143740218,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "No"
+    },
+    {
+      "timestamp": 1766143740538,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "No "
+    },
+    {
+      "timestamp": 1766143740734,
+      "key": "k",
+      "sentenceIndex": 4,
+      "valueAfter": "No k"
+    },
+    {
+      "timestamp": 1766143740900,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "No ki"
+    },
+    {
+      "timestamp": 1766143741118,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "No kis"
+    },
+    {
+      "timestamp": 1766143741217,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "No kiss"
+    },
+    {
+      "timestamp": 1766143741301,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "No kissi"
+    },
+    {
+      "timestamp": 1766143741605,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "No kissin"
+    },
+    {
+      "timestamp": 1766143741768,
+      "key": "g",
+      "sentenceIndex": 4,
+      "valueAfter": "No kissing"
+    },
+    {
+      "timestamp": 1766143741912,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "No kissing "
+    },
+    {
+      "timestamp": 1766143742983,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "No kissing i"
+    },
+    {
+      "timestamp": 1766143743235,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "No kissing in"
+    },
+    {
+      "timestamp": 1766143744359,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "No kissing in "
+    },
+    {
+      "timestamp": 1766143744718,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "No kissing in t"
+    },
+    {
+      "timestamp": 1766143745268,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "No kissing in th"
+    },
+    {
+      "timestamp": 1766143745452,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "No kissing in the"
+    },
+    {
+      "timestamp": 1766143745641,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "No kissing in the "
+    },
+    {
+      "timestamp": 1766143746467,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "No kissing in the l"
+    },
+    {
+      "timestamp": 1766143746668,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "No kissing in the li"
+    },
+    {
+      "timestamp": 1766143747086,
+      "key": "b",
+      "sentenceIndex": 4,
+      "valueAfter": "No kissing in the lib"
+    },
+    {
+      "timestamp": 1766143747318,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "No kissing in the liba"
+    },
+    {
+      "timestamp": 1766143747604,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "No kissing in the libar"
+    },
+    {
+      "timestamp": 1766143747788,
+      "key": "y",
+      "sentenceIndex": 4,
+      "valueAfter": "No kissing in the libary"
+    },
+    {
+      "timestamp": 1766143750203,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "No kissing in the libarya"
+    },
+    {
+      "timestamp": 1766143751554,
+      "key": "W",
+      "sentenceIndex": 5,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1766143751752,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "We"
+    },
+    {
+      "timestamp": 1766143751931,
+      "key": "Er",
+      "sentenceIndex": 5,
+      "valueAfter": "Er"
+    },
+    {
+      "timestamp": 1766143751942,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Er "
+    },
+    {
+      "timestamp": 1766143752302,
+      "key": "k",
+      "sentenceIndex": 5,
+      "valueAfter": "Er k"
+    },
+    {
+      "timestamp": 1766143752518,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "Er ko"
+    },
+    {
+      "timestamp": 1766143752702,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Er kos"
+    },
+    {
+      "timestamp": 1766143752885,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Er koss"
+    },
+    {
+      "timestamp": 1766143753087,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Er kosse"
+    },
+    {
+      "timestamp": 1766143753287,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Er kosser"
+    },
+    {
+      "timestamp": 1766143753965,
+      "key": "losser",
+      "sentenceIndex": 5,
+      "valueAfter": "Er losser"
+    },
+    {
+      "timestamp": 1766143753978,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Er losser "
+    },
+    {
+      "timestamp": 1766143755871,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": "Er losser y"
+    },
+    {
+      "timestamp": 1766143756069,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "Er losser yo"
+    },
+    {
+      "timestamp": 1766143758520,
+      "key": "u",
+      "sentenceIndex": 5,
+      "valueAfter": "Er losser you"
+    },
+    {
+      "timestamp": 1766143758872,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Er losser your"
+    },
+    {
+      "timestamp": 1766143759006,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Er losser your "
+    },
+    {
+      "timestamp": 1766143759536,
+      "key": "b",
+      "sentenceIndex": 5,
+      "valueAfter": "Er losser your b"
+    },
+    {
+      "timestamp": 1766143759771,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "Er losser your bo"
+    },
+    {
+      "timestamp": 1766143760303,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "Er losser your bot"
+    },
+    {
+      "timestamp": 1766143760756,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "Er losser your bo"
+    },
+    {
+      "timestamp": 1766143760854,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Er losser your bor"
+    },
+    {
+      "timestamp": 1766143761037,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "Er losser your bort"
+    },
+    {
+      "timestamp": 1766143761188,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "Er losser your borth"
+    },
+    {
+      "timestamp": 1766143761536,
+      "key": "d",
+      "sentenceIndex": 5,
+      "valueAfter": "Er losser your borthd"
+    },
+    {
+      "timestamp": 1766143761740,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Er losser your borthda"
+    },
+    {
+      "timestamp": 1766143761837,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": "Er losser your borthday"
+    }
+  ]
+}

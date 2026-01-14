@@ -1,0 +1,1613 @@
+{
+  "mode": "upstairs",
+  "timestamp": "2025-12-18T11:59:59.601Z",
+  "duration": 60.069,
+  "wpm": 47,
+  "accuracy": "89.92",
+  "totalCharactersTyped": 258,
+  "correctCharacters": 232,
+  "errors": 91,
+  "sentencesCompleted": 9,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "The stock exhange dipped ",
+      "expected": "The stock exchange dipped"
+    },
+    {
+      "typed": "The dog will bite you",
+      "expected": "The dog will bite you"
+    },
+    {
+      "typed": "This person is a disaster",
+      "expected": "This person is a disaster"
+    },
+    {
+      "typed": "Elections bring out thebest ",
+      "expected": "Elections bring out the best"
+    },
+    {
+      "typed": "Pumping helps if the roads are slippery",
+      "expected": "Pumping helps if the roads are slippery"
+    },
+    {
+      "typed": "Yoir repsentation was inspiring",
+      "expected": "Your presentation was inspiring"
+    },
+    {
+      "typed": "Bring the offenders to justice",
+      "expected": "Bring the offenders to justice"
+    },
+    {
+      "typed": "I spilled codfee on the carpet",
+      "expected": "I spilled coffee on the carpet"
+    },
+    {
+      "typed": "Do uou prefer a windoe seat",
+      "expected": "Do you prefer a window seat"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766059134696,
+      "key": "T",
+      "sentenceIndex": 0,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766059134869,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766059134969,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766059135139,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766059135217,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "The s"
+    },
+    {
+      "timestamp": 1766059135426,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "The st"
+    },
+    {
+      "timestamp": 1766059135534,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "The sto"
+    },
+    {
+      "timestamp": 1766059135675,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "The stoc"
+    },
+    {
+      "timestamp": 1766059135805,
+      "key": "k",
+      "sentenceIndex": 0,
+      "valueAfter": "The stock"
+    },
+    {
+      "timestamp": 1766059136174,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The stock "
+    },
+    {
+      "timestamp": 1766059136542,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The stock e"
+    },
+    {
+      "timestamp": 1766059136829,
+      "key": "x",
+      "sentenceIndex": 0,
+      "valueAfter": "The stock ex"
+    },
+    {
+      "timestamp": 1766059137460,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "The stock exh"
+    },
+    {
+      "timestamp": 1766059137907,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "The stock exha"
+    },
+    {
+      "timestamp": 1766059137985,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "The stock exhan"
+    },
+    {
+      "timestamp": 1766059138143,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "The stock exhang"
+    },
+    {
+      "timestamp": 1766059138313,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The stock exhange"
+    },
+    {
+      "timestamp": 1766059138391,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The stock exhange "
+    },
+    {
+      "timestamp": 1766059138676,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "The stock exhange d"
+    },
+    {
+      "timestamp": 1766059138769,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "The stock exhange di"
+    },
+    {
+      "timestamp": 1766059138959,
+      "key": "p",
+      "sentenceIndex": 0,
+      "valueAfter": "The stock exhange dip"
+    },
+    {
+      "timestamp": 1766059139107,
+      "key": "p",
+      "sentenceIndex": 0,
+      "valueAfter": "The stock exhange dipp"
+    },
+    {
+      "timestamp": 1766059139170,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The stock exhange dippe"
+    },
+    {
+      "timestamp": 1766059139375,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "The stock exhange dipped"
+    },
+    {
+      "timestamp": 1766059139571,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The stock exhange dipped "
+    },
+    {
+      "timestamp": 1766059140248,
+      "key": "T",
+      "sentenceIndex": 1,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766059140400,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766059140501,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766059140625,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766059140721,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "The d"
+    },
+    {
+      "timestamp": 1766059140815,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "The do"
+    },
+    {
+      "timestamp": 1766059140901,
+      "key": "g",
+      "sentenceIndex": 1,
+      "valueAfter": "The dog"
+    },
+    {
+      "timestamp": 1766059141015,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The dog "
+    },
+    {
+      "timestamp": 1766059141151,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "The dog w"
+    },
+    {
+      "timestamp": 1766059141227,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "The dog wi"
+    },
+    {
+      "timestamp": 1766059141391,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "The dog wil"
+    },
+    {
+      "timestamp": 1766059141523,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "The dog will"
+    },
+    {
+      "timestamp": 1766059141735,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The dog will "
+    },
+    {
+      "timestamp": 1766059141945,
+      "key": "b",
+      "sentenceIndex": 1,
+      "valueAfter": "The dog will b"
+    },
+    {
+      "timestamp": 1766059142142,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "The dog will bi"
+    },
+    {
+      "timestamp": 1766059142311,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "The dog will bit"
+    },
+    {
+      "timestamp": 1766059142493,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The dog will bite"
+    },
+    {
+      "timestamp": 1766059142578,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The dog will bite "
+    },
+    {
+      "timestamp": 1766059142773,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "The dog will bite y"
+    },
+    {
+      "timestamp": 1766059142959,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "The dog will bite yo"
+    },
+    {
+      "timestamp": 1766059143127,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "The dog will bite you"
+    },
+    {
+      "timestamp": 1766059143560,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766059144085,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766059144274,
+      "key": "T",
+      "sentenceIndex": 2,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766059144448,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766059144606,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Thi"
+    },
+    {
+      "timestamp": 1766059144684,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "This"
+    },
+    {
+      "timestamp": 1766059144823,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "This "
+    },
+    {
+      "timestamp": 1766059145058,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": "This p"
+    },
+    {
+      "timestamp": 1766059145134,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "This pe"
+    },
+    {
+      "timestamp": 1766059145292,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "This per"
+    },
+    {
+      "timestamp": 1766059145509,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "This pers"
+    },
+    {
+      "timestamp": 1766059145604,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "This perso"
+    },
+    {
+      "timestamp": 1766059145789,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "This person"
+    },
+    {
+      "timestamp": 1766059146102,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "This person "
+    },
+    {
+      "timestamp": 1766059146361,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "This person i"
+    },
+    {
+      "timestamp": 1766059146485,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "This person is"
+    },
+    {
+      "timestamp": 1766059146573,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "This person is "
+    },
+    {
+      "timestamp": 1766059146755,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "This person is a"
+    },
+    {
+      "timestamp": 1766059146853,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "This person is a "
+    },
+    {
+      "timestamp": 1766059147027,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "This person is a d"
+    },
+    {
+      "timestamp": 1766059147157,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "This person is a di"
+    },
+    {
+      "timestamp": 1766059147250,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "This person is a dis"
+    },
+    {
+      "timestamp": 1766059147495,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "This person is a disa"
+    },
+    {
+      "timestamp": 1766059147696,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "This person is a disas"
+    },
+    {
+      "timestamp": 1766059147898,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "This person is a disast"
+    },
+    {
+      "timestamp": 1766059148077,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "This person is a disaste"
+    },
+    {
+      "timestamp": 1766059148224,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "This person is a disaster"
+    },
+    {
+      "timestamp": 1766059149178,
+      "key": "E",
+      "sentenceIndex": 3,
+      "valueAfter": "E"
+    },
+    {
+      "timestamp": 1766059149389,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "El"
+    },
+    {
+      "timestamp": 1766059149507,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Ele"
+    },
+    {
+      "timestamp": 1766059149843,
+      "key": "c",
+      "sentenceIndex": 3,
+      "valueAfter": "Elec"
+    },
+    {
+      "timestamp": 1766059150577,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Elect"
+    },
+    {
+      "timestamp": 1766059150778,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Electi"
+    },
+    {
+      "timestamp": 1766059150960,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Electio"
+    },
+    {
+      "timestamp": 1766059151157,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Election"
+    },
+    {
+      "timestamp": 1766059151644,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Elections"
+    },
+    {
+      "timestamp": 1766059152417,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Elections "
+    },
+    {
+      "timestamp": 1766059152628,
+      "key": "b",
+      "sentenceIndex": 3,
+      "valueAfter": "Elections b"
+    },
+    {
+      "timestamp": 1766059152751,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Elections br"
+    },
+    {
+      "timestamp": 1766059152928,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Elections bri"
+    },
+    {
+      "timestamp": 1766059153093,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Elections brin"
+    },
+    {
+      "timestamp": 1766059153183,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": "Elections bring"
+    },
+    {
+      "timestamp": 1766059153364,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Elections bring "
+    },
+    {
+      "timestamp": 1766059153576,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Elections bring o"
+    },
+    {
+      "timestamp": 1766059153776,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": "Elections bring ou"
+    },
+    {
+      "timestamp": 1766059153965,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Elections bring out"
+    },
+    {
+      "timestamp": 1766059154203,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Elections bring out "
+    },
+    {
+      "timestamp": 1766059154527,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Elections bring out t"
+    },
+    {
+      "timestamp": 1766059154741,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Elections bring out th"
+    },
+    {
+      "timestamp": 1766059155258,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Elections bring out the"
+    },
+    {
+      "timestamp": 1766059156042,
+      "key": "b",
+      "sentenceIndex": 3,
+      "valueAfter": "Elections bring out theb"
+    },
+    {
+      "timestamp": 1766059156194,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Elections bring out thebe"
+    },
+    {
+      "timestamp": 1766059156444,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Elections bring out thebes"
+    },
+    {
+      "timestamp": 1766059156883,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Elections bring out thebest"
+    },
+    {
+      "timestamp": 1766059158152,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Elections bring out thebest "
+    },
+    {
+      "timestamp": 1766059159327,
+      "key": "P",
+      "sentenceIndex": 4,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1766059159560,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "Pu"
+    },
+    {
+      "timestamp": 1766059159827,
+      "key": "m",
+      "sentenceIndex": 4,
+      "valueAfter": "Pum"
+    },
+    {
+      "timestamp": 1766059160131,
+      "key": "p",
+      "sentenceIndex": 4,
+      "valueAfter": "Pump"
+    },
+    {
+      "timestamp": 1766059160314,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumpi"
+    },
+    {
+      "timestamp": 1766059160493,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumpin"
+    },
+    {
+      "timestamp": 1766059160754,
+      "key": "g",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping"
+    },
+    {
+      "timestamp": 1766059160887,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping "
+    },
+    {
+      "timestamp": 1766059161395,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping h"
+    },
+    {
+      "timestamp": 1766059161541,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping he"
+    },
+    {
+      "timestamp": 1766059161640,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping hel"
+    },
+    {
+      "timestamp": 1766059161862,
+      "key": "p",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping help"
+    },
+    {
+      "timestamp": 1766059162012,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps"
+    },
+    {
+      "timestamp": 1766059162372,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps "
+    },
+    {
+      "timestamp": 1766059162611,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps i"
+    },
+    {
+      "timestamp": 1766059162846,
+      "key": "f",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if"
+    },
+    {
+      "timestamp": 1766059162931,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if "
+    },
+    {
+      "timestamp": 1766059163214,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if t"
+    },
+    {
+      "timestamp": 1766059163393,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if th"
+    },
+    {
+      "timestamp": 1766059163662,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if the"
+    },
+    {
+      "timestamp": 1766059163824,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if the "
+    },
+    {
+      "timestamp": 1766059163935,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if the r"
+    },
+    {
+      "timestamp": 1766059164075,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if the ro"
+    },
+    {
+      "timestamp": 1766059164201,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if the roa"
+    },
+    {
+      "timestamp": 1766059164411,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if the road"
+    },
+    {
+      "timestamp": 1766059164613,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if the roads"
+    },
+    {
+      "timestamp": 1766059165148,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if the roads "
+    },
+    {
+      "timestamp": 1766059165497,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if the roads a"
+    },
+    {
+      "timestamp": 1766059165709,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if the roads ar"
+    },
+    {
+      "timestamp": 1766059165910,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if the roads are"
+    },
+    {
+      "timestamp": 1766059166876,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if the roads are "
+    },
+    {
+      "timestamp": 1766059166989,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if the roads are s"
+    },
+    {
+      "timestamp": 1766059167161,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if the roads are sl"
+    },
+    {
+      "timestamp": 1766059167329,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if the roads are sli"
+    },
+    {
+      "timestamp": 1766059167545,
+      "key": "p",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if the roads are slip"
+    },
+    {
+      "timestamp": 1766059167696,
+      "key": "p",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if the roads are slipp"
+    },
+    {
+      "timestamp": 1766059167789,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if the roads are slippe"
+    },
+    {
+      "timestamp": 1766059167974,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if the roads are slipper"
+    },
+    {
+      "timestamp": 1766059168599,
+      "key": "y",
+      "sentenceIndex": 4,
+      "valueAfter": "Pumping helps if the roads are slippery"
+    },
+    {
+      "timestamp": 1766059169685,
+      "key": "Y",
+      "sentenceIndex": 5,
+      "valueAfter": "Y"
+    },
+    {
+      "timestamp": 1766059169850,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "Yo"
+    },
+    {
+      "timestamp": 1766059170025,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoi"
+    },
+    {
+      "timestamp": 1766059170140,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir"
+    },
+    {
+      "timestamp": 1766059170257,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir "
+    },
+    {
+      "timestamp": 1766059170560,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir r"
+    },
+    {
+      "timestamp": 1766059170745,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir re"
+    },
+    {
+      "timestamp": 1766059170805,
+      "key": "p",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir rep"
+    },
+    {
+      "timestamp": 1766059172078,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir reps"
+    },
+    {
+      "timestamp": 1766059172262,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repse"
+    },
+    {
+      "timestamp": 1766059172353,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repsen"
+    },
+    {
+      "timestamp": 1766059172416,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repsent"
+    },
+    {
+      "timestamp": 1766059172648,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repsenta"
+    },
+    {
+      "timestamp": 1766059172849,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repsentat"
+    },
+    {
+      "timestamp": 1766059173010,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repsentati"
+    },
+    {
+      "timestamp": 1766059173198,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repsentatio"
+    },
+    {
+      "timestamp": 1766059173377,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repsentation"
+    },
+    {
+      "timestamp": 1766059173576,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repsentation "
+    },
+    {
+      "timestamp": 1766059173746,
+      "key": "w",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repsentation w"
+    },
+    {
+      "timestamp": 1766059173944,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repsentation wa"
+    },
+    {
+      "timestamp": 1766059174115,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repsentation was"
+    },
+    {
+      "timestamp": 1766059174189,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repsentation was "
+    },
+    {
+      "timestamp": 1766059174381,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repsentation was i"
+    },
+    {
+      "timestamp": 1766059174509,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repsentation was in"
+    },
+    {
+      "timestamp": 1766059174603,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repsentation was ins"
+    },
+    {
+      "timestamp": 1766059174726,
+      "key": "p",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repsentation was insp"
+    },
+    {
+      "timestamp": 1766059174874,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repsentation was inspi"
+    },
+    {
+      "timestamp": 1766059175009,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repsentation was inspir"
+    },
+    {
+      "timestamp": 1766059175087,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repsentation was inspiri"
+    },
+    {
+      "timestamp": 1766059175260,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repsentation was inspirin"
+    },
+    {
+      "timestamp": 1766059175354,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": "Yoir repsentation was inspiring"
+    },
+    {
+      "timestamp": 1766059176298,
+      "key": "B",
+      "sentenceIndex": 6,
+      "valueAfter": "B"
+    },
+    {
+      "timestamp": 1766059176398,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "Br"
+    },
+    {
+      "timestamp": 1766059176499,
+      "key": "i",
+      "sentenceIndex": 6,
+      "valueAfter": "Bri"
+    },
+    {
+      "timestamp": 1766059176658,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "Brin"
+    },
+    {
+      "timestamp": 1766059176758,
+      "key": "g",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring"
+    },
+    {
+      "timestamp": 1766059176920,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring "
+    },
+    {
+      "timestamp": 1766059177128,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring t"
+    },
+    {
+      "timestamp": 1766059177312,
+      "key": "h",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring th"
+    },
+    {
+      "timestamp": 1766059177462,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the"
+    },
+    {
+      "timestamp": 1766059177545,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the "
+    },
+    {
+      "timestamp": 1766059177727,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the o"
+    },
+    {
+      "timestamp": 1766059177801,
+      "key": "f",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the of"
+    },
+    {
+      "timestamp": 1766059177942,
+      "key": "f",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the off"
+    },
+    {
+      "timestamp": 1766059178095,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the offe"
+    },
+    {
+      "timestamp": 1766059178175,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the offen"
+    },
+    {
+      "timestamp": 1766059178340,
+      "key": "d",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the offend"
+    },
+    {
+      "timestamp": 1766059178457,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the offende"
+    },
+    {
+      "timestamp": 1766059178617,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the offender"
+    },
+    {
+      "timestamp": 1766059178827,
+      "key": "s",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the offenders"
+    },
+    {
+      "timestamp": 1766059178964,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the offenders "
+    },
+    {
+      "timestamp": 1766059179068,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the offenders t"
+    },
+    {
+      "timestamp": 1766059179209,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the offenders to"
+    },
+    {
+      "timestamp": 1766059179456,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the offenders to "
+    },
+    {
+      "timestamp": 1766059179658,
+      "key": "j",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the offenders to j"
+    },
+    {
+      "timestamp": 1766059179804,
+      "key": "u",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the offenders to ju"
+    },
+    {
+      "timestamp": 1766059179868,
+      "key": "s",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the offenders to jus"
+    },
+    {
+      "timestamp": 1766059180068,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the offenders to just"
+    },
+    {
+      "timestamp": 1766059180160,
+      "key": "i",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the offenders to justi"
+    },
+    {
+      "timestamp": 1766059180276,
+      "key": "c",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the offenders to justic"
+    },
+    {
+      "timestamp": 1766059180496,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Bring the offenders to justice"
+    },
+    {
+      "timestamp": 1766059181429,
+      "key": "I",
+      "sentenceIndex": 7,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1766059181625,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "I "
+    },
+    {
+      "timestamp": 1766059181721,
+      "key": "s",
+      "sentenceIndex": 7,
+      "valueAfter": "I s"
+    },
+    {
+      "timestamp": 1766059181886,
+      "key": "p",
+      "sentenceIndex": 7,
+      "valueAfter": "I sp"
+    },
+    {
+      "timestamp": 1766059182059,
+      "key": "i",
+      "sentenceIndex": 7,
+      "valueAfter": "I spi"
+    },
+    {
+      "timestamp": 1766059182228,
+      "key": "l",
+      "sentenceIndex": 7,
+      "valueAfter": "I spil"
+    },
+    {
+      "timestamp": 1766059182380,
+      "key": "l",
+      "sentenceIndex": 7,
+      "valueAfter": "I spill"
+    },
+    {
+      "timestamp": 1766059183162,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "I spille"
+    },
+    {
+      "timestamp": 1766059183378,
+      "key": "d",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled"
+    },
+    {
+      "timestamp": 1766059184570,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled "
+    },
+    {
+      "timestamp": 1766059185112,
+      "key": "c",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled c"
+    },
+    {
+      "timestamp": 1766059185329,
+      "key": "o",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled co"
+    },
+    {
+      "timestamp": 1766059185462,
+      "key": "d",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled cod"
+    },
+    {
+      "timestamp": 1766059185631,
+      "key": "f",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled codf"
+    },
+    {
+      "timestamp": 1766059185791,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled codfe"
+    },
+    {
+      "timestamp": 1766059185979,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled codfee"
+    },
+    {
+      "timestamp": 1766059186102,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled codfee "
+    },
+    {
+      "timestamp": 1766059186527,
+      "key": "o",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled codfee o"
+    },
+    {
+      "timestamp": 1766059186729,
+      "key": "n",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled codfee on"
+    },
+    {
+      "timestamp": 1766059186906,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled codfee on "
+    },
+    {
+      "timestamp": 1766059187064,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled codfee on t"
+    },
+    {
+      "timestamp": 1766059187224,
+      "key": "h",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled codfee on th"
+    },
+    {
+      "timestamp": 1766059187432,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled codfee on the"
+    },
+    {
+      "timestamp": 1766059187506,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled codfee on the "
+    },
+    {
+      "timestamp": 1766059187763,
+      "key": "c",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled codfee on the c"
+    },
+    {
+      "timestamp": 1766059187837,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled codfee on the ca"
+    },
+    {
+      "timestamp": 1766059188062,
+      "key": "r",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled codfee on the car"
+    },
+    {
+      "timestamp": 1766059188190,
+      "key": "p",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled codfee on the carp"
+    },
+    {
+      "timestamp": 1766059188273,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled codfee on the carpe"
+    },
+    {
+      "timestamp": 1766059188445,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "I spilled codfee on the carpet"
+    },
+    {
+      "timestamp": 1766059189200,
+      "key": "D",
+      "sentenceIndex": 8,
+      "valueAfter": "D"
+    },
+    {
+      "timestamp": 1766059189369,
+      "key": "o",
+      "sentenceIndex": 8,
+      "valueAfter": "Do"
+    },
+    {
+      "timestamp": 1766059189607,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "Do "
+    },
+    {
+      "timestamp": 1766059189933,
+      "key": "u",
+      "sentenceIndex": 8,
+      "valueAfter": "Do u"
+    },
+    {
+      "timestamp": 1766059190095,
+      "key": "o",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uo"
+    },
+    {
+      "timestamp": 1766059190261,
+      "key": "u",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou"
+    },
+    {
+      "timestamp": 1766059190499,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou "
+    },
+    {
+      "timestamp": 1766059190779,
+      "key": "p",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou p"
+    },
+    {
+      "timestamp": 1766059191228,
+      "key": "r",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou pr"
+    },
+    {
+      "timestamp": 1766059191379,
+      "key": "e",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou pre"
+    },
+    {
+      "timestamp": 1766059191579,
+      "key": "f",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou pref"
+    },
+    {
+      "timestamp": 1766059191747,
+      "key": "e",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou prefe"
+    },
+    {
+      "timestamp": 1766059191929,
+      "key": "r",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou prefer"
+    },
+    {
+      "timestamp": 1766059192050,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou prefer "
+    },
+    {
+      "timestamp": 1766059192173,
+      "key": "w",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou prefer w"
+    },
+    {
+      "timestamp": 1766059192442,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou prefer "
+    },
+    {
+      "timestamp": 1766059192549,
+      "key": "a",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou prefer a"
+    },
+    {
+      "timestamp": 1766059192713,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou prefer a "
+    },
+    {
+      "timestamp": 1766059192822,
+      "key": "w",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou prefer a w"
+    },
+    {
+      "timestamp": 1766059192993,
+      "key": "i",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou prefer a wi"
+    },
+    {
+      "timestamp": 1766059193162,
+      "key": "n",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou prefer a win"
+    },
+    {
+      "timestamp": 1766059193254,
+      "key": "d",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou prefer a wind"
+    },
+    {
+      "timestamp": 1766059193366,
+      "key": "o",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou prefer a windo"
+    },
+    {
+      "timestamp": 1766059193452,
+      "key": "e",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou prefer a windoe"
+    },
+    {
+      "timestamp": 1766059193688,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou prefer a windoe "
+    },
+    {
+      "timestamp": 1766059193784,
+      "key": "s",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou prefer a windoe s"
+    },
+    {
+      "timestamp": 1766059194063,
+      "key": "e",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou prefer a windoe se"
+    },
+    {
+      "timestamp": 1766059194266,
+      "key": "a",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou prefer a windoe sea"
+    },
+    {
+      "timestamp": 1766059194483,
+      "key": "t",
+      "sentenceIndex": 8,
+      "valueAfter": "Do uou prefer a windoe seat"
+    }
+  ]
+}

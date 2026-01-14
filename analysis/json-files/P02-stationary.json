@@ -1,0 +1,1087 @@
+{
+  "mode": "stationary",
+  "timestamp": "2025-12-17T09:53:54.232Z",
+  "duration": 60.065,
+  "wpm": 31,
+  "accuracy": "87.93",
+  "totalCharactersTyped": 174,
+  "correctCharacters": 153,
+  "errors": 27,
+  "sentencesCompleted": 5,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Do you like to shop on Sunday",
+      "expected": "Do you like to shop on Sunday"
+    },
+    {
+      "typed": "My bank account is overdrawn",
+      "expected": "My bank account is overdrawn"
+    },
+    {
+      "typed": "Exceed the maximum speed limit",
+      "expected": "Exceed the maximum speed limit"
+    },
+    {
+      "typed": "Traveling to conferences is fun",
+      "expected": "Traveling to conferences is fun"
+    },
+    {
+      "typed": "Suburbs are sprawling up everywhere",
+      "expected": "Suburbs are sprawling up everywhere"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765965169524,
+      "key": "D",
+      "sentenceIndex": 0,
+      "valueAfter": "D"
+    },
+    {
+      "timestamp": 1765965169646,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Do"
+    },
+    {
+      "timestamp": 1765965169818,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Do "
+    },
+    {
+      "timestamp": 1765965170057,
+      "key": "y",
+      "sentenceIndex": 0,
+      "valueAfter": "Do y"
+    },
+    {
+      "timestamp": 1765965170206,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Do yo"
+    },
+    {
+      "timestamp": 1765965170389,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you"
+    },
+    {
+      "timestamp": 1765965170591,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you "
+    },
+    {
+      "timestamp": 1765965170825,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you l"
+    },
+    {
+      "timestamp": 1765965171005,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you li"
+    },
+    {
+      "timestamp": 1765965171176,
+      "key": "k",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you lik"
+    },
+    {
+      "timestamp": 1765965171335,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you like"
+    },
+    {
+      "timestamp": 1765965171443,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you like "
+    },
+    {
+      "timestamp": 1765965171619,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you like t"
+    },
+    {
+      "timestamp": 1765965171771,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you like to"
+    },
+    {
+      "timestamp": 1765965171999,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you like to "
+    },
+    {
+      "timestamp": 1765965172945,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you like to s"
+    },
+    {
+      "timestamp": 1765965173125,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you like to sh"
+    },
+    {
+      "timestamp": 1765965173376,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you like to sho"
+    },
+    {
+      "timestamp": 1765965173550,
+      "key": "p",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you like to shop"
+    },
+    {
+      "timestamp": 1765965173764,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you like to shop "
+    },
+    {
+      "timestamp": 1765965174426,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you like to shop o"
+    },
+    {
+      "timestamp": 1765965174644,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you like to shop on"
+    },
+    {
+      "timestamp": 1765965174823,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you like to shop on "
+    },
+    {
+      "timestamp": 1765965175394,
+      "key": "S",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you like to shop on S"
+    },
+    {
+      "timestamp": 1765965175638,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you like to shop on Su"
+    },
+    {
+      "timestamp": 1765965175858,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you like to shop on Sun"
+    },
+    {
+      "timestamp": 1765965176045,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you like to shop on Sund"
+    },
+    {
+      "timestamp": 1765965176246,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you like to shop on Sunda"
+    },
+    {
+      "timestamp": 1765965177780,
+      "key": "y",
+      "sentenceIndex": 0,
+      "valueAfter": "Do you like to shop on Sunday"
+    },
+    {
+      "timestamp": 1765965179404,
+      "key": "M",
+      "sentenceIndex": 1,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1765965179713,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "My"
+    },
+    {
+      "timestamp": 1765965179952,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "My "
+    },
+    {
+      "timestamp": 1765965180182,
+      "key": "b",
+      "sentenceIndex": 1,
+      "valueAfter": "My b"
+    },
+    {
+      "timestamp": 1765965180309,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "My ba"
+    },
+    {
+      "timestamp": 1765965180446,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "My ban"
+    },
+    {
+      "timestamp": 1765965181732,
+      "key": "k",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank"
+    },
+    {
+      "timestamp": 1765965181959,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank "
+    },
+    {
+      "timestamp": 1765965182051,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank a"
+    },
+    {
+      "timestamp": 1765965182467,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank ac"
+    },
+    {
+      "timestamp": 1765965182702,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank acc"
+    },
+    {
+      "timestamp": 1765965183138,
+      "key": "account",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account"
+    },
+    {
+      "timestamp": 1765965183156,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account "
+    },
+    {
+      "timestamp": 1765965184637,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account i"
+    },
+    {
+      "timestamp": 1765965184819,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is"
+    },
+    {
+      "timestamp": 1765965184929,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is "
+    },
+    {
+      "timestamp": 1765965185237,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is o"
+    },
+    {
+      "timestamp": 1765965185488,
+      "key": "v",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is ov"
+    },
+    {
+      "timestamp": 1765965185855,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is ove"
+    },
+    {
+      "timestamp": 1765965186070,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is over"
+    },
+    {
+      "timestamp": 1765965186924,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is overd"
+    },
+    {
+      "timestamp": 1765965187173,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is overdr"
+    },
+    {
+      "timestamp": 1765965187438,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is overdra"
+    },
+    {
+      "timestamp": 1765965187653,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is overdraw"
+    },
+    {
+      "timestamp": 1765965187802,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is overdrawn"
+    },
+    {
+      "timestamp": 1765965189174,
+      "key": "E",
+      "sentenceIndex": 2,
+      "valueAfter": "E"
+    },
+    {
+      "timestamp": 1765965189494,
+      "key": "x",
+      "sentenceIndex": 2,
+      "valueAfter": "Ex"
+    },
+    {
+      "timestamp": 1765965189713,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Exc"
+    },
+    {
+      "timestamp": 1765965189958,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Exce"
+    },
+    {
+      "timestamp": 1765965190157,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Excee"
+    },
+    {
+      "timestamp": 1765965190374,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed"
+    },
+    {
+      "timestamp": 1765965190506,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed "
+    },
+    {
+      "timestamp": 1765965190825,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed t"
+    },
+    {
+      "timestamp": 1765965190987,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed th"
+    },
+    {
+      "timestamp": 1765965191143,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed the"
+    },
+    {
+      "timestamp": 1765965191236,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed the "
+    },
+    {
+      "timestamp": 1765965191440,
+      "key": "m",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed the m"
+    },
+    {
+      "timestamp": 1765965191556,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed the ma"
+    },
+    {
+      "timestamp": 1765965191926,
+      "key": "x",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed the max"
+    },
+    {
+      "timestamp": 1765965192158,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed the maxi"
+    },
+    {
+      "timestamp": 1765965192357,
+      "key": "m",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed the maxim"
+    },
+    {
+      "timestamp": 1765965192577,
+      "key": "u",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed the maximu"
+    },
+    {
+      "timestamp": 1765965192773,
+      "key": "m",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed the maximum"
+    },
+    {
+      "timestamp": 1765965193048,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed the maximum "
+    },
+    {
+      "timestamp": 1765965193510,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed the maximum s"
+    },
+    {
+      "timestamp": 1765965193671,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed the maximum sp"
+    },
+    {
+      "timestamp": 1765965193877,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed the maximum spe"
+    },
+    {
+      "timestamp": 1765965194076,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed the maximum spee"
+    },
+    {
+      "timestamp": 1765965194262,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed the maximum speed"
+    },
+    {
+      "timestamp": 1765965194453,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed the maximum speed "
+    },
+    {
+      "timestamp": 1765965194845,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed the maximum speed l"
+    },
+    {
+      "timestamp": 1765965195028,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed the maximum speed li"
+    },
+    {
+      "timestamp": 1765965195261,
+      "key": "m",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed the maximum speed lim"
+    },
+    {
+      "timestamp": 1765965195480,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed the maximum speed limi"
+    },
+    {
+      "timestamp": 1765965195681,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Exceed the maximum speed limit"
+    },
+    {
+      "timestamp": 1765965197219,
+      "key": "T",
+      "sentenceIndex": 3,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765965197413,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Tr"
+    },
+    {
+      "timestamp": 1765965197662,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Tra"
+    },
+    {
+      "timestamp": 1765965197881,
+      "key": "v",
+      "sentenceIndex": 3,
+      "valueAfter": "Trav"
+    },
+    {
+      "timestamp": 1765965198131,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Trave"
+    },
+    {
+      "timestamp": 1765965198331,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Travel"
+    },
+    {
+      "timestamp": 1765965198548,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveli"
+    },
+    {
+      "timestamp": 1765965199545,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Travelin"
+    },
+    {
+      "timestamp": 1765965199801,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling"
+    },
+    {
+      "timestamp": 1765965199927,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling "
+    },
+    {
+      "timestamp": 1765965200766,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling t"
+    },
+    {
+      "timestamp": 1765965200950,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to"
+    },
+    {
+      "timestamp": 1765965201189,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to "
+    },
+    {
+      "timestamp": 1765965202354,
+      "key": "c",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to c"
+    },
+    {
+      "timestamp": 1765965202534,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to co"
+    },
+    {
+      "timestamp": 1765965202837,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to con"
+    },
+    {
+      "timestamp": 1765965203200,
+      "key": "f",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to conf"
+    },
+    {
+      "timestamp": 1765965203435,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to confe"
+    },
+    {
+      "timestamp": 1765965203669,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to confer"
+    },
+    {
+      "timestamp": 1765965203869,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to confere"
+    },
+    {
+      "timestamp": 1765965204001,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to conferen"
+    },
+    {
+      "timestamp": 1765965204251,
+      "key": "c",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to conferenc"
+    },
+    {
+      "timestamp": 1765965204503,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to conference"
+    },
+    {
+      "timestamp": 1765965204736,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to conferences"
+    },
+    {
+      "timestamp": 1765965204921,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to conferencess"
+    },
+    {
+      "timestamp": 1765965205597,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to conferences"
+    },
+    {
+      "timestamp": 1765965205911,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to conferences "
+    },
+    {
+      "timestamp": 1765965206487,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to conferences i"
+    },
+    {
+      "timestamp": 1765965206707,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to conferences is"
+    },
+    {
+      "timestamp": 1765965206789,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to conferences is "
+    },
+    {
+      "timestamp": 1765965207139,
+      "key": "f",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to conferences is f"
+    },
+    {
+      "timestamp": 1765965207372,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to conferences is fu"
+    },
+    {
+      "timestamp": 1765965207591,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Traveling to conferences is fun"
+    },
+    {
+      "timestamp": 1765965209276,
+      "key": "S",
+      "sentenceIndex": 4,
+      "valueAfter": "S"
+    },
+    {
+      "timestamp": 1765965209504,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "Su"
+    },
+    {
+      "timestamp": 1765965210525,
+      "key": "b",
+      "sentenceIndex": 4,
+      "valueAfter": "Sub"
+    },
+    {
+      "timestamp": 1765965210808,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "Subu"
+    },
+    {
+      "timestamp": 1765965211124,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Subur"
+    },
+    {
+      "timestamp": 1765965211293,
+      "key": "b",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburb"
+    },
+    {
+      "timestamp": 1765965211475,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs"
+    },
+    {
+      "timestamp": 1765965211658,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs "
+    },
+    {
+      "timestamp": 1765965212159,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs a"
+    },
+    {
+      "timestamp": 1765965212443,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs ar"
+    },
+    {
+      "timestamp": 1765965212623,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are"
+    },
+    {
+      "timestamp": 1765965212782,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are "
+    },
+    {
+      "timestamp": 1765965213544,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are s"
+    },
+    {
+      "timestamp": 1765965213706,
+      "key": "p",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are sp"
+    },
+    {
+      "timestamp": 1765965214154,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are spr"
+    },
+    {
+      "timestamp": 1765965214454,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are spra"
+    },
+    {
+      "timestamp": 1765965215245,
+      "key": "w",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are spraw"
+    },
+    {
+      "timestamp": 1765965215546,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are sprawl"
+    },
+    {
+      "timestamp": 1765965215763,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are sprawli"
+    },
+    {
+      "timestamp": 1765965215962,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are sprawlin"
+    },
+    {
+      "timestamp": 1765965216075,
+      "key": "g",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are sprawling"
+    },
+    {
+      "timestamp": 1765965216238,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are sprawling "
+    },
+    {
+      "timestamp": 1765965217232,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are sprawling u"
+    },
+    {
+      "timestamp": 1765965217446,
+      "key": "p",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are sprawling up"
+    },
+    {
+      "timestamp": 1765965217671,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are sprawling up "
+    },
+    {
+      "timestamp": 1765965218582,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are sprawling up e"
+    },
+    {
+      "timestamp": 1765965218781,
+      "key": "v",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are sprawling up ev"
+    },
+    {
+      "timestamp": 1765965218966,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are sprawling up eve"
+    },
+    {
+      "timestamp": 1765965219182,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are sprawling up ever"
+    },
+    {
+      "timestamp": 1765965219328,
+      "key": "y",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are sprawling up every"
+    },
+    {
+      "timestamp": 1765965219615,
+      "key": "w",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are sprawling up everyw"
+    },
+    {
+      "timestamp": 1765965220183,
+      "key": "everywhere",
+      "sentenceIndex": 4,
+      "valueAfter": "Suburbs are sprawling up everywhere"
+    },
+    {
+      "timestamp": 1765965220217,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1765965221867,
+      "key": "W",
+      "sentenceIndex": 5,
+      "valueAfter": " W"
+    },
+    {
+      "timestamp": 1765965222084,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": " Wa"
+    },
+    {
+      "timestamp": 1765965222194,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": " Wat"
+    },
+    {
+      "timestamp": 1765965223119,
+      "key": "c",
+      "sentenceIndex": 5,
+      "valueAfter": " Watc"
+    },
+    {
+      "timestamp": 1765965223265,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": " Watch"
+    },
+    {
+      "timestamp": 1765965223489,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " Watch "
+    },
+    {
+      "timestamp": 1765965223789,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": " Watch o"
+    },
+    {
+      "timestamp": 1765965224003,
+      "key": "u",
+      "sentenceIndex": 5,
+      "valueAfter": " Watch ou"
+    },
+    {
+      "timestamp": 1765965224310,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": " Watch out"
+    },
+    {
+      "timestamp": 1765965224492,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " Watch out "
+    },
+    {
+      "timestamp": 1765965225790,
+      "key": "f",
+      "sentenceIndex": 5,
+      "valueAfter": " Watch out f"
+    },
+    {
+      "timestamp": 1765965226087,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": " Watch out fo"
+    },
+    {
+      "timestamp": 1765965226211,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": " Watch out for"
+    },
+    {
+      "timestamp": 1765965226413,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " Watch out for "
+    },
+    {
+      "timestamp": 1765965227305,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": " Watch out for l"
+    },
+    {
+      "timestamp": 1765965227489,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": " Watch out for lo"
+    },
+    {
+      "timestamp": 1765965227635,
+      "key": "w",
+      "sentenceIndex": 5,
+      "valueAfter": " Watch out for low"
+    },
+    {
+      "timestamp": 1765965227753,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " Watch out for low "
+    },
+    {
+      "timestamp": 1765965228123,
+      "key": "f",
+      "sentenceIndex": 5,
+      "valueAfter": " Watch out for low f"
+    },
+    {
+      "timestamp": 1765965228247,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": " Watch out for low fl"
+    },
+    {
+      "timestamp": 1765965228524,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": " Watch out for low fly"
+    },
+    {
+      "timestamp": 1765965228792,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": " Watch out for low flyi"
+    },
+    {
+      "timestamp": 1765965229008,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": " Watch out for low flyin"
+    },
+    {
+      "timestamp": 1765965229174,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": " Watch out for low flying"
+    },
+    {
+      "timestamp": 1765965229292,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " Watch out for low flying "
+    }
+  ]
+}

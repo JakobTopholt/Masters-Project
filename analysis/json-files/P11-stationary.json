@@ -1,0 +1,1313 @@
+{
+  "mode": "stationary",
+  "timestamp": "2025-12-18T09:34:17.614Z",
+  "duration": 60.002,
+  "wpm": 32,
+  "accuracy": "74.61",
+  "totalCharactersTyped": 193,
+  "correctCharacters": 144,
+  "errors": 32,
+  "sentencesCompleted": 6,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "That is a very nasty cut",
+      "expected": "That is a very nasty cut"
+    },
+    {
+      "typed": "Prepare for the exam in advance",
+      "expected": "Prepare for the exam in advance"
+    },
+    {
+      "typed": "Companies announce a merger",
+      "expected": "Companies announce a merger"
+    },
+    {
+      "typed": "The presidential suite is very busy",
+      "expected": "The presidential suite is very busy"
+    },
+    {
+      "typed": "The fact machine is broke",
+      "expected": "The fax machine is broken"
+    },
+    {
+      "typed": "It looks like a shack",
+      "expected": "It looks like a shack"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766050394206,
+      "key": "T",
+      "sentenceIndex": 0,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766050394535,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766050394668,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Tha"
+    },
+    {
+      "timestamp": 1766050394824,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "That"
+    },
+    {
+      "timestamp": 1766050395021,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "That "
+    },
+    {
+      "timestamp": 1766050395592,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "That i"
+    },
+    {
+      "timestamp": 1766050395714,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "That is"
+    },
+    {
+      "timestamp": 1766050395852,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "That is "
+    },
+    {
+      "timestamp": 1766050395966,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "That is a"
+    },
+    {
+      "timestamp": 1766050396318,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "That is a "
+    },
+    {
+      "timestamp": 1766050396708,
+      "key": "v",
+      "sentenceIndex": 0,
+      "valueAfter": "That is a v"
+    },
+    {
+      "timestamp": 1766050396844,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "That is a ve"
+    },
+    {
+      "timestamp": 1766050397350,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "That is a ver"
+    },
+    {
+      "timestamp": 1766050397568,
+      "key": "y",
+      "sentenceIndex": 0,
+      "valueAfter": "That is a very"
+    },
+    {
+      "timestamp": 1766050397786,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "That is a very "
+    },
+    {
+      "timestamp": 1766050397980,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "That is a very n"
+    },
+    {
+      "timestamp": 1766050398100,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "That is a very na"
+    },
+    {
+      "timestamp": 1766050398281,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "That is a very nas"
+    },
+    {
+      "timestamp": 1766050398800,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "That is a very nast"
+    },
+    {
+      "timestamp": 1766050398966,
+      "key": "y",
+      "sentenceIndex": 0,
+      "valueAfter": "That is a very nasty"
+    },
+    {
+      "timestamp": 1766050399198,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "That is a very nasty "
+    },
+    {
+      "timestamp": 1766050399805,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "That is a very nasty c"
+    },
+    {
+      "timestamp": 1766050400103,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "That is a very nasty cu"
+    },
+    {
+      "timestamp": 1766050400435,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "That is a very nasty cut"
+    },
+    {
+      "timestamp": 1766050401506,
+      "key": "P",
+      "sentenceIndex": 1,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1766050401733,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Pr"
+    },
+    {
+      "timestamp": 1766050401897,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Pre"
+    },
+    {
+      "timestamp": 1766050402262,
+      "key": "p",
+      "sentenceIndex": 1,
+      "valueAfter": "Prep"
+    },
+    {
+      "timestamp": 1766050402407,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepa"
+    },
+    {
+      "timestamp": 1766050402787,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepar"
+    },
+    {
+      "timestamp": 1766050402913,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare"
+    },
+    {
+      "timestamp": 1766050403096,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare "
+    },
+    {
+      "timestamp": 1766050403276,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare f"
+    },
+    {
+      "timestamp": 1766050403392,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare fo"
+    },
+    {
+      "timestamp": 1766050403473,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare for"
+    },
+    {
+      "timestamp": 1766050403619,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare for "
+    },
+    {
+      "timestamp": 1766050403767,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare for t"
+    },
+    {
+      "timestamp": 1766050403892,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare for th"
+    },
+    {
+      "timestamp": 1766050403972,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare for the"
+    },
+    {
+      "timestamp": 1766050404114,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare for the "
+    },
+    {
+      "timestamp": 1766050404919,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare for the e"
+    },
+    {
+      "timestamp": 1766050405612,
+      "key": "x",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare for the ex"
+    },
+    {
+      "timestamp": 1766050405729,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare for the exa"
+    },
+    {
+      "timestamp": 1766050405883,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare for the exam"
+    },
+    {
+      "timestamp": 1766050406047,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare for the exam "
+    },
+    {
+      "timestamp": 1766050406408,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare for the exam i"
+    },
+    {
+      "timestamp": 1766050406560,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare for the exam in"
+    },
+    {
+      "timestamp": 1766050406735,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare for the exam in "
+    },
+    {
+      "timestamp": 1766050407258,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare for the exam in a"
+    },
+    {
+      "timestamp": 1766050407481,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare for the exam in ad"
+    },
+    {
+      "timestamp": 1766050407799,
+      "key": "v",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare for the exam in adv"
+    },
+    {
+      "timestamp": 1766050407952,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare for the exam in adva"
+    },
+    {
+      "timestamp": 1766050408147,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare for the exam in advan"
+    },
+    {
+      "timestamp": 1766050408766,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare for the exam in advanc"
+    },
+    {
+      "timestamp": 1766050408889,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Prepare for the exam in advance"
+    },
+    {
+      "timestamp": 1766050410071,
+      "key": "C",
+      "sentenceIndex": 2,
+      "valueAfter": "C"
+    },
+    {
+      "timestamp": 1766050410241,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Co"
+    },
+    {
+      "timestamp": 1766050410389,
+      "key": "m",
+      "sentenceIndex": 2,
+      "valueAfter": "Com"
+    },
+    {
+      "timestamp": 1766050410633,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": "Comp"
+    },
+    {
+      "timestamp": 1766050410757,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Compa"
+    },
+    {
+      "timestamp": 1766050411340,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Compan"
+    },
+    {
+      "timestamp": 1766050411518,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Compani"
+    },
+    {
+      "timestamp": 1766050411601,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Companie"
+    },
+    {
+      "timestamp": 1766050411774,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Companies"
+    },
+    {
+      "timestamp": 1766050412311,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Companies "
+    },
+    {
+      "timestamp": 1766050412474,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Companies a"
+    },
+    {
+      "timestamp": 1766050412611,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Companies an"
+    },
+    {
+      "timestamp": 1766050412727,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Companies ann"
+    },
+    {
+      "timestamp": 1766050412963,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Companies anno"
+    },
+    {
+      "timestamp": 1766050413164,
+      "key": "u",
+      "sentenceIndex": 2,
+      "valueAfter": "Companies annou"
+    },
+    {
+      "timestamp": 1766050414172,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Companies announ"
+    },
+    {
+      "timestamp": 1766050414482,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Companies announc"
+    },
+    {
+      "timestamp": 1766050414578,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Companies announce"
+    },
+    {
+      "timestamp": 1766050414688,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Companies announce "
+    },
+    {
+      "timestamp": 1766050415177,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Companies announce a"
+    },
+    {
+      "timestamp": 1766050415312,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Companies announce a "
+    },
+    {
+      "timestamp": 1766050415576,
+      "key": "m",
+      "sentenceIndex": 2,
+      "valueAfter": "Companies announce a m"
+    },
+    {
+      "timestamp": 1766050415753,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Companies announce a me"
+    },
+    {
+      "timestamp": 1766050416039,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Companies announce a mer"
+    },
+    {
+      "timestamp": 1766050416348,
+      "key": "g",
+      "sentenceIndex": 2,
+      "valueAfter": "Companies announce a merg"
+    },
+    {
+      "timestamp": 1766050416687,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Companies announce a merge"
+    },
+    {
+      "timestamp": 1766050416865,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Companies announce a merger"
+    },
+    {
+      "timestamp": 1766050417868,
+      "key": "T",
+      "sentenceIndex": 3,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766050418069,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766050418146,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766050418317,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766050418911,
+      "key": "p",
+      "sentenceIndex": 3,
+      "valueAfter": "The p"
+    },
+    {
+      "timestamp": 1766050419018,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "The pr"
+    },
+    {
+      "timestamp": 1766050419181,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "The pre"
+    },
+    {
+      "timestamp": 1766050419712,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "The pres"
+    },
+    {
+      "timestamp": 1766050419875,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "The prese"
+    },
+    {
+      "timestamp": 1766050420580,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "The pres"
+    },
+    {
+      "timestamp": 1766050420775,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "The presi"
+    },
+    {
+      "timestamp": 1766050421362,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "The presid"
+    },
+    {
+      "timestamp": 1766050421524,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "The preside"
+    },
+    {
+      "timestamp": 1766050421615,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "The presiden"
+    },
+    {
+      "timestamp": 1766050421828,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "The president"
+    },
+    {
+      "timestamp": 1766050422000,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidenti"
+    },
+    {
+      "timestamp": 1766050422600,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidentia"
+    },
+    {
+      "timestamp": 1766050422694,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidential"
+    },
+    {
+      "timestamp": 1766050422921,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidential "
+    },
+    {
+      "timestamp": 1766050423223,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidential s"
+    },
+    {
+      "timestamp": 1766050423596,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidential su"
+    },
+    {
+      "timestamp": 1766050423746,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidential sui"
+    },
+    {
+      "timestamp": 1766050423904,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidential suit"
+    },
+    {
+      "timestamp": 1766050424078,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidential suite"
+    },
+    {
+      "timestamp": 1766050424186,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidential suite "
+    },
+    {
+      "timestamp": 1766050424431,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidential suite i"
+    },
+    {
+      "timestamp": 1766050424541,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidential suite is"
+    },
+    {
+      "timestamp": 1766050424682,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidential suite is "
+    },
+    {
+      "timestamp": 1766050425393,
+      "key": "v",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidential suite is v"
+    },
+    {
+      "timestamp": 1766050425535,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidential suite is ve"
+    },
+    {
+      "timestamp": 1766050425720,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidential suite is ver"
+    },
+    {
+      "timestamp": 1766050425986,
+      "key": "y",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidential suite is very"
+    },
+    {
+      "timestamp": 1766050426237,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidential suite is very "
+    },
+    {
+      "timestamp": 1766050426680,
+      "key": "b",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidential suite is very b"
+    },
+    {
+      "timestamp": 1766050426940,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidential suite is very bu"
+    },
+    {
+      "timestamp": 1766050427219,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidential suite is very bus"
+    },
+    {
+      "timestamp": 1766050427349,
+      "key": "y",
+      "sentenceIndex": 3,
+      "valueAfter": "The presidential suite is very busy"
+    },
+    {
+      "timestamp": 1766050428428,
+      "key": "T",
+      "sentenceIndex": 4,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766050428590,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766050428662,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766050428809,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766050429418,
+      "key": "f",
+      "sentenceIndex": 4,
+      "valueAfter": "The f"
+    },
+    {
+      "timestamp": 1766050429558,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "The fa"
+    },
+    {
+      "timestamp": 1766050429742,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": "The fac"
+    },
+    {
+      "timestamp": 1766050429940,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766050429951,
+      "key": "fact ",
+      "sentenceIndex": 4,
+      "valueAfter": "The fact "
+    },
+    {
+      "timestamp": 1766050430501,
+      "key": "m",
+      "sentenceIndex": 4,
+      "valueAfter": "The fact m"
+    },
+    {
+      "timestamp": 1766050430652,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "The fact ma"
+    },
+    {
+      "timestamp": 1766050430982,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": "The fact mac"
+    },
+    {
+      "timestamp": 1766050431244,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "The fact mach"
+    },
+    {
+      "timestamp": 1766050431433,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "The fact machi"
+    },
+    {
+      "timestamp": 1766050431593,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "The fact machin"
+    },
+    {
+      "timestamp": 1766050431696,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "The fact machine"
+    },
+    {
+      "timestamp": 1766050431801,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "The fact machine "
+    },
+    {
+      "timestamp": 1766050432034,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "The fact machine i"
+    },
+    {
+      "timestamp": 1766050432137,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "The fact machine is"
+    },
+    {
+      "timestamp": 1766050432255,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "The fact machine is "
+    },
+    {
+      "timestamp": 1766050432947,
+      "key": "b",
+      "sentenceIndex": 4,
+      "valueAfter": "The fact machine is b"
+    },
+    {
+      "timestamp": 1766050433171,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "The fact machine is br"
+    },
+    {
+      "timestamp": 1766050433424,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "The fact machine is bro"
+    },
+    {
+      "timestamp": 1766050433631,
+      "key": "k",
+      "sentenceIndex": 4,
+      "valueAfter": "The fact machine is brok"
+    },
+    {
+      "timestamp": 1766050433748,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "The fact machine is broke"
+    },
+    {
+      "timestamp": 1766050433832,
+      "key": "N",
+      "sentenceIndex": 5,
+      "valueAfter": "N"
+    },
+    {
+      "timestamp": 1766050434610,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766050435033,
+      "key": "I",
+      "sentenceIndex": 5,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1766050435141,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "It"
+    },
+    {
+      "timestamp": 1766050436331,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": "Itl"
+    },
+    {
+      "timestamp": 1766050436669,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "It"
+    },
+    {
+      "timestamp": 1766050436900,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "It "
+    },
+    {
+      "timestamp": 1766050437218,
+      "key": "æ",
+      "sentenceIndex": 5,
+      "valueAfter": "It æ"
+    },
+    {
+      "timestamp": 1766050437399,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "It æo"
+    },
+    {
+      "timestamp": 1766050437728,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "It æ"
+    },
+    {
+      "timestamp": 1766050437869,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "It "
+    },
+    {
+      "timestamp": 1766050438197,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": "It l"
+    },
+    {
+      "timestamp": 1766050438372,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "It lo"
+    },
+    {
+      "timestamp": 1766050438559,
+      "key": "k",
+      "sentenceIndex": 5,
+      "valueAfter": "It lok"
+    },
+    {
+      "timestamp": 1766050438703,
+      "key": "k",
+      "sentenceIndex": 5,
+      "valueAfter": "It lokk"
+    },
+    {
+      "timestamp": 1766050438800,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "It lokke"
+    },
+    {
+      "timestamp": 1766050439219,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "It lokk"
+    },
+    {
+      "timestamp": 1766050439453,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "It lok"
+    },
+    {
+      "timestamp": 1766050439597,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "It lo"
+    },
+    {
+      "timestamp": 1766050440272,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "It loo"
+    },
+    {
+      "timestamp": 1766050440450,
+      "key": "k",
+      "sentenceIndex": 5,
+      "valueAfter": "It look"
+    },
+    {
+      "timestamp": 1766050440545,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks"
+    },
+    {
+      "timestamp": 1766050440797,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks "
+    },
+    {
+      "timestamp": 1766050441092,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks l"
+    },
+    {
+      "timestamp": 1766050441266,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks li"
+    },
+    {
+      "timestamp": 1766050441415,
+      "key": "k",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks lik"
+    },
+    {
+      "timestamp": 1766050441500,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like"
+    },
+    {
+      "timestamp": 1766050441895,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks likea"
+    },
+    {
+      "timestamp": 1766050442044,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks "
+    },
+    {
+      "timestamp": 1766050442048,
+      "key": "like a ",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like a "
+    },
+    {
+      "timestamp": 1766050442324,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like a"
+    },
+    {
+      "timestamp": 1766050442481,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like "
+    },
+    {
+      "timestamp": 1766050443050,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like a"
+    },
+    {
+      "timestamp": 1766050443178,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like a "
+    },
+    {
+      "timestamp": 1766050443938,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like a"
+    },
+    {
+      "timestamp": 1766050444222,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like as"
+    },
+    {
+      "timestamp": 1766050444390,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like ash"
+    },
+    {
+      "timestamp": 1766050444490,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like asha"
+    },
+    {
+      "timestamp": 1766050444914,
+      "key": "c",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like ashac"
+    },
+    {
+      "timestamp": 1766050445286,
+      "key": "k",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like ashack"
+    },
+    {
+      "timestamp": 1766050446593,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like ashac"
+    },
+    {
+      "timestamp": 1766050446777,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like asha"
+    },
+    {
+      "timestamp": 1766050446953,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like ash"
+    },
+    {
+      "timestamp": 1766050447143,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like as"
+    },
+    {
+      "timestamp": 1766050447282,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like a"
+    },
+    {
+      "timestamp": 1766050447468,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like "
+    },
+    {
+      "timestamp": 1766050448184,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like a"
+    },
+    {
+      "timestamp": 1766050448303,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like a "
+    },
+    {
+      "timestamp": 1766050448455,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like a s"
+    },
+    {
+      "timestamp": 1766050448871,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like a sh"
+    },
+    {
+      "timestamp": 1766050449022,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like a sha"
+    },
+    {
+      "timestamp": 1766050449258,
+      "key": "c",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like a shac"
+    },
+    {
+      "timestamp": 1766050449520,
+      "key": "k",
+      "sentenceIndex": 5,
+      "valueAfter": "It looks like a shack"
+    },
+    {
+      "timestamp": 1766050450509,
+      "key": "T",
+      "sentenceIndex": 6,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766050450643,
+      "key": "h",
+      "sentenceIndex": 6,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766050450731,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766050450872,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766050451492,
+      "key": "p",
+      "sentenceIndex": 6,
+      "valueAfter": "The p"
+    },
+    {
+      "timestamp": 1766050451606,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "The pr"
+    },
+    {
+      "timestamp": 1766050451768,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "The pro"
+    },
+    {
+      "timestamp": 1766050451922,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "The prot"
+    },
+    {
+      "timestamp": 1766050452526,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "The prote"
+    },
+    {
+      "timestamp": 1766050452708,
+      "key": "s",
+      "sentenceIndex": 6,
+      "valueAfter": "The protes"
+    },
+    {
+      "timestamp": 1766050453022,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "The protest"
+    },
+    {
+      "timestamp": 1766050453146,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "The proteste"
+    },
+    {
+      "timestamp": 1766050453321,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "The protester"
+    },
+    {
+      "timestamp": 1766050454024,
+      "key": "s",
+      "sentenceIndex": 6,
+      "valueAfter": "The protesters"
+    },
+    {
+      "timestamp": 1766050454170,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "The protesters "
+    }
+  ]
+}
