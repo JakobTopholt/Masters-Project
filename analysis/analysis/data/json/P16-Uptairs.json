@@ -1,0 +1,487 @@
+{
+  "mode": "stairs",
+  "timestamp": "2025-12-18T08:59:42.184Z",
+  "duration": 60.004,
+  "wpm": 7,
+  "accuracy": "45.95",
+  "totalCharactersTyped": 74,
+  "correctCharacters": 34,
+  "errors": 40,
+  "sentencesCompleted": 2,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Handicaped persons need consideration ",
+      "expected": "Handicapped persons need consideration"
+    },
+    {
+      "typed": "A problem with the engine",
+      "expected": "A problem with the engine"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766048317077,
+      "key": "H",
+      "sentenceIndex": 0,
+      "valueAfter": "H"
+    },
+    {
+      "timestamp": 1766048317331,
+      "key": "Ha",
+      "sentenceIndex": 0,
+      "valueAfter": "Ha"
+    },
+    {
+      "timestamp": 1766048319246,
+      "key": "H",
+      "sentenceIndex": 0,
+      "valueAfter": "H"
+    },
+    {
+      "timestamp": 1766048319651,
+      "key": "Hn",
+      "sentenceIndex": 0,
+      "valueAfter": "Hn"
+    },
+    {
+      "timestamp": 1766048320780,
+      "key": "H",
+      "sentenceIndex": 0,
+      "valueAfter": "H"
+    },
+    {
+      "timestamp": 1766048321263,
+      "key": "Ha",
+      "sentenceIndex": 0,
+      "valueAfter": "Ha"
+    },
+    {
+      "timestamp": 1766048321769,
+      "key": "Han",
+      "sentenceIndex": 0,
+      "valueAfter": "Han"
+    },
+    {
+      "timestamp": 1766048322180,
+      "key": "Hand",
+      "sentenceIndex": 0,
+      "valueAfter": "Hand"
+    },
+    {
+      "timestamp": 1766048322566,
+      "key": "Handi",
+      "sentenceIndex": 0,
+      "valueAfter": "Handi"
+    },
+    {
+      "timestamp": 1766048323400,
+      "key": "Handic",
+      "sentenceIndex": 0,
+      "valueAfter": "Handic"
+    },
+    {
+      "timestamp": 1766048323646,
+      "key": "Handica",
+      "sentenceIndex": 0,
+      "valueAfter": "Handica"
+    },
+    {
+      "timestamp": 1766048325917,
+      "key": "Handicap",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicap"
+    },
+    {
+      "timestamp": 1766048327803,
+      "key": "Handicape",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicape"
+    },
+    {
+      "timestamp": 1766048328164,
+      "key": "Handicaped",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped"
+    },
+    {
+      "timestamp": 1766048331526,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped "
+    },
+    {
+      "timestamp": 1766048332910,
+      "key": "p",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped p"
+    },
+    {
+      "timestamp": 1766048333421,
+      "key": "pe",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped pe"
+    },
+    {
+      "timestamp": 1766048333912,
+      "key": "per",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped per"
+    },
+    {
+      "timestamp": 1766048334260,
+      "key": "pers",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped pers"
+    },
+    {
+      "timestamp": 1766048334654,
+      "key": "perso",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped perso"
+    },
+    {
+      "timestamp": 1766048334993,
+      "key": "person",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped person"
+    },
+    {
+      "timestamp": 1766048335324,
+      "key": "persons",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped persons"
+    },
+    {
+      "timestamp": 1766048335553,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped persons "
+    },
+    {
+      "timestamp": 1766048336657,
+      "key": "m",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped persons m"
+    },
+    {
+      "timestamp": 1766048337086,
+      "key": "insertCompositionText",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped persons "
+    },
+    {
+      "timestamp": 1766048337434,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped persons n"
+    },
+    {
+      "timestamp": 1766048343032,
+      "key": "ne",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped persons ne"
+    },
+    {
+      "timestamp": 1766048343193,
+      "key": "nee",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped persons nee"
+    },
+    {
+      "timestamp": 1766048343440,
+      "key": "need",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped persons need"
+    },
+    {
+      "timestamp": 1766048345209,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped persons need "
+    },
+    {
+      "timestamp": 1766048347325,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped persons need c"
+    },
+    {
+      "timestamp": 1766048347670,
+      "key": "co",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped persons need co"
+    },
+    {
+      "timestamp": 1766048347986,
+      "key": "con",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped persons need con"
+    },
+    {
+      "timestamp": 1766048348327,
+      "key": "cons",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped persons need cons"
+    },
+    {
+      "timestamp": 1766048348671,
+      "key": "consi",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped persons need consi"
+    },
+    {
+      "timestamp": 1766048349090,
+      "key": "consid",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped persons need consid"
+    },
+    {
+      "timestamp": 1766048349266,
+      "key": "conside",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped persons need conside"
+    },
+    {
+      "timestamp": 1766048349435,
+      "key": "consider",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped persons need consider"
+    },
+    {
+      "timestamp": 1766048349779,
+      "key": "considera",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped persons need considera"
+    },
+    {
+      "timestamp": 1766048351261,
+      "key": "consideration",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped persons need consideration"
+    },
+    {
+      "timestamp": 1766048351297,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Handicaped persons need consideration "
+    },
+    {
+      "timestamp": 1766048353663,
+      "key": "A",
+      "sentenceIndex": 1,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1766048354643,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "A "
+    },
+    {
+      "timestamp": 1766048355011,
+      "key": "p",
+      "sentenceIndex": 1,
+      "valueAfter": "A p"
+    },
+    {
+      "timestamp": 1766048355456,
+      "key": "pr",
+      "sentenceIndex": 1,
+      "valueAfter": "A pr"
+    },
+    {
+      "timestamp": 1766048355821,
+      "key": "pro",
+      "sentenceIndex": 1,
+      "valueAfter": "A pro"
+    },
+    {
+      "timestamp": 1766048356229,
+      "key": "prob",
+      "sentenceIndex": 1,
+      "valueAfter": "A prob"
+    },
+    {
+      "timestamp": 1766048356530,
+      "key": "probl",
+      "sentenceIndex": 1,
+      "valueAfter": "A probl"
+    },
+    {
+      "timestamp": 1766048356952,
+      "key": "proble",
+      "sentenceIndex": 1,
+      "valueAfter": "A proble"
+    },
+    {
+      "timestamp": 1766048357438,
+      "key": "problem",
+      "sentenceIndex": 1,
+      "valueAfter": "A problem"
+    },
+    {
+      "timestamp": 1766048357676,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "A problem "
+    },
+    {
+      "timestamp": 1766048358138,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "A problem w"
+    },
+    {
+      "timestamp": 1766048358891,
+      "key": "wi",
+      "sentenceIndex": 1,
+      "valueAfter": "A problem wi"
+    },
+    {
+      "timestamp": 1766048359289,
+      "key": "wit",
+      "sentenceIndex": 1,
+      "valueAfter": "A problem wit"
+    },
+    {
+      "timestamp": 1766048360081,
+      "key": "with",
+      "sentenceIndex": 1,
+      "valueAfter": "A problem with"
+    },
+    {
+      "timestamp": 1766048362252,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "A problem with "
+    },
+    {
+      "timestamp": 1766048364014,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "A problem with t"
+    },
+    {
+      "timestamp": 1766048364540,
+      "key": "th",
+      "sentenceIndex": 1,
+      "valueAfter": "A problem with th"
+    },
+    {
+      "timestamp": 1766048364823,
+      "key": "the",
+      "sentenceIndex": 1,
+      "valueAfter": "A problem with the"
+    },
+    {
+      "timestamp": 1766048365125,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "A problem with the "
+    },
+    {
+      "timestamp": 1766048367873,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "A problem with the e"
+    },
+    {
+      "timestamp": 1766048368384,
+      "key": "en",
+      "sentenceIndex": 1,
+      "valueAfter": "A problem with the en"
+    },
+    {
+      "timestamp": 1766048368673,
+      "key": "eng",
+      "sentenceIndex": 1,
+      "valueAfter": "A problem with the eng"
+    },
+    {
+      "timestamp": 1766048369029,
+      "key": "engi",
+      "sentenceIndex": 1,
+      "valueAfter": "A problem with the engi"
+    },
+    {
+      "timestamp": 1766048369331,
+      "key": "engin",
+      "sentenceIndex": 1,
+      "valueAfter": "A problem with the engin"
+    },
+    {
+      "timestamp": 1766048369623,
+      "key": "engine",
+      "sentenceIndex": 1,
+      "valueAfter": "A problem with the engine"
+    },
+    {
+      "timestamp": 1766048369866,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766048372180,
+      "key": "A",
+      "sentenceIndex": 2,
+      "valueAfter": " A"
+    },
+    {
+      "timestamp": 1766048372804,
+      "key": "An",
+      "sentenceIndex": 2,
+      "valueAfter": " An"
+    },
+    {
+      "timestamp": 1766048374811,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": " An "
+    },
+    {
+      "timestamp": 1766048375114,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": " An a"
+    },
+    {
+      "timestamp": 1766048375476,
+      "key": "ai",
+      "sentenceIndex": 2,
+      "valueAfter": " An ai"
+    },
+    {
+      "timestamp": 1766048375753,
+      "key": "air",
+      "sentenceIndex": 2,
+      "valueAfter": " An air"
+    },
+    {
+      "timestamp": 1766048376112,
+      "key": "airp",
+      "sentenceIndex": 2,
+      "valueAfter": " An airp"
+    },
+    {
+      "timestamp": 1766048376319,
+      "key": "airpo",
+      "sentenceIndex": 2,
+      "valueAfter": " An airpo"
+    },
+    {
+      "timestamp": 1766048376719,
+      "key": "airpor",
+      "sentenceIndex": 2,
+      "valueAfter": " An airpor"
+    },
+    {
+      "timestamp": 1766048377024,
+      "key": "airport",
+      "sentenceIndex": 2,
+      "valueAfter": " An airport"
+    }
+  ]
+}

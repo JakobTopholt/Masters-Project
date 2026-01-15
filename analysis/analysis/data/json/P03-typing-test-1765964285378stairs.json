@@ -1,0 +1,913 @@
+{
+  "mode": "upstairs",
+  "timestamp": "2025-12-17T09:38:05.374Z",
+  "duration": 60.005,
+  "wpm": 16,
+  "accuracy": "58.99",
+  "totalCharactersTyped": 139,
+  "correctCharacters": 82,
+  "errors": 69,
+  "sentencesCompleted": 5,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "A good response to the quittons",
+      "expected": "A good response to the question"
+    },
+    {
+      "typed": " Effort is what it will tak",
+      "expected": "Effort is what it will take"
+    },
+    {
+      "typed": "Quick there is someone knocking",
+      "expected": "Quick there is someone knocking"
+    },
+    {
+      "typed": " We missed your birthda",
+      "expected": "We missed your birthday"
+    },
+    {
+      "typed": "Breathing is difficult",
+      "expected": "Breathing is difficult"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765964220697,
+      "key": "A",
+      "sentenceIndex": 0,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1765964221454,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "A "
+    },
+    {
+      "timestamp": 1765964221763,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "A g"
+    },
+    {
+      "timestamp": 1765964222029,
+      "key": "go",
+      "sentenceIndex": 0,
+      "valueAfter": "A go"
+    },
+    {
+      "timestamp": 1765964222397,
+      "key": "goo",
+      "sentenceIndex": 0,
+      "valueAfter": "A goo"
+    },
+    {
+      "timestamp": 1765964222570,
+      "key": "good",
+      "sentenceIndex": 0,
+      "valueAfter": "A good"
+    },
+    {
+      "timestamp": 1765964222903,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "A good "
+    },
+    {
+      "timestamp": 1765964223314,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "A good r"
+    },
+    {
+      "timestamp": 1765964223504,
+      "key": "re",
+      "sentenceIndex": 0,
+      "valueAfter": "A good re"
+    },
+    {
+      "timestamp": 1765964223687,
+      "key": "res",
+      "sentenceIndex": 0,
+      "valueAfter": "A good res"
+    },
+    {
+      "timestamp": 1765964223872,
+      "key": "resp",
+      "sentenceIndex": 0,
+      "valueAfter": "A good resp"
+    },
+    {
+      "timestamp": 1765964224091,
+      "key": "respo",
+      "sentenceIndex": 0,
+      "valueAfter": "A good respo"
+    },
+    {
+      "timestamp": 1765964224331,
+      "key": "respon",
+      "sentenceIndex": 0,
+      "valueAfter": "A good respon"
+    },
+    {
+      "timestamp": 1765964224659,
+      "key": "respons",
+      "sentenceIndex": 0,
+      "valueAfter": "A good respons"
+    },
+    {
+      "timestamp": 1765964224909,
+      "key": "response",
+      "sentenceIndex": 0,
+      "valueAfter": "A good response"
+    },
+    {
+      "timestamp": 1765964225415,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "A good response "
+    },
+    {
+      "timestamp": 1765964225932,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "A good response t"
+    },
+    {
+      "timestamp": 1765964226139,
+      "key": "to",
+      "sentenceIndex": 0,
+      "valueAfter": "A good response to"
+    },
+    {
+      "timestamp": 1765964226363,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "A good response to "
+    },
+    {
+      "timestamp": 1765964226568,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "A good response to t"
+    },
+    {
+      "timestamp": 1765964226733,
+      "key": "th",
+      "sentenceIndex": 0,
+      "valueAfter": "A good response to th"
+    },
+    {
+      "timestamp": 1765964226824,
+      "key": "the",
+      "sentenceIndex": 0,
+      "valueAfter": "A good response to the"
+    },
+    {
+      "timestamp": 1765964226974,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "A good response to the "
+    },
+    {
+      "timestamp": 1765964227803,
+      "key": "q",
+      "sentenceIndex": 0,
+      "valueAfter": "A good response to the q"
+    },
+    {
+      "timestamp": 1765964228136,
+      "key": "qu",
+      "sentenceIndex": 0,
+      "valueAfter": "A good response to the qu"
+    },
+    {
+      "timestamp": 1765964228381,
+      "key": "que",
+      "sentenceIndex": 0,
+      "valueAfter": "A good response to the que"
+    },
+    {
+      "timestamp": 1765964229708,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "A good response to the que "
+    },
+    {
+      "timestamp": 1765964230352,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "A good response to the que"
+    },
+    {
+      "timestamp": 1765964231120,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "A good response to the qu"
+    },
+    {
+      "timestamp": 1765964231364,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "A good response to the q"
+    },
+    {
+      "timestamp": 1765964231543,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "A good response to the "
+    },
+    {
+      "timestamp": 1765964232601,
+      "key": "q",
+      "sentenceIndex": 0,
+      "valueAfter": "A good response to the q"
+    },
+    {
+      "timestamp": 1765964233268,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "A good response to the qu"
+    },
+    {
+      "timestamp": 1765964234710,
+      "key": "quittons",
+      "sentenceIndex": 0,
+      "valueAfter": "A good response to the quittons"
+    },
+    {
+      "timestamp": 1765964234716,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1765964236329,
+      "key": "E",
+      "sentenceIndex": 1,
+      "valueAfter": " E"
+    },
+    {
+      "timestamp": 1765964236654,
+      "key": "Ef",
+      "sentenceIndex": 1,
+      "valueAfter": " Ef"
+    },
+    {
+      "timestamp": 1765964236802,
+      "key": "Eff",
+      "sentenceIndex": 1,
+      "valueAfter": " Eff"
+    },
+    {
+      "timestamp": 1765964237046,
+      "key": "Effo",
+      "sentenceIndex": 1,
+      "valueAfter": " Effo"
+    },
+    {
+      "timestamp": 1765964237686,
+      "key": "Effor",
+      "sentenceIndex": 1,
+      "valueAfter": " Effor"
+    },
+    {
+      "timestamp": 1765964237973,
+      "key": "Effort",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort"
+    },
+    {
+      "timestamp": 1765964238328,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort "
+    },
+    {
+      "timestamp": 1765964238707,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort i"
+    },
+    {
+      "timestamp": 1765964239063,
+      "key": "ia",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort ia"
+    },
+    {
+      "timestamp": 1765964239621,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort i"
+    },
+    {
+      "timestamp": 1765964239815,
+      "key": "is",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort is"
+    },
+    {
+      "timestamp": 1765964240878,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort is "
+    },
+    {
+      "timestamp": 1765964241208,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort is w"
+    },
+    {
+      "timestamp": 1765964241492,
+      "key": "wh",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort is wh"
+    },
+    {
+      "timestamp": 1765964241567,
+      "key": "wha",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort is wha"
+    },
+    {
+      "timestamp": 1765964241683,
+      "key": "what",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort is what"
+    },
+    {
+      "timestamp": 1765964242080,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort is what "
+    },
+    {
+      "timestamp": 1765964242535,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort is what i"
+    },
+    {
+      "timestamp": 1765964242858,
+      "key": "it",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort is what it"
+    },
+    {
+      "timestamp": 1765964243099,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort is what it "
+    },
+    {
+      "timestamp": 1765964243218,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort is what it w"
+    },
+    {
+      "timestamp": 1765964243397,
+      "key": "wi",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort is what it wi"
+    },
+    {
+      "timestamp": 1765964243607,
+      "key": "wil",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort is what it wil"
+    },
+    {
+      "timestamp": 1765964243768,
+      "key": "will",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort is what it will"
+    },
+    {
+      "timestamp": 1765964244065,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort is what it will "
+    },
+    {
+      "timestamp": 1765964244436,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort is what it will t"
+    },
+    {
+      "timestamp": 1765964245252,
+      "key": "ta",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort is what it will ta"
+    },
+    {
+      "timestamp": 1765964245402,
+      "key": "tak",
+      "sentenceIndex": 1,
+      "valueAfter": " Effort is what it will tak"
+    },
+    {
+      "timestamp": 1765964245613,
+      "key": "E",
+      "sentenceIndex": 2,
+      "valueAfter": "E"
+    },
+    {
+      "timestamp": 1765964247458,
+      "key": "insertCompositionText",
+      "sentenceIndex": 2,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1765964247967,
+      "key": "Q",
+      "sentenceIndex": 2,
+      "valueAfter": "Q"
+    },
+    {
+      "timestamp": 1765964248583,
+      "key": "Qu",
+      "sentenceIndex": 2,
+      "valueAfter": "Qu"
+    },
+    {
+      "timestamp": 1765964249307,
+      "key": "Qui",
+      "sentenceIndex": 2,
+      "valueAfter": "Qui"
+    },
+    {
+      "timestamp": 1765964249649,
+      "key": "Quic",
+      "sentenceIndex": 2,
+      "valueAfter": "Quic"
+    },
+    {
+      "timestamp": 1765964249905,
+      "key": "Quick",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick"
+    },
+    {
+      "timestamp": 1765964250915,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick "
+    },
+    {
+      "timestamp": 1765964251142,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick t"
+    },
+    {
+      "timestamp": 1765964251313,
+      "key": "th",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick th"
+    },
+    {
+      "timestamp": 1765964251383,
+      "key": "the",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick the"
+    },
+    {
+      "timestamp": 1765964251602,
+      "key": "ther",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick ther"
+    },
+    {
+      "timestamp": 1765964251743,
+      "key": "there",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there"
+    },
+    {
+      "timestamp": 1765964252266,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there "
+    },
+    {
+      "timestamp": 1765964252532,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there i"
+    },
+    {
+      "timestamp": 1765964252653,
+      "key": "is",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is"
+    },
+    {
+      "timestamp": 1765964252804,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is "
+    },
+    {
+      "timestamp": 1765964253619,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is s"
+    },
+    {
+      "timestamp": 1765964253718,
+      "key": "so",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is so"
+    },
+    {
+      "timestamp": 1765964253900,
+      "key": "som",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is som"
+    },
+    {
+      "timestamp": 1765964254066,
+      "key": "some",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is some"
+    },
+    {
+      "timestamp": 1765964255429,
+      "key": "someone",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is someone"
+    },
+    {
+      "timestamp": 1765964255437,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is someone "
+    },
+    {
+      "timestamp": 1765964256240,
+      "key": "k",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is someone k"
+    },
+    {
+      "timestamp": 1765964256460,
+      "key": "kn",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is someone kn"
+    },
+    {
+      "timestamp": 1765964256672,
+      "key": "kno",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is someone kno"
+    },
+    {
+      "timestamp": 1765964257583,
+      "key": "knocking",
+      "sentenceIndex": 2,
+      "valueAfter": "Quick there is someone knocking"
+    },
+    {
+      "timestamp": 1765964257591,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1765964260059,
+      "key": "W",
+      "sentenceIndex": 3,
+      "valueAfter": " W"
+    },
+    {
+      "timestamp": 1765964260284,
+      "key": "We",
+      "sentenceIndex": 3,
+      "valueAfter": " We"
+    },
+    {
+      "timestamp": 1765964260570,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " We "
+    },
+    {
+      "timestamp": 1765964260903,
+      "key": "m",
+      "sentenceIndex": 3,
+      "valueAfter": " We m"
+    },
+    {
+      "timestamp": 1765964261144,
+      "key": "mi",
+      "sentenceIndex": 3,
+      "valueAfter": " We mi"
+    },
+    {
+      "timestamp": 1765964261295,
+      "key": "mis",
+      "sentenceIndex": 3,
+      "valueAfter": " We mis"
+    },
+    {
+      "timestamp": 1765964261750,
+      "key": "miss",
+      "sentenceIndex": 3,
+      "valueAfter": " We miss"
+    },
+    {
+      "timestamp": 1765964261968,
+      "key": "misse",
+      "sentenceIndex": 3,
+      "valueAfter": " We misse"
+    },
+    {
+      "timestamp": 1765964262168,
+      "key": "missed",
+      "sentenceIndex": 3,
+      "valueAfter": " We missed"
+    },
+    {
+      "timestamp": 1765964262418,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " We missed "
+    },
+    {
+      "timestamp": 1765964262793,
+      "key": "y",
+      "sentenceIndex": 3,
+      "valueAfter": " We missed y"
+    },
+    {
+      "timestamp": 1765964263137,
+      "key": "yo",
+      "sentenceIndex": 3,
+      "valueAfter": " We missed yo"
+    },
+    {
+      "timestamp": 1765964263397,
+      "key": "you",
+      "sentenceIndex": 3,
+      "valueAfter": " We missed you"
+    },
+    {
+      "timestamp": 1765964264222,
+      "key": "your",
+      "sentenceIndex": 3,
+      "valueAfter": " We missed your"
+    },
+    {
+      "timestamp": 1765964264695,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " We missed your "
+    },
+    {
+      "timestamp": 1765964266851,
+      "key": "b",
+      "sentenceIndex": 3,
+      "valueAfter": " We missed your b"
+    },
+    {
+      "timestamp": 1765964267219,
+      "key": "bi",
+      "sentenceIndex": 3,
+      "valueAfter": " We missed your bi"
+    },
+    {
+      "timestamp": 1765964267325,
+      "key": "bir",
+      "sentenceIndex": 3,
+      "valueAfter": " We missed your bir"
+    },
+    {
+      "timestamp": 1765964267733,
+      "key": "birt",
+      "sentenceIndex": 3,
+      "valueAfter": " We missed your birt"
+    },
+    {
+      "timestamp": 1765964267925,
+      "key": "birth",
+      "sentenceIndex": 3,
+      "valueAfter": " We missed your birth"
+    },
+    {
+      "timestamp": 1765964268140,
+      "key": "birthd",
+      "sentenceIndex": 3,
+      "valueAfter": " We missed your birthd"
+    },
+    {
+      "timestamp": 1765964268392,
+      "key": "birthda",
+      "sentenceIndex": 3,
+      "valueAfter": " We missed your birthda"
+    },
+    {
+      "timestamp": 1765964268520,
+      "key": "Y",
+      "sentenceIndex": 4,
+      "valueAfter": "Y"
+    },
+    {
+      "timestamp": 1765964269656,
+      "key": "insertCompositionText",
+      "sentenceIndex": 4,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1765964270846,
+      "key": "B",
+      "sentenceIndex": 4,
+      "valueAfter": "B"
+    },
+    {
+      "timestamp": 1765964271112,
+      "key": "Br",
+      "sentenceIndex": 4,
+      "valueAfter": "Br"
+    },
+    {
+      "timestamp": 1765964271271,
+      "key": "Bre",
+      "sentenceIndex": 4,
+      "valueAfter": "Bre"
+    },
+    {
+      "timestamp": 1765964271530,
+      "key": "Brea",
+      "sentenceIndex": 4,
+      "valueAfter": "Brea"
+    },
+    {
+      "timestamp": 1765964271779,
+      "key": "Breat",
+      "sentenceIndex": 4,
+      "valueAfter": "Breat"
+    },
+    {
+      "timestamp": 1765964271989,
+      "key": "Breath",
+      "sentenceIndex": 4,
+      "valueAfter": "Breath"
+    },
+    {
+      "timestamp": 1765964272263,
+      "key": "Breathi",
+      "sentenceIndex": 4,
+      "valueAfter": "Breathi"
+    },
+    {
+      "timestamp": 1765964272530,
+      "key": "Breathin",
+      "sentenceIndex": 4,
+      "valueAfter": "Breathin"
+    },
+    {
+      "timestamp": 1765964272836,
+      "key": "Breathing",
+      "sentenceIndex": 4,
+      "valueAfter": "Breathing"
+    },
+    {
+      "timestamp": 1765964273470,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Breathing "
+    },
+    {
+      "timestamp": 1765964273730,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Breathing i"
+    },
+    {
+      "timestamp": 1765964273848,
+      "key": "is",
+      "sentenceIndex": 4,
+      "valueAfter": "Breathing is"
+    },
+    {
+      "timestamp": 1765964273994,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Breathing is "
+    },
+    {
+      "timestamp": 1765964274203,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "Breathing is d"
+    },
+    {
+      "timestamp": 1765964274500,
+      "key": "di",
+      "sentenceIndex": 4,
+      "valueAfter": "Breathing is di"
+    },
+    {
+      "timestamp": 1765964274790,
+      "key": "dif",
+      "sentenceIndex": 4,
+      "valueAfter": "Breathing is dif"
+    },
+    {
+      "timestamp": 1765964276071,
+      "key": "difficult",
+      "sentenceIndex": 4,
+      "valueAfter": "Breathing is difficult"
+    },
+    {
+      "timestamp": 1765964276078,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1765964277516,
+      "key": "D",
+      "sentenceIndex": 5,
+      "valueAfter": " D"
+    },
+    {
+      "timestamp": 1765964277652,
+      "key": "Do",
+      "sentenceIndex": 5,
+      "valueAfter": " Do"
+    },
+    {
+      "timestamp": 1765964277985,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " Do "
+    },
+    {
+      "timestamp": 1765964278347,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": " Do y"
+    },
+    {
+      "timestamp": 1765964278719,
+      "key": "yo",
+      "sentenceIndex": 5,
+      "valueAfter": " Do yo"
+    },
+    {
+      "timestamp": 1765964278935,
+      "key": "you",
+      "sentenceIndex": 5,
+      "valueAfter": " Do you"
+    },
+    {
+      "timestamp": 1765964279149,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " Do you "
+    },
+    {
+      "timestamp": 1765964279342,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": " Do you l"
+    },
+    {
+      "timestamp": 1765964279526,
+      "key": "li",
+      "sentenceIndex": 5,
+      "valueAfter": " Do you li"
+    },
+    {
+      "timestamp": 1765964279681,
+      "key": "lik",
+      "sentenceIndex": 5,
+      "valueAfter": " Do you lik"
+    },
+    {
+      "timestamp": 1765964279771,
+      "key": "like",
+      "sentenceIndex": 5,
+      "valueAfter": " Do you like"
+    },
+    {
+      "timestamp": 1765964279945,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " Do you like "
+    },
+    {
+      "timestamp": 1765964280523,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": " Do you like t"
+    }
+  ]
+}

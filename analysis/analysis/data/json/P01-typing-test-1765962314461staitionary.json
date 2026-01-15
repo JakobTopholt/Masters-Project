@@ -1,0 +1,1829 @@
+{
+  "mode": "stationary",
+  "timestamp": "2025-12-17T09:05:14.452Z",
+  "duration": 60.003,
+  "wpm": 50,
+  "accuracy": "85.07",
+  "totalCharactersTyped": 288,
+  "correctCharacters": 245,
+  "errors": 54,
+  "sentencesCompleted": 9,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Faster than a speeding bullet",
+      "expected": "Faster than a speeding bullet"
+    },
+    {
+      "typed": "The bus was very crowded",
+      "expected": "The bus was very crowded"
+    },
+    {
+      "typed": "The accident scene is a shrine for fans",
+      "expected": "The accident scene is a shrine for fans"
+    },
+    {
+      "typed": "Kunne bone is connected to the thigh bon",
+      "expected": "Knee bone is connected to the thigh bone"
+    },
+    {
+      "typed": "The fax machine is broken",
+      "expected": "The fax machine is broken"
+    },
+    {
+      "typed": "Get aboard the ship is leaving",
+      "expected": "Get aboard the ship is leaving"
+    },
+    {
+      "typed": "Be discreet about your meeting",
+      "expected": "Be discreet about your meeting"
+    },
+    {
+      "typed": "Burglars never leave their business card",
+      "expected": "Burglars never leave their business card"
+    },
+    {
+      "typed": "A coupon for a free sample",
+      "expected": "A coupon for a free sample"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765962248410,
+      "key": "F",
+      "sentenceIndex": 0,
+      "valueAfter": "F"
+    },
+    {
+      "timestamp": 1765962248542,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Fa"
+    },
+    {
+      "timestamp": 1765962248709,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Fas"
+    },
+    {
+      "timestamp": 1765962248784,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Fast"
+    },
+    {
+      "timestamp": 1765962248967,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Faste"
+    },
+    {
+      "timestamp": 1765962249094,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Fastee"
+    },
+    {
+      "timestamp": 1765962249215,
+      "key": "Faster ",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster "
+    },
+    {
+      "timestamp": 1765962249340,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster t"
+    },
+    {
+      "timestamp": 1765962249465,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster th"
+    },
+    {
+      "timestamp": 1765962249643,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster tha"
+    },
+    {
+      "timestamp": 1765962249765,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster than"
+    },
+    {
+      "timestamp": 1765962249977,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster than "
+    },
+    {
+      "timestamp": 1765962250167,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster than a"
+    },
+    {
+      "timestamp": 1765962250306,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster than a "
+    },
+    {
+      "timestamp": 1765962250459,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster than a s"
+    },
+    {
+      "timestamp": 1765962250633,
+      "key": "p",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster than a sp"
+    },
+    {
+      "timestamp": 1765962250713,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster than a spe"
+    },
+    {
+      "timestamp": 1765962250863,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster than a spee"
+    },
+    {
+      "timestamp": 1765962251040,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster than a speed"
+    },
+    {
+      "timestamp": 1765962251129,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster than a speedi"
+    },
+    {
+      "timestamp": 1765962251320,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster than a speedin"
+    },
+    {
+      "timestamp": 1765962251402,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster than a speeding"
+    },
+    {
+      "timestamp": 1765962251529,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster than a speeding "
+    },
+    {
+      "timestamp": 1765962251697,
+      "key": "b",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster than a speeding b"
+    },
+    {
+      "timestamp": 1765962251930,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster than a speeding bu"
+    },
+    {
+      "timestamp": 1765962252134,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster than a speeding bul"
+    },
+    {
+      "timestamp": 1765962252284,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster than a speeding bull"
+    },
+    {
+      "timestamp": 1765962252383,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster than a speeding bulle"
+    },
+    {
+      "timestamp": 1765962252584,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Faster than a speeding bullet"
+    },
+    {
+      "timestamp": 1765962253943,
+      "key": "T",
+      "sentenceIndex": 1,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765962254096,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765962254163,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765962254393,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765962254564,
+      "key": "b",
+      "sentenceIndex": 1,
+      "valueAfter": "The b"
+    },
+    {
+      "timestamp": 1765962254739,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "The bu"
+    },
+    {
+      "timestamp": 1765962254828,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "The bus"
+    },
+    {
+      "timestamp": 1765962255000,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The bus "
+    },
+    {
+      "timestamp": 1765962255062,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "The bus w"
+    },
+    {
+      "timestamp": 1765962255672,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "The bus wa"
+    },
+    {
+      "timestamp": 1765962255859,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "The bus was"
+    },
+    {
+      "timestamp": 1765962255973,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The bus was "
+    },
+    {
+      "timestamp": 1765962256344,
+      "key": "v",
+      "sentenceIndex": 1,
+      "valueAfter": "The bus was v"
+    },
+    {
+      "timestamp": 1765962256470,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The bus was ve"
+    },
+    {
+      "timestamp": 1765962256620,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "The bus was ver"
+    },
+    {
+      "timestamp": 1765962257317,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "The bus was very"
+    },
+    {
+      "timestamp": 1765962257574,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The bus was very "
+    },
+    {
+      "timestamp": 1765962257663,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "The bus was very c"
+    },
+    {
+      "timestamp": 1765962257864,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "The bus was very cr"
+    },
+    {
+      "timestamp": 1765962257984,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "The bus was very cro"
+    },
+    {
+      "timestamp": 1765962258116,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "The bus was very crow"
+    },
+    {
+      "timestamp": 1765962258333,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "The bus was very crowd"
+    },
+    {
+      "timestamp": 1765962258520,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The bus was very crowde"
+    },
+    {
+      "timestamp": 1765962258681,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "The bus was very crowded"
+    },
+    {
+      "timestamp": 1765962259804,
+      "key": "T",
+      "sentenceIndex": 2,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765962259976,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765962260099,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765962260230,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765962260351,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "The a"
+    },
+    {
+      "timestamp": 1765962260433,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "The ac"
+    },
+    {
+      "timestamp": 1765962260685,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "The aci"
+    },
+    {
+      "timestamp": 1765962261117,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "The ac"
+    },
+    {
+      "timestamp": 1765962261243,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "The acc"
+    },
+    {
+      "timestamp": 1765962261373,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "The acci"
+    },
+    {
+      "timestamp": 1765962261509,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "The accid"
+    },
+    {
+      "timestamp": 1765962261674,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "The accide"
+    },
+    {
+      "timestamp": 1765962261775,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "The acciden"
+    },
+    {
+      "timestamp": 1765962261895,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident"
+    },
+    {
+      "timestamp": 1765962262047,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident "
+    },
+    {
+      "timestamp": 1765962262240,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident s"
+    },
+    {
+      "timestamp": 1765962262371,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident sc"
+    },
+    {
+      "timestamp": 1765962262511,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident sce"
+    },
+    {
+      "timestamp": 1765962262630,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scen"
+    },
+    {
+      "timestamp": 1765962262730,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene"
+    },
+    {
+      "timestamp": 1765962262842,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene "
+    },
+    {
+      "timestamp": 1765962263060,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene i"
+    },
+    {
+      "timestamp": 1765962263159,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene is"
+    },
+    {
+      "timestamp": 1765962263313,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene is "
+    },
+    {
+      "timestamp": 1765962263436,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene is a"
+    },
+    {
+      "timestamp": 1765962263531,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene is a "
+    },
+    {
+      "timestamp": 1765962263618,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene is a s"
+    },
+    {
+      "timestamp": 1765962263758,
+      "key": "j",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene is a sj"
+    },
+    {
+      "timestamp": 1765962263912,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene is a sjr"
+    },
+    {
+      "timestamp": 1765962264051,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene is a sjri"
+    },
+    {
+      "timestamp": 1765962264236,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene is a sjrin"
+    },
+    {
+      "timestamp": 1765962264315,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene is a sjrine"
+    },
+    {
+      "timestamp": 1765962264438,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene is a "
+    },
+    {
+      "timestamp": 1765962264448,
+      "key": "shrine ",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene is a shrine "
+    },
+    {
+      "timestamp": 1765962264566,
+      "key": "f",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene is a shrine f"
+    },
+    {
+      "timestamp": 1765962264682,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene is a shrine fo"
+    },
+    {
+      "timestamp": 1765962264782,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene is a shrine for"
+    },
+    {
+      "timestamp": 1765962264939,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene is a shrine for "
+    },
+    {
+      "timestamp": 1765962265309,
+      "key": "f",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene is a shrine for f"
+    },
+    {
+      "timestamp": 1765962265507,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene is a shrine for fa"
+    },
+    {
+      "timestamp": 1765962265605,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene is a shrine for fan"
+    },
+    {
+      "timestamp": 1765962265713,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "The accident scene is a shrine for fans"
+    },
+    {
+      "timestamp": 1765962266865,
+      "key": "K",
+      "sentenceIndex": 3,
+      "valueAfter": "K"
+    },
+    {
+      "timestamp": 1765962267027,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Kn"
+    },
+    {
+      "timestamp": 1765962267184,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Knn"
+    },
+    {
+      "timestamp": 1765962267283,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Knne"
+    },
+    {
+      "timestamp": 1765962267405,
+      "key": "Kunne ",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne "
+    },
+    {
+      "timestamp": 1765962267592,
+      "key": "b",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne b"
+    },
+    {
+      "timestamp": 1765962267833,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bo"
+    },
+    {
+      "timestamp": 1765962268011,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bon"
+    },
+    {
+      "timestamp": 1765962268131,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone"
+    },
+    {
+      "timestamp": 1765962268230,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone "
+    },
+    {
+      "timestamp": 1765962268434,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone i"
+    },
+    {
+      "timestamp": 1765962268506,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is"
+    },
+    {
+      "timestamp": 1765962268669,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is "
+    },
+    {
+      "timestamp": 1765962268797,
+      "key": "c",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is c"
+    },
+    {
+      "timestamp": 1765962268898,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is co"
+    },
+    {
+      "timestamp": 1765962269063,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is con"
+    },
+    {
+      "timestamp": 1765962269205,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is conn"
+    },
+    {
+      "timestamp": 1765962269272,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is conne"
+    },
+    {
+      "timestamp": 1765962269438,
+      "key": "c",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connec"
+    },
+    {
+      "timestamp": 1765962269658,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connect"
+    },
+    {
+      "timestamp": 1765962269771,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connecte"
+    },
+    {
+      "timestamp": 1765962269940,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connected"
+    },
+    {
+      "timestamp": 1765962270056,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connected "
+    },
+    {
+      "timestamp": 1765962270213,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connected t"
+    },
+    {
+      "timestamp": 1765962270297,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connected to"
+    },
+    {
+      "timestamp": 1765962270645,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connected to "
+    },
+    {
+      "timestamp": 1765962270738,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connected to t"
+    },
+    {
+      "timestamp": 1765962270855,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connected to th"
+    },
+    {
+      "timestamp": 1765962270976,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connected to the"
+    },
+    {
+      "timestamp": 1765962271073,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connected to the "
+    },
+    {
+      "timestamp": 1765962271253,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connected to the h"
+    },
+    {
+      "timestamp": 1765962271654,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connected to the "
+    },
+    {
+      "timestamp": 1765962271820,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connected to the t"
+    },
+    {
+      "timestamp": 1765962271969,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connected to the th"
+    },
+    {
+      "timestamp": 1765962272193,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connected to the tho"
+    },
+    {
+      "timestamp": 1765962272276,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connected to the thog"
+    },
+    {
+      "timestamp": 1765962272436,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connected to the thogh"
+    },
+    {
+      "timestamp": 1765962272687,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connected to the "
+    },
+    {
+      "timestamp": 1765962272705,
+      "key": "thigh ",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connected to the thigh "
+    },
+    {
+      "timestamp": 1765962272839,
+      "key": "b",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connected to the thigh b"
+    },
+    {
+      "timestamp": 1765962273066,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connected to the thigh bo"
+    },
+    {
+      "timestamp": 1765962273257,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Kunne bone is connected to the thigh bon"
+    },
+    {
+      "timestamp": 1765962273341,
+      "key": "E",
+      "sentenceIndex": 4,
+      "valueAfter": "E"
+    },
+    {
+      "timestamp": 1765962274715,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1765962275003,
+      "key": "T",
+      "sentenceIndex": 4,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765962275192,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765962275332,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765962275553,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765962275951,
+      "key": "f",
+      "sentenceIndex": 4,
+      "valueAfter": "The f"
+    },
+    {
+      "timestamp": 1765962276150,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "The fa"
+    },
+    {
+      "timestamp": 1765962276575,
+      "key": "x",
+      "sentenceIndex": 4,
+      "valueAfter": "The fax"
+    },
+    {
+      "timestamp": 1765962276731,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "The fax "
+    },
+    {
+      "timestamp": 1765962276997,
+      "key": "m",
+      "sentenceIndex": 4,
+      "valueAfter": "The fax m"
+    },
+    {
+      "timestamp": 1765962277090,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "The fax ma"
+    },
+    {
+      "timestamp": 1765962277386,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": "The fax mac"
+    },
+    {
+      "timestamp": 1765962277503,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "The fax mach"
+    },
+    {
+      "timestamp": 1765962277723,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "The fax machi"
+    },
+    {
+      "timestamp": 1765962277896,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "The fax machin"
+    },
+    {
+      "timestamp": 1765962277979,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "The fax machine"
+    },
+    {
+      "timestamp": 1765962278106,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "The fax machine "
+    },
+    {
+      "timestamp": 1765962278321,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "The fax machine i"
+    },
+    {
+      "timestamp": 1765962278468,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "The fax machine is"
+    },
+    {
+      "timestamp": 1765962278588,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "The fax machine is "
+    },
+    {
+      "timestamp": 1765962278937,
+      "key": "b",
+      "sentenceIndex": 4,
+      "valueAfter": "The fax machine is b"
+    },
+    {
+      "timestamp": 1765962279177,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "The fax machine is br"
+    },
+    {
+      "timestamp": 1765962279266,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "The fax machine is bro"
+    },
+    {
+      "timestamp": 1765962279452,
+      "key": "k",
+      "sentenceIndex": 4,
+      "valueAfter": "The fax machine is brok"
+    },
+    {
+      "timestamp": 1765962279557,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "The fax machine is broke"
+    },
+    {
+      "timestamp": 1765962279652,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "The fax machine is broken"
+    },
+    {
+      "timestamp": 1765962280702,
+      "key": "G",
+      "sentenceIndex": 5,
+      "valueAfter": "G"
+    },
+    {
+      "timestamp": 1765962280782,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Ge"
+    },
+    {
+      "timestamp": 1765962280898,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "Get"
+    },
+    {
+      "timestamp": 1765962281157,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Get "
+    },
+    {
+      "timestamp": 1765962281396,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Get a"
+    },
+    {
+      "timestamp": 1765962281492,
+      "key": "b",
+      "sentenceIndex": 5,
+      "valueAfter": "Get ab"
+    },
+    {
+      "timestamp": 1765962281830,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "Get abo"
+    },
+    {
+      "timestamp": 1765962281976,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboa"
+    },
+    {
+      "timestamp": 1765962282218,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboar"
+    },
+    {
+      "timestamp": 1765962282403,
+      "key": "d",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboard"
+    },
+    {
+      "timestamp": 1765962282569,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboard "
+    },
+    {
+      "timestamp": 1765962282735,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboard t"
+    },
+    {
+      "timestamp": 1765962282853,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboard th"
+    },
+    {
+      "timestamp": 1765962282983,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboard the"
+    },
+    {
+      "timestamp": 1765962283137,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboard the "
+    },
+    {
+      "timestamp": 1765962283382,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboard the s"
+    },
+    {
+      "timestamp": 1765962283544,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboard the sh"
+    },
+    {
+      "timestamp": 1765962283784,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboard the shi"
+    },
+    {
+      "timestamp": 1765962283999,
+      "key": "p",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboard the ship"
+    },
+    {
+      "timestamp": 1765962284262,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboard the ship "
+    },
+    {
+      "timestamp": 1765962284454,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboard the ship i"
+    },
+    {
+      "timestamp": 1765962284574,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboard the ship is"
+    },
+    {
+      "timestamp": 1765962284712,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboard the ship is "
+    },
+    {
+      "timestamp": 1765962285271,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboard the ship is l"
+    },
+    {
+      "timestamp": 1765962285336,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboard the ship is le"
+    },
+    {
+      "timestamp": 1765962285538,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboard the ship is lea"
+    },
+    {
+      "timestamp": 1765962285823,
+      "key": "v",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboard the ship is leav"
+    },
+    {
+      "timestamp": 1765962286043,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboard the ship is leavi"
+    },
+    {
+      "timestamp": 1765962286221,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboard the ship is leavin"
+    },
+    {
+      "timestamp": 1765962286311,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": "Get aboard the ship is leaving"
+    },
+    {
+      "timestamp": 1765962287303,
+      "key": "B",
+      "sentenceIndex": 6,
+      "valueAfter": "B"
+    },
+    {
+      "timestamp": 1765962287383,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Be"
+    },
+    {
+      "timestamp": 1765962287527,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Be "
+    },
+    {
+      "timestamp": 1765962287800,
+      "key": "d",
+      "sentenceIndex": 6,
+      "valueAfter": "Be d"
+    },
+    {
+      "timestamp": 1765962287946,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Be de"
+    },
+    {
+      "timestamp": 1765962288106,
+      "key": "s",
+      "sentenceIndex": 6,
+      "valueAfter": "Be des"
+    },
+    {
+      "timestamp": 1765962288256,
+      "key": "c",
+      "sentenceIndex": 6,
+      "valueAfter": "Be desc"
+    },
+    {
+      "timestamp": 1765962288473,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "Be descr"
+    },
+    {
+      "timestamp": 1765962288596,
+      "key": "i",
+      "sentenceIndex": 6,
+      "valueAfter": "Be descri"
+    },
+    {
+      "timestamp": 1765962289121,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "Be descr"
+    },
+    {
+      "timestamp": 1765962289330,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Be descre"
+    },
+    {
+      "timestamp": 1765962289510,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Be descree"
+    },
+    {
+      "timestamp": 1765962289762,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "Be descreet"
+    },
+    {
+      "timestamp": 1765962289962,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "Be "
+    },
+    {
+      "timestamp": 1765962289987,
+      "key": "discreet ",
+      "sentenceIndex": 6,
+      "valueAfter": "Be discreet "
+    },
+    {
+      "timestamp": 1765962290210,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "Be discreet a"
+    },
+    {
+      "timestamp": 1765962290292,
+      "key": "b",
+      "sentenceIndex": 6,
+      "valueAfter": "Be discreet ab"
+    },
+    {
+      "timestamp": 1765962290519,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "Be discreet abo"
+    },
+    {
+      "timestamp": 1765962290711,
+      "key": "u",
+      "sentenceIndex": 6,
+      "valueAfter": "Be discreet abou"
+    },
+    {
+      "timestamp": 1765962290877,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "Be discreet about"
+    },
+    {
+      "timestamp": 1765962290981,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Be discreet about "
+    },
+    {
+      "timestamp": 1765962291217,
+      "key": "y",
+      "sentenceIndex": 6,
+      "valueAfter": "Be discreet about y"
+    },
+    {
+      "timestamp": 1765962291472,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "Be discreet about yo"
+    },
+    {
+      "timestamp": 1765962291649,
+      "key": "u",
+      "sentenceIndex": 6,
+      "valueAfter": "Be discreet about you"
+    },
+    {
+      "timestamp": 1765962291765,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "Be discreet about your"
+    },
+    {
+      "timestamp": 1765962291909,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Be discreet about your "
+    },
+    {
+      "timestamp": 1765962292105,
+      "key": "m",
+      "sentenceIndex": 6,
+      "valueAfter": "Be discreet about your m"
+    },
+    {
+      "timestamp": 1765962292181,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Be discreet about your me"
+    },
+    {
+      "timestamp": 1765962292332,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Be discreet about your mee"
+    },
+    {
+      "timestamp": 1765962292520,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "Be discreet about your meet"
+    },
+    {
+      "timestamp": 1765962292607,
+      "key": "i",
+      "sentenceIndex": 6,
+      "valueAfter": "Be discreet about your meeti"
+    },
+    {
+      "timestamp": 1765962292811,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "Be discreet about your meetin"
+    },
+    {
+      "timestamp": 1765962292888,
+      "key": "g",
+      "sentenceIndex": 6,
+      "valueAfter": "Be discreet about your meeting"
+    },
+    {
+      "timestamp": 1765962293905,
+      "key": "B",
+      "sentenceIndex": 7,
+      "valueAfter": "B"
+    },
+    {
+      "timestamp": 1765962294390,
+      "key": "u",
+      "sentenceIndex": 7,
+      "valueAfter": "Bu"
+    },
+    {
+      "timestamp": 1765962294625,
+      "key": "r",
+      "sentenceIndex": 7,
+      "valueAfter": "Bur"
+    },
+    {
+      "timestamp": 1765962294908,
+      "key": "g",
+      "sentenceIndex": 7,
+      "valueAfter": "Burg"
+    },
+    {
+      "timestamp": 1765962295117,
+      "key": "l",
+      "sentenceIndex": 7,
+      "valueAfter": "Burgl"
+    },
+    {
+      "timestamp": 1765962295323,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "Burgla"
+    },
+    {
+      "timestamp": 1765962295563,
+      "key": "r",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglar"
+    },
+    {
+      "timestamp": 1765962295840,
+      "key": "s",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars"
+    },
+    {
+      "timestamp": 1765962296008,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars "
+    },
+    {
+      "timestamp": 1765962296172,
+      "key": "n",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars n"
+    },
+    {
+      "timestamp": 1765962296245,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars ne"
+    },
+    {
+      "timestamp": 1765962296433,
+      "key": "v",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars nev"
+    },
+    {
+      "timestamp": 1765962296528,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars neve"
+    },
+    {
+      "timestamp": 1765962296679,
+      "key": "r",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never"
+    },
+    {
+      "timestamp": 1765962296746,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never "
+    },
+    {
+      "timestamp": 1765962297029,
+      "key": "l",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never l"
+    },
+    {
+      "timestamp": 1765962297101,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never le"
+    },
+    {
+      "timestamp": 1765962297303,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never lea"
+    },
+    {
+      "timestamp": 1765962297376,
+      "key": "v",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leav"
+    },
+    {
+      "timestamp": 1765962297520,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leave"
+    },
+    {
+      "timestamp": 1765962297839,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leave "
+    },
+    {
+      "timestamp": 1765962297925,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leave t"
+    },
+    {
+      "timestamp": 1765962298077,
+      "key": "h",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leave th"
+    },
+    {
+      "timestamp": 1765962298207,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leave the"
+    },
+    {
+      "timestamp": 1765962298342,
+      "key": "i",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leave thei"
+    },
+    {
+      "timestamp": 1765962298449,
+      "key": "r",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leave their"
+    },
+    {
+      "timestamp": 1765962298619,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leave their "
+    },
+    {
+      "timestamp": 1765962298942,
+      "key": "b",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leave their b"
+    },
+    {
+      "timestamp": 1765962299149,
+      "key": "u",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leave their bu"
+    },
+    {
+      "timestamp": 1765962299246,
+      "key": "s",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leave their bus"
+    },
+    {
+      "timestamp": 1765962299372,
+      "key": "i",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leave their busi"
+    },
+    {
+      "timestamp": 1765962299548,
+      "key": "n",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leave their busin"
+    },
+    {
+      "timestamp": 1765962299638,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leave their busine"
+    },
+    {
+      "timestamp": 1765962299795,
+      "key": "s",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leave their busines"
+    },
+    {
+      "timestamp": 1765962299931,
+      "key": "s",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leave their business"
+    },
+    {
+      "timestamp": 1765962300013,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leave their business "
+    },
+    {
+      "timestamp": 1765962300213,
+      "key": "c",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leave their business c"
+    },
+    {
+      "timestamp": 1765962300337,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leave their business ca"
+    },
+    {
+      "timestamp": 1765962300438,
+      "key": "r",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leave their business car"
+    },
+    {
+      "timestamp": 1765962300588,
+      "key": "d",
+      "sentenceIndex": 7,
+      "valueAfter": "Burglars never leave their business card"
+    },
+    {
+      "timestamp": 1765962302205,
+      "key": "A",
+      "sentenceIndex": 8,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1765962302365,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "A "
+    },
+    {
+      "timestamp": 1765962302558,
+      "key": "c",
+      "sentenceIndex": 8,
+      "valueAfter": "A c"
+    },
+    {
+      "timestamp": 1765962302681,
+      "key": "o",
+      "sentenceIndex": 8,
+      "valueAfter": "A co"
+    },
+    {
+      "timestamp": 1765962302900,
+      "key": "u",
+      "sentenceIndex": 8,
+      "valueAfter": "A cou"
+    },
+    {
+      "timestamp": 1765962303199,
+      "key": "p",
+      "sentenceIndex": 8,
+      "valueAfter": "A coup"
+    },
+    {
+      "timestamp": 1765962303382,
+      "key": "o",
+      "sentenceIndex": 8,
+      "valueAfter": "A coupo"
+    },
+    {
+      "timestamp": 1765962303553,
+      "key": "n",
+      "sentenceIndex": 8,
+      "valueAfter": "A coupon"
+    },
+    {
+      "timestamp": 1765962303741,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "A coupon "
+    },
+    {
+      "timestamp": 1765962303856,
+      "key": "f",
+      "sentenceIndex": 8,
+      "valueAfter": "A coupon f"
+    },
+    {
+      "timestamp": 1765962303945,
+      "key": "o",
+      "sentenceIndex": 8,
+      "valueAfter": "A coupon fo"
+    },
+    {
+      "timestamp": 1765962304051,
+      "key": "r",
+      "sentenceIndex": 8,
+      "valueAfter": "A coupon for"
+    },
+    {
+      "timestamp": 1765962304179,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "A coupon for "
+    },
+    {
+      "timestamp": 1765962304497,
+      "key": "a",
+      "sentenceIndex": 8,
+      "valueAfter": "A coupon for a"
+    },
+    {
+      "timestamp": 1765962304661,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "A coupon for a "
+    },
+    {
+      "timestamp": 1765962304812,
+      "key": "f",
+      "sentenceIndex": 8,
+      "valueAfter": "A coupon for a f"
+    },
+    {
+      "timestamp": 1765962305002,
+      "key": "r",
+      "sentenceIndex": 8,
+      "valueAfter": "A coupon for a fr"
+    },
+    {
+      "timestamp": 1765962305152,
+      "key": "e",
+      "sentenceIndex": 8,
+      "valueAfter": "A coupon for a fre"
+    },
+    {
+      "timestamp": 1765962305300,
+      "key": "e",
+      "sentenceIndex": 8,
+      "valueAfter": "A coupon for a free"
+    },
+    {
+      "timestamp": 1765962305414,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "A coupon for a free "
+    },
+    {
+      "timestamp": 1765962305507,
+      "key": "s",
+      "sentenceIndex": 8,
+      "valueAfter": "A coupon for a free s"
+    },
+    {
+      "timestamp": 1765962305660,
+      "key": "a",
+      "sentenceIndex": 8,
+      "valueAfter": "A coupon for a free sa"
+    },
+    {
+      "timestamp": 1765962305768,
+      "key": "m",
+      "sentenceIndex": 8,
+      "valueAfter": "A coupon for a free sam"
+    },
+    {
+      "timestamp": 1765962306001,
+      "key": "p",
+      "sentenceIndex": 8,
+      "valueAfter": "A coupon for a free samp"
+    },
+    {
+      "timestamp": 1765962306140,
+      "key": "l",
+      "sentenceIndex": 8,
+      "valueAfter": "A coupon for a free sampl"
+    },
+    {
+      "timestamp": 1765962306226,
+      "key": "e",
+      "sentenceIndex": 8,
+      "valueAfter": "A coupon for a free sample"
+    },
+    {
+      "timestamp": 1765962307183,
+      "key": "T",
+      "sentenceIndex": 9,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765962307377,
+      "key": "h",
+      "sentenceIndex": 9,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765962307889,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 9,
+      "valueAfter": "T"
+    }
+  ]
+}

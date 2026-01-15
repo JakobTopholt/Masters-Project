@@ -1,0 +1,1289 @@
+{
+  "mode": "stationary",
+  "timestamp": "2025-12-17T10:03:11.942Z",
+  "duration": 60.001,
+  "wpm": 36,
+  "accuracy": "91.75",
+  "totalCharactersTyped": 194,
+  "correctCharacters": 178,
+  "errors": 16,
+  "sentencesCompleted": 6,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "The high waves will Swamp us",
+      "expected": "The high waves will swamp us"
+    },
+    {
+      "typed": "We dine out on the weekends",
+      "expected": "We dine out on the weekends"
+    },
+    {
+      "typed": "Pay off a mortgage for a house",
+      "expected": "Pay off a mortgage for a house"
+    },
+    {
+      "typed": "Relations are very strained",
+      "expected": "Relations are very strained"
+    },
+    {
+      "typed": "A thoroughly disgusting thing to say",
+      "expected": "A thoroughly disgusting thing to say"
+    },
+    {
+      "typed": "A very traditional way to dress",
+      "expected": "A very traditional way to dress"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765965727168,
+      "key": "T",
+      "sentenceIndex": 0,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765965727303,
+      "key": "Th",
+      "sentenceIndex": 0,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765965727587,
+      "key": "The",
+      "sentenceIndex": 0,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765965727728,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765965728507,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "The h"
+    },
+    {
+      "timestamp": 1765965728774,
+      "key": "hi",
+      "sentenceIndex": 0,
+      "valueAfter": "The hi"
+    },
+    {
+      "timestamp": 1765965728997,
+      "key": "hig",
+      "sentenceIndex": 0,
+      "valueAfter": "The hig"
+    },
+    {
+      "timestamp": 1765965729186,
+      "key": "high",
+      "sentenceIndex": 0,
+      "valueAfter": "The high"
+    },
+    {
+      "timestamp": 1765965729469,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The high "
+    },
+    {
+      "timestamp": 1765965729851,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "The high w"
+    },
+    {
+      "timestamp": 1765965730143,
+      "key": "wa",
+      "sentenceIndex": 0,
+      "valueAfter": "The high wa"
+    },
+    {
+      "timestamp": 1765965730268,
+      "key": "wav",
+      "sentenceIndex": 0,
+      "valueAfter": "The high wav"
+    },
+    {
+      "timestamp": 1765965730476,
+      "key": "wave",
+      "sentenceIndex": 0,
+      "valueAfter": "The high wave"
+    },
+    {
+      "timestamp": 1765965730710,
+      "key": "waves",
+      "sentenceIndex": 0,
+      "valueAfter": "The high waves"
+    },
+    {
+      "timestamp": 1765965730904,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The high waves "
+    },
+    {
+      "timestamp": 1765965731245,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "The high waves w"
+    },
+    {
+      "timestamp": 1765965731554,
+      "key": "wi",
+      "sentenceIndex": 0,
+      "valueAfter": "The high waves wi"
+    },
+    {
+      "timestamp": 1765965731847,
+      "key": "wil",
+      "sentenceIndex": 0,
+      "valueAfter": "The high waves wil"
+    },
+    {
+      "timestamp": 1765965731996,
+      "key": "will",
+      "sentenceIndex": 0,
+      "valueAfter": "The high waves will"
+    },
+    {
+      "timestamp": 1765965732274,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The high waves will "
+    },
+    {
+      "timestamp": 1765965732515,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "The high waves will s"
+    },
+    {
+      "timestamp": 1765965732757,
+      "key": "sw",
+      "sentenceIndex": 0,
+      "valueAfter": "The high waves will sw"
+    },
+    {
+      "timestamp": 1765965732990,
+      "key": "swa",
+      "sentenceIndex": 0,
+      "valueAfter": "The high waves will swa"
+    },
+    {
+      "timestamp": 1765965733083,
+      "key": "swam",
+      "sentenceIndex": 0,
+      "valueAfter": "The high waves will swam"
+    },
+    {
+      "timestamp": 1765965733350,
+      "key": "swamp",
+      "sentenceIndex": 0,
+      "valueAfter": "The high waves will swamp"
+    },
+    {
+      "timestamp": 1765965733645,
+      "key": "Swamp",
+      "sentenceIndex": 0,
+      "valueAfter": "The high waves will Swamp"
+    },
+    {
+      "timestamp": 1765965733652,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The high waves will Swamp "
+    },
+    {
+      "timestamp": 1765965733960,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "The high waves will Swamp u"
+    },
+    {
+      "timestamp": 1765965734145,
+      "key": "us",
+      "sentenceIndex": 0,
+      "valueAfter": "The high waves will Swamp us"
+    },
+    {
+      "timestamp": 1765965735413,
+      "key": "W",
+      "sentenceIndex": 1,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1765965735620,
+      "key": "We",
+      "sentenceIndex": 1,
+      "valueAfter": "We"
+    },
+    {
+      "timestamp": 1765965735817,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "We "
+    },
+    {
+      "timestamp": 1765965736006,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "We d"
+    },
+    {
+      "timestamp": 1765965736149,
+      "key": "di",
+      "sentenceIndex": 1,
+      "valueAfter": "We di"
+    },
+    {
+      "timestamp": 1765965736389,
+      "key": "din",
+      "sentenceIndex": 1,
+      "valueAfter": "We din"
+    },
+    {
+      "timestamp": 1765965736492,
+      "key": "dine",
+      "sentenceIndex": 1,
+      "valueAfter": "We dine"
+    },
+    {
+      "timestamp": 1765965736631,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "We dine "
+    },
+    {
+      "timestamp": 1765965737050,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "We dine o"
+    },
+    {
+      "timestamp": 1765965737282,
+      "key": "ou",
+      "sentenceIndex": 1,
+      "valueAfter": "We dine ou"
+    },
+    {
+      "timestamp": 1765965737476,
+      "key": "out",
+      "sentenceIndex": 1,
+      "valueAfter": "We dine out"
+    },
+    {
+      "timestamp": 1765965737641,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "We dine out "
+    },
+    {
+      "timestamp": 1765965738169,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "We dine out o"
+    },
+    {
+      "timestamp": 1765965738419,
+      "key": "on",
+      "sentenceIndex": 1,
+      "valueAfter": "We dine out on"
+    },
+    {
+      "timestamp": 1765965738632,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "We dine out on "
+    },
+    {
+      "timestamp": 1765965738813,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "We dine out on t"
+    },
+    {
+      "timestamp": 1765965738991,
+      "key": "th",
+      "sentenceIndex": 1,
+      "valueAfter": "We dine out on th"
+    },
+    {
+      "timestamp": 1765965739167,
+      "key": "the",
+      "sentenceIndex": 1,
+      "valueAfter": "We dine out on the"
+    },
+    {
+      "timestamp": 1765965739331,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "We dine out on the "
+    },
+    {
+      "timestamp": 1765965739673,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "We dine out on the w"
+    },
+    {
+      "timestamp": 1765965739915,
+      "key": "we",
+      "sentenceIndex": 1,
+      "valueAfter": "We dine out on the we"
+    },
+    {
+      "timestamp": 1765965740107,
+      "key": "wee",
+      "sentenceIndex": 1,
+      "valueAfter": "We dine out on the wee"
+    },
+    {
+      "timestamp": 1765965740247,
+      "key": "week",
+      "sentenceIndex": 1,
+      "valueAfter": "We dine out on the week"
+    },
+    {
+      "timestamp": 1765965740659,
+      "key": "weeke",
+      "sentenceIndex": 1,
+      "valueAfter": "We dine out on the weeke"
+    },
+    {
+      "timestamp": 1765965740908,
+      "key": "weeken",
+      "sentenceIndex": 1,
+      "valueAfter": "We dine out on the weeken"
+    },
+    {
+      "timestamp": 1765965741100,
+      "key": "weekend",
+      "sentenceIndex": 1,
+      "valueAfter": "We dine out on the weekend"
+    },
+    {
+      "timestamp": 1765965741308,
+      "key": "weekends",
+      "sentenceIndex": 1,
+      "valueAfter": "We dine out on the weekends"
+    },
+    {
+      "timestamp": 1765965742446,
+      "key": "P",
+      "sentenceIndex": 2,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1765965742663,
+      "key": "Pa",
+      "sentenceIndex": 2,
+      "valueAfter": "Pa"
+    },
+    {
+      "timestamp": 1765965742822,
+      "key": "Pay",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay"
+    },
+    {
+      "timestamp": 1765965743156,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay "
+    },
+    {
+      "timestamp": 1765965743530,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay o"
+    },
+    {
+      "timestamp": 1765965743699,
+      "key": "of",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay of"
+    },
+    {
+      "timestamp": 1765965743873,
+      "key": "off",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off"
+    },
+    {
+      "timestamp": 1765965744060,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off "
+    },
+    {
+      "timestamp": 1765965744265,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a"
+    },
+    {
+      "timestamp": 1765965744336,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a "
+    },
+    {
+      "timestamp": 1765965744625,
+      "key": "m",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a m"
+    },
+    {
+      "timestamp": 1765965744916,
+      "key": "mo",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a mo"
+    },
+    {
+      "timestamp": 1765965745186,
+      "key": "mor",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a mor"
+    },
+    {
+      "timestamp": 1765965745384,
+      "key": "mort",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a mort"
+    },
+    {
+      "timestamp": 1765965745944,
+      "key": "mortg",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a mortg"
+    },
+    {
+      "timestamp": 1765965746128,
+      "key": "mortga",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a mortga"
+    },
+    {
+      "timestamp": 1765965746178,
+      "key": "mortgag",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a mortgag"
+    },
+    {
+      "timestamp": 1765965746420,
+      "key": "mortgage",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a mortgage"
+    },
+    {
+      "timestamp": 1765965746597,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a mortgage "
+    },
+    {
+      "timestamp": 1765965746779,
+      "key": "f",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a mortgage f"
+    },
+    {
+      "timestamp": 1765965746923,
+      "key": "fo",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a mortgage fo"
+    },
+    {
+      "timestamp": 1765965747039,
+      "key": "for",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a mortgage for"
+    },
+    {
+      "timestamp": 1765965747235,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a mortgage for "
+    },
+    {
+      "timestamp": 1765965747439,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a mortgage for a"
+    },
+    {
+      "timestamp": 1765965747595,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a mortgage for a "
+    },
+    {
+      "timestamp": 1765965747923,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a mortgage for a h"
+    },
+    {
+      "timestamp": 1765965748475,
+      "key": "ho",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a mortgage for a ho"
+    },
+    {
+      "timestamp": 1765965748691,
+      "key": "hou",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a mortgage for a hou"
+    },
+    {
+      "timestamp": 1765965748842,
+      "key": "hous",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a mortgage for a hous"
+    },
+    {
+      "timestamp": 1765965749077,
+      "key": "house",
+      "sentenceIndex": 2,
+      "valueAfter": "Pay off a mortgage for a house"
+    },
+    {
+      "timestamp": 1765965750107,
+      "key": "R",
+      "sentenceIndex": 3,
+      "valueAfter": "R"
+    },
+    {
+      "timestamp": 1765965750304,
+      "key": "Re",
+      "sentenceIndex": 3,
+      "valueAfter": "Re"
+    },
+    {
+      "timestamp": 1765965750446,
+      "key": "Rel",
+      "sentenceIndex": 3,
+      "valueAfter": "Rel"
+    },
+    {
+      "timestamp": 1765965750580,
+      "key": "Rela",
+      "sentenceIndex": 3,
+      "valueAfter": "Rela"
+    },
+    {
+      "timestamp": 1765965750982,
+      "key": "Relat",
+      "sentenceIndex": 3,
+      "valueAfter": "Relat"
+    },
+    {
+      "timestamp": 1765965751157,
+      "key": "Relati",
+      "sentenceIndex": 3,
+      "valueAfter": "Relati"
+    },
+    {
+      "timestamp": 1765965751332,
+      "key": "Relatio",
+      "sentenceIndex": 3,
+      "valueAfter": "Relatio"
+    },
+    {
+      "timestamp": 1765965751558,
+      "key": "Relation",
+      "sentenceIndex": 3,
+      "valueAfter": "Relation"
+    },
+    {
+      "timestamp": 1765965751718,
+      "key": "Relations",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations"
+    },
+    {
+      "timestamp": 1765965751899,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations "
+    },
+    {
+      "timestamp": 1765965752042,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations a"
+    },
+    {
+      "timestamp": 1765965752427,
+      "key": "ar",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations ar"
+    },
+    {
+      "timestamp": 1765965752626,
+      "key": "are",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are"
+    },
+    {
+      "timestamp": 1765965752701,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are "
+    },
+    {
+      "timestamp": 1765965753045,
+      "key": "v",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are v"
+    },
+    {
+      "timestamp": 1765965753197,
+      "key": "ve",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are ve"
+    },
+    {
+      "timestamp": 1765965753404,
+      "key": "ver",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are ver"
+    },
+    {
+      "timestamp": 1765965753646,
+      "key": "very",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are very"
+    },
+    {
+      "timestamp": 1765965754089,
+      "key": "verys",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are verys"
+    },
+    {
+      "timestamp": 1765965754364,
+      "key": "veryst",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are veryst"
+    },
+    {
+      "timestamp": 1765965754573,
+      "key": "verystr",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are verystr"
+    },
+    {
+      "timestamp": 1765965754849,
+      "key": "verystra",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are verystra"
+    },
+    {
+      "timestamp": 1765965754965,
+      "key": "verystrai",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are verystrai"
+    },
+    {
+      "timestamp": 1765965755208,
+      "key": "verystraim",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are verystraim"
+    },
+    {
+      "timestamp": 1765965755323,
+      "key": "verystraime",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are verystraime"
+    },
+    {
+      "timestamp": 1765965755542,
+      "key": "verystraimed",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are verystraimed"
+    },
+    {
+      "timestamp": 1765965757264,
+      "key": "verystraime",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are verystraime"
+    },
+    {
+      "timestamp": 1765965757468,
+      "key": "verystraim",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are verystraim"
+    },
+    {
+      "timestamp": 1765965757702,
+      "key": "verystrai",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are verystrai"
+    },
+    {
+      "timestamp": 1765965758884,
+      "key": "verystraii",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are verystraii"
+    },
+    {
+      "timestamp": 1765965759673,
+      "key": "verystrai",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are verystrai"
+    },
+    {
+      "timestamp": 1765965759921,
+      "key": "verystra",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are verystra"
+    },
+    {
+      "timestamp": 1765965760096,
+      "key": "verystr",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are verystr"
+    },
+    {
+      "timestamp": 1765965760879,
+      "key": "veryst",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are veryst"
+    },
+    {
+      "timestamp": 1765965761083,
+      "key": "verys",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are verys"
+    },
+    {
+      "timestamp": 1765965761231,
+      "key": "very",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are very"
+    },
+    {
+      "timestamp": 1765965761608,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are very "
+    },
+    {
+      "timestamp": 1765965762122,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are very s"
+    },
+    {
+      "timestamp": 1765965762431,
+      "key": "st",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are very st"
+    },
+    {
+      "timestamp": 1765965762632,
+      "key": "str",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are very str"
+    },
+    {
+      "timestamp": 1765965762890,
+      "key": "stra",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are very stra"
+    },
+    {
+      "timestamp": 1765965763007,
+      "key": "strai",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are very strai"
+    },
+    {
+      "timestamp": 1765965763249,
+      "key": "strain",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are very strain"
+    },
+    {
+      "timestamp": 1765965763383,
+      "key": "straine",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are very straine"
+    },
+    {
+      "timestamp": 1765965763591,
+      "key": "strained",
+      "sentenceIndex": 3,
+      "valueAfter": "Relations are very strained"
+    },
+    {
+      "timestamp": 1765965764887,
+      "key": "A",
+      "sentenceIndex": 4,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1765965765001,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "A "
+    },
+    {
+      "timestamp": 1765965765581,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "A t"
+    },
+    {
+      "timestamp": 1765965765777,
+      "key": "th",
+      "sentenceIndex": 4,
+      "valueAfter": "A th"
+    },
+    {
+      "timestamp": 1765965766147,
+      "key": "tho",
+      "sentenceIndex": 4,
+      "valueAfter": "A tho"
+    },
+    {
+      "timestamp": 1765965766396,
+      "key": "thor",
+      "sentenceIndex": 4,
+      "valueAfter": "A thor"
+    },
+    {
+      "timestamp": 1765965766606,
+      "key": "thoro",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoro"
+    },
+    {
+      "timestamp": 1765965766949,
+      "key": "thorou",
+      "sentenceIndex": 4,
+      "valueAfter": "A thorou"
+    },
+    {
+      "timestamp": 1765965767192,
+      "key": "thoroug",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroug"
+    },
+    {
+      "timestamp": 1765965767371,
+      "key": "thorough",
+      "sentenceIndex": 4,
+      "valueAfter": "A thorough"
+    },
+    {
+      "timestamp": 1765965767683,
+      "key": "thoroughl",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughl"
+    },
+    {
+      "timestamp": 1765965767867,
+      "key": "thoroughly",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly"
+    },
+    {
+      "timestamp": 1765965768053,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly "
+    },
+    {
+      "timestamp": 1765965768595,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly d"
+    },
+    {
+      "timestamp": 1765965768886,
+      "key": "di",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly di"
+    },
+    {
+      "timestamp": 1765965769019,
+      "key": "dis",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly dis"
+    },
+    {
+      "timestamp": 1765965769329,
+      "key": "disg",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disg"
+    },
+    {
+      "timestamp": 1765965769497,
+      "key": "disgu",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgu"
+    },
+    {
+      "timestamp": 1765965769658,
+      "key": "disgus",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgus"
+    },
+    {
+      "timestamp": 1765965769963,
+      "key": "disgust",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgust"
+    },
+    {
+      "timestamp": 1765965770097,
+      "key": "disgusti",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgusti"
+    },
+    {
+      "timestamp": 1765965770331,
+      "key": "disgustin",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgustin"
+    },
+    {
+      "timestamp": 1765965770515,
+      "key": "disgusting",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgusting"
+    },
+    {
+      "timestamp": 1765965771907,
+      "key": "disgustingt",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgustingt"
+    },
+    {
+      "timestamp": 1765965772415,
+      "key": "disgusting",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgusting"
+    },
+    {
+      "timestamp": 1765965772809,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgusting "
+    },
+    {
+      "timestamp": 1765965773044,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgusting t"
+    },
+    {
+      "timestamp": 1765965773225,
+      "key": "th",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgusting th"
+    },
+    {
+      "timestamp": 1765965773436,
+      "key": "thi",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgusting thi"
+    },
+    {
+      "timestamp": 1765965773645,
+      "key": "thin",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgusting thin"
+    },
+    {
+      "timestamp": 1765965773796,
+      "key": "thing",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgusting thing"
+    },
+    {
+      "timestamp": 1765965774055,
+      "key": "thingt",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgusting thingt"
+    },
+    {
+      "timestamp": 1765965774618,
+      "key": "thing",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgusting thing"
+    },
+    {
+      "timestamp": 1765965775009,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgusting thing "
+    },
+    {
+      "timestamp": 1765965775282,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgusting thing t"
+    },
+    {
+      "timestamp": 1765965775382,
+      "key": "to",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgusting thing to"
+    },
+    {
+      "timestamp": 1765965775652,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgusting thing to "
+    },
+    {
+      "timestamp": 1765965775801,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgusting thing to s"
+    },
+    {
+      "timestamp": 1765965776093,
+      "key": "sa",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgusting thing to sa"
+    },
+    {
+      "timestamp": 1765965776275,
+      "key": "say",
+      "sentenceIndex": 4,
+      "valueAfter": "A thoroughly disgusting thing to say"
+    },
+    {
+      "timestamp": 1765965777406,
+      "key": "A",
+      "sentenceIndex": 5,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1765965777563,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "A "
+    },
+    {
+      "timestamp": 1765965777899,
+      "key": "v",
+      "sentenceIndex": 5,
+      "valueAfter": "A v"
+    },
+    {
+      "timestamp": 1765965778131,
+      "key": "ve",
+      "sentenceIndex": 5,
+      "valueAfter": "A ve"
+    },
+    {
+      "timestamp": 1765965778533,
+      "key": "ver",
+      "sentenceIndex": 5,
+      "valueAfter": "A ver"
+    },
+    {
+      "timestamp": 1765965778826,
+      "key": "very",
+      "sentenceIndex": 5,
+      "valueAfter": "A very"
+    },
+    {
+      "timestamp": 1765965778979,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "A very "
+    },
+    {
+      "timestamp": 1765965779451,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": "A very y"
+    },
+    {
+      "timestamp": 1765965779765,
+      "key": "yr",
+      "sentenceIndex": 5,
+      "valueAfter": "A very yr"
+    },
+    {
+      "timestamp": 1765965779976,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": "A very y"
+    },
+    {
+      "timestamp": 1765965780133,
+      "key": "insertCompositionText",
+      "sentenceIndex": 5,
+      "valueAfter": "A very "
+    },
+    {
+      "timestamp": 1765965780471,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "A very t"
+    },
+    {
+      "timestamp": 1765965780672,
+      "key": "tr",
+      "sentenceIndex": 5,
+      "valueAfter": "A very tr"
+    },
+    {
+      "timestamp": 1765965781024,
+      "key": "tra",
+      "sentenceIndex": 5,
+      "valueAfter": "A very tra"
+    },
+    {
+      "timestamp": 1765965781323,
+      "key": "trad",
+      "sentenceIndex": 5,
+      "valueAfter": "A very trad"
+    },
+    {
+      "timestamp": 1765965781509,
+      "key": "tradi",
+      "sentenceIndex": 5,
+      "valueAfter": "A very tradi"
+    },
+    {
+      "timestamp": 1765965781664,
+      "key": "tradit",
+      "sentenceIndex": 5,
+      "valueAfter": "A very tradit"
+    },
+    {
+      "timestamp": 1765965781741,
+      "key": "traditi",
+      "sentenceIndex": 5,
+      "valueAfter": "A very traditi"
+    },
+    {
+      "timestamp": 1765965781914,
+      "key": "traditio",
+      "sentenceIndex": 5,
+      "valueAfter": "A very traditio"
+    },
+    {
+      "timestamp": 1765965782124,
+      "key": "tradition",
+      "sentenceIndex": 5,
+      "valueAfter": "A very tradition"
+    },
+    {
+      "timestamp": 1765965782317,
+      "key": "traditiona",
+      "sentenceIndex": 5,
+      "valueAfter": "A very traditiona"
+    },
+    {
+      "timestamp": 1765965782442,
+      "key": "traditional",
+      "sentenceIndex": 5,
+      "valueAfter": "A very traditional"
+    },
+    {
+      "timestamp": 1765965782721,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "A very traditional "
+    },
+    {
+      "timestamp": 1765965783136,
+      "key": "w",
+      "sentenceIndex": 5,
+      "valueAfter": "A very traditional w"
+    },
+    {
+      "timestamp": 1765965783386,
+      "key": "wa",
+      "sentenceIndex": 5,
+      "valueAfter": "A very traditional wa"
+    },
+    {
+      "timestamp": 1765965783502,
+      "key": "way",
+      "sentenceIndex": 5,
+      "valueAfter": "A very traditional way"
+    },
+    {
+      "timestamp": 1765965783784,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "A very traditional way "
+    },
+    {
+      "timestamp": 1765965784012,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "A very traditional way t"
+    },
+    {
+      "timestamp": 1765965784179,
+      "key": "to",
+      "sentenceIndex": 5,
+      "valueAfter": "A very traditional way to"
+    },
+    {
+      "timestamp": 1765965784423,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "A very traditional way to "
+    },
+    {
+      "timestamp": 1765965784614,
+      "key": "d",
+      "sentenceIndex": 5,
+      "valueAfter": "A very traditional way to d"
+    },
+    {
+      "timestamp": 1765965784864,
+      "key": "dr",
+      "sentenceIndex": 5,
+      "valueAfter": "A very traditional way to dr"
+    },
+    {
+      "timestamp": 1765965785071,
+      "key": "dre",
+      "sentenceIndex": 5,
+      "valueAfter": "A very traditional way to dre"
+    },
+    {
+      "timestamp": 1765965785304,
+      "key": "dres",
+      "sentenceIndex": 5,
+      "valueAfter": "A very traditional way to dres"
+    },
+    {
+      "timestamp": 1765965785484,
+      "key": "dress",
+      "sentenceIndex": 5,
+      "valueAfter": "A very traditional way to dress"
+    },
+    {
+      "timestamp": 1765965786644,
+      "key": "O",
+      "sentenceIndex": 6,
+      "valueAfter": "O"
+    },
+    {
+      "timestamp": 1765965786993,
+      "key": "Ob",
+      "sentenceIndex": 6,
+      "valueAfter": "Ob"
+    }
+  ]
+}

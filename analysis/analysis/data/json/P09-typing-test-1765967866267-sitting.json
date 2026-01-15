@@ -1,0 +1,741 @@
+{
+  "mode": "stationary",
+  "timestamp": "2025-12-17T10:37:46.255Z",
+  "duration": 60.025,
+  "wpm": 40,
+  "accuracy": "182.86",
+  "totalCharactersTyped": 105,
+  "correctCharacters": 192,
+  "errors": 31,
+  "sentencesCompleted": 7,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "My watch feel in the water",
+      "expected": "My watch fell in the water"
+    },
+    {
+      "typed": "Win first prøve in the contest",
+      "expected": "Win first prize in the contest"
+    },
+    {
+      "typed": "Prevailing wind from the east",
+      "expected": "Prevailing wind from the east"
+    },
+    {
+      "typed": "The bus was very crowded",
+      "expected": "The bus was very crowded"
+    },
+    {
+      "typed": "Valium in the economy size",
+      "expected": "Valium in the economy size"
+    },
+    {
+      "typed": "Wear a crown woth many jewels",
+      "expected": "Wear a crown with many jewels"
+    },
+    {
+      "typed": "An occasional taste of chocolate",
+      "expected": "An occasional taste of chocolate"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765967798671,
+      "key": "My",
+      "sentenceIndex": 0,
+      "valueAfter": "My"
+    },
+    {
+      "timestamp": 1765967799642,
+      "key": " watch",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch"
+    },
+    {
+      "timestamp": 1765967800368,
+      "key": " feel",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch feel"
+    },
+    {
+      "timestamp": 1765967800785,
+      "key": " in",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch feel in"
+    },
+    {
+      "timestamp": 1765967801405,
+      "key": " the",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch feel in the"
+    },
+    {
+      "timestamp": 1765967802666,
+      "key": " water",
+      "sentenceIndex": 0,
+      "valueAfter": "My watch feel in the water"
+    },
+    {
+      "timestamp": 1765967804288,
+      "key": "Win",
+      "sentenceIndex": 1,
+      "valueAfter": "Win"
+    },
+    {
+      "timestamp": 1765967805334,
+      "key": " first",
+      "sentenceIndex": 1,
+      "valueAfter": "Win first"
+    },
+    {
+      "timestamp": 1765967806527,
+      "key": " prøve",
+      "sentenceIndex": 1,
+      "valueAfter": "Win first prøve"
+    },
+    {
+      "timestamp": 1765967807223,
+      "key": " in",
+      "sentenceIndex": 1,
+      "valueAfter": "Win first prøve in"
+    },
+    {
+      "timestamp": 1765967807844,
+      "key": " the",
+      "sentenceIndex": 1,
+      "valueAfter": "Win first prøve in the"
+    },
+    {
+      "timestamp": 1765967809115,
+      "key": " contest",
+      "sentenceIndex": 1,
+      "valueAfter": "Win first prøve in the contest"
+    },
+    {
+      "timestamp": 1765967811488,
+      "key": "Prevailing",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing"
+    },
+    {
+      "timestamp": 1765967812825,
+      "key": " wind",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing wind"
+    },
+    {
+      "timestamp": 1765967813540,
+      "key": " from",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing wind from"
+    },
+    {
+      "timestamp": 1765967814445,
+      "key": " the",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing wind from the"
+    },
+    {
+      "timestamp": 1765967815607,
+      "key": " east",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing wind from the east"
+    },
+    {
+      "timestamp": 1765967816865,
+      "key": "The",
+      "sentenceIndex": 3,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765967817586,
+      "key": " bus",
+      "sentenceIndex": 3,
+      "valueAfter": "The bus"
+    },
+    {
+      "timestamp": 1765967818272,
+      "key": " was",
+      "sentenceIndex": 3,
+      "valueAfter": "The bus was"
+    },
+    {
+      "timestamp": 1765967819170,
+      "key": " very",
+      "sentenceIndex": 3,
+      "valueAfter": "The bus was very"
+    },
+    {
+      "timestamp": 1765967820956,
+      "key": " crowded",
+      "sentenceIndex": 3,
+      "valueAfter": "The bus was very crowded"
+    },
+    {
+      "timestamp": 1765967823371,
+      "key": "Valium",
+      "sentenceIndex": 4,
+      "valueAfter": "Valium"
+    },
+    {
+      "timestamp": 1765967824171,
+      "key": " in",
+      "sentenceIndex": 4,
+      "valueAfter": "Valium in"
+    },
+    {
+      "timestamp": 1765967824965,
+      "key": " the",
+      "sentenceIndex": 4,
+      "valueAfter": "Valium in the"
+    },
+    {
+      "timestamp": 1765967826934,
+      "key": " economy",
+      "sentenceIndex": 4,
+      "valueAfter": "Valium in the economy"
+    },
+    {
+      "timestamp": 1765967828367,
+      "key": " size",
+      "sentenceIndex": 4,
+      "valueAfter": "Valium in the economy size"
+    },
+    {
+      "timestamp": 1765967829826,
+      "key": "Way",
+      "sentenceIndex": 5,
+      "valueAfter": "Way"
+    },
+    {
+      "timestamp": 1765967831552,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1765967832356,
+      "key": "W",
+      "sentenceIndex": 5,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1765967832494,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "We"
+    },
+    {
+      "timestamp": 1765967832709,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Wea"
+    },
+    {
+      "timestamp": 1765967832747,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear"
+    },
+    {
+      "timestamp": 1765967832894,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear "
+    },
+    {
+      "timestamp": 1765967833039,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a"
+    },
+    {
+      "timestamp": 1765967833093,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a "
+    },
+    {
+      "timestamp": 1765967833473,
+      "key": "x",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a x"
+    },
+    {
+      "timestamp": 1765967833583,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a xo"
+    },
+    {
+      "timestamp": 1765967833943,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a x"
+    },
+    {
+      "timestamp": 1765967834044,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a "
+    },
+    {
+      "timestamp": 1765967834158,
+      "key": "c",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a c"
+    },
+    {
+      "timestamp": 1765967834374,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a cr"
+    },
+    {
+      "timestamp": 1765967834605,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a cro"
+    },
+    {
+      "timestamp": 1765967834778,
+      "key": "w",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a crow"
+    },
+    {
+      "timestamp": 1765967834948,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a crown"
+    },
+    {
+      "timestamp": 1765967835126,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a crown "
+    },
+    {
+      "timestamp": 1765967835364,
+      "key": "w",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a crown w"
+    },
+    {
+      "timestamp": 1765967835421,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a crown wo"
+    },
+    {
+      "timestamp": 1765967835592,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a crown wot"
+    },
+    {
+      "timestamp": 1765967835701,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a crown woth"
+    },
+    {
+      "timestamp": 1765967835866,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a crown woth "
+    },
+    {
+      "timestamp": 1765967836034,
+      "key": "m",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a crown woth m"
+    },
+    {
+      "timestamp": 1765967836114,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a crown woth ma"
+    },
+    {
+      "timestamp": 1765967836185,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a crown woth man"
+    },
+    {
+      "timestamp": 1765967836358,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a crown woth many"
+    },
+    {
+      "timestamp": 1765967836475,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a crown woth many "
+    },
+    {
+      "timestamp": 1765967836861,
+      "key": "j",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a crown woth many j"
+    },
+    {
+      "timestamp": 1765967837016,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a crown woth many je"
+    },
+    {
+      "timestamp": 1765967837232,
+      "key": "w",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a crown woth many jew"
+    },
+    {
+      "timestamp": 1765967837405,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a crown woth many jewe"
+    },
+    {
+      "timestamp": 1765967837516,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a crown woth many jewel"
+    },
+    {
+      "timestamp": 1765967837667,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Wear a crown woth many jewels"
+    },
+    {
+      "timestamp": 1765967838911,
+      "key": "An",
+      "sentenceIndex": 6,
+      "valueAfter": "An"
+    },
+    {
+      "timestamp": 1765967840841,
+      "key": " occasional",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional"
+    },
+    {
+      "timestamp": 1765967841388,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "An "
+    },
+    {
+      "timestamp": 1765967843699,
+      "key": "Panodil",
+      "sentenceIndex": 6,
+      "valueAfter": "An Panodil"
+    },
+    {
+      "timestamp": 1765967844356,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "An "
+    },
+    {
+      "timestamp": 1765967845282,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "An o"
+    },
+    {
+      "timestamp": 1765967845442,
+      "key": "c",
+      "sentenceIndex": 6,
+      "valueAfter": "An oc"
+    },
+    {
+      "timestamp": 1765967845576,
+      "key": "c",
+      "sentenceIndex": 6,
+      "valueAfter": "An occ"
+    },
+    {
+      "timestamp": 1765967845887,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "An occa"
+    },
+    {
+      "timestamp": 1765967846197,
+      "key": "sion ",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasion "
+    },
+    {
+      "timestamp": 1765967846873,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasion"
+    },
+    {
+      "timestamp": 1765967847378,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasiona"
+    },
+    {
+      "timestamp": 1765967847438,
+      "key": "l",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional"
+    },
+    {
+      "timestamp": 1765967847670,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional "
+    },
+    {
+      "timestamp": 1765967847934,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional t"
+    },
+    {
+      "timestamp": 1765967848034,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional ta"
+    },
+    {
+      "timestamp": 1765967848148,
+      "key": "s",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional tas"
+    },
+    {
+      "timestamp": 1765967848194,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional tast"
+    },
+    {
+      "timestamp": 1765967848341,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste"
+    },
+    {
+      "timestamp": 1765967848408,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste "
+    },
+    {
+      "timestamp": 1765967848526,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste o"
+    },
+    {
+      "timestamp": 1765967848622,
+      "key": "f",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of"
+    },
+    {
+      "timestamp": 1765967848670,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of "
+    },
+    {
+      "timestamp": 1765967848870,
+      "key": "c",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of c"
+    },
+    {
+      "timestamp": 1765967849009,
+      "key": "h",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of ch"
+    },
+    {
+      "timestamp": 1765967849153,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of cho"
+    },
+    {
+      "timestamp": 1765967849524,
+      "key": "c",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of choc"
+    },
+    {
+      "timestamp": 1765967850718,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of cho"
+    },
+    {
+      "timestamp": 1765967852023,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of ch"
+    },
+    {
+      "timestamp": 1765967852302,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of c"
+    },
+    {
+      "timestamp": 1765967852746,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of "
+    },
+    {
+      "timestamp": 1765967853031,
+      "key": "x",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of x"
+    },
+    {
+      "timestamp": 1765967853420,
+      "key": "h",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of xh"
+    },
+    {
+      "timestamp": 1765967853572,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of xho"
+    },
+    {
+      "timestamp": 1765967854350,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of "
+    },
+    {
+      "timestamp": 1765967855287,
+      "key": "c",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of c"
+    },
+    {
+      "timestamp": 1765967855431,
+      "key": "h",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of ch"
+    },
+    {
+      "timestamp": 1765967855591,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of cho"
+    },
+    {
+      "timestamp": 1765967855845,
+      "key": "c",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of choc"
+    },
+    {
+      "timestamp": 1765967855929,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of choco"
+    },
+    {
+      "timestamp": 1765967856084,
+      "key": "l",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of chocol"
+    },
+    {
+      "timestamp": 1765967856219,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of chocola"
+    },
+    {
+      "timestamp": 1765967856325,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of chocolat"
+    },
+    {
+      "timestamp": 1765967856462,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "An occasional taste of chocolate"
+    },
+    {
+      "timestamp": 1765967857261,
+      "key": "I",
+      "sentenceIndex": 7,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1765967857416,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "I "
+    },
+    {
+      "timestamp": 1765967857542,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "I a"
+    },
+    {
+      "timestamp": 1765967857602,
+      "key": "m",
+      "sentenceIndex": 7,
+      "valueAfter": "I am"
+    },
+    {
+      "timestamp": 1765967857753,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "I am "
+    },
+    {
+      "timestamp": 1765967858240,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "I am a"
+    },
+    {
+      "timestamp": 1765967858292,
+      "key": "l",
+      "sentenceIndex": 7,
+      "valueAfter": "I am al"
+    },
+    {
+      "timestamp": 1765967858396,
+      "key": "l",
+      "sentenceIndex": 7,
+      "valueAfter": "I am all"
+    },
+    {
+      "timestamp": 1765967858517,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "I am alle"
+    },
+    {
+      "timestamp": 1765967858674,
+      "key": "r",
+      "sentenceIndex": 7,
+      "valueAfter": "I am aller"
+    }
+  ]
+}

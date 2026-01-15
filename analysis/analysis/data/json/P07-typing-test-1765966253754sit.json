@@ -1,0 +1,1223 @@
+{
+  "mode": "stationary",
+  "timestamp": "2025-12-17T10:10:53.736Z",
+  "duration": 60.004,
+  "wpm": 31,
+  "accuracy": "84.44",
+  "totalCharactersTyped": 180,
+  "correctCharacters": 152,
+  "errors": 57,
+  "sentencesCompleted": 6,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Raindrops keep falling on my head",
+      "expected": "Raindrops keep falling on my head"
+    },
+    {
+      "typed": "Healthy food is good for you",
+      "expected": "Healthy food is good for you"
+    },
+    {
+      "typed": "Beware the ideas of Msrc",
+      "expected": "Beware the ides of March"
+    },
+    {
+      "typed": "Never too rich and never too thin",
+      "expected": "Never too rich and never too thin"
+    },
+    {
+      "typed": "Elections bring out the besy",
+      "expected": "Elections bring out the best"
+    },
+    {
+      "typed": "Play it again Sam",
+      "expected": "Play it again Sam"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765966189936,
+      "key": "R",
+      "sentenceIndex": 0,
+      "valueAfter": "R"
+    },
+    {
+      "timestamp": 1765966190128,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Rs"
+    },
+    {
+      "timestamp": 1765966190243,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Rsi"
+    },
+    {
+      "timestamp": 1765966190662,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Rsii"
+    },
+    {
+      "timestamp": 1765966190903,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Rsiin"
+    },
+    {
+      "timestamp": 1765966191354,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Rsii"
+    },
+    {
+      "timestamp": 1765966191503,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Rsi"
+    },
+    {
+      "timestamp": 1765966191650,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Rs"
+    },
+    {
+      "timestamp": 1765966191805,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "R"
+    },
+    {
+      "timestamp": 1765966192035,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Ra"
+    },
+    {
+      "timestamp": 1765966192523,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Rai"
+    },
+    {
+      "timestamp": 1765966192743,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Rain"
+    },
+    {
+      "timestamp": 1765966192916,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "Raind"
+    },
+    {
+      "timestamp": 1765966193116,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindt"
+    },
+    {
+      "timestamp": 1765966193417,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindto"
+    },
+    {
+      "timestamp": 1765966193594,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoo"
+    },
+    {
+      "timestamp": 1765966193762,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos"
+    },
+    {
+      "timestamp": 1765966193917,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos "
+    },
+    {
+      "timestamp": 1765966194074,
+      "key": "k",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos k"
+    },
+    {
+      "timestamp": 1765966194216,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos ke"
+    },
+    {
+      "timestamp": 1765966194407,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos kee"
+    },
+    {
+      "timestamp": 1765966194572,
+      "key": "p",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos keep"
+    },
+    {
+      "timestamp": 1765966194841,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos keep "
+    },
+    {
+      "timestamp": 1765966195067,
+      "key": "f",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos keep f"
+    },
+    {
+      "timestamp": 1765966195265,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos keep fs"
+    },
+    {
+      "timestamp": 1765966195349,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos keep fsl"
+    },
+    {
+      "timestamp": 1765966195478,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos keep fsll"
+    },
+    {
+      "timestamp": 1765966195674,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos keep fslli"
+    },
+    {
+      "timestamp": 1765966195833,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos keep fsllin"
+    },
+    {
+      "timestamp": 1765966195984,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos keep fslling"
+    },
+    {
+      "timestamp": 1765966196112,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos keep "
+    },
+    {
+      "timestamp": 1765966196120,
+      "key": "falling ",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos keep falling "
+    },
+    {
+      "timestamp": 1765966196308,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos keep falling o"
+    },
+    {
+      "timestamp": 1765966196462,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos keep falling on"
+    },
+    {
+      "timestamp": 1765966196604,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos keep falling on "
+    },
+    {
+      "timestamp": 1765966197082,
+      "key": "m",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos keep falling on m"
+    },
+    {
+      "timestamp": 1765966197450,
+      "key": "y",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos keep falling on my"
+    },
+    {
+      "timestamp": 1765966197620,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos keep falling on my "
+    },
+    {
+      "timestamp": 1765966198408,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos keep falling on my h"
+    },
+    {
+      "timestamp": 1765966198491,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos keep falling on my he"
+    },
+    {
+      "timestamp": 1765966198757,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtoos keep falling on my hea"
+    },
+    {
+      "timestamp": 1765966201301,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindtos keep falling on my hea"
+    },
+    {
+      "timestamp": 1765966201485,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindts keep falling on my hea"
+    },
+    {
+      "timestamp": 1765966201922,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Rainds keep falling on my hea"
+    },
+    {
+      "timestamp": 1765966202692,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindrs keep falling on my hea"
+    },
+    {
+      "timestamp": 1765966203037,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindros keep falling on my hea"
+    },
+    {
+      "timestamp": 1765966203333,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindroos keep falling on my hea"
+    },
+    {
+      "timestamp": 1765966204042,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindros keep falling on my hea"
+    },
+    {
+      "timestamp": 1765966204212,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindrs keep falling on my hea"
+    },
+    {
+      "timestamp": 1765966204369,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Rainds keep falling on my hea"
+    },
+    {
+      "timestamp": 1765966206209,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindrs keep falling on my hea"
+    },
+    {
+      "timestamp": 1765966206509,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindros keep falling on my hea"
+    },
+    {
+      "timestamp": 1765966206795,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindroos keep falling on my hea"
+    },
+    {
+      "timestamp": 1765966207549,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindros keep falling on my hea"
+    },
+    {
+      "timestamp": 1765966208058,
+      "key": "p",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindrops keep falling on my hea"
+    },
+    {
+      "timestamp": 1765966210688,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "Raindrops keep falling on my head"
+    },
+    {
+      "timestamp": 1765966212884,
+      "key": "H",
+      "sentenceIndex": 1,
+      "valueAfter": "H"
+    },
+    {
+      "timestamp": 1765966213052,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "He"
+    },
+    {
+      "timestamp": 1765966213337,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Hea"
+    },
+    {
+      "timestamp": 1765966213519,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Heal"
+    },
+    {
+      "timestamp": 1765966213776,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Healt"
+    },
+    {
+      "timestamp": 1765966214024,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Health"
+    },
+    {
+      "timestamp": 1765966214218,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy"
+    },
+    {
+      "timestamp": 1765966214431,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy "
+    },
+    {
+      "timestamp": 1765966214958,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy f"
+    },
+    {
+      "timestamp": 1765966215103,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy fo"
+    },
+    {
+      "timestamp": 1765966215247,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy foo"
+    },
+    {
+      "timestamp": 1765966215442,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy food"
+    },
+    {
+      "timestamp": 1765966215583,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy food "
+    },
+    {
+      "timestamp": 1765966215787,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy food i"
+    },
+    {
+      "timestamp": 1765966215921,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy food id"
+    },
+    {
+      "timestamp": 1765966216038,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy food "
+    },
+    {
+      "timestamp": 1765966216041,
+      "key": "is ",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy food is "
+    },
+    {
+      "timestamp": 1765966216157,
+      "key": "g",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy food is g"
+    },
+    {
+      "timestamp": 1765966216288,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy food is go"
+    },
+    {
+      "timestamp": 1765966216439,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy food is goo"
+    },
+    {
+      "timestamp": 1765966216594,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy food is good"
+    },
+    {
+      "timestamp": 1765966216778,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy food is good "
+    },
+    {
+      "timestamp": 1765966217298,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy food is good f"
+    },
+    {
+      "timestamp": 1765966217423,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy food is good fo"
+    },
+    {
+      "timestamp": 1765966217584,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy food is good for"
+    },
+    {
+      "timestamp": 1765966217720,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy food is good for "
+    },
+    {
+      "timestamp": 1765966217962,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy food is good for y"
+    },
+    {
+      "timestamp": 1765966218132,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy food is good for yo"
+    },
+    {
+      "timestamp": 1765966218312,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "Healthy food is good for you"
+    },
+    {
+      "timestamp": 1765966219734,
+      "key": "B",
+      "sentenceIndex": 2,
+      "valueAfter": "B"
+    },
+    {
+      "timestamp": 1765966219908,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Be"
+    },
+    {
+      "timestamp": 1765966220264,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "Bew"
+    },
+    {
+      "timestamp": 1765966220445,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Bewa"
+    },
+    {
+      "timestamp": 1765966220815,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Bewar"
+    },
+    {
+      "timestamp": 1765966221014,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Beware"
+    },
+    {
+      "timestamp": 1765966221174,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Beware "
+    },
+    {
+      "timestamp": 1765966221381,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Beware t"
+    },
+    {
+      "timestamp": 1765966221505,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Beware th"
+    },
+    {
+      "timestamp": 1765966221686,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Beware the"
+    },
+    {
+      "timestamp": 1765966221870,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Beware the "
+    },
+    {
+      "timestamp": 1765966222198,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Beware the i"
+    },
+    {
+      "timestamp": 1765966222329,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "Beware the id"
+    },
+    {
+      "timestamp": 1765966222512,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Beware the ide"
+    },
+    {
+      "timestamp": 1765966222788,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Beware the idea"
+    },
+    {
+      "timestamp": 1765966223027,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Beware the ideas"
+    },
+    {
+      "timestamp": 1765966223171,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Beware the ideas "
+    },
+    {
+      "timestamp": 1765966223403,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Beware the ideas o"
+    },
+    {
+      "timestamp": 1765966223567,
+      "key": "f",
+      "sentenceIndex": 2,
+      "valueAfter": "Beware the ideas of"
+    },
+    {
+      "timestamp": 1765966223700,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Beware the ideas of "
+    },
+    {
+      "timestamp": 1765966224046,
+      "key": "M",
+      "sentenceIndex": 2,
+      "valueAfter": "Beware the ideas of M"
+    },
+    {
+      "timestamp": 1765966224239,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Beware the ideas of Ms"
+    },
+    {
+      "timestamp": 1765966224496,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Beware the ideas of Msr"
+    },
+    {
+      "timestamp": 1765966224833,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Beware the ideas of Msrc"
+    },
+    {
+      "timestamp": 1765966224990,
+      "key": "H",
+      "sentenceIndex": 3,
+      "valueAfter": "H"
+    },
+    {
+      "timestamp": 1765966225992,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1765966226686,
+      "key": "N",
+      "sentenceIndex": 3,
+      "valueAfter": "N"
+    },
+    {
+      "timestamp": 1765966226994,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Ne"
+    },
+    {
+      "timestamp": 1765966227156,
+      "key": "v",
+      "sentenceIndex": 3,
+      "valueAfter": "Nev"
+    },
+    {
+      "timestamp": 1765966227274,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Neve"
+    },
+    {
+      "timestamp": 1765966227446,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Never"
+    },
+    {
+      "timestamp": 1765966227636,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Never "
+    },
+    {
+      "timestamp": 1765966228252,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Never t"
+    },
+    {
+      "timestamp": 1765966228473,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Never to"
+    },
+    {
+      "timestamp": 1765966228615,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too"
+    },
+    {
+      "timestamp": 1765966228756,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too "
+    },
+    {
+      "timestamp": 1765966229091,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too r"
+    },
+    {
+      "timestamp": 1765966229238,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too ri"
+    },
+    {
+      "timestamp": 1765966229415,
+      "key": "c",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too ric"
+    },
+    {
+      "timestamp": 1765966229578,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too rich"
+    },
+    {
+      "timestamp": 1765966229747,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too rich "
+    },
+    {
+      "timestamp": 1765966230120,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too rich s"
+    },
+    {
+      "timestamp": 1765966230246,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too rich sn"
+    },
+    {
+      "timestamp": 1765966230370,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too rich snd"
+    },
+    {
+      "timestamp": 1765966230462,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too rich "
+    },
+    {
+      "timestamp": 1765966230475,
+      "key": "and ",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too rich and "
+    },
+    {
+      "timestamp": 1765966230754,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too rich and n"
+    },
+    {
+      "timestamp": 1765966230885,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too rich and ne"
+    },
+    {
+      "timestamp": 1765966230982,
+      "key": "v",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too rich and nev"
+    },
+    {
+      "timestamp": 1765966231138,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too rich and neve"
+    },
+    {
+      "timestamp": 1765966231323,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too rich and never"
+    },
+    {
+      "timestamp": 1765966231540,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too rich and never "
+    },
+    {
+      "timestamp": 1765966231667,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too rich and never t"
+    },
+    {
+      "timestamp": 1765966231874,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too rich and never to"
+    },
+    {
+      "timestamp": 1765966232048,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too rich and never too"
+    },
+    {
+      "timestamp": 1765966232226,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too rich and never too "
+    },
+    {
+      "timestamp": 1765966232620,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too rich and never too t"
+    },
+    {
+      "timestamp": 1765966232764,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too rich and never too th"
+    },
+    {
+      "timestamp": 1765966232924,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too rich and never too thi"
+    },
+    {
+      "timestamp": 1765966233146,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Never too rich and never too thin"
+    },
+    {
+      "timestamp": 1765966234138,
+      "key": "E",
+      "sentenceIndex": 4,
+      "valueAfter": "E"
+    },
+    {
+      "timestamp": 1765966234302,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "El"
+    },
+    {
+      "timestamp": 1765966234411,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Ele"
+    },
+    {
+      "timestamp": 1765966235054,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": "Elec"
+    },
+    {
+      "timestamp": 1765966235264,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Elect"
+    },
+    {
+      "timestamp": 1765966235416,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Electi"
+    },
+    {
+      "timestamp": 1765966235551,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Electio"
+    },
+    {
+      "timestamp": 1765966235746,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "Election"
+    },
+    {
+      "timestamp": 1765966235905,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Elections"
+    },
+    {
+      "timestamp": 1765966236047,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Elections "
+    },
+    {
+      "timestamp": 1765966236388,
+      "key": "b",
+      "sentenceIndex": 4,
+      "valueAfter": "Elections b"
+    },
+    {
+      "timestamp": 1765966236512,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Elections br"
+    },
+    {
+      "timestamp": 1765966236656,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Elections bri"
+    },
+    {
+      "timestamp": 1765966236831,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "Elections brin"
+    },
+    {
+      "timestamp": 1765966236954,
+      "key": "g",
+      "sentenceIndex": 4,
+      "valueAfter": "Elections bring"
+    },
+    {
+      "timestamp": 1765966237057,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Elections bring "
+    },
+    {
+      "timestamp": 1765966237318,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Elections bring o"
+    },
+    {
+      "timestamp": 1765966237714,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "Elections bring ou"
+    },
+    {
+      "timestamp": 1765966237989,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Elections bring out"
+    },
+    {
+      "timestamp": 1765966238602,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Elections bring out "
+    },
+    {
+      "timestamp": 1765966238840,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Elections bring out t"
+    },
+    {
+      "timestamp": 1765966239001,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "Elections bring out th"
+    },
+    {
+      "timestamp": 1765966239152,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Elections bring out the"
+    },
+    {
+      "timestamp": 1765966239295,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Elections bring out the "
+    },
+    {
+      "timestamp": 1765966239503,
+      "key": "b",
+      "sentenceIndex": 4,
+      "valueAfter": "Elections bring out the b"
+    },
+    {
+      "timestamp": 1765966239580,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Elections bring out the be"
+    },
+    {
+      "timestamp": 1765966239841,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Elections bring out the bes"
+    },
+    {
+      "timestamp": 1765966240236,
+      "key": "y",
+      "sentenceIndex": 4,
+      "valueAfter": "Elections bring out the besy"
+    },
+    {
+      "timestamp": 1765966241222,
+      "key": "P",
+      "sentenceIndex": 5,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1765966241386,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": "Pl"
+    },
+    {
+      "timestamp": 1765966241629,
+      "key": "u",
+      "sentenceIndex": 5,
+      "valueAfter": "Plu"
+    },
+    {
+      "timestamp": 1765966242203,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "Pl"
+    },
+    {
+      "timestamp": 1765966242396,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "Pls"
+    },
+    {
+      "timestamp": 1765966242608,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": "Plsy"
+    },
+    {
+      "timestamp": 1765966242843,
+      "key": "Play ",
+      "sentenceIndex": 5,
+      "valueAfter": "Play "
+    },
+    {
+      "timestamp": 1765966243018,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Play i"
+    },
+    {
+      "timestamp": 1765966243720,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it"
+    },
+    {
+      "timestamp": 1765966243900,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it "
+    },
+    {
+      "timestamp": 1765966244227,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it a"
+    },
+    {
+      "timestamp": 1765966244543,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it ag"
+    },
+    {
+      "timestamp": 1765966244699,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it aga"
+    },
+    {
+      "timestamp": 1765966244806,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it agai"
+    },
+    {
+      "timestamp": 1765966244967,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it again"
+    },
+    {
+      "timestamp": 1765966245504,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it again "
+    },
+    {
+      "timestamp": 1765966246221,
+      "key": "S",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it again S"
+    },
+    {
+      "timestamp": 1765966246406,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it again Sa"
+    },
+    {
+      "timestamp": 1765966246497,
+      "key": "m",
+      "sentenceIndex": 5,
+      "valueAfter": "Play it again Sam"
+    },
+    {
+      "timestamp": 1765966248227,
+      "key": "M",
+      "sentenceIndex": 6,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1765966248333,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "Ma"
+    },
+    {
+      "timestamp": 1765966248692,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1765966248977,
+      "key": "y",
+      "sentenceIndex": 6,
+      "valueAfter": "My"
+    },
+    {
+      "timestamp": 1765966249111,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "My "
+    }
+  ]
+}

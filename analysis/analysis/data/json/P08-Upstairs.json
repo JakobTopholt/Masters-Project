@@ -1,0 +1,1195 @@
+{
+  "mode": "stairs",
+  "timestamp": "2025-12-17T10:18:05.250Z",
+  "duration": 60.002,
+  "wpm": 30,
+  "accuracy": "72.63",
+  "totalCharactersTyped": 179,
+  "correctCharacters": 130,
+  "errors": 52,
+  "sentencesCompleted": 5,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "There will be some fog tonighy",
+      "expected": "There will be some fog tonight"
+    },
+    {
+      "typed": "Where did you get such a silly idea",
+      "expected": "Where did you get such a silly idea"
+    },
+    {
+      "typed": "The bus was very crowded",
+      "expected": "The bus was very crowded"
+    },
+    {
+      "typed": "The chamber makes important decisions",
+      "expected": "The chamber makes important decisions"
+    },
+    {
+      "typed": "Mechaniwry is too complicate",
+      "expected": "Machinery is too complicated"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765966618017,
+      "key": "T",
+      "sentenceIndex": 0,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765966618216,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765966618409,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765966618574,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Ther"
+    },
+    {
+      "timestamp": 1765966618746,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "There"
+    },
+    {
+      "timestamp": 1765966618894,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "There "
+    },
+    {
+      "timestamp": 1765966619772,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "There w"
+    },
+    {
+      "timestamp": 1765966619875,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "There wi"
+    },
+    {
+      "timestamp": 1765966620073,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "There wil"
+    },
+    {
+      "timestamp": 1765966620207,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "There will"
+    },
+    {
+      "timestamp": 1765966620457,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "There will "
+    },
+    {
+      "timestamp": 1765966620663,
+      "key": "b",
+      "sentenceIndex": 0,
+      "valueAfter": "There will b"
+    },
+    {
+      "timestamp": 1765966620779,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "There will be"
+    },
+    {
+      "timestamp": 1765966620932,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "There will be "
+    },
+    {
+      "timestamp": 1765966621112,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "There will be s"
+    },
+    {
+      "timestamp": 1765966621228,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "There will be so"
+    },
+    {
+      "timestamp": 1765966621423,
+      "key": "m",
+      "sentenceIndex": 0,
+      "valueAfter": "There will be som"
+    },
+    {
+      "timestamp": 1765966621503,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "There will be some"
+    },
+    {
+      "timestamp": 1765966621674,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "There will be some "
+    },
+    {
+      "timestamp": 1765966621967,
+      "key": "f",
+      "sentenceIndex": 0,
+      "valueAfter": "There will be some f"
+    },
+    {
+      "timestamp": 1765966622135,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "There will be some fo"
+    },
+    {
+      "timestamp": 1765966622398,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "There will be some fog"
+    },
+    {
+      "timestamp": 1765966622592,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "There will be some fog "
+    },
+    {
+      "timestamp": 1765966623189,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "There will be some fog t"
+    },
+    {
+      "timestamp": 1765966623345,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "There will be some fog to"
+    },
+    {
+      "timestamp": 1765966623558,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "There will be some fog ton"
+    },
+    {
+      "timestamp": 1765966623735,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "There will be some fog toni"
+    },
+    {
+      "timestamp": 1765966623927,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "There will be some fog tonig"
+    },
+    {
+      "timestamp": 1765966624101,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "There will be some fog tonigh"
+    },
+    {
+      "timestamp": 1765966624267,
+      "key": "y",
+      "sentenceIndex": 0,
+      "valueAfter": "There will be some fog tonighy"
+    },
+    {
+      "timestamp": 1765966625319,
+      "key": "W",
+      "sentenceIndex": 1,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1765966625524,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Wh"
+    },
+    {
+      "timestamp": 1765966625666,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Whe"
+    },
+    {
+      "timestamp": 1765966625853,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Wher"
+    },
+    {
+      "timestamp": 1765966626039,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Where"
+    },
+    {
+      "timestamp": 1765966626187,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Where "
+    },
+    {
+      "timestamp": 1765966626640,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Where d"
+    },
+    {
+      "timestamp": 1765966626781,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Where di"
+    },
+    {
+      "timestamp": 1765966626923,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did"
+    },
+    {
+      "timestamp": 1765966627142,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did "
+    },
+    {
+      "timestamp": 1765966627695,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did y"
+    },
+    {
+      "timestamp": 1765966627911,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did yo"
+    },
+    {
+      "timestamp": 1765966628076,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did yoi"
+    },
+    {
+      "timestamp": 1765966628626,
+      "key": "you",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you"
+    },
+    {
+      "timestamp": 1765966628650,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you "
+    },
+    {
+      "timestamp": 1765966629105,
+      "key": "g",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you g"
+    },
+    {
+      "timestamp": 1765966629297,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you ge"
+    },
+    {
+      "timestamp": 1765966629697,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you get"
+    },
+    {
+      "timestamp": 1765966630021,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you get "
+    },
+    {
+      "timestamp": 1765966630450,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you get s"
+    },
+    {
+      "timestamp": 1765966630642,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you get su"
+    },
+    {
+      "timestamp": 1765966630993,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you get suc"
+    },
+    {
+      "timestamp": 1765966631174,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you get such"
+    },
+    {
+      "timestamp": 1765966631485,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you get such "
+    },
+    {
+      "timestamp": 1765966631689,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you get such a"
+    },
+    {
+      "timestamp": 1765966631834,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you get such a "
+    },
+    {
+      "timestamp": 1765966632204,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you get such a s"
+    },
+    {
+      "timestamp": 1765966632343,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you get such a si"
+    },
+    {
+      "timestamp": 1765966632543,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you get such a sil"
+    },
+    {
+      "timestamp": 1765966632943,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you get such a sill"
+    },
+    {
+      "timestamp": 1765966633171,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you get such a silly"
+    },
+    {
+      "timestamp": 1765966633426,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you get such a silly "
+    },
+    {
+      "timestamp": 1765966633887,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you get such a silly i"
+    },
+    {
+      "timestamp": 1765966634070,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you get such a silly id"
+    },
+    {
+      "timestamp": 1765966634253,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you get such a silly ide"
+    },
+    {
+      "timestamp": 1765966634463,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Where did you get such a silly idea"
+    },
+    {
+      "timestamp": 1765966635423,
+      "key": "T",
+      "sentenceIndex": 2,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765966635622,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765966635722,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765966635857,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765966636064,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "The h"
+    },
+    {
+      "timestamp": 1765966636245,
+      "key": "u",
+      "sentenceIndex": 2,
+      "valueAfter": "The hu"
+    },
+    {
+      "timestamp": 1765966636372,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "The hus"
+    },
+    {
+      "timestamp": 1765966636574,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The hus "
+    },
+    {
+      "timestamp": 1765966637140,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "The hus"
+    },
+    {
+      "timestamp": 1765966637305,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "The hu"
+    },
+    {
+      "timestamp": 1765966637480,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "The h"
+    },
+    {
+      "timestamp": 1765966637671,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765966638170,
+      "key": "b",
+      "sentenceIndex": 2,
+      "valueAfter": "The b"
+    },
+    {
+      "timestamp": 1765966638371,
+      "key": "u",
+      "sentenceIndex": 2,
+      "valueAfter": "The bu"
+    },
+    {
+      "timestamp": 1765966638503,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "The bus"
+    },
+    {
+      "timestamp": 1765966638613,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The bus "
+    },
+    {
+      "timestamp": 1765966639077,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "The bus w"
+    },
+    {
+      "timestamp": 1765966639284,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "The bus wa"
+    },
+    {
+      "timestamp": 1765966639492,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "The bus was"
+    },
+    {
+      "timestamp": 1765966639660,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The bus was "
+    },
+    {
+      "timestamp": 1765966639963,
+      "key": "b",
+      "sentenceIndex": 2,
+      "valueAfter": "The bus was b"
+    },
+    {
+      "timestamp": 1765966640148,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "The bus was be"
+    },
+    {
+      "timestamp": 1765966640346,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "The bus was ber"
+    },
+    {
+      "timestamp": 1765966640538,
+      "key": "y",
+      "sentenceIndex": 2,
+      "valueAfter": "The bus was bery"
+    },
+    {
+      "timestamp": 1765966640767,
+      "key": "very",
+      "sentenceIndex": 2,
+      "valueAfter": "The bus was very"
+    },
+    {
+      "timestamp": 1765966640781,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "The bus was very "
+    },
+    {
+      "timestamp": 1765966641283,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "The bus was very c"
+    },
+    {
+      "timestamp": 1765966641532,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "The bus was very cr"
+    },
+    {
+      "timestamp": 1765966641709,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "The bus was very cro"
+    },
+    {
+      "timestamp": 1765966642237,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "The bus was very crow"
+    },
+    {
+      "timestamp": 1765966642588,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "The bus was very crowd"
+    },
+    {
+      "timestamp": 1765966642778,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "The bus was very crowde"
+    },
+    {
+      "timestamp": 1765966642944,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "The bus was very crowded"
+    },
+    {
+      "timestamp": 1765966644455,
+      "key": "T",
+      "sentenceIndex": 3,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765966644686,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765966644877,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765966645613,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765966646165,
+      "key": "c",
+      "sentenceIndex": 3,
+      "valueAfter": "The c"
+    },
+    {
+      "timestamp": 1765966646297,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "The ch"
+    },
+    {
+      "timestamp": 1765966646559,
+      "key": "m",
+      "sentenceIndex": 3,
+      "valueAfter": "The chm"
+    },
+    {
+      "timestamp": 1765966646679,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "The chma"
+    },
+    {
+      "timestamp": 1765966646868,
+      "key": "b",
+      "sentenceIndex": 3,
+      "valueAfter": "The chmab"
+    },
+    {
+      "timestamp": 1765966647095,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "The chmabe"
+    },
+    {
+      "timestamp": 1765966647295,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "The chmaber"
+    },
+    {
+      "timestamp": 1765966647425,
+      "key": "chamber",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber"
+    },
+    {
+      "timestamp": 1765966647449,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber "
+    },
+    {
+      "timestamp": 1765966648063,
+      "key": "m",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber m"
+    },
+    {
+      "timestamp": 1765966648199,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber ma"
+    },
+    {
+      "timestamp": 1765966648358,
+      "key": "k",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber mak"
+    },
+    {
+      "timestamp": 1765966648455,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber make"
+    },
+    {
+      "timestamp": 1765966648663,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes"
+    },
+    {
+      "timestamp": 1765966648856,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes "
+    },
+    {
+      "timestamp": 1765966649412,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes i"
+    },
+    {
+      "timestamp": 1765966649592,
+      "key": "m",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes im"
+    },
+    {
+      "timestamp": 1765966649800,
+      "key": "p",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes imp"
+    },
+    {
+      "timestamp": 1765966649967,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes impo"
+    },
+    {
+      "timestamp": 1765966650063,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes impor"
+    },
+    {
+      "timestamp": 1765966650249,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes import"
+    },
+    {
+      "timestamp": 1765966650373,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes importa"
+    },
+    {
+      "timestamp": 1765966650787,
+      "key": "important",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes important"
+    },
+    {
+      "timestamp": 1765966650811,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes important "
+    },
+    {
+      "timestamp": 1765966651776,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes important d"
+    },
+    {
+      "timestamp": 1765966651967,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes important de"
+    },
+    {
+      "timestamp": 1765966652200,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes important des"
+    },
+    {
+      "timestamp": 1765966653452,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes important de"
+    },
+    {
+      "timestamp": 1765966654400,
+      "key": "x",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes important dex"
+    },
+    {
+      "timestamp": 1765966654717,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes important de"
+    },
+    {
+      "timestamp": 1765966654856,
+      "key": "c",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes important dec"
+    },
+    {
+      "timestamp": 1765966655073,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes important deci"
+    },
+    {
+      "timestamp": 1765966655220,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes important decis"
+    },
+    {
+      "timestamp": 1765966655422,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes important decisi"
+    },
+    {
+      "timestamp": 1765966655595,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes important decisio"
+    },
+    {
+      "timestamp": 1765966655803,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes important decision"
+    },
+    {
+      "timestamp": 1765966655953,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "The chamber makes important decisions"
+    },
+    {
+      "timestamp": 1765966657082,
+      "key": "M",
+      "sentenceIndex": 4,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1765966657262,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Me"
+    },
+    {
+      "timestamp": 1765966657610,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": "Mec"
+    },
+    {
+      "timestamp": 1765966658164,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "Mech"
+    },
+    {
+      "timestamp": 1765966658325,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Mecha"
+    },
+    {
+      "timestamp": 1765966658474,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechan"
+    },
+    {
+      "timestamp": 1765966658932,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechani"
+    },
+    {
+      "timestamp": 1765966659145,
+      "key": "w",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniw"
+    },
+    {
+      "timestamp": 1765966659404,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwr"
+    },
+    {
+      "timestamp": 1765966659787,
+      "key": "y",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry"
+    },
+    {
+      "timestamp": 1765966660929,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry "
+    },
+    {
+      "timestamp": 1765966661207,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry o"
+    },
+    {
+      "timestamp": 1765966661531,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry oa"
+    },
+    {
+      "timestamp": 1765966661762,
+      "key": "is",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry is"
+    },
+    {
+      "timestamp": 1765966661784,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry is "
+    },
+    {
+      "timestamp": 1765966662091,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry is t"
+    },
+    {
+      "timestamp": 1765966662268,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry is to"
+    },
+    {
+      "timestamp": 1765966662417,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry is too"
+    },
+    {
+      "timestamp": 1765966662794,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry is too "
+    },
+    {
+      "timestamp": 1765966663340,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry is too c"
+    },
+    {
+      "timestamp": 1765966663488,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry is too co"
+    },
+    {
+      "timestamp": 1765966663654,
+      "key": "m",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry is too com"
+    },
+    {
+      "timestamp": 1765966663871,
+      "key": "p",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry is too comp"
+    },
+    {
+      "timestamp": 1765966665012,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry is too comp "
+    },
+    {
+      "timestamp": 1765966666471,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry is too comp"
+    },
+    {
+      "timestamp": 1765966667328,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry is too comp "
+    },
+    {
+      "timestamp": 1765966670381,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry is too comp"
+    },
+    {
+      "timestamp": 1765966671157,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry is too compl"
+    },
+    {
+      "timestamp": 1765966671678,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry is too compli"
+    },
+    {
+      "timestamp": 1765966671896,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry is too complic"
+    },
+    {
+      "timestamp": 1765966672120,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry is too complica"
+    },
+    {
+      "timestamp": 1765966672271,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry is too complicat"
+    },
+    {
+      "timestamp": 1765966672411,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Mechaniwry is too complicate"
+    },
+    {
+      "timestamp": 1765966672604,
+      "key": "D",
+      "sentenceIndex": 5,
+      "valueAfter": "D"
+    },
+    {
+      "timestamp": 1765966673399,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1765966673855,
+      "key": "T",
+      "sentenceIndex": 5,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765966674043,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": "Tg"
+    },
+    {
+      "timestamp": 1765966674153,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Tge"
+    },
+    {
+      "timestamp": 1765966674360,
+      "key": "The",
+      "sentenceIndex": 5,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765966674373,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765966674850,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "The a"
+    },
+    {
+      "timestamp": 1765966675075,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "The as"
+    },
+    {
+      "timestamp": 1765966675244,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "The ass"
+    },
+    {
+      "timestamp": 1765966675373,
+      "key": "u",
+      "sentenceIndex": 5,
+      "valueAfter": "The assu"
+    },
+    {
+      "timestamp": 1765966675614,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": "The assul"
+    },
+    {
+      "timestamp": 1765966675856,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "The assult"
+    },
+    {
+      "timestamp": 1765966676312,
+      "key": "assault",
+      "sentenceIndex": 5,
+      "valueAfter": "The assault"
+    },
+    {
+      "timestamp": 1765966676339,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "The assault "
+    },
+    {
+      "timestamp": 1765966676868,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "The assault t"
+    },
+    {
+      "timestamp": 1765966677052,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "The assault to"
+    },
+    {
+      "timestamp": 1765966677217,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "The assault too"
+    },
+    {
+      "timestamp": 1765966677435,
+      "key": "k",
+      "sentenceIndex": 5,
+      "valueAfter": "The assault took"
+    },
+    {
+      "timestamp": 1765966677685,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "The assault took "
+    }
+  ]
+}

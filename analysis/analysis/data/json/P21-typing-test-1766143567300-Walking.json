@@ -1,0 +1,1165 @@
+{
+  "mode": "walking",
+  "timestamp": "2025-12-19T11:26:07.300Z",
+  "duration": 60.058,
+  "wpm": 20,
+  "accuracy": "55.81",
+  "totalCharactersTyped": 172,
+  "correctCharacters": 96,
+  "errors": 111,
+  "sentencesCompleted": 5,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "The registration period is over",
+      "expected": "The registration period is over"
+    },
+    {
+      "typed": "The tredjestø departement is bro",
+      "expected": "The treasury department is broke"
+    },
+    {
+      "typed": "Lever too rich and never to thinn",
+      "expected": "Never too rich and never too thin"
+    },
+    {
+      "typed": "Elevtids bring put the best ",
+      "expected": "Elections bring out the best"
+    },
+    {
+      "typed": "Where die YouTube Gert a silly idea",
+      "expected": "Where did you get such a silly idea"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766143504708,
+      "key": "T",
+      "sentenceIndex": 0,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766143504908,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766143505224,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766143505465,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766143505959,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "The r"
+    },
+    {
+      "timestamp": 1766143506142,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The re"
+    },
+    {
+      "timestamp": 1766143506441,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "The reg"
+    },
+    {
+      "timestamp": 1766143506675,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "The regi"
+    },
+    {
+      "timestamp": 1766143506825,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "The regis"
+    },
+    {
+      "timestamp": 1766143507098,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "The regist"
+    },
+    {
+      "timestamp": 1766143507362,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "The registr"
+    },
+    {
+      "timestamp": 1766143507591,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "The registra"
+    },
+    {
+      "timestamp": 1766143507973,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "The registrat"
+    },
+    {
+      "timestamp": 1766143508354,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "The registrati"
+    },
+    {
+      "timestamp": 1766143508575,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "The registratio"
+    },
+    {
+      "timestamp": 1766143508892,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "The registration"
+    },
+    {
+      "timestamp": 1766143509252,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The registration "
+    },
+    {
+      "timestamp": 1766143509592,
+      "key": "p",
+      "sentenceIndex": 0,
+      "valueAfter": "The registration p"
+    },
+    {
+      "timestamp": 1766143509739,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The registration pe"
+    },
+    {
+      "timestamp": 1766143509942,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "The registration per"
+    },
+    {
+      "timestamp": 1766143510190,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "The registration peri"
+    },
+    {
+      "timestamp": 1766143510561,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "The registration perio"
+    },
+    {
+      "timestamp": 1766143510843,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "The registration period"
+    },
+    {
+      "timestamp": 1766143510969,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The registration period "
+    },
+    {
+      "timestamp": 1766143511159,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "The registration period i"
+    },
+    {
+      "timestamp": 1766143511277,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "The registration period is"
+    },
+    {
+      "timestamp": 1766143511387,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The registration period is "
+    },
+    {
+      "timestamp": 1766143511559,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "The registration period is o"
+    },
+    {
+      "timestamp": 1766143511792,
+      "key": "v",
+      "sentenceIndex": 0,
+      "valueAfter": "The registration period is ov"
+    },
+    {
+      "timestamp": 1766143511909,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The registration period is ove"
+    },
+    {
+      "timestamp": 1766143512092,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "The registration period is over"
+    },
+    {
+      "timestamp": 1766143513508,
+      "key": "T",
+      "sentenceIndex": 1,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766143513709,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766143513963,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766143514120,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766143514491,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "The t"
+    },
+    {
+      "timestamp": 1766143514708,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "The tr"
+    },
+    {
+      "timestamp": 1766143515410,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The tre"
+    },
+    {
+      "timestamp": 1766143515660,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "The tres"
+    },
+    {
+      "timestamp": 1766143515876,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "The tresu"
+    },
+    {
+      "timestamp": 1766143516208,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "The tresur"
+    },
+    {
+      "timestamp": 1766143516476,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "The tresurs"
+    },
+    {
+      "timestamp": 1766143516876,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "The tresursy"
+    },
+    {
+      "timestamp": 1766143517222,
+      "key": "tredjestørste",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestørste"
+    },
+    {
+      "timestamp": 1766143517233,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestørste "
+    },
+    {
+      "timestamp": 1766143518528,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestørste"
+    },
+    {
+      "timestamp": 1766143518725,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestørst"
+    },
+    {
+      "timestamp": 1766143518890,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestørs"
+    },
+    {
+      "timestamp": 1766143519074,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestør"
+    },
+    {
+      "timestamp": 1766143519239,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestø"
+    },
+    {
+      "timestamp": 1766143520247,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestø "
+    },
+    {
+      "timestamp": 1766143520392,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestø d"
+    },
+    {
+      "timestamp": 1766143520593,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestø de"
+    },
+    {
+      "timestamp": 1766143521146,
+      "key": "p",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestø dep"
+    },
+    {
+      "timestamp": 1766143521262,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestø depa"
+    },
+    {
+      "timestamp": 1766143521526,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestø depar"
+    },
+    {
+      "timestamp": 1766143521740,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestø depart"
+    },
+    {
+      "timestamp": 1766143521943,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestø departe"
+    },
+    {
+      "timestamp": 1766143522076,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestø departen"
+    },
+    {
+      "timestamp": 1766143522576,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestø departent"
+    },
+    {
+      "timestamp": 1766143522806,
+      "key": "departement",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestø departement"
+    },
+    {
+      "timestamp": 1766143522816,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestø departement "
+    },
+    {
+      "timestamp": 1766143523311,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestø departement i"
+    },
+    {
+      "timestamp": 1766143523476,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestø departement is"
+    },
+    {
+      "timestamp": 1766143523583,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestø departement is "
+    },
+    {
+      "timestamp": 1766143523842,
+      "key": "p",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestø departement is p"
+    },
+    {
+      "timestamp": 1766143525311,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestø departement is "
+    },
+    {
+      "timestamp": 1766143525758,
+      "key": "b",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestø departement is b"
+    },
+    {
+      "timestamp": 1766143525976,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestø departement is br"
+    },
+    {
+      "timestamp": 1766143526110,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "The tredjestø departement is bro"
+    },
+    {
+      "timestamp": 1766143526293,
+      "key": "K",
+      "sentenceIndex": 2,
+      "valueAfter": "K"
+    },
+    {
+      "timestamp": 1766143526425,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Ke"
+    },
+    {
+      "timestamp": 1766143527146,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "K"
+    },
+    {
+      "timestamp": 1766143527359,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766143527976,
+      "key": "N",
+      "sentenceIndex": 2,
+      "valueAfter": "N"
+    },
+    {
+      "timestamp": 1766143528143,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Ne"
+    },
+    {
+      "timestamp": 1766143528409,
+      "key": "v",
+      "sentenceIndex": 2,
+      "valueAfter": "Nev"
+    },
+    {
+      "timestamp": 1766143528611,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Neve"
+    },
+    {
+      "timestamp": 1766143528814,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Never"
+    },
+    {
+      "timestamp": 1766143528955,
+      "key": "Lever",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever"
+    },
+    {
+      "timestamp": 1766143528966,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever "
+    },
+    {
+      "timestamp": 1766143529410,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever t"
+    },
+    {
+      "timestamp": 1766143529726,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever to"
+    },
+    {
+      "timestamp": 1766143529876,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too"
+    },
+    {
+      "timestamp": 1766143530162,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too "
+    },
+    {
+      "timestamp": 1766143530725,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too t"
+    },
+    {
+      "timestamp": 1766143531047,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too "
+    },
+    {
+      "timestamp": 1766143531243,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too r"
+    },
+    {
+      "timestamp": 1766143531426,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too ri"
+    },
+    {
+      "timestamp": 1766143531810,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too ric"
+    },
+    {
+      "timestamp": 1766143532144,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too rich"
+    },
+    {
+      "timestamp": 1766143532477,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too rich "
+    },
+    {
+      "timestamp": 1766143532944,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too rich a"
+    },
+    {
+      "timestamp": 1766143533093,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too rich an"
+    },
+    {
+      "timestamp": 1766143533311,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too rich and"
+    },
+    {
+      "timestamp": 1766143533464,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too rich and "
+    },
+    {
+      "timestamp": 1766143533627,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too rich and n"
+    },
+    {
+      "timestamp": 1766143533729,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too rich and ne"
+    },
+    {
+      "timestamp": 1766143534016,
+      "key": "v",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too rich and nev"
+    },
+    {
+      "timestamp": 1766143534278,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too rich and neve"
+    },
+    {
+      "timestamp": 1766143534447,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too rich and never"
+    },
+    {
+      "timestamp": 1766143534617,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too rich and never "
+    },
+    {
+      "timestamp": 1766143535302,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too rich and never t"
+    },
+    {
+      "timestamp": 1766143535518,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too rich and never to"
+    },
+    {
+      "timestamp": 1766143535792,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too rich and never to "
+    },
+    {
+      "timestamp": 1766143535917,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too rich and never to t"
+    },
+    {
+      "timestamp": 1766143536068,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too rich and never to th"
+    },
+    {
+      "timestamp": 1766143536336,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too rich and never to thi"
+    },
+    {
+      "timestamp": 1766143536669,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too rich and never to thin"
+    },
+    {
+      "timestamp": 1766143537886,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Lever too rich and never to thinn"
+    },
+    {
+      "timestamp": 1766143539486,
+      "key": "E",
+      "sentenceIndex": 3,
+      "valueAfter": "E"
+    },
+    {
+      "timestamp": 1766143539670,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "El"
+    },
+    {
+      "timestamp": 1766143539852,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Ele"
+    },
+    {
+      "timestamp": 1766143540124,
+      "key": "c",
+      "sentenceIndex": 3,
+      "valueAfter": "Elec"
+    },
+    {
+      "timestamp": 1766143540402,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Elect"
+    },
+    {
+      "timestamp": 1766143540737,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Electi"
+    },
+    {
+      "timestamp": 1766143540919,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Electio"
+    },
+    {
+      "timestamp": 1766143541137,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Electios"
+    },
+    {
+      "timestamp": 1766143541533,
+      "key": "Elevtid",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtid"
+    },
+    {
+      "timestamp": 1766143541543,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtid "
+    },
+    {
+      "timestamp": 1766143542439,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtid"
+    },
+    {
+      "timestamp": 1766143542569,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids"
+    },
+    {
+      "timestamp": 1766143543125,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids "
+    },
+    {
+      "timestamp": 1766143544502,
+      "key": "b",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids b"
+    },
+    {
+      "timestamp": 1766143544685,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids br"
+    },
+    {
+      "timestamp": 1766143544870,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids bru"
+    },
+    {
+      "timestamp": 1766143545267,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids br"
+    },
+    {
+      "timestamp": 1766143545519,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids bri"
+    },
+    {
+      "timestamp": 1766143545736,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids brin"
+    },
+    {
+      "timestamp": 1766143545936,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids bring"
+    },
+    {
+      "timestamp": 1766143546123,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids bring "
+    },
+    {
+      "timestamp": 1766143546385,
+      "key": "p",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids bring p"
+    },
+    {
+      "timestamp": 1766143546869,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids bring pu"
+    },
+    {
+      "timestamp": 1766143547185,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids bring put"
+    },
+    {
+      "timestamp": 1766143547357,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids bring put "
+    },
+    {
+      "timestamp": 1766143547636,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids bring put t"
+    },
+    {
+      "timestamp": 1766143547754,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids bring put th"
+    },
+    {
+      "timestamp": 1766143547937,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids bring put the"
+    },
+    {
+      "timestamp": 1766143548061,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids bring put the "
+    },
+    {
+      "timestamp": 1766143548301,
+      "key": "b",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids bring put the b"
+    },
+    {
+      "timestamp": 1766143548403,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids bring put the be"
+    },
+    {
+      "timestamp": 1766143548621,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids bring put the bes"
+    },
+    {
+      "timestamp": 1766143548767,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids bring put the best"
+    },
+    {
+      "timestamp": 1766143549048,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Elevtids bring put the best "
+    },
+    {
+      "timestamp": 1766143550470,
+      "key": "W",
+      "sentenceIndex": 4,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1766143550619,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "Wh"
+    },
+    {
+      "timestamp": 1766143550768,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Whe"
+    },
+    {
+      "timestamp": 1766143550985,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Wher"
+    },
+    {
+      "timestamp": 1766143551170,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Where"
+    },
+    {
+      "timestamp": 1766143551340,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Where "
+    },
+    {
+      "timestamp": 1766143551486,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Where e"
+    },
+    {
+      "timestamp": 1766143551703,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Where ei"
+    },
+    {
+      "timestamp": 1766143551887,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Where eie"
+    },
+    {
+      "timestamp": 1766143552076,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Where eie "
+    },
+    {
+      "timestamp": 1766143552570,
+      "key": "y",
+      "sentenceIndex": 4,
+      "valueAfter": "Where eie y"
+    },
+    {
+      "timestamp": 1766143552837,
+      "key": "p",
+      "sentenceIndex": 4,
+      "valueAfter": "Where eie yp"
+    },
+    {
+      "timestamp": 1766143553087,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "Where eie ypu"
+    },
+    {
+      "timestamp": 1766143553333,
+      "key": "die YouTube",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube"
+    },
+    {
+      "timestamp": 1766143553349,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube "
+    },
+    {
+      "timestamp": 1766143553553,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube h"
+    },
+    {
+      "timestamp": 1766143553702,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube he"
+    },
+    {
+      "timestamp": 1766143553904,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube her"
+    },
+    {
+      "timestamp": 1766143555420,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube hert"
+    },
+    {
+      "timestamp": 1766143555666,
+      "key": "Gert",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube Gert"
+    },
+    {
+      "timestamp": 1766143555676,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube Gert "
+    },
+    {
+      "timestamp": 1766143555970,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube Gert s"
+    },
+    {
+      "timestamp": 1766143556607,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube Gert "
+    },
+    {
+      "timestamp": 1766143557587,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube Gert a"
+    },
+    {
+      "timestamp": 1766143558048,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube Gert a "
+    },
+    {
+      "timestamp": 1766143558220,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube Gert a s"
+    },
+    {
+      "timestamp": 1766143558387,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube Gert a si"
+    },
+    {
+      "timestamp": 1766143558586,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube Gert a sil"
+    },
+    {
+      "timestamp": 1766143558772,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube Gert a sill"
+    },
+    {
+      "timestamp": 1766143559587,
+      "key": "y",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube Gert a silly"
+    },
+    {
+      "timestamp": 1766143559830,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube Gert a silly "
+    },
+    {
+      "timestamp": 1766143560072,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube Gert a silly i"
+    },
+    {
+      "timestamp": 1766143560169,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube Gert a silly id"
+    },
+    {
+      "timestamp": 1766143560353,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube Gert a silly ide"
+    },
+    {
+      "timestamp": 1766143560621,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Where die YouTube Gert a silly idea"
+    },
+    {
+      "timestamp": 1766143561673,
+      "key": "P",
+      "sentenceIndex": 5,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1766143562004,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Pr"
+    },
+    {
+      "timestamp": 1766143562287,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "Pre"
+    },
+    {
+      "timestamp": 1766143563287,
+      "key": "v",
+      "sentenceIndex": 5,
+      "valueAfter": "Prev"
+    },
+    {
+      "timestamp": 1766143563421,
+      "key": "v",
+      "sentenceIndex": 5,
+      "valueAfter": "Prevv"
+    },
+    {
+      "timestamp": 1766143563919,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": "Prev"
+    },
+    {
+      "timestamp": 1766143564203,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Preva"
+    },
+    {
+      "timestamp": 1766143564503,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": "Preval"
+    },
+    {
+      "timestamp": 1766143564690,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Prevali"
+    }
+  ]
+}
