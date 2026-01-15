@@ -1,0 +1,407 @@
+{
+  "mode": "walking",
+  "timestamp": "2025-12-19T10:28:41.047Z",
+  "duration": 60.046,
+  "wpm": 38,
+  "accuracy": "345.83",
+  "totalCharactersTyped": 48,
+  "correctCharacters": 166,
+  "errors": 11,
+  "sentencesCompleted": 6,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Must what the doctor ordered",
+      "expected": "Just what the doctor ordered"
+    },
+    {
+      "typed": "Great disturbance in the force",
+      "expected": "Great disturbance in the force"
+    },
+    {
+      "typed": "Longer than a football field",
+      "expected": "Longer than a football field"
+    },
+    {
+      "typed": "Santa Clair got stuck",
+      "expected": "Santa claus got stuck"
+    },
+    {
+      "typed": "Where did you get such a silly idea",
+      "expected": "Where did you get such a silly idea"
+    },
+    {
+      "typed": "Do not feel too bad about it",
+      "expected": "Do not feel too bad about it"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766140059638,
+      "key": "Must",
+      "sentenceIndex": 0,
+      "valueAfter": "Must"
+    },
+    {
+      "timestamp": 1766140060739,
+      "key": " what",
+      "sentenceIndex": 0,
+      "valueAfter": "Must what"
+    },
+    {
+      "timestamp": 1766140062389,
+      "key": " the",
+      "sentenceIndex": 0,
+      "valueAfter": "Must what the"
+    },
+    {
+      "timestamp": 1766140063772,
+      "key": " doctor",
+      "sentenceIndex": 0,
+      "valueAfter": "Must what the doctor"
+    },
+    {
+      "timestamp": 1766140065899,
+      "key": " ordered",
+      "sentenceIndex": 0,
+      "valueAfter": "Must what the doctor ordered"
+    },
+    {
+      "timestamp": 1766140068221,
+      "key": "Gets",
+      "sentenceIndex": 1,
+      "valueAfter": "Gets"
+    },
+    {
+      "timestamp": 1766140069511,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Get"
+    },
+    {
+      "timestamp": 1766140069514,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "Ge"
+    },
+    {
+      "timestamp": 1766140069516,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": "G"
+    },
+    {
+      "timestamp": 1766140069518,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766140070920,
+      "key": "Great",
+      "sentenceIndex": 1,
+      "valueAfter": "Great"
+    },
+    {
+      "timestamp": 1766140074740,
+      "key": " disturbance",
+      "sentenceIndex": 1,
+      "valueAfter": "Great disturbance"
+    },
+    {
+      "timestamp": 1766140076389,
+      "key": " in",
+      "sentenceIndex": 1,
+      "valueAfter": "Great disturbance in"
+    },
+    {
+      "timestamp": 1766140076922,
+      "key": " the",
+      "sentenceIndex": 1,
+      "valueAfter": "Great disturbance in the"
+    },
+    {
+      "timestamp": 1766140078222,
+      "key": " force",
+      "sentenceIndex": 1,
+      "valueAfter": "Great disturbance in the force"
+    },
+    {
+      "timestamp": 1766140080194,
+      "key": "Longer",
+      "sentenceIndex": 2,
+      "valueAfter": "Longer"
+    },
+    {
+      "timestamp": 1766140081515,
+      "key": " than",
+      "sentenceIndex": 2,
+      "valueAfter": "Longer than"
+    },
+    {
+      "timestamp": 1766140081808,
+      "key": " a",
+      "sentenceIndex": 2,
+      "valueAfter": "Longer than a"
+    },
+    {
+      "timestamp": 1766140082526,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Longer than a "
+    },
+    {
+      "timestamp": 1766140083894,
+      "key": "football",
+      "sentenceIndex": 2,
+      "valueAfter": "Longer than a football"
+    },
+    {
+      "timestamp": 1766140085516,
+      "key": " field",
+      "sentenceIndex": 2,
+      "valueAfter": "Longer than a football field"
+    },
+    {
+      "timestamp": 1766140087166,
+      "key": "Dans",
+      "sentenceIndex": 3,
+      "valueAfter": "Dans"
+    },
+    {
+      "timestamp": 1766140088668,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "Dan"
+    },
+    {
+      "timestamp": 1766140088670,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "Da"
+    },
+    {
+      "timestamp": 1766140088672,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "D"
+    },
+    {
+      "timestamp": 1766140088675,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766140089956,
+      "key": "Samme",
+      "sentenceIndex": 3,
+      "valueAfter": "Samme"
+    },
+    {
+      "timestamp": 1766140091015,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "Samm"
+    },
+    {
+      "timestamp": 1766140091018,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "Sam"
+    },
+    {
+      "timestamp": 1766140091020,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "Sa"
+    },
+    {
+      "timestamp": 1766140091022,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "S"
+    },
+    {
+      "timestamp": 1766140091024,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766140091867,
+      "key": "S",
+      "sentenceIndex": 3,
+      "valueAfter": "S"
+    },
+    {
+      "timestamp": 1766140092016,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Sa"
+    },
+    {
+      "timestamp": 1766140092452,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "San"
+    },
+    {
+      "timestamp": 1766140092602,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Sant"
+    },
+    {
+      "timestamp": 1766140092832,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Santa"
+    },
+    {
+      "timestamp": 1766140093671,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Santa "
+    },
+    {
+      "timestamp": 1766140094358,
+      "key": "Clair",
+      "sentenceIndex": 3,
+      "valueAfter": "Santa Clair"
+    },
+    {
+      "timestamp": 1766140095485,
+      "key": " got",
+      "sentenceIndex": 3,
+      "valueAfter": "Santa Clair got"
+    },
+    {
+      "timestamp": 1766140096499,
+      "key": " stuck",
+      "sentenceIndex": 3,
+      "valueAfter": "Santa Clair got stuck"
+    },
+    {
+      "timestamp": 1766140098094,
+      "key": "Where",
+      "sentenceIndex": 4,
+      "valueAfter": "Where"
+    },
+    {
+      "timestamp": 1766140099012,
+      "key": " did",
+      "sentenceIndex": 4,
+      "valueAfter": "Where did"
+    },
+    {
+      "timestamp": 1766140100189,
+      "key": " you",
+      "sentenceIndex": 4,
+      "valueAfter": "Where did you"
+    },
+    {
+      "timestamp": 1766140101248,
+      "key": " get",
+      "sentenceIndex": 4,
+      "valueAfter": "Where did you get"
+    },
+    {
+      "timestamp": 1766140102444,
+      "key": " such",
+      "sentenceIndex": 4,
+      "valueAfter": "Where did you get such"
+    },
+    {
+      "timestamp": 1766140103258,
+      "key": " a",
+      "sentenceIndex": 4,
+      "valueAfter": "Where did you get such a"
+    },
+    {
+      "timestamp": 1766140103697,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Where did you get such a "
+    },
+    {
+      "timestamp": 1766140104126,
+      "key": "silly",
+      "sentenceIndex": 4,
+      "valueAfter": "Where did you get such a silly"
+    },
+    {
+      "timestamp": 1766140105546,
+      "key": " idea",
+      "sentenceIndex": 4,
+      "valueAfter": "Where did you get such a silly idea"
+    },
+    {
+      "timestamp": 1766140106751,
+      "key": "Do",
+      "sentenceIndex": 5,
+      "valueAfter": "Do"
+    },
+    {
+      "timestamp": 1766140107427,
+      "key": " not",
+      "sentenceIndex": 5,
+      "valueAfter": "Do not"
+    },
+    {
+      "timestamp": 1766140108584,
+      "key": " feel",
+      "sentenceIndex": 5,
+      "valueAfter": "Do not feel"
+    },
+    {
+      "timestamp": 1766140109625,
+      "key": " too",
+      "sentenceIndex": 5,
+      "valueAfter": "Do not feel too"
+    },
+    {
+      "timestamp": 1766140110474,
+      "key": " bad",
+      "sentenceIndex": 5,
+      "valueAfter": "Do not feel too bad"
+    },
+    {
+      "timestamp": 1766140111272,
+      "key": " about",
+      "sentenceIndex": 5,
+      "valueAfter": "Do not feel too bad about"
+    },
+    {
+      "timestamp": 1766140112403,
+      "key": " it",
+      "sentenceIndex": 5,
+      "valueAfter": "Do not feel too bad about it"
+    },
+    {
+      "timestamp": 1766140113773,
+      "key": "The",
+      "sentenceIndex": 6,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766140115325,
+      "key": " picket",
+      "sentenceIndex": 6,
+      "valueAfter": "The picket"
+    },
+    {
+      "timestamp": 1766140116692,
+      "key": " line",
+      "sentenceIndex": 6,
+      "valueAfter": "The picket line"
+    },
+    {
+      "timestamp": 1766140118106,
+      "key": " give",
+      "sentenceIndex": 6,
+      "valueAfter": "The picket line give"
+    }
+  ]
+}

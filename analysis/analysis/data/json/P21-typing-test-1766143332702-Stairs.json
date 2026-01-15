@@ -1,0 +1,973 @@
+{
+  "mode": "upstairs",
+  "timestamp": "2025-12-19T11:22:12.700Z",
+  "duration": 60.046,
+  "wpm": 30,
+  "accuracy": "93.42",
+  "totalCharactersTyped": 152,
+  "correctCharacters": 142,
+  "errors": 43,
+  "sentencesCompleted": 5,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "This Watch is too expensive",
+      "expected": "This watch is too expensive"
+    },
+    {
+      "typed": "Fall is my favorite season",
+      "expected": "Fall is my favorite season"
+    },
+    {
+      "typed": "Take it to the recycling depot",
+      "expected": "Take it to the recycling depot"
+    },
+    {
+      "typed": "Interaktions beteeen men and eomen",
+      "expected": "Interactions between men and women"
+    },
+    {
+      "typed": "The generation gap gets wider",
+      "expected": "The generation gap gets wider"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766143266350,
+      "key": "T",
+      "sentenceIndex": 0,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766143266480,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766143266716,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Thi"
+    },
+    {
+      "timestamp": 1766143267032,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "This"
+    },
+    {
+      "timestamp": 1766143267989,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "This "
+    },
+    {
+      "timestamp": 1766143268416,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "This w"
+    },
+    {
+      "timestamp": 1766143268633,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "This wa"
+    },
+    {
+      "timestamp": 1766143268815,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "This wat"
+    },
+    {
+      "timestamp": 1766143269250,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "This watc"
+    },
+    {
+      "timestamp": 1766143269633,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "This watch"
+    },
+    {
+      "timestamp": 1766143269897,
+      "key": "Watch",
+      "sentenceIndex": 0,
+      "valueAfter": "This Watch"
+    },
+    {
+      "timestamp": 1766143269923,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "This Watch "
+    },
+    {
+      "timestamp": 1766143270134,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "This Watch i"
+    },
+    {
+      "timestamp": 1766143270349,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "This Watch is"
+    },
+    {
+      "timestamp": 1766143270473,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "This Watch is "
+    },
+    {
+      "timestamp": 1766143270716,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "This Watch is t"
+    },
+    {
+      "timestamp": 1766143270966,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "This Watch is to"
+    },
+    {
+      "timestamp": 1766143271117,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "This Watch is too"
+    },
+    {
+      "timestamp": 1766143271381,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "This Watch is too "
+    },
+    {
+      "timestamp": 1766143271565,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "This Watch is too e"
+    },
+    {
+      "timestamp": 1766143271849,
+      "key": "x",
+      "sentenceIndex": 0,
+      "valueAfter": "This Watch is too ex"
+    },
+    {
+      "timestamp": 1766143272300,
+      "key": "p",
+      "sentenceIndex": 0,
+      "valueAfter": "This Watch is too exp"
+    },
+    {
+      "timestamp": 1766143272533,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "This Watch is too expe"
+    },
+    {
+      "timestamp": 1766143272701,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "This Watch is too expen"
+    },
+    {
+      "timestamp": 1766143272851,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "This Watch is too expens"
+    },
+    {
+      "timestamp": 1766143273033,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "This Watch is too expensi"
+    },
+    {
+      "timestamp": 1766143273316,
+      "key": "v",
+      "sentenceIndex": 0,
+      "valueAfter": "This Watch is too expensiv"
+    },
+    {
+      "timestamp": 1766143273485,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "This Watch is too expensive"
+    },
+    {
+      "timestamp": 1766143275216,
+      "key": "F",
+      "sentenceIndex": 1,
+      "valueAfter": "F"
+    },
+    {
+      "timestamp": 1766143275449,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Fa"
+    },
+    {
+      "timestamp": 1766143275633,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Fal"
+    },
+    {
+      "timestamp": 1766143275782,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall"
+    },
+    {
+      "timestamp": 1766143276104,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall "
+    },
+    {
+      "timestamp": 1766143276583,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall o"
+    },
+    {
+      "timestamp": 1766143276833,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall os"
+    },
+    {
+      "timestamp": 1766143277662,
+      "key": "is",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall is"
+    },
+    {
+      "timestamp": 1766143277673,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall is "
+    },
+    {
+      "timestamp": 1766143278552,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall is m"
+    },
+    {
+      "timestamp": 1766143279301,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall is my"
+    },
+    {
+      "timestamp": 1766143279588,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall is my "
+    },
+    {
+      "timestamp": 1766143279800,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall is my f"
+    },
+    {
+      "timestamp": 1766143280150,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall is my fa"
+    },
+    {
+      "timestamp": 1766143280336,
+      "key": "v",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall is my fav"
+    },
+    {
+      "timestamp": 1766143280601,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall is my favo"
+    },
+    {
+      "timestamp": 1766143280919,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall is my favor"
+    },
+    {
+      "timestamp": 1766143281133,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall is my favori"
+    },
+    {
+      "timestamp": 1766143281866,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall is my favorit"
+    },
+    {
+      "timestamp": 1766143282101,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall is my favorite"
+    },
+    {
+      "timestamp": 1766143282357,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall is my favorite "
+    },
+    {
+      "timestamp": 1766143282567,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall is my favorite s"
+    },
+    {
+      "timestamp": 1766143282799,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall is my favorite se"
+    },
+    {
+      "timestamp": 1766143283117,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall is my favorite sea"
+    },
+    {
+      "timestamp": 1766143283784,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall is my favorite seas"
+    },
+    {
+      "timestamp": 1766143283970,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall is my favorite seaso"
+    },
+    {
+      "timestamp": 1766143284246,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Fall is my favorite season"
+    },
+    {
+      "timestamp": 1766143286052,
+      "key": "T",
+      "sentenceIndex": 2,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766143286317,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Ta"
+    },
+    {
+      "timestamp": 1766143286484,
+      "key": "k",
+      "sentenceIndex": 2,
+      "valueAfter": "Tak"
+    },
+    {
+      "timestamp": 1766143287900,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Take"
+    },
+    {
+      "timestamp": 1766143288087,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Take "
+    },
+    {
+      "timestamp": 1766143288367,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Take i"
+    },
+    {
+      "timestamp": 1766143288667,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it"
+    },
+    {
+      "timestamp": 1766143289058,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it "
+    },
+    {
+      "timestamp": 1766143290101,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it t"
+    },
+    {
+      "timestamp": 1766143290434,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it to"
+    },
+    {
+      "timestamp": 1766143290887,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it to "
+    },
+    {
+      "timestamp": 1766143291501,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it to t"
+    },
+    {
+      "timestamp": 1766143291801,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it to th"
+    },
+    {
+      "timestamp": 1766143292084,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it to the"
+    },
+    {
+      "timestamp": 1766143292325,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it to the "
+    },
+    {
+      "timestamp": 1766143292583,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it to the r"
+    },
+    {
+      "timestamp": 1766143292802,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it to the re"
+    },
+    {
+      "timestamp": 1766143293068,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it to the rec"
+    },
+    {
+      "timestamp": 1766143293669,
+      "key": "y",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it to the recy"
+    },
+    {
+      "timestamp": 1766143294736,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it to the recyc"
+    },
+    {
+      "timestamp": 1766143294968,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it to the recycl"
+    },
+    {
+      "timestamp": 1766143295204,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it to the recycli"
+    },
+    {
+      "timestamp": 1766143295434,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it to the recyclin"
+    },
+    {
+      "timestamp": 1766143295734,
+      "key": "g",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it to the recycling"
+    },
+    {
+      "timestamp": 1766143296053,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it to the recycling "
+    },
+    {
+      "timestamp": 1766143296601,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it to the recycling d"
+    },
+    {
+      "timestamp": 1766143296868,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it to the recycling de"
+    },
+    {
+      "timestamp": 1766143296987,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it to the recycling dep"
+    },
+    {
+      "timestamp": 1766143297201,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it to the recycling depo"
+    },
+    {
+      "timestamp": 1766143297434,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Take it to the recycling depot"
+    },
+    {
+      "timestamp": 1766143299819,
+      "key": "I",
+      "sentenceIndex": 3,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1766143300084,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "In"
+    },
+    {
+      "timestamp": 1766143300335,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Int"
+    },
+    {
+      "timestamp": 1766143300818,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Inte"
+    },
+    {
+      "timestamp": 1766143301002,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Inter"
+    },
+    {
+      "timestamp": 1766143301279,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Intera"
+    },
+    {
+      "timestamp": 1766143301953,
+      "key": "c",
+      "sentenceIndex": 3,
+      "valueAfter": "Interac"
+    },
+    {
+      "timestamp": 1766143302270,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Interact"
+    },
+    {
+      "timestamp": 1766143302452,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Interacti"
+    },
+    {
+      "timestamp": 1766143302617,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Interactio"
+    },
+    {
+      "timestamp": 1766143302867,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaction"
+    },
+    {
+      "timestamp": 1766143303252,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Interactione"
+    },
+    {
+      "timestamp": 1766143304381,
+      "key": "Interaktions",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions"
+    },
+    {
+      "timestamp": 1766143304392,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions "
+    },
+    {
+      "timestamp": 1766143305237,
+      "key": "b",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions b"
+    },
+    {
+      "timestamp": 1766143305552,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions be"
+    },
+    {
+      "timestamp": 1766143305901,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions bet"
+    },
+    {
+      "timestamp": 1766143306202,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions bete"
+    },
+    {
+      "timestamp": 1766143306554,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions betee"
+    },
+    {
+      "timestamp": 1766143306753,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions beteee"
+    },
+    {
+      "timestamp": 1766143307008,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions beteeen"
+    },
+    {
+      "timestamp": 1766143307458,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions beteeen "
+    },
+    {
+      "timestamp": 1766143307684,
+      "key": "m",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions beteeen m"
+    },
+    {
+      "timestamp": 1766143307867,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions beteeen me"
+    },
+    {
+      "timestamp": 1766143307985,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions beteeen men"
+    },
+    {
+      "timestamp": 1766143308206,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions beteeen men "
+    },
+    {
+      "timestamp": 1766143308602,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions beteeen men a"
+    },
+    {
+      "timestamp": 1766143308721,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions beteeen men an"
+    },
+    {
+      "timestamp": 1766143308952,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions beteeen men and"
+    },
+    {
+      "timestamp": 1766143309109,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions beteeen men and "
+    },
+    {
+      "timestamp": 1766143309652,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions beteeen men and e"
+    },
+    {
+      "timestamp": 1766143310585,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions beteeen men and eo"
+    },
+    {
+      "timestamp": 1766143310875,
+      "key": "m",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions beteeen men and eom"
+    },
+    {
+      "timestamp": 1766143311137,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions beteeen men and eome"
+    },
+    {
+      "timestamp": 1766143311235,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Interaktions beteeen men and eomen"
+    },
+    {
+      "timestamp": 1766143311503,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766143312226,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766143313636,
+      "key": "T",
+      "sentenceIndex": 4,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766143313786,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766143313969,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766143314191,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766143314835,
+      "key": "g",
+      "sentenceIndex": 4,
+      "valueAfter": "The g"
+    },
+    {
+      "timestamp": 1766143315068,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "The ge"
+    },
+    {
+      "timestamp": 1766143315202,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "The gen"
+    },
+    {
+      "timestamp": 1766143315452,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "The gene"
+    },
+    {
+      "timestamp": 1766143315752,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "The gener"
+    },
+    {
+      "timestamp": 1766143316086,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "The genera"
+    },
+    {
+      "timestamp": 1766143316553,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "The generat"
+    },
+    {
+      "timestamp": 1766143316737,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "The generati"
+    },
+    {
+      "timestamp": 1766143316935,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "The generatio"
+    },
+    {
+      "timestamp": 1766143317234,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "The generation"
+    },
+    {
+      "timestamp": 1766143317474,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "The generation "
+    },
+    {
+      "timestamp": 1766143319935,
+      "key": "g",
+      "sentenceIndex": 4,
+      "valueAfter": "The generation g"
+    },
+    {
+      "timestamp": 1766143320119,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "The generation ga"
+    },
+    {
+      "timestamp": 1766143320285,
+      "key": "p",
+      "sentenceIndex": 4,
+      "valueAfter": "The generation gap"
+    },
+    {
+      "timestamp": 1766143320669,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "The generation gap "
+    },
+    {
+      "timestamp": 1766143320986,
+      "key": "g",
+      "sentenceIndex": 4,
+      "valueAfter": "The generation gap g"
+    },
+    {
+      "timestamp": 1766143321203,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "The generation gap ge"
+    },
+    {
+      "timestamp": 1766143321334,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "The generation gap get"
+    },
+    {
+      "timestamp": 1766143321760,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "The generation gap gets"
+    },
+    {
+      "timestamp": 1766143322046,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "The generation gap gets "
+    },
+    {
+      "timestamp": 1766143322687,
+      "key": "w",
+      "sentenceIndex": 4,
+      "valueAfter": "The generation gap gets w"
+    },
+    {
+      "timestamp": 1766143322952,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "The generation gap gets wi"
+    },
+    {
+      "timestamp": 1766143323203,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "The generation gap gets wid"
+    },
+    {
+      "timestamp": 1766143323405,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "The generation gap gets wide"
+    },
+    {
+      "timestamp": 1766143323587,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "The generation gap gets wider"
+    },
+    {
+      "timestamp": 1766143325138,
+      "key": "Q",
+      "sentenceIndex": 5,
+      "valueAfter": "Q"
+    },
+    {
+      "timestamp": 1766143325369,
+      "key": "u",
+      "sentenceIndex": 5,
+      "valueAfter": "Qu"
+    },
+    {
+      "timestamp": 1766143325536,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Qui"
+    },
+    {
+      "timestamp": 1766143325836,
+      "key": "c",
+      "sentenceIndex": 5,
+      "valueAfter": "Quic"
+    },
+    {
+      "timestamp": 1766143326136,
+      "key": "k",
+      "sentenceIndex": 5,
+      "valueAfter": "Quick"
+    }
+  ]
+}

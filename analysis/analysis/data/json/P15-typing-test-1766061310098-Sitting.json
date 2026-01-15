@@ -1,0 +1,1489 @@
+{
+  "mode": "stationary",
+  "timestamp": "2025-12-18T12:35:10.097Z",
+  "duration": 60.849,
+  "wpm": 47,
+  "accuracy": "99.16",
+  "totalCharactersTyped": 239,
+  "correctCharacters": 237,
+  "errors": 38,
+  "sentencesCompleted": 8,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "My bank account is overdrawn",
+      "expected": "My bank account is overdrawn"
+    },
+    {
+      "typed": "I am wearing a tie and a jacket",
+      "expected": "I am wearing a tie and a jacket"
+    },
+    {
+      "typed": "Watch out for low flying objects",
+      "expected": "Watch out for low flying objects"
+    },
+    {
+      "typed": "Soom we will return from the city",
+      "expected": "Soon we will return from the city"
+    },
+    {
+      "typed": "I am allergic to bees and peanuts",
+      "expected": "I am allergic to bees and peanuts"
+    },
+    {
+      "typed": "I can see the rings on Saturn",
+      "expected": "I can see the rings on Saturn"
+    },
+    {
+      "typed": "He is still on our team",
+      "expected": "He is still on our team"
+    },
+    {
+      "typed": "Prevailing wind from the east",
+      "expected": "Prevailing wind from the east"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766061244182,
+      "key": "M",
+      "sentenceIndex": 0,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1766061244382,
+      "key": "y",
+      "sentenceIndex": 0,
+      "valueAfter": "My"
+    },
+    {
+      "timestamp": 1766061244509,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "My "
+    },
+    {
+      "timestamp": 1766061244998,
+      "key": "b",
+      "sentenceIndex": 0,
+      "valueAfter": "My b"
+    },
+    {
+      "timestamp": 1766061245156,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "My ba"
+    },
+    {
+      "timestamp": 1766061245259,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "My ban"
+    },
+    {
+      "timestamp": 1766061245413,
+      "key": "k",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank"
+    },
+    {
+      "timestamp": 1766061245628,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank "
+    },
+    {
+      "timestamp": 1766061245789,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank a"
+    },
+    {
+      "timestamp": 1766061246166,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank ac"
+    },
+    {
+      "timestamp": 1766061246327,
+      "key": "c",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank acc"
+    },
+    {
+      "timestamp": 1766061246435,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank acco"
+    },
+    {
+      "timestamp": 1766061246617,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank accou"
+    },
+    {
+      "timestamp": 1766061246845,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank accoun"
+    },
+    {
+      "timestamp": 1766061246991,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank account"
+    },
+    {
+      "timestamp": 1766061247083,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank account "
+    },
+    {
+      "timestamp": 1766061247305,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank account i"
+    },
+    {
+      "timestamp": 1766061247443,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank account is"
+    },
+    {
+      "timestamp": 1766061247611,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank account is "
+    },
+    {
+      "timestamp": 1766061247909,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank account is o"
+    },
+    {
+      "timestamp": 1766061248108,
+      "key": "v",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank account is ov"
+    },
+    {
+      "timestamp": 1766061248233,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank account is ove"
+    },
+    {
+      "timestamp": 1766061248405,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank account is over"
+    },
+    {
+      "timestamp": 1766061248574,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank account is overd"
+    },
+    {
+      "timestamp": 1766061248739,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank account is overdr"
+    },
+    {
+      "timestamp": 1766061248957,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank account is overdra"
+    },
+    {
+      "timestamp": 1766061249170,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank account is overdraw"
+    },
+    {
+      "timestamp": 1766061249303,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "My bank account is overdrawn"
+    },
+    {
+      "timestamp": 1766061251082,
+      "key": "I",
+      "sentenceIndex": 1,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1766061251311,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "I "
+    },
+    {
+      "timestamp": 1766061251536,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "I a"
+    },
+    {
+      "timestamp": 1766061251632,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": "I am"
+    },
+    {
+      "timestamp": 1766061251850,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "I am "
+    },
+    {
+      "timestamp": 1766061252029,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "I am w"
+    },
+    {
+      "timestamp": 1766061252245,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "I am we"
+    },
+    {
+      "timestamp": 1766061252651,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wea"
+    },
+    {
+      "timestamp": 1766061252918,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wear"
+    },
+    {
+      "timestamp": 1766061253263,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "I am weari"
+    },
+    {
+      "timestamp": 1766061253466,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wearin"
+    },
+    {
+      "timestamp": 1766061253576,
+      "key": "g",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wearing"
+    },
+    {
+      "timestamp": 1766061253747,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wearing "
+    },
+    {
+      "timestamp": 1766061253958,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wearing a"
+    },
+    {
+      "timestamp": 1766061254163,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wearing a "
+    },
+    {
+      "timestamp": 1766061254300,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wearing a t"
+    },
+    {
+      "timestamp": 1766061254498,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wearing a ti"
+    },
+    {
+      "timestamp": 1766061254593,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wearing a tie"
+    },
+    {
+      "timestamp": 1766061254746,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wearing a tie "
+    },
+    {
+      "timestamp": 1766061255269,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wearing a tie a"
+    },
+    {
+      "timestamp": 1766061255367,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wearing a tie an"
+    },
+    {
+      "timestamp": 1766061255535,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wearing a tie and"
+    },
+    {
+      "timestamp": 1766061255637,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wearing a tie and "
+    },
+    {
+      "timestamp": 1766061255829,
+      "key": "j",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wearing a tie and j"
+    },
+    {
+      "timestamp": 1766061255905,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wearing a tie and ja"
+    },
+    {
+      "timestamp": 1766061256040,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wearing a tie and jac"
+    },
+    {
+      "timestamp": 1766061256227,
+      "key": "k",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wearing a tie and jack"
+    },
+    {
+      "timestamp": 1766061256332,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wearing a tie and jacke"
+    },
+    {
+      "timestamp": 1766061256597,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wearing a tie and jacket"
+    },
+    {
+      "timestamp": 1766061261881,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wearing a tie and ajacket"
+    },
+    {
+      "timestamp": 1766061262275,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "I am wearing a tie and a jacket"
+    },
+    {
+      "timestamp": 1766061263957,
+      "key": "W",
+      "sentenceIndex": 2,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1766061264151,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Wa"
+    },
+    {
+      "timestamp": 1766061264410,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Wat"
+    },
+    {
+      "timestamp": 1766061264641,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Watc"
+    },
+    {
+      "timestamp": 1766061264821,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch"
+    },
+    {
+      "timestamp": 1766061265040,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch "
+    },
+    {
+      "timestamp": 1766061265317,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch o"
+    },
+    {
+      "timestamp": 1766061265601,
+      "key": "u",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch ou"
+    },
+    {
+      "timestamp": 1766061265862,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out"
+    },
+    {
+      "timestamp": 1766061265966,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out "
+    },
+    {
+      "timestamp": 1766061266101,
+      "key": "f",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out f"
+    },
+    {
+      "timestamp": 1766061266222,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out fo"
+    },
+    {
+      "timestamp": 1766061266351,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out for"
+    },
+    {
+      "timestamp": 1766061266450,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out for "
+    },
+    {
+      "timestamp": 1766061266654,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out for l"
+    },
+    {
+      "timestamp": 1766061266809,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out for lo"
+    },
+    {
+      "timestamp": 1766061266929,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out for low"
+    },
+    {
+      "timestamp": 1766061267085,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out for low "
+    },
+    {
+      "timestamp": 1766061267213,
+      "key": "f",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out for low f"
+    },
+    {
+      "timestamp": 1766061267316,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out for low fl"
+    },
+    {
+      "timestamp": 1766061267498,
+      "key": "y",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out for low fly"
+    },
+    {
+      "timestamp": 1766061267683,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out for low flyi"
+    },
+    {
+      "timestamp": 1766061267890,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out for low flyin"
+    },
+    {
+      "timestamp": 1766061268000,
+      "key": "g",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out for low flying"
+    },
+    {
+      "timestamp": 1766061268105,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out for low flying "
+    },
+    {
+      "timestamp": 1766061268306,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out for low flying o"
+    },
+    {
+      "timestamp": 1766061268514,
+      "key": "b",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out for low flying ob"
+    },
+    {
+      "timestamp": 1766061268698,
+      "key": "j",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out for low flying obj"
+    },
+    {
+      "timestamp": 1766061268797,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out for low flying obje"
+    },
+    {
+      "timestamp": 1766061268916,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out for low flying objec"
+    },
+    {
+      "timestamp": 1766061269086,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out for low flying object"
+    },
+    {
+      "timestamp": 1766061269305,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Watch out for low flying objects"
+    },
+    {
+      "timestamp": 1766061270636,
+      "key": "S",
+      "sentenceIndex": 3,
+      "valueAfter": "S"
+    },
+    {
+      "timestamp": 1766061270818,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "So"
+    },
+    {
+      "timestamp": 1766061270997,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Soo"
+    },
+    {
+      "timestamp": 1766061271197,
+      "key": "m",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom"
+    },
+    {
+      "timestamp": 1766061271414,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom "
+    },
+    {
+      "timestamp": 1766061271542,
+      "key": "w",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom w"
+    },
+    {
+      "timestamp": 1766061271734,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we"
+    },
+    {
+      "timestamp": 1766061271814,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we "
+    },
+    {
+      "timestamp": 1766061272179,
+      "key": "w",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we w"
+    },
+    {
+      "timestamp": 1766061272238,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we wi"
+    },
+    {
+      "timestamp": 1766061272431,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we wil"
+    },
+    {
+      "timestamp": 1766061272944,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will"
+    },
+    {
+      "timestamp": 1766061273146,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will "
+    },
+    {
+      "timestamp": 1766061273555,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will r"
+    },
+    {
+      "timestamp": 1766061273719,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will re"
+    },
+    {
+      "timestamp": 1766061273919,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will ret"
+    },
+    {
+      "timestamp": 1766061274111,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will retu"
+    },
+    {
+      "timestamp": 1766061274280,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will retur"
+    },
+    {
+      "timestamp": 1766061274429,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will return"
+    },
+    {
+      "timestamp": 1766061274628,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will return "
+    },
+    {
+      "timestamp": 1766061274725,
+      "key": "f",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will return f"
+    },
+    {
+      "timestamp": 1766061274902,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will return fr"
+    },
+    {
+      "timestamp": 1766061274964,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will return fro"
+    },
+    {
+      "timestamp": 1766061275154,
+      "key": "m",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will return from"
+    },
+    {
+      "timestamp": 1766061275342,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will return from "
+    },
+    {
+      "timestamp": 1766061276103,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will return from t"
+    },
+    {
+      "timestamp": 1766061276208,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will return from th"
+    },
+    {
+      "timestamp": 1766061276321,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will return from the"
+    },
+    {
+      "timestamp": 1766061276470,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will return from the "
+    },
+    {
+      "timestamp": 1766061276722,
+      "key": "c",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will return from the c"
+    },
+    {
+      "timestamp": 1766061276816,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will return from the ci"
+    },
+    {
+      "timestamp": 1766061277065,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will return from the cit"
+    },
+    {
+      "timestamp": 1766061277322,
+      "key": "y",
+      "sentenceIndex": 3,
+      "valueAfter": "Soom we will return from the city"
+    },
+    {
+      "timestamp": 1766061278414,
+      "key": "I",
+      "sentenceIndex": 4,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1766061278630,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "I "
+    },
+    {
+      "timestamp": 1766061278822,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "I a"
+    },
+    {
+      "timestamp": 1766061278911,
+      "key": "m",
+      "sentenceIndex": 4,
+      "valueAfter": "I am"
+    },
+    {
+      "timestamp": 1766061279132,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "I am "
+    },
+    {
+      "timestamp": 1766061279235,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "I am a"
+    },
+    {
+      "timestamp": 1766061279338,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "I am al"
+    },
+    {
+      "timestamp": 1766061279495,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "I am all"
+    },
+    {
+      "timestamp": 1766061279717,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "I am alle"
+    },
+    {
+      "timestamp": 1766061279984,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "I am aller"
+    },
+    {
+      "timestamp": 1766061280364,
+      "key": "g",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allerg"
+    },
+    {
+      "timestamp": 1766061280751,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergi"
+    },
+    {
+      "timestamp": 1766061280896,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic"
+    },
+    {
+      "timestamp": 1766061281029,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic "
+    },
+    {
+      "timestamp": 1766061281436,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic t"
+    },
+    {
+      "timestamp": 1766061281486,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic to"
+    },
+    {
+      "timestamp": 1766061281715,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic to "
+    },
+    {
+      "timestamp": 1766061281875,
+      "key": "b",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic to b"
+    },
+    {
+      "timestamp": 1766061281992,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic to be"
+    },
+    {
+      "timestamp": 1766061282144,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic to bee"
+    },
+    {
+      "timestamp": 1766061282341,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic to bees"
+    },
+    {
+      "timestamp": 1766061282466,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic to bees "
+    },
+    {
+      "timestamp": 1766061282595,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic to bees a"
+    },
+    {
+      "timestamp": 1766061282728,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic to bees an"
+    },
+    {
+      "timestamp": 1766061282880,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic to bees and"
+    },
+    {
+      "timestamp": 1766061282961,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic to bees and "
+    },
+    {
+      "timestamp": 1766061283163,
+      "key": "p",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic to bees and p"
+    },
+    {
+      "timestamp": 1766061283262,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic to bees and pe"
+    },
+    {
+      "timestamp": 1766061283507,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic to bees and pea"
+    },
+    {
+      "timestamp": 1766061283675,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic to bees and pean"
+    },
+    {
+      "timestamp": 1766061284365,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic to bees and peanu"
+    },
+    {
+      "timestamp": 1766061284682,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic to bees and peanus"
+    },
+    {
+      "timestamp": 1766061285032,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic to bees and peanu"
+    },
+    {
+      "timestamp": 1766061285244,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic to bees and peanut"
+    },
+    {
+      "timestamp": 1766061285466,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "I am allergic to bees and peanuts"
+    },
+    {
+      "timestamp": 1766061286722,
+      "key": "I",
+      "sentenceIndex": 5,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1766061286937,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "I "
+    },
+    {
+      "timestamp": 1766061287137,
+      "key": "c",
+      "sentenceIndex": 5,
+      "valueAfter": "I c"
+    },
+    {
+      "timestamp": 1766061287278,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "I ca"
+    },
+    {
+      "timestamp": 1766061287363,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "I can"
+    },
+    {
+      "timestamp": 1766061287555,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "I can "
+    },
+    {
+      "timestamp": 1766061287743,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "I can s"
+    },
+    {
+      "timestamp": 1766061288001,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "I can se"
+    },
+    {
+      "timestamp": 1766061288197,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "I can see"
+    },
+    {
+      "timestamp": 1766061288305,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "I can see "
+    },
+    {
+      "timestamp": 1766061288410,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "I can see t"
+    },
+    {
+      "timestamp": 1766061288592,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "I can see th"
+    },
+    {
+      "timestamp": 1766061288718,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "I can see the"
+    },
+    {
+      "timestamp": 1766061288909,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "I can see the "
+    },
+    {
+      "timestamp": 1766061289296,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "I can see the r"
+    },
+    {
+      "timestamp": 1766061289386,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "I can see the ri"
+    },
+    {
+      "timestamp": 1766061289574,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "I can see the rin"
+    },
+    {
+      "timestamp": 1766061289691,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": "I can see the ring"
+    },
+    {
+      "timestamp": 1766061289941,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "I can see the rings"
+    },
+    {
+      "timestamp": 1766061290067,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "I can see the rings "
+    },
+    {
+      "timestamp": 1766061290287,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "I can see the rings o"
+    },
+    {
+      "timestamp": 1766061291369,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "I can see the rings on"
+    },
+    {
+      "timestamp": 1766061291644,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "I can see the rings on "
+    },
+    {
+      "timestamp": 1766061292310,
+      "key": "S",
+      "sentenceIndex": 5,
+      "valueAfter": "I can see the rings on S"
+    },
+    {
+      "timestamp": 1766061292491,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "I can see the rings on Sa"
+    },
+    {
+      "timestamp": 1766061292733,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "I can see the rings on Sat"
+    },
+    {
+      "timestamp": 1766061292940,
+      "key": "u",
+      "sentenceIndex": 5,
+      "valueAfter": "I can see the rings on Satu"
+    },
+    {
+      "timestamp": 1766061293060,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "I can see the rings on Satur"
+    },
+    {
+      "timestamp": 1766061293184,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "I can see the rings on Saturn"
+    },
+    {
+      "timestamp": 1766061294356,
+      "key": "H",
+      "sentenceIndex": 6,
+      "valueAfter": "H"
+    },
+    {
+      "timestamp": 1766061294552,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "He"
+    },
+    {
+      "timestamp": 1766061294623,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "He "
+    },
+    {
+      "timestamp": 1766061294844,
+      "key": "i",
+      "sentenceIndex": 6,
+      "valueAfter": "He i"
+    },
+    {
+      "timestamp": 1766061294989,
+      "key": "s",
+      "sentenceIndex": 6,
+      "valueAfter": "He is"
+    },
+    {
+      "timestamp": 1766061295095,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "He is "
+    },
+    {
+      "timestamp": 1766061295216,
+      "key": "s",
+      "sentenceIndex": 6,
+      "valueAfter": "He is s"
+    },
+    {
+      "timestamp": 1766061295411,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "He is st"
+    },
+    {
+      "timestamp": 1766061295579,
+      "key": "i",
+      "sentenceIndex": 6,
+      "valueAfter": "He is sti"
+    },
+    {
+      "timestamp": 1766061295769,
+      "key": "l",
+      "sentenceIndex": 6,
+      "valueAfter": "He is stil"
+    },
+    {
+      "timestamp": 1766061295918,
+      "key": "l",
+      "sentenceIndex": 6,
+      "valueAfter": "He is still"
+    },
+    {
+      "timestamp": 1766061296122,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "He is still "
+    },
+    {
+      "timestamp": 1766061296350,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "He is still o"
+    },
+    {
+      "timestamp": 1766061296514,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "He is still on"
+    },
+    {
+      "timestamp": 1766061296702,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "He is still on "
+    },
+    {
+      "timestamp": 1766061296914,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "He is still on o"
+    },
+    {
+      "timestamp": 1766061297077,
+      "key": "u",
+      "sentenceIndex": 6,
+      "valueAfter": "He is still on ou"
+    },
+    {
+      "timestamp": 1766061297305,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "He is still on our"
+    },
+    {
+      "timestamp": 1766061297420,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "He is still on our "
+    },
+    {
+      "timestamp": 1766061297724,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "He is still on our t"
+    },
+    {
+      "timestamp": 1766061297912,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "He is still on our te"
+    },
+    {
+      "timestamp": 1766061298116,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "He is still on our tea"
+    },
+    {
+      "timestamp": 1766061298329,
+      "key": "m",
+      "sentenceIndex": 6,
+      "valueAfter": "He is still on our team"
+    },
+    {
+      "timestamp": 1766061299629,
+      "key": "P",
+      "sentenceIndex": 7,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1766061299802,
+      "key": "r",
+      "sentenceIndex": 7,
+      "valueAfter": "Pr"
+    },
+    {
+      "timestamp": 1766061299992,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Pre"
+    },
+    {
+      "timestamp": 1766061300164,
+      "key": "v",
+      "sentenceIndex": 7,
+      "valueAfter": "Prev"
+    },
+    {
+      "timestamp": 1766061300262,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "Preva"
+    },
+    {
+      "timestamp": 1766061300438,
+      "key": "i",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevai"
+    },
+    {
+      "timestamp": 1766061300621,
+      "key": "l",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevail"
+    },
+    {
+      "timestamp": 1766061300828,
+      "key": "i",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevaili"
+    },
+    {
+      "timestamp": 1766061301013,
+      "key": "n",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevailin"
+    },
+    {
+      "timestamp": 1766061301193,
+      "key": "g",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevailing"
+    },
+    {
+      "timestamp": 1766061301327,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevailing "
+    },
+    {
+      "timestamp": 1766061301528,
+      "key": "w",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevailing w"
+    },
+    {
+      "timestamp": 1766061301641,
+      "key": "i",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevailing wi"
+    },
+    {
+      "timestamp": 1766061301829,
+      "key": "n",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevailing win"
+    },
+    {
+      "timestamp": 1766061301983,
+      "key": "d",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevailing wind"
+    },
+    {
+      "timestamp": 1766061302198,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevailing wind "
+    },
+    {
+      "timestamp": 1766061302454,
+      "key": "f",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevailing wind f"
+    },
+    {
+      "timestamp": 1766061302643,
+      "key": "r",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevailing wind fr"
+    },
+    {
+      "timestamp": 1766061302741,
+      "key": "o",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevailing wind fro"
+    },
+    {
+      "timestamp": 1766061302947,
+      "key": "m",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevailing wind from"
+    },
+    {
+      "timestamp": 1766061303152,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevailing wind from "
+    },
+    {
+      "timestamp": 1766061303221,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevailing wind from t"
+    },
+    {
+      "timestamp": 1766061303486,
+      "key": "h",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevailing wind from th"
+    },
+    {
+      "timestamp": 1766061303650,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevailing wind from the"
+    },
+    {
+      "timestamp": 1766061304118,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevailing wind from the "
+    },
+    {
+      "timestamp": 1766061304305,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevailing wind from the e"
+    },
+    {
+      "timestamp": 1766061304501,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevailing wind from the ea"
+    },
+    {
+      "timestamp": 1766061304708,
+      "key": "s",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevailing wind from the eas"
+    },
+    {
+      "timestamp": 1766061304865,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "Prevailing wind from the east"
+    }
+  ]
+}

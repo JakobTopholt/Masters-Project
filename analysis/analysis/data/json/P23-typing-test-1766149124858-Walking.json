@@ -1,0 +1,359 @@
+{
+  "mode": "walking",
+  "timestamp": "2025-12-19T12:58:44.857Z",
+  "duration": 60.002,
+  "wpm": 29,
+  "accuracy": "346.34",
+  "totalCharactersTyped": 41,
+  "correctCharacters": 142,
+  "errors": 22,
+  "sentencesCompleted": 6,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "The food at this restaurant",
+      "expected": "The food at this restaurant"
+    },
+    {
+      "typed": "Frequently asked questions",
+      "expected": "Frequently asked questions"
+    },
+    {
+      "typed": "Prevailing winds from the eas",
+      "expected": "Prevailing wind from the east"
+    },
+    {
+      "typed": "All together in one big pile",
+      "expected": "All together in one big pile"
+    },
+    {
+      "typed": "My favorite web browser",
+      "expected": "My favorite web browser"
+    },
+    {
+      "typed": "Min made her a turtleneck",
+      "expected": "Mom made her a turtleneck"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766149062115,
+      "key": "The",
+      "sentenceIndex": 0,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766149062860,
+      "key": " food",
+      "sentenceIndex": 0,
+      "valueAfter": "The food"
+    },
+    {
+      "timestamp": 1766149063343,
+      "key": " at",
+      "sentenceIndex": 0,
+      "valueAfter": "The food at"
+    },
+    {
+      "timestamp": 1766149063988,
+      "key": " this",
+      "sentenceIndex": 0,
+      "valueAfter": "The food at this"
+    },
+    {
+      "timestamp": 1766149066236,
+      "key": " restaurant",
+      "sentenceIndex": 0,
+      "valueAfter": "The food at this restaurant"
+    },
+    {
+      "timestamp": 1766149070219,
+      "key": "Free",
+      "sentenceIndex": 1,
+      "valueAfter": "Free"
+    },
+    {
+      "timestamp": 1766149070384,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766149073775,
+      "key": "Frequently",
+      "sentenceIndex": 1,
+      "valueAfter": "Frequently"
+    },
+    {
+      "timestamp": 1766149075149,
+      "key": " asked",
+      "sentenceIndex": 1,
+      "valueAfter": "Frequently asked"
+    },
+    {
+      "timestamp": 1766149077373,
+      "key": " questions",
+      "sentenceIndex": 1,
+      "valueAfter": "Frequently asked questions"
+    },
+    {
+      "timestamp": 1766149080523,
+      "key": "Prevailing",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing"
+    },
+    {
+      "timestamp": 1766149081833,
+      "key": " winds",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds"
+    },
+    {
+      "timestamp": 1766149082670,
+      "key": " from",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds from"
+    },
+    {
+      "timestamp": 1766149083116,
+      "key": " the",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds from the"
+    },
+    {
+      "timestamp": 1766149086478,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds from"
+    },
+    {
+      "timestamp": 1766149086488,
+      "key": "East ",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds fromEast "
+    },
+    {
+      "timestamp": 1766149090510,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds fromEast"
+    },
+    {
+      "timestamp": 1766149090685,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds fromEas"
+    },
+    {
+      "timestamp": 1766149090853,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds fromEa"
+    },
+    {
+      "timestamp": 1766149091015,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds fromE"
+    },
+    {
+      "timestamp": 1766149091174,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds from"
+    },
+    {
+      "timestamp": 1766149091679,
+      "key": "ø",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds fromø"
+    },
+    {
+      "timestamp": 1766149092108,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds from"
+    },
+    {
+      "timestamp": 1766149092259,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds fro"
+    },
+    {
+      "timestamp": 1766149093158,
+      "key": "m",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds from"
+    },
+    {
+      "timestamp": 1766149093320,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds from "
+    },
+    {
+      "timestamp": 1766149093760,
+      "key": "the",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds from the"
+    },
+    {
+      "timestamp": 1766149096223,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds from the "
+    },
+    {
+      "timestamp": 1766149096561,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds from the"
+    },
+    {
+      "timestamp": 1766149097128,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds from the "
+    },
+    {
+      "timestamp": 1766149097741,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds from the e"
+    },
+    {
+      "timestamp": 1766149097947,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds from the ea"
+    },
+    {
+      "timestamp": 1766149098124,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Prevailing winds from the eas"
+    },
+    {
+      "timestamp": 1766149098338,
+      "key": "T",
+      "sentenceIndex": 3,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766149099113,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766149100001,
+      "key": "All",
+      "sentenceIndex": 3,
+      "valueAfter": "All"
+    },
+    {
+      "timestamp": 1766149102050,
+      "key": " together",
+      "sentenceIndex": 3,
+      "valueAfter": "All together"
+    },
+    {
+      "timestamp": 1766149102781,
+      "key": " in",
+      "sentenceIndex": 3,
+      "valueAfter": "All together in"
+    },
+    {
+      "timestamp": 1766149103352,
+      "key": " one",
+      "sentenceIndex": 3,
+      "valueAfter": "All together in one"
+    },
+    {
+      "timestamp": 1766149104485,
+      "key": " vil",
+      "sentenceIndex": 3,
+      "valueAfter": "All together in one vil"
+    },
+    {
+      "timestamp": 1766149104980,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "All together in one "
+    },
+    {
+      "timestamp": 1766149105494,
+      "key": "big",
+      "sentenceIndex": 3,
+      "valueAfter": "All together in one big"
+    },
+    {
+      "timestamp": 1766149106509,
+      "key": " pile",
+      "sentenceIndex": 3,
+      "valueAfter": "All together in one big pile"
+    },
+    {
+      "timestamp": 1766149107808,
+      "key": "My",
+      "sentenceIndex": 4,
+      "valueAfter": "My"
+    },
+    {
+      "timestamp": 1766149110695,
+      "key": " favorite",
+      "sentenceIndex": 4,
+      "valueAfter": "My favorite"
+    },
+    {
+      "timestamp": 1766149112262,
+      "key": " web",
+      "sentenceIndex": 4,
+      "valueAfter": "My favorite web"
+    },
+    {
+      "timestamp": 1766149114423,
+      "key": " browser",
+      "sentenceIndex": 4,
+      "valueAfter": "My favorite web browser"
+    },
+    {
+      "timestamp": 1766149115628,
+      "key": "Min",
+      "sentenceIndex": 5,
+      "valueAfter": "Min"
+    },
+    {
+      "timestamp": 1766149116650,
+      "key": " made",
+      "sentenceIndex": 5,
+      "valueAfter": "Min made"
+    },
+    {
+      "timestamp": 1766149117221,
+      "key": " her",
+      "sentenceIndex": 5,
+      "valueAfter": "Min made her"
+    },
+    {
+      "timestamp": 1766149117657,
+      "key": " a",
+      "sentenceIndex": 5,
+      "valueAfter": "Min made her a"
+    },
+    {
+      "timestamp": 1766149120354,
+      "key": " turtleneck",
+      "sentenceIndex": 5,
+      "valueAfter": "Min made her a turtleneck"
+    },
+    {
+      "timestamp": 1766149121886,
+      "key": "He's",
+      "sentenceIndex": 6,
+      "valueAfter": "He's"
+    }
+  ]
+}

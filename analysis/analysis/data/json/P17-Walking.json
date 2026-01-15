@@ -1,0 +1,1645 @@
+{
+  "mode": "walking",
+  "timestamp": "2025-12-18T13:16:32.995Z",
+  "duration": 60.073,
+  "wpm": 40,
+  "accuracy": "79.84",
+  "totalCharactersTyped": 248,
+  "correctCharacters": 198,
+  "errors": 95,
+  "sentencesCompleted": 8,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "The music is better than it sounds",
+      "expected": "The music is better than it sounds"
+    },
+    {
+      "typed": "Rain rain go awat",
+      "expected": "Rain rain go away"
+    },
+    {
+      "typed": "Beautiful painting in the gallery ",
+      "expected": "Beautiful paintings in the gallery"
+    },
+    {
+      "typed": "Tell a lie and your nice will geo ",
+      "expected": "Tell a lie and your nose will grow"
+    },
+    {
+      "typed": "Parking tickets can be challedged",
+      "expected": "Parking tickets can be challenged"
+    },
+    {
+      "typed": "There will be some fog tonoght",
+      "expected": "There will be some fog tonight"
+    },
+    {
+      "typed": "Companies announce a merge ",
+      "expected": "Companies announce a merger"
+    },
+    {
+      "typed": "My favourite subject is psyhologu",
+      "expected": "My favorite subject is psychology"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766063727363,
+      "key": "T",
+      "sentenceIndex": 0,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766063727485,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766063727550,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766063727682,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766063727873,
+      "key": "m",
+      "sentenceIndex": 0,
+      "valueAfter": "The m"
+    },
+    {
+      "timestamp": 1766063728090,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "The mu"
+    },
+    {
+      "timestamp": 1766063728305,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "The mus"
+    },
+    {
+      "timestamp": 1766063728411,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "The muso"
+    },
+    {
+      "timestamp": 1766063728521,
+      "key": "x",
+      "sentenceIndex": 0,
+      "valueAfter": "The musox"
+    },
+    {
+      "timestamp": 1766063728679,
+      "key": "music",
+      "sentenceIndex": 0,
+      "valueAfter": "The music"
+    },
+    {
+      "timestamp": 1766063728697,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The music "
+    },
+    {
+      "timestamp": 1766063728976,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "The music i"
+    },
+    {
+      "timestamp": 1766063729109,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is"
+    },
+    {
+      "timestamp": 1766063729167,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is "
+    },
+    {
+      "timestamp": 1766063729356,
+      "key": "b",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is b"
+    },
+    {
+      "timestamp": 1766063729511,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is be"
+    },
+    {
+      "timestamp": 1766063729697,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is bet"
+    },
+    {
+      "timestamp": 1766063729818,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is bett"
+    },
+    {
+      "timestamp": 1766063729836,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is bette"
+    },
+    {
+      "timestamp": 1766063729962,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is better"
+    },
+    {
+      "timestamp": 1766063730039,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is better "
+    },
+    {
+      "timestamp": 1766063730267,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is better t"
+    },
+    {
+      "timestamp": 1766063730417,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is better th"
+    },
+    {
+      "timestamp": 1766063730553,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is better tha"
+    },
+    {
+      "timestamp": 1766063730618,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is better than"
+    },
+    {
+      "timestamp": 1766063730774,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is better than "
+    },
+    {
+      "timestamp": 1766063730959,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is better than o"
+    },
+    {
+      "timestamp": 1766063731104,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is better than ot"
+    },
+    {
+      "timestamp": 1766063731174,
+      "key": "it",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is better than it"
+    },
+    {
+      "timestamp": 1766063731182,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is better than it "
+    },
+    {
+      "timestamp": 1766063731453,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is better than it s"
+    },
+    {
+      "timestamp": 1766063731581,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is better than it so"
+    },
+    {
+      "timestamp": 1766063731756,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is better than it sou"
+    },
+    {
+      "timestamp": 1766063731924,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is better than it soun"
+    },
+    {
+      "timestamp": 1766063732062,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is better than it sound"
+    },
+    {
+      "timestamp": 1766063732210,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "The music is better than it sounds"
+    },
+    {
+      "timestamp": 1766063732365,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766063733350,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 1,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766063733510,
+      "key": "R",
+      "sentenceIndex": 1,
+      "valueAfter": "R"
+    },
+    {
+      "timestamp": 1766063733693,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Ra"
+    },
+    {
+      "timestamp": 1766063733772,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Rai"
+    },
+    {
+      "timestamp": 1766063733897,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Rain"
+    },
+    {
+      "timestamp": 1766063734085,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Rain "
+    },
+    {
+      "timestamp": 1766063734972,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Rain r"
+    },
+    {
+      "timestamp": 1766063735125,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Rain ra"
+    },
+    {
+      "timestamp": 1766063735203,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Rain rai"
+    },
+    {
+      "timestamp": 1766063735362,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Rain rain"
+    },
+    {
+      "timestamp": 1766063735530,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Rain rain "
+    },
+    {
+      "timestamp": 1766063735722,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "Rain rain f"
+    },
+    {
+      "timestamp": 1766063735862,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Rain rain fo"
+    },
+    {
+      "timestamp": 1766063736060,
+      "key": "go",
+      "sentenceIndex": 1,
+      "valueAfter": "Rain rain go"
+    },
+    {
+      "timestamp": 1766063736080,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Rain rain go "
+    },
+    {
+      "timestamp": 1766063736625,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Rain rain go a"
+    },
+    {
+      "timestamp": 1766063736811,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "Rain rain go aw"
+    },
+    {
+      "timestamp": 1766063736982,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Rain rain go awa"
+    },
+    {
+      "timestamp": 1766063737049,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Rain rain go awat"
+    },
+    {
+      "timestamp": 1766063737216,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766063739644,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766063740300,
+      "key": "B",
+      "sentenceIndex": 2,
+      "valueAfter": "B"
+    },
+    {
+      "timestamp": 1766063740411,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Be"
+    },
+    {
+      "timestamp": 1766063740549,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Bea"
+    },
+    {
+      "timestamp": 1766063740768,
+      "key": "u",
+      "sentenceIndex": 2,
+      "valueAfter": "Beau"
+    },
+    {
+      "timestamp": 1766063741833,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Beaut"
+    },
+    {
+      "timestamp": 1766063741972,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Beauti"
+    },
+    {
+      "timestamp": 1766063742276,
+      "key": "f",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautif"
+    },
+    {
+      "timestamp": 1766063742377,
+      "key": "u",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautifu"
+    },
+    {
+      "timestamp": 1766063742524,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful"
+    },
+    {
+      "timestamp": 1766063742716,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful "
+    },
+    {
+      "timestamp": 1766063743369,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful p"
+    },
+    {
+      "timestamp": 1766063743515,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful pa"
+    },
+    {
+      "timestamp": 1766063743652,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful pai"
+    },
+    {
+      "timestamp": 1766063743827,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful pain"
+    },
+    {
+      "timestamp": 1766063744472,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful paint"
+    },
+    {
+      "timestamp": 1766063744591,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful painti"
+    },
+    {
+      "timestamp": 1766063744765,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful paintin"
+    },
+    {
+      "timestamp": 1766063744881,
+      "key": "g",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful painting"
+    },
+    {
+      "timestamp": 1766063744933,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful painting "
+    },
+    {
+      "timestamp": 1766063745127,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful painting i"
+    },
+    {
+      "timestamp": 1766063745279,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful painting is"
+    },
+    {
+      "timestamp": 1766063745510,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful painting i"
+    },
+    {
+      "timestamp": 1766063745804,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful painting in"
+    },
+    {
+      "timestamp": 1766063745960,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful painting in "
+    },
+    {
+      "timestamp": 1766063746128,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful painting in t"
+    },
+    {
+      "timestamp": 1766063746256,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful painting in th"
+    },
+    {
+      "timestamp": 1766063746325,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful painting in the"
+    },
+    {
+      "timestamp": 1766063746389,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful painting in the "
+    },
+    {
+      "timestamp": 1766063747056,
+      "key": "g",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful painting in the g"
+    },
+    {
+      "timestamp": 1766063747178,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful painting in the ga"
+    },
+    {
+      "timestamp": 1766063747247,
+      "key": "æ",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful painting in the gaæ"
+    },
+    {
+      "timestamp": 1766063747407,
+      "key": "æ",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful painting in the gaææ"
+    },
+    {
+      "timestamp": 1766063747581,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful painting in the gaææe"
+    },
+    {
+      "timestamp": 1766063748262,
+      "key": "gallery",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful painting in the gallery"
+    },
+    {
+      "timestamp": 1766063748293,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Beautiful painting in the gallery "
+    },
+    {
+      "timestamp": 1766063749692,
+      "key": "T",
+      "sentenceIndex": 3,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766063749856,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Te"
+    },
+    {
+      "timestamp": 1766063749937,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Tel"
+    },
+    {
+      "timestamp": 1766063750080,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell"
+    },
+    {
+      "timestamp": 1766063750256,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell "
+    },
+    {
+      "timestamp": 1766063750355,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a"
+    },
+    {
+      "timestamp": 1766063750467,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a "
+    },
+    {
+      "timestamp": 1766063750666,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a l"
+    },
+    {
+      "timestamp": 1766063750832,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a li"
+    },
+    {
+      "timestamp": 1766063750920,
+      "key": "w",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a liw"
+    },
+    {
+      "timestamp": 1766063751045,
+      "key": "lie",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie"
+    },
+    {
+      "timestamp": 1766063751055,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie "
+    },
+    {
+      "timestamp": 1766063751204,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie a"
+    },
+    {
+      "timestamp": 1766063751319,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie an"
+    },
+    {
+      "timestamp": 1766063751399,
+      "key": "d",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and"
+    },
+    {
+      "timestamp": 1766063751470,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and "
+    },
+    {
+      "timestamp": 1766063751674,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and h"
+    },
+    {
+      "timestamp": 1766063751837,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and ho"
+    },
+    {
+      "timestamp": 1766063751987,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and hou"
+    },
+    {
+      "timestamp": 1766063752108,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and hout"
+    },
+    {
+      "timestamp": 1766063752249,
+      "key": "your",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and your"
+    },
+    {
+      "timestamp": 1766063752261,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and your "
+    },
+    {
+      "timestamp": 1766063752823,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and your n"
+    },
+    {
+      "timestamp": 1766063752978,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and your no"
+    },
+    {
+      "timestamp": 1766063753275,
+      "key": "c",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and your noc"
+    },
+    {
+      "timestamp": 1766063753490,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and your noce"
+    },
+    {
+      "timestamp": 1766063753599,
+      "key": "nice",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and your nice"
+    },
+    {
+      "timestamp": 1766063753611,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and your nice "
+    },
+    {
+      "timestamp": 1766063754071,
+      "key": "w",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and your nice w"
+    },
+    {
+      "timestamp": 1766063754204,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and your nice wi"
+    },
+    {
+      "timestamp": 1766063754353,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and your nice wil"
+    },
+    {
+      "timestamp": 1766063754490,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and your nice will"
+    },
+    {
+      "timestamp": 1766063754677,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and your nice will "
+    },
+    {
+      "timestamp": 1766063754785,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and your nice will g"
+    },
+    {
+      "timestamp": 1766063755005,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and your nice will ge"
+    },
+    {
+      "timestamp": 1766063755128,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and your nice will geo"
+    },
+    {
+      "timestamp": 1766063755222,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Tell a lie and your nice will geo "
+    },
+    {
+      "timestamp": 1766063756374,
+      "key": "P",
+      "sentenceIndex": 4,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1766063756483,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Pa"
+    },
+    {
+      "timestamp": 1766063756677,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Par"
+    },
+    {
+      "timestamp": 1766063756884,
+      "key": "k",
+      "sentenceIndex": 4,
+      "valueAfter": "Park"
+    },
+    {
+      "timestamp": 1766063757083,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Parki"
+    },
+    {
+      "timestamp": 1766063757205,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "Parkin"
+    },
+    {
+      "timestamp": 1766063757321,
+      "key": "g",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking"
+    },
+    {
+      "timestamp": 1766063757422,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking "
+    },
+    {
+      "timestamp": 1766063758112,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking t"
+    },
+    {
+      "timestamp": 1766063758252,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking ti"
+    },
+    {
+      "timestamp": 1766063758546,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tic"
+    },
+    {
+      "timestamp": 1766063758668,
+      "key": "k",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tick"
+    },
+    {
+      "timestamp": 1766063758778,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking ticke"
+    },
+    {
+      "timestamp": 1766063758857,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking ticket"
+    },
+    {
+      "timestamp": 1766063758981,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tickets"
+    },
+    {
+      "timestamp": 1766063759095,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tickets "
+    },
+    {
+      "timestamp": 1766063759671,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tickets c"
+    },
+    {
+      "timestamp": 1766063759848,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tickets ca"
+    },
+    {
+      "timestamp": 1766063759862,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tickets can"
+    },
+    {
+      "timestamp": 1766063760037,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tickets can "
+    },
+    {
+      "timestamp": 1766063760180,
+      "key": "b",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tickets can b"
+    },
+    {
+      "timestamp": 1766063760313,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tickets can be"
+    },
+    {
+      "timestamp": 1766063760394,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tickets can be "
+    },
+    {
+      "timestamp": 1766063760939,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tickets can be c"
+    },
+    {
+      "timestamp": 1766063761097,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tickets can be ch"
+    },
+    {
+      "timestamp": 1766063761207,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tickets can be cha"
+    },
+    {
+      "timestamp": 1766063761603,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tickets can be chal"
+    },
+    {
+      "timestamp": 1766063761755,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tickets can be chall"
+    },
+    {
+      "timestamp": 1766063761931,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tickets can be challe"
+    },
+    {
+      "timestamp": 1766063762108,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tickets can be challed"
+    },
+    {
+      "timestamp": 1766063762448,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tickets can be challedn"
+    },
+    {
+      "timestamp": 1766063762970,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tickets can be challed"
+    },
+    {
+      "timestamp": 1766063763538,
+      "key": "g",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tickets can be challedg"
+    },
+    {
+      "timestamp": 1766063763727,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tickets can be challedge"
+    },
+    {
+      "timestamp": 1766063763883,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "Parking tickets can be challedged"
+    },
+    {
+      "timestamp": 1766063764034,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766063764777,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766063765061,
+      "key": "T",
+      "sentenceIndex": 5,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766063765221,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766063765292,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766063765451,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Ther"
+    },
+    {
+      "timestamp": 1766063765615,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "There"
+    },
+    {
+      "timestamp": 1766063765679,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "There "
+    },
+    {
+      "timestamp": 1766063765821,
+      "key": "w",
+      "sentenceIndex": 5,
+      "valueAfter": "There w"
+    },
+    {
+      "timestamp": 1766063765940,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "There wi"
+    },
+    {
+      "timestamp": 1766063766065,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": "There wil"
+    },
+    {
+      "timestamp": 1766063766222,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": "There will"
+    },
+    {
+      "timestamp": 1766063766403,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "There will "
+    },
+    {
+      "timestamp": 1766063766567,
+      "key": "v",
+      "sentenceIndex": 5,
+      "valueAfter": "There will v"
+    },
+    {
+      "timestamp": 1766063766699,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "There will ve"
+    },
+    {
+      "timestamp": 1766063766763,
+      "key": "be",
+      "sentenceIndex": 5,
+      "valueAfter": "There will be"
+    },
+    {
+      "timestamp": 1766063766770,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "There will be "
+    },
+    {
+      "timestamp": 1766063766985,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "There will be s"
+    },
+    {
+      "timestamp": 1766063767015,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": "There will be sl"
+    },
+    {
+      "timestamp": 1766063767165,
+      "key": "m",
+      "sentenceIndex": 5,
+      "valueAfter": "There will be slm"
+    },
+    {
+      "timestamp": 1766063767390,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "There will be slme"
+    },
+    {
+      "timestamp": 1766063767489,
+      "key": "some",
+      "sentenceIndex": 5,
+      "valueAfter": "There will be some"
+    },
+    {
+      "timestamp": 1766063767500,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "There will be some "
+    },
+    {
+      "timestamp": 1766063768039,
+      "key": "f",
+      "sentenceIndex": 5,
+      "valueAfter": "There will be some f"
+    },
+    {
+      "timestamp": 1766063768182,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "There will be some fo"
+    },
+    {
+      "timestamp": 1766063768521,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": "There will be some fog"
+    },
+    {
+      "timestamp": 1766063768661,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "There will be some fog "
+    },
+    {
+      "timestamp": 1766063769270,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "There will be some fog t"
+    },
+    {
+      "timestamp": 1766063769409,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "There will be some fog to"
+    },
+    {
+      "timestamp": 1766063769570,
+      "key": "n",
+      "sentenceIndex": 5,
+      "valueAfter": "There will be some fog ton"
+    },
+    {
+      "timestamp": 1766063769701,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "There will be some fog tono"
+    },
+    {
+      "timestamp": 1766063769759,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": "There will be some fog tonog"
+    },
+    {
+      "timestamp": 1766063769901,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "There will be some fog tonogh"
+    },
+    {
+      "timestamp": 1766063770044,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "There will be some fog tonoght"
+    },
+    {
+      "timestamp": 1766063770205,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766063771377,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766063771558,
+      "key": "C",
+      "sentenceIndex": 6,
+      "valueAfter": "C"
+    },
+    {
+      "timestamp": 1766063771762,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "Co"
+    },
+    {
+      "timestamp": 1766063771921,
+      "key": "m",
+      "sentenceIndex": 6,
+      "valueAfter": "Com"
+    },
+    {
+      "timestamp": 1766063772339,
+      "key": "p",
+      "sentenceIndex": 6,
+      "valueAfter": "Comp"
+    },
+    {
+      "timestamp": 1766063772664,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "Compa"
+    },
+    {
+      "timestamp": 1766063772757,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "Compan"
+    },
+    {
+      "timestamp": 1766063773015,
+      "key": "i",
+      "sentenceIndex": 6,
+      "valueAfter": "Compani"
+    },
+    {
+      "timestamp": 1766063773370,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Companie"
+    },
+    {
+      "timestamp": 1766063773546,
+      "key": "s",
+      "sentenceIndex": 6,
+      "valueAfter": "Companies"
+    },
+    {
+      "timestamp": 1766063773640,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Companies "
+    },
+    {
+      "timestamp": 1766063773936,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "Companies a"
+    },
+    {
+      "timestamp": 1766063774089,
+      "key": "b",
+      "sentenceIndex": 6,
+      "valueAfter": "Companies ab"
+    },
+    {
+      "timestamp": 1766063774176,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "Companies abn"
+    },
+    {
+      "timestamp": 1766063774424,
+      "key": "æ",
+      "sentenceIndex": 6,
+      "valueAfter": "Companies abnæ"
+    },
+    {
+      "timestamp": 1766063774563,
+      "key": "u",
+      "sentenceIndex": 6,
+      "valueAfter": "Companies abnæu"
+    },
+    {
+      "timestamp": 1766063774771,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "Companies abnæun"
+    },
+    {
+      "timestamp": 1766063775091,
+      "key": "v",
+      "sentenceIndex": 6,
+      "valueAfter": "Companies abnæunv"
+    },
+    {
+      "timestamp": 1766063775284,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Companies abnæunve"
+    },
+    {
+      "timestamp": 1766063775379,
+      "key": "announce",
+      "sentenceIndex": 6,
+      "valueAfter": "Companies announce"
+    },
+    {
+      "timestamp": 1766063775393,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Companies announce "
+    },
+    {
+      "timestamp": 1766063775822,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "Companies announce a"
+    },
+    {
+      "timestamp": 1766063775977,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Companies announce a "
+    },
+    {
+      "timestamp": 1766063776164,
+      "key": "m",
+      "sentenceIndex": 6,
+      "valueAfter": "Companies announce a m"
+    },
+    {
+      "timestamp": 1766063776308,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Companies announce a me"
+    },
+    {
+      "timestamp": 1766063776438,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "Companies announce a mer"
+    },
+    {
+      "timestamp": 1766063776534,
+      "key": "g",
+      "sentenceIndex": 6,
+      "valueAfter": "Companies announce a merg"
+    },
+    {
+      "timestamp": 1766063776634,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Companies announce a merge"
+    },
+    {
+      "timestamp": 1766063776718,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Companies announce a merge "
+    },
+    {
+      "timestamp": 1766063777808,
+      "key": "M",
+      "sentenceIndex": 7,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1766063778025,
+      "key": "y",
+      "sentenceIndex": 7,
+      "valueAfter": "My"
+    },
+    {
+      "timestamp": 1766063778225,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "My "
+    },
+    {
+      "timestamp": 1766063778450,
+      "key": "f",
+      "sentenceIndex": 7,
+      "valueAfter": "My f"
+    },
+    {
+      "timestamp": 1766063778639,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "My fa"
+    },
+    {
+      "timestamp": 1766063778719,
+      "key": "c",
+      "sentenceIndex": 7,
+      "valueAfter": "My fac"
+    },
+    {
+      "timestamp": 1766063779482,
+      "key": "o",
+      "sentenceIndex": 7,
+      "valueAfter": "My faco"
+    },
+    {
+      "timestamp": 1766063779634,
+      "key": "r",
+      "sentenceIndex": 7,
+      "valueAfter": "My facor"
+    },
+    {
+      "timestamp": 1766063779912,
+      "key": "i",
+      "sentenceIndex": 7,
+      "valueAfter": "My facori"
+    },
+    {
+      "timestamp": 1766063780203,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "My facorit"
+    },
+    {
+      "timestamp": 1766063780314,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "My facorite"
+    },
+    {
+      "timestamp": 1766063780398,
+      "key": "favourite",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite"
+    },
+    {
+      "timestamp": 1766063780411,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite "
+    },
+    {
+      "timestamp": 1766063780840,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite a"
+    },
+    {
+      "timestamp": 1766063781139,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite "
+    },
+    {
+      "timestamp": 1766063781241,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite a"
+    },
+    {
+      "timestamp": 1766063781329,
+      "key": "u",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite au"
+    },
+    {
+      "timestamp": 1766063781518,
+      "key": "b",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite aub"
+    },
+    {
+      "timestamp": 1766063781788,
+      "key": "j",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite aubj"
+    },
+    {
+      "timestamp": 1766063781908,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite aubje"
+    },
+    {
+      "timestamp": 1766063782043,
+      "key": "c",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite aubjec"
+    },
+    {
+      "timestamp": 1766063782187,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite aubject"
+    },
+    {
+      "timestamp": 1766063782298,
+      "key": "subject",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite subject"
+    },
+    {
+      "timestamp": 1766063782320,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite subject "
+    },
+    {
+      "timestamp": 1766063782688,
+      "key": "o",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite subject o"
+    },
+    {
+      "timestamp": 1766063782839,
+      "key": "s",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite subject os"
+    },
+    {
+      "timestamp": 1766063782930,
+      "key": "is",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite subject is"
+    },
+    {
+      "timestamp": 1766063782938,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite subject is "
+    },
+    {
+      "timestamp": 1766063783469,
+      "key": "p",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite subject is p"
+    },
+    {
+      "timestamp": 1766063784013,
+      "key": "s",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite subject is ps"
+    },
+    {
+      "timestamp": 1766063784260,
+      "key": "y",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite subject is psy"
+    },
+    {
+      "timestamp": 1766063785338,
+      "key": "h",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite subject is psyh"
+    },
+    {
+      "timestamp": 1766063785390,
+      "key": "o",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite subject is psyho"
+    },
+    {
+      "timestamp": 1766063785630,
+      "key": "l",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite subject is psyhol"
+    },
+    {
+      "timestamp": 1766063785795,
+      "key": "o",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite subject is psyholo"
+    },
+    {
+      "timestamp": 1766063786172,
+      "key": "g",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite subject is psyholog"
+    },
+    {
+      "timestamp": 1766063786334,
+      "key": "u",
+      "sentenceIndex": 7,
+      "valueAfter": "My favourite subject is psyhologu"
+    }
+  ]
+}

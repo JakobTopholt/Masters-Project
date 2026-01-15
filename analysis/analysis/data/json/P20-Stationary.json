@@ -1,0 +1,1025 @@
+{
+  "mode": "stationary",
+  "timestamp": "2025-12-18T11:29:53.039Z",
+  "duration": 60.003,
+  "wpm": 26,
+  "accuracy": "80.12",
+  "totalCharactersTyped": 161,
+  "correctCharacters": 129,
+  "errors": 48,
+  "sentencesCompleted": 6,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Meet tomorrow in the librayy ",
+      "expected": "Meet tomorrow in the lavatory"
+    },
+    {
+      "typed": "The capital of our nation",
+      "expected": "The capital of our nation"
+    },
+    {
+      "typed": "Drove my chewy to the levee",
+      "expected": "Drove my chevy to the levee"
+    },
+    {
+      "typed": "Did you have a good time",
+      "expected": "Did you have a good time"
+    },
+    {
+      "typed": "The four seasons will cone",
+      "expected": "The four seasons will come"
+    },
+    {
+      "typed": "Efforts is what it will tal",
+      "expected": "Effort is what it will take"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766057326882,
+      "key": "M",
+      "sentenceIndex": 0,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1766057327310,
+      "key": "Me",
+      "sentenceIndex": 0,
+      "valueAfter": "Me"
+    },
+    {
+      "timestamp": 1766057327452,
+      "key": "Mee",
+      "sentenceIndex": 0,
+      "valueAfter": "Mee"
+    },
+    {
+      "timestamp": 1766057327740,
+      "key": "Meet",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet"
+    },
+    {
+      "timestamp": 1766057328044,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet "
+    },
+    {
+      "timestamp": 1766057328625,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet t"
+    },
+    {
+      "timestamp": 1766057328824,
+      "key": "to",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet to"
+    },
+    {
+      "timestamp": 1766057329313,
+      "key": "tom",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tom"
+    },
+    {
+      "timestamp": 1766057329585,
+      "key": "tomo",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomo"
+    },
+    {
+      "timestamp": 1766057330961,
+      "key": "tomor",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomor"
+    },
+    {
+      "timestamp": 1766057332644,
+      "key": "tomorr",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomorr"
+    },
+    {
+      "timestamp": 1766057333025,
+      "key": "tomorro",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomorro"
+    },
+    {
+      "timestamp": 1766057333262,
+      "key": "tomorrow",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomorrow"
+    },
+    {
+      "timestamp": 1766057333538,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomorrow "
+    },
+    {
+      "timestamp": 1766057334375,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomorrow i"
+    },
+    {
+      "timestamp": 1766057334620,
+      "key": "in",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomorrow in"
+    },
+    {
+      "timestamp": 1766057334881,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomorrow in "
+    },
+    {
+      "timestamp": 1766057335136,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomorrow in t"
+    },
+    {
+      "timestamp": 1766057335325,
+      "key": "th",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomorrow in th"
+    },
+    {
+      "timestamp": 1766057335449,
+      "key": "the",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomorrow in the"
+    },
+    {
+      "timestamp": 1766057335619,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomorrow in the "
+    },
+    {
+      "timestamp": 1766057336304,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomorrow in the l"
+    },
+    {
+      "timestamp": 1766057336535,
+      "key": "li",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomorrow in the li"
+    },
+    {
+      "timestamp": 1766057336830,
+      "key": "lib",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomorrow in the lib"
+    },
+    {
+      "timestamp": 1766057337153,
+      "key": "libr",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomorrow in the libr"
+    },
+    {
+      "timestamp": 1766057337375,
+      "key": "libra",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomorrow in the libra"
+    },
+    {
+      "timestamp": 1766057337507,
+      "key": "libray",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomorrow in the libray"
+    },
+    {
+      "timestamp": 1766057337827,
+      "key": "librayr",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomorrow in the librayr"
+    },
+    {
+      "timestamp": 1766057338458,
+      "key": "libray",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomorrow in the libray"
+    },
+    {
+      "timestamp": 1766057338934,
+      "key": "librayy",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomorrow in the librayy"
+    },
+    {
+      "timestamp": 1766057340525,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Meet tomorrow in the librayy "
+    },
+    {
+      "timestamp": 1766057341870,
+      "key": "T",
+      "sentenceIndex": 1,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766057342089,
+      "key": "Th",
+      "sentenceIndex": 1,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1766057342296,
+      "key": "The",
+      "sentenceIndex": 1,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766057342462,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766057343068,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "The c"
+    },
+    {
+      "timestamp": 1766057343237,
+      "key": "ca",
+      "sentenceIndex": 1,
+      "valueAfter": "The ca"
+    },
+    {
+      "timestamp": 1766057343424,
+      "key": "cap",
+      "sentenceIndex": 1,
+      "valueAfter": "The cap"
+    },
+    {
+      "timestamp": 1766057343606,
+      "key": "capi",
+      "sentenceIndex": 1,
+      "valueAfter": "The capi"
+    },
+    {
+      "timestamp": 1766057343876,
+      "key": "capit",
+      "sentenceIndex": 1,
+      "valueAfter": "The capit"
+    },
+    {
+      "timestamp": 1766057344055,
+      "key": "capita",
+      "sentenceIndex": 1,
+      "valueAfter": "The capita"
+    },
+    {
+      "timestamp": 1766057344243,
+      "key": "capital",
+      "sentenceIndex": 1,
+      "valueAfter": "The capital"
+    },
+    {
+      "timestamp": 1766057345058,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The capital "
+    },
+    {
+      "timestamp": 1766057345405,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "The capital o"
+    },
+    {
+      "timestamp": 1766057345737,
+      "key": "of",
+      "sentenceIndex": 1,
+      "valueAfter": "The capital of"
+    },
+    {
+      "timestamp": 1766057345971,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The capital of "
+    },
+    {
+      "timestamp": 1766057346243,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "The capital of o"
+    },
+    {
+      "timestamp": 1766057346467,
+      "key": "ou",
+      "sentenceIndex": 1,
+      "valueAfter": "The capital of ou"
+    },
+    {
+      "timestamp": 1766057346656,
+      "key": "our",
+      "sentenceIndex": 1,
+      "valueAfter": "The capital of our"
+    },
+    {
+      "timestamp": 1766057347092,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "The capital of our "
+    },
+    {
+      "timestamp": 1766057347599,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "The capital of our n"
+    },
+    {
+      "timestamp": 1766057347771,
+      "key": "na",
+      "sentenceIndex": 1,
+      "valueAfter": "The capital of our na"
+    },
+    {
+      "timestamp": 1766057347966,
+      "key": "nat",
+      "sentenceIndex": 1,
+      "valueAfter": "The capital of our nat"
+    },
+    {
+      "timestamp": 1766057348194,
+      "key": "nati",
+      "sentenceIndex": 1,
+      "valueAfter": "The capital of our nati"
+    },
+    {
+      "timestamp": 1766057348405,
+      "key": "natio",
+      "sentenceIndex": 1,
+      "valueAfter": "The capital of our natio"
+    },
+    {
+      "timestamp": 1766057348663,
+      "key": "nation",
+      "sentenceIndex": 1,
+      "valueAfter": "The capital of our nation"
+    },
+    {
+      "timestamp": 1766057350763,
+      "key": "D",
+      "sentenceIndex": 2,
+      "valueAfter": "D"
+    },
+    {
+      "timestamp": 1766057351263,
+      "key": "Dr",
+      "sentenceIndex": 2,
+      "valueAfter": "Dr"
+    },
+    {
+      "timestamp": 1766057351401,
+      "key": "Dro",
+      "sentenceIndex": 2,
+      "valueAfter": "Dro"
+    },
+    {
+      "timestamp": 1766057351644,
+      "key": "Drov",
+      "sentenceIndex": 2,
+      "valueAfter": "Drov"
+    },
+    {
+      "timestamp": 1766057351810,
+      "key": "Drove",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove"
+    },
+    {
+      "timestamp": 1766057352174,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove "
+    },
+    {
+      "timestamp": 1766057352616,
+      "key": "m",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove m"
+    },
+    {
+      "timestamp": 1766057352964,
+      "key": "my",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove my"
+    },
+    {
+      "timestamp": 1766057353268,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove my "
+    },
+    {
+      "timestamp": 1766057353782,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove my c"
+    },
+    {
+      "timestamp": 1766057353987,
+      "key": "ch",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove my ch"
+    },
+    {
+      "timestamp": 1766057354250,
+      "key": "che",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove my che"
+    },
+    {
+      "timestamp": 1766057354926,
+      "key": "chev",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove my chev"
+    },
+    {
+      "timestamp": 1766057355220,
+      "key": "chevy",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove my chevy"
+    },
+    {
+      "timestamp": 1766057355619,
+      "key": "chewy",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove my chewy"
+    },
+    {
+      "timestamp": 1766057355633,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove my chewy "
+    },
+    {
+      "timestamp": 1766057356095,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove my chewy t"
+    },
+    {
+      "timestamp": 1766057356205,
+      "key": "to",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove my chewy to"
+    },
+    {
+      "timestamp": 1766057356473,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove my chewy to "
+    },
+    {
+      "timestamp": 1766057356750,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove my chewy to t"
+    },
+    {
+      "timestamp": 1766057356957,
+      "key": "th",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove my chewy to th"
+    },
+    {
+      "timestamp": 1766057357133,
+      "key": "the",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove my chewy to the"
+    },
+    {
+      "timestamp": 1766057357330,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove my chewy to the "
+    },
+    {
+      "timestamp": 1766057357660,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove my chewy to the l"
+    },
+    {
+      "timestamp": 1766057357906,
+      "key": "le",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove my chewy to the le"
+    },
+    {
+      "timestamp": 1766057358204,
+      "key": "lev",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove my chewy to the lev"
+    },
+    {
+      "timestamp": 1766057358451,
+      "key": "leve",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove my chewy to the leve"
+    },
+    {
+      "timestamp": 1766057358632,
+      "key": "levee",
+      "sentenceIndex": 2,
+      "valueAfter": "Drove my chewy to the levee"
+    },
+    {
+      "timestamp": 1766057360142,
+      "key": "D",
+      "sentenceIndex": 3,
+      "valueAfter": "D"
+    },
+    {
+      "timestamp": 1766057360289,
+      "key": "Di",
+      "sentenceIndex": 3,
+      "valueAfter": "Di"
+    },
+    {
+      "timestamp": 1766057360441,
+      "key": "Did",
+      "sentenceIndex": 3,
+      "valueAfter": "Did"
+    },
+    {
+      "timestamp": 1766057360846,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Did "
+    },
+    {
+      "timestamp": 1766057361227,
+      "key": "y",
+      "sentenceIndex": 3,
+      "valueAfter": "Did y"
+    },
+    {
+      "timestamp": 1766057361475,
+      "key": "yo",
+      "sentenceIndex": 3,
+      "valueAfter": "Did yo"
+    },
+    {
+      "timestamp": 1766057361669,
+      "key": "you",
+      "sentenceIndex": 3,
+      "valueAfter": "Did you"
+    },
+    {
+      "timestamp": 1766057361977,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Did you "
+    },
+    {
+      "timestamp": 1766057362689,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Did you h"
+    },
+    {
+      "timestamp": 1766057362832,
+      "key": "ha",
+      "sentenceIndex": 3,
+      "valueAfter": "Did you ha"
+    },
+    {
+      "timestamp": 1766057362933,
+      "key": "hav",
+      "sentenceIndex": 3,
+      "valueAfter": "Did you hav"
+    },
+    {
+      "timestamp": 1766057363117,
+      "key": "have",
+      "sentenceIndex": 3,
+      "valueAfter": "Did you have"
+    },
+    {
+      "timestamp": 1766057363284,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Did you have "
+    },
+    {
+      "timestamp": 1766057363583,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Did you have a"
+    },
+    {
+      "timestamp": 1766057363762,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Did you have a "
+    },
+    {
+      "timestamp": 1766057364244,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": "Did you have a g"
+    },
+    {
+      "timestamp": 1766057364520,
+      "key": "go",
+      "sentenceIndex": 3,
+      "valueAfter": "Did you have a go"
+    },
+    {
+      "timestamp": 1766057364688,
+      "key": "goo",
+      "sentenceIndex": 3,
+      "valueAfter": "Did you have a goo"
+    },
+    {
+      "timestamp": 1766057364846,
+      "key": "good",
+      "sentenceIndex": 3,
+      "valueAfter": "Did you have a good"
+    },
+    {
+      "timestamp": 1766057365004,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Did you have a good "
+    },
+    {
+      "timestamp": 1766057365353,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Did you have a good t"
+    },
+    {
+      "timestamp": 1766057365580,
+      "key": "ti",
+      "sentenceIndex": 3,
+      "valueAfter": "Did you have a good ti"
+    },
+    {
+      "timestamp": 1766057365795,
+      "key": "tim",
+      "sentenceIndex": 3,
+      "valueAfter": "Did you have a good tim"
+    },
+    {
+      "timestamp": 1766057365946,
+      "key": "time",
+      "sentenceIndex": 3,
+      "valueAfter": "Did you have a good time"
+    },
+    {
+      "timestamp": 1766057367766,
+      "key": "T",
+      "sentenceIndex": 4,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766057367971,
+      "key": "Tj",
+      "sentenceIndex": 4,
+      "valueAfter": "Tj"
+    },
+    {
+      "timestamp": 1766057368135,
+      "key": "Tje",
+      "sentenceIndex": 4,
+      "valueAfter": "Tje"
+    },
+    {
+      "timestamp": 1766057368442,
+      "key": "The",
+      "sentenceIndex": 4,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766057368449,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766057369135,
+      "key": "f",
+      "sentenceIndex": 4,
+      "valueAfter": "The f"
+    },
+    {
+      "timestamp": 1766057369254,
+      "key": "fo",
+      "sentenceIndex": 4,
+      "valueAfter": "The fo"
+    },
+    {
+      "timestamp": 1766057369545,
+      "key": "fou",
+      "sentenceIndex": 4,
+      "valueAfter": "The fou"
+    },
+    {
+      "timestamp": 1766057369802,
+      "key": "four",
+      "sentenceIndex": 4,
+      "valueAfter": "The four"
+    },
+    {
+      "timestamp": 1766057370190,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "The four "
+    },
+    {
+      "timestamp": 1766057370682,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "The four s"
+    },
+    {
+      "timestamp": 1766057370917,
+      "key": "se",
+      "sentenceIndex": 4,
+      "valueAfter": "The four se"
+    },
+    {
+      "timestamp": 1766057371166,
+      "key": "sea",
+      "sentenceIndex": 4,
+      "valueAfter": "The four sea"
+    },
+    {
+      "timestamp": 1766057371513,
+      "key": "seas",
+      "sentenceIndex": 4,
+      "valueAfter": "The four seas"
+    },
+    {
+      "timestamp": 1766057371712,
+      "key": "seaso",
+      "sentenceIndex": 4,
+      "valueAfter": "The four seaso"
+    },
+    {
+      "timestamp": 1766057371943,
+      "key": "season",
+      "sentenceIndex": 4,
+      "valueAfter": "The four season"
+    },
+    {
+      "timestamp": 1766057372093,
+      "key": "seasons",
+      "sentenceIndex": 4,
+      "valueAfter": "The four seasons"
+    },
+    {
+      "timestamp": 1766057372329,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "The four seasons "
+    },
+    {
+      "timestamp": 1766057372974,
+      "key": "w",
+      "sentenceIndex": 4,
+      "valueAfter": "The four seasons w"
+    },
+    {
+      "timestamp": 1766057373231,
+      "key": "wi",
+      "sentenceIndex": 4,
+      "valueAfter": "The four seasons wi"
+    },
+    {
+      "timestamp": 1766057373478,
+      "key": "wil",
+      "sentenceIndex": 4,
+      "valueAfter": "The four seasons wil"
+    },
+    {
+      "timestamp": 1766057373657,
+      "key": "will",
+      "sentenceIndex": 4,
+      "valueAfter": "The four seasons will"
+    },
+    {
+      "timestamp": 1766057373946,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "The four seasons will "
+    },
+    {
+      "timestamp": 1766057374283,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": "The four seasons will c"
+    },
+    {
+      "timestamp": 1766057374402,
+      "key": "co",
+      "sentenceIndex": 4,
+      "valueAfter": "The four seasons will co"
+    },
+    {
+      "timestamp": 1766057374628,
+      "key": "con",
+      "sentenceIndex": 4,
+      "valueAfter": "The four seasons will con"
+    },
+    {
+      "timestamp": 1766057374775,
+      "key": "cone",
+      "sentenceIndex": 4,
+      "valueAfter": "The four seasons will cone"
+    },
+    {
+      "timestamp": 1766057376354,
+      "key": "E",
+      "sentenceIndex": 5,
+      "valueAfter": "E"
+    },
+    {
+      "timestamp": 1766057376605,
+      "key": "Ef",
+      "sentenceIndex": 5,
+      "valueAfter": "Ef"
+    },
+    {
+      "timestamp": 1766057377092,
+      "key": "Eff",
+      "sentenceIndex": 5,
+      "valueAfter": "Eff"
+    },
+    {
+      "timestamp": 1766057377284,
+      "key": "Effo",
+      "sentenceIndex": 5,
+      "valueAfter": "Effo"
+    },
+    {
+      "timestamp": 1766057377516,
+      "key": "Effor",
+      "sentenceIndex": 5,
+      "valueAfter": "Effor"
+    },
+    {
+      "timestamp": 1766057377795,
+      "key": "Effort",
+      "sentenceIndex": 5,
+      "valueAfter": "Effort"
+    },
+    {
+      "timestamp": 1766057377983,
+      "key": "Efforts",
+      "sentenceIndex": 5,
+      "valueAfter": "Efforts"
+    },
+    {
+      "timestamp": 1766057378341,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Efforts "
+    },
+    {
+      "timestamp": 1766057378694,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Efforts i"
+    },
+    {
+      "timestamp": 1766057378909,
+      "key": "is",
+      "sentenceIndex": 5,
+      "valueAfter": "Efforts is"
+    },
+    {
+      "timestamp": 1766057379069,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Efforts is "
+    },
+    {
+      "timestamp": 1766057379330,
+      "key": "w",
+      "sentenceIndex": 5,
+      "valueAfter": "Efforts is w"
+    },
+    {
+      "timestamp": 1766057379441,
+      "key": "wh",
+      "sentenceIndex": 5,
+      "valueAfter": "Efforts is wh"
+    },
+    {
+      "timestamp": 1766057379721,
+      "key": "wha",
+      "sentenceIndex": 5,
+      "valueAfter": "Efforts is wha"
+    },
+    {
+      "timestamp": 1766057379891,
+      "key": "what",
+      "sentenceIndex": 5,
+      "valueAfter": "Efforts is what"
+    },
+    {
+      "timestamp": 1766057380335,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Efforts is what "
+    },
+    {
+      "timestamp": 1766057380721,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "Efforts is what i"
+    },
+    {
+      "timestamp": 1766057380994,
+      "key": "it",
+      "sentenceIndex": 5,
+      "valueAfter": "Efforts is what it"
+    },
+    {
+      "timestamp": 1766057381270,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Efforts is what it "
+    },
+    {
+      "timestamp": 1766057381574,
+      "key": "w",
+      "sentenceIndex": 5,
+      "valueAfter": "Efforts is what it w"
+    },
+    {
+      "timestamp": 1766057382352,
+      "key": "wi",
+      "sentenceIndex": 5,
+      "valueAfter": "Efforts is what it wi"
+    },
+    {
+      "timestamp": 1766057382598,
+      "key": "wil",
+      "sentenceIndex": 5,
+      "valueAfter": "Efforts is what it wil"
+    },
+    {
+      "timestamp": 1766057382773,
+      "key": "will",
+      "sentenceIndex": 5,
+      "valueAfter": "Efforts is what it will"
+    },
+    {
+      "timestamp": 1766057383117,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Efforts is what it will "
+    },
+    {
+      "timestamp": 1766057383487,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "Efforts is what it will t"
+    },
+    {
+      "timestamp": 1766057383704,
+      "key": "ta",
+      "sentenceIndex": 5,
+      "valueAfter": "Efforts is what it will ta"
+    },
+    {
+      "timestamp": 1766057383816,
+      "key": "tal",
+      "sentenceIndex": 5,
+      "valueAfter": "Efforts is what it will tal"
+    },
+    {
+      "timestamp": 1766057384010,
+      "key": "E",
+      "sentenceIndex": 6,
+      "valueAfter": "E"
+    },
+    {
+      "timestamp": 1766057386444,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "E "
+    }
+  ]
+}

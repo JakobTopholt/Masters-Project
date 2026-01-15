@@ -1,0 +1,1717 @@
+{
+  "mode": "Upstairs",
+  "timestamp": "2025-12-17T09:09:52.922Z",
+  "duration": 60.001,
+  "wpm": 44,
+  "accuracy": "82.40",
+  "totalCharactersTyped": 250,
+  "correctCharacters": 206,
+  "errors": 29,
+  "sentencesCompleted": 8,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Labour unions know how to organize",
+      "expected": "Labour unions know how to organize"
+    },
+    {
+      "typed": "My bank account is overdrawn",
+      "expected": "My bank account is overdrawn"
+    },
+    {
+      "typed": "Toss the ball around",
+      "expected": "Toss the ball around"
+    },
+    {
+      "typed": "There will be some fog tonight",
+      "expected": "There will be some fog tonight"
+    },
+    {
+      "typed": "Mom made her a turtleneck",
+      "expected": "Mom made her a turtleneck"
+    },
+    {
+      "typed": "The world is a stage",
+      "expected": "The world is a stage"
+    },
+    {
+      "typed": "Thank you for your help",
+      "expected": "Thank you for your help"
+    },
+    {
+      "typed": "No exchange without a bill",
+      "expected": "No exchange without a bill"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765962518065,
+      "key": "L",
+      "sentenceIndex": 0,
+      "valueAfter": "L"
+    },
+    {
+      "timestamp": 1765962518226,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "La"
+    },
+    {
+      "timestamp": 1765962518353,
+      "key": "b",
+      "sentenceIndex": 0,
+      "valueAfter": "Lab"
+    },
+    {
+      "timestamp": 1765962518571,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Labo"
+    },
+    {
+      "timestamp": 1765962518751,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "Labou"
+    },
+    {
+      "timestamp": 1765962518838,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour"
+    },
+    {
+      "timestamp": 1765962519019,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour "
+    },
+    {
+      "timestamp": 1765962519293,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour u"
+    },
+    {
+      "timestamp": 1765962519507,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour un"
+    },
+    {
+      "timestamp": 1765962519709,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour uni"
+    },
+    {
+      "timestamp": 1765962519884,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unio"
+    },
+    {
+      "timestamp": 1765962520115,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour union"
+    },
+    {
+      "timestamp": 1765962520222,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions"
+    },
+    {
+      "timestamp": 1765962520356,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions "
+    },
+    {
+      "timestamp": 1765962520540,
+      "key": "k",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions k"
+    },
+    {
+      "timestamp": 1765962520697,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions kn"
+    },
+    {
+      "timestamp": 1765962520890,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions kno"
+    },
+    {
+      "timestamp": 1765962521004,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know"
+    },
+    {
+      "timestamp": 1765962521133,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know "
+    },
+    {
+      "timestamp": 1765962521416,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know h"
+    },
+    {
+      "timestamp": 1765962521614,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know ho"
+    },
+    {
+      "timestamp": 1765962521702,
+      "key": "w",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how"
+    },
+    {
+      "timestamp": 1765962521837,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how "
+    },
+    {
+      "timestamp": 1765962521919,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how t"
+    },
+    {
+      "timestamp": 1765962522061,
+      "key": "8",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how t8"
+    },
+    {
+      "timestamp": 1765962522431,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how "
+    },
+    {
+      "timestamp": 1765962522449,
+      "key": "to ",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how to "
+    },
+    {
+      "timestamp": 1765962522659,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how to o"
+    },
+    {
+      "timestamp": 1765962522736,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how to or"
+    },
+    {
+      "timestamp": 1765962522919,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how to org"
+    },
+    {
+      "timestamp": 1765962523161,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how to orga"
+    },
+    {
+      "timestamp": 1765962523245,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how to organ"
+    },
+    {
+      "timestamp": 1765962523434,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how to organi"
+    },
+    {
+      "timestamp": 1765962523515,
+      "key": "z",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how to organiz"
+    },
+    {
+      "timestamp": 1765962523751,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Labour unions know how to organize"
+    },
+    {
+      "timestamp": 1765962524699,
+      "key": "M",
+      "sentenceIndex": 1,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1765962524911,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "My"
+    },
+    {
+      "timestamp": 1765962525110,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "My "
+    },
+    {
+      "timestamp": 1765962525273,
+      "key": "b",
+      "sentenceIndex": 1,
+      "valueAfter": "My b"
+    },
+    {
+      "timestamp": 1765962525403,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "My ba"
+    },
+    {
+      "timestamp": 1765962525513,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "My ban"
+    },
+    {
+      "timestamp": 1765962525705,
+      "key": "k",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank"
+    },
+    {
+      "timestamp": 1765962525931,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank "
+    },
+    {
+      "timestamp": 1765962526376,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank a"
+    },
+    {
+      "timestamp": 1765962526584,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank ac"
+    },
+    {
+      "timestamp": 1765962526752,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank acc"
+    },
+    {
+      "timestamp": 1765962526902,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank acco"
+    },
+    {
+      "timestamp": 1765962527112,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank accou"
+    },
+    {
+      "timestamp": 1765962527292,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank accoun"
+    },
+    {
+      "timestamp": 1765962527392,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account"
+    },
+    {
+      "timestamp": 1765962527508,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account "
+    },
+    {
+      "timestamp": 1765962527701,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account i"
+    },
+    {
+      "timestamp": 1765962527801,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is"
+    },
+    {
+      "timestamp": 1765962527915,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is "
+    },
+    {
+      "timestamp": 1765962528139,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is o"
+    },
+    {
+      "timestamp": 1765962528332,
+      "key": "v",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is ov"
+    },
+    {
+      "timestamp": 1765962528430,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is ove"
+    },
+    {
+      "timestamp": 1765962528588,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is over"
+    },
+    {
+      "timestamp": 1765962528781,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is overd"
+    },
+    {
+      "timestamp": 1765962528939,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is overdr"
+    },
+    {
+      "timestamp": 1765962529180,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is overdra"
+    },
+    {
+      "timestamp": 1765962529355,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is overdraw"
+    },
+    {
+      "timestamp": 1765962529463,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "My bank account is overdrawn"
+    },
+    {
+      "timestamp": 1765962530462,
+      "key": "T",
+      "sentenceIndex": 2,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765962530561,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "To"
+    },
+    {
+      "timestamp": 1765962530682,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Tos"
+    },
+    {
+      "timestamp": 1765962530851,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "Toss"
+    },
+    {
+      "timestamp": 1765962530963,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Toss "
+    },
+    {
+      "timestamp": 1765962531125,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "Toss t"
+    },
+    {
+      "timestamp": 1765962531267,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Toss th"
+    },
+    {
+      "timestamp": 1765962531393,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Toss the"
+    },
+    {
+      "timestamp": 1765962531514,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Toss the "
+    },
+    {
+      "timestamp": 1765962531691,
+      "key": "b",
+      "sentenceIndex": 2,
+      "valueAfter": "Toss the b"
+    },
+    {
+      "timestamp": 1765962531779,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Toss the ba"
+    },
+    {
+      "timestamp": 1765962531913,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Toss the bal"
+    },
+    {
+      "timestamp": 1765962532055,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "Toss the ball"
+    },
+    {
+      "timestamp": 1765962532282,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Toss the ball "
+    },
+    {
+      "timestamp": 1765962532345,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Toss the ball a"
+    },
+    {
+      "timestamp": 1765962532540,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Toss the ball ar"
+    },
+    {
+      "timestamp": 1765962532647,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Toss the ball aro"
+    },
+    {
+      "timestamp": 1765962532864,
+      "key": "u",
+      "sentenceIndex": 2,
+      "valueAfter": "Toss the ball arou"
+    },
+    {
+      "timestamp": 1765962533044,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "Toss the ball aroun"
+    },
+    {
+      "timestamp": 1765962533127,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "Toss the ball around"
+    },
+    {
+      "timestamp": 1765962534021,
+      "key": "T",
+      "sentenceIndex": 3,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765962534199,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765962534316,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765962534469,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Ther"
+    },
+    {
+      "timestamp": 1765962534640,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "There"
+    },
+    {
+      "timestamp": 1765962534850,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "There "
+    },
+    {
+      "timestamp": 1765962535018,
+      "key": "w",
+      "sentenceIndex": 3,
+      "valueAfter": "There w"
+    },
+    {
+      "timestamp": 1765962535106,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "There wi"
+    },
+    {
+      "timestamp": 1765962535308,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "There wil"
+    },
+    {
+      "timestamp": 1765962535441,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "There will"
+    },
+    {
+      "timestamp": 1765962535689,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "There will "
+    },
+    {
+      "timestamp": 1765962535866,
+      "key": "b",
+      "sentenceIndex": 3,
+      "valueAfter": "There will b"
+    },
+    {
+      "timestamp": 1765962535990,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "There will be"
+    },
+    {
+      "timestamp": 1765962536149,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "There will be "
+    },
+    {
+      "timestamp": 1765962536346,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "There will be s"
+    },
+    {
+      "timestamp": 1765962536445,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "There will be so"
+    },
+    {
+      "timestamp": 1765962536655,
+      "key": "m",
+      "sentenceIndex": 3,
+      "valueAfter": "There will be som"
+    },
+    {
+      "timestamp": 1765962536788,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "There will be some"
+    },
+    {
+      "timestamp": 1765962536894,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "There will be some "
+    },
+    {
+      "timestamp": 1765962537027,
+      "key": "f",
+      "sentenceIndex": 3,
+      "valueAfter": "There will be some f"
+    },
+    {
+      "timestamp": 1765962537138,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "There will be some fo"
+    },
+    {
+      "timestamp": 1765962537243,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": "There will be some fog"
+    },
+    {
+      "timestamp": 1765962537364,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "There will be some fog "
+    },
+    {
+      "timestamp": 1765962537503,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "There will be some fog t"
+    },
+    {
+      "timestamp": 1765962537603,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "There will be some fog to"
+    },
+    {
+      "timestamp": 1765962537785,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "There will be some fog ton"
+    },
+    {
+      "timestamp": 1765962537969,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "There will be some fog toni"
+    },
+    {
+      "timestamp": 1765962538046,
+      "key": "g",
+      "sentenceIndex": 3,
+      "valueAfter": "There will be some fog tonig"
+    },
+    {
+      "timestamp": 1765962538192,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": "There will be some fog tonigh"
+    },
+    {
+      "timestamp": 1765962538301,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "There will be some fog tonight"
+    },
+    {
+      "timestamp": 1765962539865,
+      "key": "M",
+      "sentenceIndex": 4,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1765962540083,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "Mo"
+    },
+    {
+      "timestamp": 1765962540289,
+      "key": "m",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom"
+    },
+    {
+      "timestamp": 1765962540532,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom "
+    },
+    {
+      "timestamp": 1765962540746,
+      "key": "m",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom m"
+    },
+    {
+      "timestamp": 1765962540821,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom ma"
+    },
+    {
+      "timestamp": 1765962541097,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom mad"
+    },
+    {
+      "timestamp": 1765962541270,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made"
+    },
+    {
+      "timestamp": 1765962541360,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made "
+    },
+    {
+      "timestamp": 1765962541570,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made h"
+    },
+    {
+      "timestamp": 1765962541669,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made he"
+    },
+    {
+      "timestamp": 1765962541827,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her"
+    },
+    {
+      "timestamp": 1765962541951,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her "
+    },
+    {
+      "timestamp": 1765962542166,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her t"
+    },
+    {
+      "timestamp": 1765962542290,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her tu"
+    },
+    {
+      "timestamp": 1765962542468,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her tut"
+    },
+    {
+      "timestamp": 1765962543207,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her tu"
+    },
+    {
+      "timestamp": 1765962543341,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her tur"
+    },
+    {
+      "timestamp": 1765962543532,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her turt"
+    },
+    {
+      "timestamp": 1765962543640,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her turtl"
+    },
+    {
+      "timestamp": 1765962543812,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her turtle"
+    },
+    {
+      "timestamp": 1765962544254,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her turtlen"
+    },
+    {
+      "timestamp": 1765962544318,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her turtlene"
+    },
+    {
+      "timestamp": 1765962544546,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her turtlenec"
+    },
+    {
+      "timestamp": 1765962544653,
+      "key": "k",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her turtleneck"
+    },
+    {
+      "timestamp": 1765962545461,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her turtlenec"
+    },
+    {
+      "timestamp": 1765962545686,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her turtlene"
+    },
+    {
+      "timestamp": 1765962545917,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her turtlen"
+    },
+    {
+      "timestamp": 1765962546658,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her turtle"
+    },
+    {
+      "timestamp": 1765962546959,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her turtlen"
+    },
+    {
+      "timestamp": 1765962547332,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her turtlene"
+    },
+    {
+      "timestamp": 1765962547597,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her turtlenec"
+    },
+    {
+      "timestamp": 1765962547781,
+      "key": "k",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her turtleneck"
+    },
+    {
+      "timestamp": 1765962548938,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her turtlenec"
+    },
+    {
+      "timestamp": 1765962549210,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her turtlene"
+    },
+    {
+      "timestamp": 1765962549402,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her turtlen"
+    },
+    {
+      "timestamp": 1765962549601,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her turtle"
+    },
+    {
+      "timestamp": 1765962549777,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her turtl"
+    },
+    {
+      "timestamp": 1765962549952,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her turt"
+    },
+    {
+      "timestamp": 1765962550123,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her tur"
+    },
+    {
+      "timestamp": 1765962550292,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her tu"
+    },
+    {
+      "timestamp": 1765962550456,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her t"
+    },
+    {
+      "timestamp": 1765962550633,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her "
+    },
+    {
+      "timestamp": 1765962550807,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her"
+    },
+    {
+      "timestamp": 1765962551122,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made hera"
+    },
+    {
+      "timestamp": 1765962551522,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her"
+    },
+    {
+      "timestamp": 1765962551747,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made hern"
+    },
+    {
+      "timestamp": 1765962551827,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made herna"
+    },
+    {
+      "timestamp": 1765962552370,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made hern"
+    },
+    {
+      "timestamp": 1765962552545,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her"
+    },
+    {
+      "timestamp": 1765962552932,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her "
+    },
+    {
+      "timestamp": 1765962553058,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her a"
+    },
+    {
+      "timestamp": 1765962553385,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her at"
+    },
+    {
+      "timestamp": 1765962553534,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her atu"
+    },
+    {
+      "timestamp": 1765962553657,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her atur"
+    },
+    {
+      "timestamp": 1765962553916,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her aturt"
+    },
+    {
+      "timestamp": 1765962554365,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her atur"
+    },
+    {
+      "timestamp": 1765962554532,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her atu"
+    },
+    {
+      "timestamp": 1765962554698,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her at"
+    },
+    {
+      "timestamp": 1765962554854,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her a"
+    },
+    {
+      "timestamp": 1765962555016,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her "
+    },
+    {
+      "timestamp": 1765962555706,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her a"
+    },
+    {
+      "timestamp": 1765962555865,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her a "
+    },
+    {
+      "timestamp": 1765962556353,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her a t"
+    },
+    {
+      "timestamp": 1765962556534,
+      "key": "u",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her a tu"
+    },
+    {
+      "timestamp": 1765962556661,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her a tur"
+    },
+    {
+      "timestamp": 1765962556888,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her a turt"
+    },
+    {
+      "timestamp": 1765962557058,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her a turtl"
+    },
+    {
+      "timestamp": 1765962557142,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her a turtle"
+    },
+    {
+      "timestamp": 1765962558101,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her a turtlen"
+    },
+    {
+      "timestamp": 1765962558206,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her a turtlene"
+    },
+    {
+      "timestamp": 1765962558823,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her a turtlenec"
+    },
+    {
+      "timestamp": 1765962558953,
+      "key": "k",
+      "sentenceIndex": 4,
+      "valueAfter": "Mom made her a turtleneck"
+    },
+    {
+      "timestamp": 1765962560038,
+      "key": "T",
+      "sentenceIndex": 5,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765962560185,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765962560300,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765962560467,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1765962560584,
+      "key": "w",
+      "sentenceIndex": 5,
+      "valueAfter": "The w"
+    },
+    {
+      "timestamp": 1765962560715,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": "The wo"
+    },
+    {
+      "timestamp": 1765962560801,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "The wor"
+    },
+    {
+      "timestamp": 1765962560915,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": "The worl"
+    },
+    {
+      "timestamp": 1765962561009,
+      "key": "d",
+      "sentenceIndex": 5,
+      "valueAfter": "The world"
+    },
+    {
+      "timestamp": 1765962561127,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "The world "
+    },
+    {
+      "timestamp": 1765962561290,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": "The world i"
+    },
+    {
+      "timestamp": 1765962561373,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "The world is"
+    },
+    {
+      "timestamp": 1765962561569,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "The world is "
+    },
+    {
+      "timestamp": 1765962561663,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "The world is a"
+    },
+    {
+      "timestamp": 1765962561784,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "The world is a "
+    },
+    {
+      "timestamp": 1765962561913,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": "The world is a s"
+    },
+    {
+      "timestamp": 1765962562049,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": "The world is a st"
+    },
+    {
+      "timestamp": 1765962562215,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "The world is a sta"
+    },
+    {
+      "timestamp": 1765962562290,
+      "key": "g",
+      "sentenceIndex": 5,
+      "valueAfter": "The world is a stag"
+    },
+    {
+      "timestamp": 1765962562441,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": "The world is a stage"
+    },
+    {
+      "timestamp": 1765962563539,
+      "key": "T",
+      "sentenceIndex": 6,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1765962563709,
+      "key": "h",
+      "sentenceIndex": 6,
+      "valueAfter": "Th"
+    },
+    {
+      "timestamp": 1765962563903,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "Tha"
+    },
+    {
+      "timestamp": 1765962564027,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "Than"
+    },
+    {
+      "timestamp": 1765962564189,
+      "key": "k",
+      "sentenceIndex": 6,
+      "valueAfter": "Thank"
+    },
+    {
+      "timestamp": 1765962564395,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Thank "
+    },
+    {
+      "timestamp": 1765962564602,
+      "key": "y",
+      "sentenceIndex": 6,
+      "valueAfter": "Thank y"
+    },
+    {
+      "timestamp": 1765962564885,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "Thank yo"
+    },
+    {
+      "timestamp": 1765962565099,
+      "key": "u",
+      "sentenceIndex": 6,
+      "valueAfter": "Thank you"
+    },
+    {
+      "timestamp": 1765962565473,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Thank you "
+    },
+    {
+      "timestamp": 1765962565790,
+      "key": "f",
+      "sentenceIndex": 6,
+      "valueAfter": "Thank you f"
+    },
+    {
+      "timestamp": 1765962565900,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "Thank you fo"
+    },
+    {
+      "timestamp": 1765962566023,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "Thank you for"
+    },
+    {
+      "timestamp": 1765962566167,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Thank you for "
+    },
+    {
+      "timestamp": 1765962566655,
+      "key": "y",
+      "sentenceIndex": 6,
+      "valueAfter": "Thank you for y"
+    },
+    {
+      "timestamp": 1765962566886,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "Thank you for yo"
+    },
+    {
+      "timestamp": 1765962567030,
+      "key": "u",
+      "sentenceIndex": 6,
+      "valueAfter": "Thank you for you"
+    },
+    {
+      "timestamp": 1765962567115,
+      "key": "r",
+      "sentenceIndex": 6,
+      "valueAfter": "Thank you for your"
+    },
+    {
+      "timestamp": 1765962567282,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Thank you for your "
+    },
+    {
+      "timestamp": 1765962567491,
+      "key": "h",
+      "sentenceIndex": 6,
+      "valueAfter": "Thank you for your h"
+    },
+    {
+      "timestamp": 1765962567610,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Thank you for your he"
+    },
+    {
+      "timestamp": 1765962567759,
+      "key": "l",
+      "sentenceIndex": 6,
+      "valueAfter": "Thank you for your hel"
+    },
+    {
+      "timestamp": 1765962567978,
+      "key": "p",
+      "sentenceIndex": 6,
+      "valueAfter": "Thank you for your help"
+    },
+    {
+      "timestamp": 1765962569107,
+      "key": "N",
+      "sentenceIndex": 7,
+      "valueAfter": "N"
+    },
+    {
+      "timestamp": 1765962569291,
+      "key": "o",
+      "sentenceIndex": 7,
+      "valueAfter": "No"
+    },
+    {
+      "timestamp": 1765962569483,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "No "
+    },
+    {
+      "timestamp": 1765962569571,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "No e"
+    },
+    {
+      "timestamp": 1765962569864,
+      "key": "x",
+      "sentenceIndex": 7,
+      "valueAfter": "No ex"
+    },
+    {
+      "timestamp": 1765962570021,
+      "key": "h",
+      "sentenceIndex": 7,
+      "valueAfter": "No exh"
+    },
+    {
+      "timestamp": 1765962570413,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "No ex"
+    },
+    {
+      "timestamp": 1765962570506,
+      "key": "c",
+      "sentenceIndex": 7,
+      "valueAfter": "No exc"
+    },
+    {
+      "timestamp": 1765962570644,
+      "key": "h",
+      "sentenceIndex": 7,
+      "valueAfter": "No exch"
+    },
+    {
+      "timestamp": 1765962570785,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "No excha"
+    },
+    {
+      "timestamp": 1765962570859,
+      "key": "n",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchan"
+    },
+    {
+      "timestamp": 1765962571062,
+      "key": "g",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchang"
+    },
+    {
+      "timestamp": 1765962571189,
+      "key": "e",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchange"
+    },
+    {
+      "timestamp": 1765962571338,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchange "
+    },
+    {
+      "timestamp": 1765962571459,
+      "key": "w",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchange w"
+    },
+    {
+      "timestamp": 1765962571587,
+      "key": "i",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchange wi"
+    },
+    {
+      "timestamp": 1765962571683,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchange wit"
+    },
+    {
+      "timestamp": 1765962571824,
+      "key": "h",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchange with"
+    },
+    {
+      "timestamp": 1765962572066,
+      "key": "o",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchange witho"
+    },
+    {
+      "timestamp": 1765962572259,
+      "key": "u",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchange withou"
+    },
+    {
+      "timestamp": 1765962572385,
+      "key": "t",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchange without"
+    },
+    {
+      "timestamp": 1765962572560,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchange without "
+    },
+    {
+      "timestamp": 1765962572682,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchange without a"
+    },
+    {
+      "timestamp": 1765962572789,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchange without a "
+    },
+    {
+      "timestamp": 1765962572991,
+      "key": "b",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchange without a b"
+    },
+    {
+      "timestamp": 1765962573130,
+      "key": "a",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchange without a ba"
+    },
+    {
+      "timestamp": 1765962573249,
+      "key": "l",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchange without a bal"
+    },
+    {
+      "timestamp": 1765962573566,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchange without a ba"
+    },
+    {
+      "timestamp": 1765962573714,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchange without a b"
+    },
+    {
+      "timestamp": 1765962573966,
+      "key": "i",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchange without a bi"
+    },
+    {
+      "timestamp": 1765962574136,
+      "key": "l",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchange without a bil"
+    },
+    {
+      "timestamp": 1765962574261,
+      "key": "l",
+      "sentenceIndex": 7,
+      "valueAfter": "No exchange without a bill"
+    },
+    {
+      "timestamp": 1765962575295,
+      "key": "C",
+      "sentenceIndex": 8,
+      "valueAfter": "C"
+    },
+    {
+      "timestamp": 1765962575344,
+      "key": "o",
+      "sentenceIndex": 8,
+      "valueAfter": "Co"
+    },
+    {
+      "timestamp": 1765962575561,
+      "key": "m",
+      "sentenceIndex": 8,
+      "valueAfter": "Com"
+    },
+    {
+      "timestamp": 1765962575727,
+      "key": "m",
+      "sentenceIndex": 8,
+      "valueAfter": "Comm"
+    },
+    {
+      "timestamp": 1765962575976,
+      "key": "u",
+      "sentenceIndex": 8,
+      "valueAfter": "Commu"
+    },
+    {
+      "timestamp": 1765962576200,
+      "key": "n",
+      "sentenceIndex": 8,
+      "valueAfter": "Commun"
+    },
+    {
+      "timestamp": 1765962576416,
+      "key": "i",
+      "sentenceIndex": 8,
+      "valueAfter": "Communi"
+    },
+    {
+      "timestamp": 1765962576559,
+      "key": "c",
+      "sentenceIndex": 8,
+      "valueAfter": "Communic"
+    },
+    {
+      "timestamp": 1765962576772,
+      "key": "a",
+      "sentenceIndex": 8,
+      "valueAfter": "Communica"
+    },
+    {
+      "timestamp": 1765962577023,
+      "key": "t",
+      "sentenceIndex": 8,
+      "valueAfter": "Communicat"
+    },
+    {
+      "timestamp": 1765962577214,
+      "key": "e",
+      "sentenceIndex": 8,
+      "valueAfter": "Communicate"
+    },
+    {
+      "timestamp": 1765962577343,
+      "key": " ",
+      "sentenceIndex": 8,
+      "valueAfter": "Communicate "
+    },
+    {
+      "timestamp": 1765962577454,
+      "key": "t",
+      "sentenceIndex": 8,
+      "valueAfter": "Communicate t"
+    },
+    {
+      "timestamp": 1765962577565,
+      "key": "h",
+      "sentenceIndex": 8,
+      "valueAfter": "Communicate th"
+    },
+    {
+      "timestamp": 1765962577670,
+      "key": "e",
+      "sentenceIndex": 8,
+      "valueAfter": "Communicate the"
+    },
+    {
+      "timestamp": 1765962577822,
+      "key": "o",
+      "sentenceIndex": 8,
+      "valueAfter": "Communicate theo"
+    },
+    {
+      "timestamp": 1765962578003,
+      "key": "u",
+      "sentenceIndex": 8,
+      "valueAfter": "Communicate theou"
+    }
+  ]
+}

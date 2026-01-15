@@ -1,0 +1,473 @@
+{
+  "mode": "walking",
+  "timestamp": "2025-12-18T09:47:45.208Z",
+  "duration": 60.002,
+  "wpm": 12,
+  "accuracy": "72.60",
+  "totalCharactersTyped": 73,
+  "correctCharacters": 53,
+  "errors": 23,
+  "sentencesCompleted": 3,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "All together in one big pile",
+      "expected": "All together in one big pile"
+    },
+    {
+      "typed": "I agree with you",
+      "expected": "I agree with you"
+    },
+    {
+      "typed": "Elephant are afraid of micee",
+      "expected": "Elephants are afraid of mice"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766051195351,
+      "key": "A",
+      "sentenceIndex": 0,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1766051195876,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "Al"
+    },
+    {
+      "timestamp": 1766051196093,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "All"
+    },
+    {
+      "timestamp": 1766051197183,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "All "
+    },
+    {
+      "timestamp": 1766051197576,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "All t"
+    },
+    {
+      "timestamp": 1766051197876,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "All to"
+    },
+    {
+      "timestamp": 1766051198207,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "All tog"
+    },
+    {
+      "timestamp": 1766051198475,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "All toge"
+    },
+    {
+      "timestamp": 1766051198903,
+      "key": "ther ",
+      "sentenceIndex": 0,
+      "valueAfter": "All together "
+    },
+    {
+      "timestamp": 1766051199840,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "All together i"
+    },
+    {
+      "timestamp": 1766051200157,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "All together in"
+    },
+    {
+      "timestamp": 1766051200391,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "All together in "
+    },
+    {
+      "timestamp": 1766051200808,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "All together in o"
+    },
+    {
+      "timestamp": 1766051201174,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "All together in on"
+    },
+    {
+      "timestamp": 1766051201420,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "All together in one"
+    },
+    {
+      "timestamp": 1766051202821,
+      "key": "b",
+      "sentenceIndex": 0,
+      "valueAfter": "All together in oneb"
+    },
+    {
+      "timestamp": 1766051203186,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "All together in onebi"
+    },
+    {
+      "timestamp": 1766051204668,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "All together in onebig"
+    },
+    {
+      "timestamp": 1766051206695,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "All together in one"
+    },
+    {
+      "timestamp": 1766051206720,
+      "key": " big ",
+      "sentenceIndex": 0,
+      "valueAfter": "All together in one big "
+    },
+    {
+      "timestamp": 1766051207899,
+      "key": "p",
+      "sentenceIndex": 0,
+      "valueAfter": "All together in one big p"
+    },
+    {
+      "timestamp": 1766051208182,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "All together in one big pi"
+    },
+    {
+      "timestamp": 1766051208698,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "All together in one big pil"
+    },
+    {
+      "timestamp": 1766051209123,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "All together in one big pile"
+    },
+    {
+      "timestamp": 1766051210704,
+      "key": "I",
+      "sentenceIndex": 1,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1766051211130,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "I "
+    },
+    {
+      "timestamp": 1766051211329,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "I a"
+    },
+    {
+      "timestamp": 1766051211827,
+      "key": "g",
+      "sentenceIndex": 1,
+      "valueAfter": "I ag"
+    },
+    {
+      "timestamp": 1766051212145,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "I agr"
+    },
+    {
+      "timestamp": 1766051212545,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "I agre"
+    },
+    {
+      "timestamp": 1766051212642,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "I agree"
+    },
+    {
+      "timestamp": 1766051213693,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "I agree "
+    },
+    {
+      "timestamp": 1766051214101,
+      "key": "w",
+      "sentenceIndex": 1,
+      "valueAfter": "I agree w"
+    },
+    {
+      "timestamp": 1766051214407,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "I agree wi"
+    },
+    {
+      "timestamp": 1766051214691,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "I agree wit"
+    },
+    {
+      "timestamp": 1766051214909,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "I agree with"
+    },
+    {
+      "timestamp": 1766051215324,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "I agree with "
+    },
+    {
+      "timestamp": 1766051216024,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "I agree with y"
+    },
+    {
+      "timestamp": 1766051216411,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "I agree with yo"
+    },
+    {
+      "timestamp": 1766051219364,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "I agree with you"
+    },
+    {
+      "timestamp": 1766051221575,
+      "key": "E",
+      "sentenceIndex": 2,
+      "valueAfter": "E"
+    },
+    {
+      "timestamp": 1766051221850,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "El"
+    },
+    {
+      "timestamp": 1766051222066,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Ele"
+    },
+    {
+      "timestamp": 1766051222601,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": "Elep"
+    },
+    {
+      "timestamp": 1766051223433,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "Eleph"
+    },
+    {
+      "timestamp": 1766051223967,
+      "key": "ant ",
+      "sentenceIndex": 2,
+      "valueAfter": "Elephant "
+    },
+    {
+      "timestamp": 1766051225168,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Elephant a"
+    },
+    {
+      "timestamp": 1766051225532,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Elephant ar"
+    },
+    {
+      "timestamp": 1766051225766,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Elephant are"
+    },
+    {
+      "timestamp": 1766051230033,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Elephant are "
+    },
+    {
+      "timestamp": 1766051231164,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Elephant are a"
+    },
+    {
+      "timestamp": 1766051231661,
+      "key": "f",
+      "sentenceIndex": 2,
+      "valueAfter": "Elephant are af"
+    },
+    {
+      "timestamp": 1766051237727,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Elephant are afr"
+    },
+    {
+      "timestamp": 1766051238023,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Elephant are afra"
+    },
+    {
+      "timestamp": 1766051238340,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Elephant are afrai"
+    },
+    {
+      "timestamp": 1766051238707,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "Elephant are afraid"
+    },
+    {
+      "timestamp": 1766051240194,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Elephant are afraid "
+    },
+    {
+      "timestamp": 1766051241087,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "Elephant are afraid o"
+    },
+    {
+      "timestamp": 1766051241387,
+      "key": "f",
+      "sentenceIndex": 2,
+      "valueAfter": "Elephant are afraid of"
+    },
+    {
+      "timestamp": 1766051242520,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Elephant are afraid of "
+    },
+    {
+      "timestamp": 1766051242921,
+      "key": "m",
+      "sentenceIndex": 2,
+      "valueAfter": "Elephant are afraid of m"
+    },
+    {
+      "timestamp": 1766051243236,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Elephant are afraid of mi"
+    },
+    {
+      "timestamp": 1766051243671,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "Elephant are afraid of mic"
+    },
+    {
+      "timestamp": 1766051244018,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Elephant are afraid of mice"
+    },
+    {
+      "timestamp": 1766051248783,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "Elephant are afraid of micee"
+    },
+    {
+      "timestamp": 1766051251095,
+      "key": "N",
+      "sentenceIndex": 3,
+      "valueAfter": "N"
+    },
+    {
+      "timestamp": 1766051251344,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "No"
+    },
+    {
+      "timestamp": 1766051251747,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "No "
+    },
+    {
+      "timestamp": 1766051252144,
+      "key": "k",
+      "sentenceIndex": 3,
+      "valueAfter": "No k"
+    },
+    {
+      "timestamp": 1766051252394,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "No ki"
+    },
+    {
+      "timestamp": 1766051253009,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "No kis"
+    },
+    {
+      "timestamp": 1766051253176,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "No kiss"
+    },
+    {
+      "timestamp": 1766051254610,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "No kissi"
+    },
+    {
+      "timestamp": 1766051254941,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "No kissin"
+    }
+  ]
+}

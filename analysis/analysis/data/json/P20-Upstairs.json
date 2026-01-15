@@ -1,0 +1,683 @@
+{
+  "mode": "stairs",
+  "timestamp": "2025-12-18T11:26:15.045Z",
+  "duration": 60.003,
+  "wpm": 12,
+  "accuracy": "32.38",
+  "totalCharactersTyped": 105,
+  "correctCharacters": 34,
+  "errors": 73,
+  "sentencesCompleted": 3,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Head shoulders j'espère and t",
+      "expected": "Head shoulders knees and toes"
+    },
+    {
+      "typed": "Ors fax machine is  broke",
+      "expected": "The fax machine is broken"
+    },
+    {
+      "typed": "N you've entered a wondon i",
+      "expected": "Do you prefer a window seat"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766057109266,
+      "key": "H",
+      "sentenceIndex": 0,
+      "valueAfter": "H"
+    },
+    {
+      "timestamp": 1766057109437,
+      "key": "He",
+      "sentenceIndex": 0,
+      "valueAfter": "He"
+    },
+    {
+      "timestamp": 1766057109721,
+      "key": "Hea",
+      "sentenceIndex": 0,
+      "valueAfter": "Hea"
+    },
+    {
+      "timestamp": 1766057109964,
+      "key": "Head",
+      "sentenceIndex": 0,
+      "valueAfter": "Head"
+    },
+    {
+      "timestamp": 1766057110913,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Head "
+    },
+    {
+      "timestamp": 1766057112023,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "Head s"
+    },
+    {
+      "timestamp": 1766057112264,
+      "key": "sh",
+      "sentenceIndex": 0,
+      "valueAfter": "Head sh"
+    },
+    {
+      "timestamp": 1766057112507,
+      "key": "sho",
+      "sentenceIndex": 0,
+      "valueAfter": "Head sho"
+    },
+    {
+      "timestamp": 1766057112654,
+      "key": "shou",
+      "sentenceIndex": 0,
+      "valueAfter": "Head shou"
+    },
+    {
+      "timestamp": 1766057112890,
+      "key": "shoul",
+      "sentenceIndex": 0,
+      "valueAfter": "Head shoul"
+    },
+    {
+      "timestamp": 1766057113067,
+      "key": "should",
+      "sentenceIndex": 0,
+      "valueAfter": "Head should"
+    },
+    {
+      "timestamp": 1766057113288,
+      "key": "shoulde",
+      "sentenceIndex": 0,
+      "valueAfter": "Head shoulde"
+    },
+    {
+      "timestamp": 1766057113465,
+      "key": "shoulder",
+      "sentenceIndex": 0,
+      "valueAfter": "Head shoulder"
+    },
+    {
+      "timestamp": 1766057113670,
+      "key": "shoulders",
+      "sentenceIndex": 0,
+      "valueAfter": "Head shoulders"
+    },
+    {
+      "timestamp": 1766057114306,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Head shoulders "
+    },
+    {
+      "timestamp": 1766057114823,
+      "key": "j",
+      "sentenceIndex": 0,
+      "valueAfter": "Head shoulders j"
+    },
+    {
+      "timestamp": 1766057115216,
+      "key": "jn",
+      "sentenceIndex": 0,
+      "valueAfter": "Head shoulders jn"
+    },
+    {
+      "timestamp": 1766057115502,
+      "key": "jne",
+      "sentenceIndex": 0,
+      "valueAfter": "Head shoulders jne"
+    },
+    {
+      "timestamp": 1766057115818,
+      "key": "jnes",
+      "sentenceIndex": 0,
+      "valueAfter": "Head shoulders jnes"
+    },
+    {
+      "timestamp": 1766057117432,
+      "key": "j'espère",
+      "sentenceIndex": 0,
+      "valueAfter": "Head shoulders j'espère"
+    },
+    {
+      "timestamp": 1766057117439,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Head shoulders j'espère "
+    },
+    {
+      "timestamp": 1766057117787,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "Head shoulders j'espère a"
+    },
+    {
+      "timestamp": 1766057117899,
+      "key": "an",
+      "sentenceIndex": 0,
+      "valueAfter": "Head shoulders j'espère an"
+    },
+    {
+      "timestamp": 1766057118158,
+      "key": "and",
+      "sentenceIndex": 0,
+      "valueAfter": "Head shoulders j'espère and"
+    },
+    {
+      "timestamp": 1766057118321,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Head shoulders j'espère and "
+    },
+    {
+      "timestamp": 1766057118808,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Head shoulders j'espère and t"
+    },
+    {
+      "timestamp": 1766057118919,
+      "key": "O",
+      "sentenceIndex": 1,
+      "valueAfter": "O"
+    },
+    {
+      "timestamp": 1766057119109,
+      "key": "Or",
+      "sentenceIndex": 1,
+      "valueAfter": "Or"
+    },
+    {
+      "timestamp": 1766057119303,
+      "key": "Ors",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors"
+    },
+    {
+      "timestamp": 1766057123353,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors "
+    },
+    {
+      "timestamp": 1766057123797,
+      "key": "f",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors f"
+    },
+    {
+      "timestamp": 1766057124061,
+      "key": "fa",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors fa"
+    },
+    {
+      "timestamp": 1766057124321,
+      "key": "fax",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors fax"
+    },
+    {
+      "timestamp": 1766057125162,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors fax "
+    },
+    {
+      "timestamp": 1766057126284,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors fax m"
+    },
+    {
+      "timestamp": 1766057126775,
+      "key": "mo",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors fax mo"
+    },
+    {
+      "timestamp": 1766057127217,
+      "key": "moc",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors fax moc"
+    },
+    {
+      "timestamp": 1766057127692,
+      "key": "moch",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors fax moch"
+    },
+    {
+      "timestamp": 1766057128017,
+      "key": "mochi",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors fax mochi"
+    },
+    {
+      "timestamp": 1766057128251,
+      "key": "mochin",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors fax mochin"
+    },
+    {
+      "timestamp": 1766057128386,
+      "key": "mochine",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors fax mochine"
+    },
+    {
+      "timestamp": 1766057129485,
+      "key": "machine",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors fax machine"
+    },
+    {
+      "timestamp": 1766057129492,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors fax machine "
+    },
+    {
+      "timestamp": 1766057130584,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors fax machine i"
+    },
+    {
+      "timestamp": 1766057130782,
+      "key": "is",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors fax machine is"
+    },
+    {
+      "timestamp": 1766057130923,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors fax machine is "
+    },
+    {
+      "timestamp": 1766057131707,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors fax machine is  "
+    },
+    {
+      "timestamp": 1766057132078,
+      "key": "b",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors fax machine is  b"
+    },
+    {
+      "timestamp": 1766057132805,
+      "key": "br",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors fax machine is  br"
+    },
+    {
+      "timestamp": 1766057132994,
+      "key": "bro",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors fax machine is  bro"
+    },
+    {
+      "timestamp": 1766057133202,
+      "key": "brok",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors fax machine is  brok"
+    },
+    {
+      "timestamp": 1766057133359,
+      "key": "broke",
+      "sentenceIndex": 1,
+      "valueAfter": "Ors fax machine is  broke"
+    },
+    {
+      "timestamp": 1766057133480,
+      "key": "N",
+      "sentenceIndex": 2,
+      "valueAfter": "N"
+    },
+    {
+      "timestamp": 1766057136210,
+      "key": "No",
+      "sentenceIndex": 2,
+      "valueAfter": "No"
+    },
+    {
+      "timestamp": 1766057136941,
+      "key": "N",
+      "sentenceIndex": 2,
+      "valueAfter": "N"
+    },
+    {
+      "timestamp": 1766057138056,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "N "
+    },
+    {
+      "timestamp": 1766057139036,
+      "key": "y",
+      "sentenceIndex": 2,
+      "valueAfter": "N y"
+    },
+    {
+      "timestamp": 1766057139281,
+      "key": "yo",
+      "sentenceIndex": 2,
+      "valueAfter": "N yo"
+    },
+    {
+      "timestamp": 1766057139430,
+      "key": "you",
+      "sentenceIndex": 2,
+      "valueAfter": "N you"
+    },
+    {
+      "timestamp": 1766057139766,
+      "key": "youv",
+      "sentenceIndex": 2,
+      "valueAfter": "N youv"
+    },
+    {
+      "timestamp": 1766057140997,
+      "key": "youvp",
+      "sentenceIndex": 2,
+      "valueAfter": "N youvp"
+    },
+    {
+      "timestamp": 1766057141378,
+      "key": "youvpe",
+      "sentenceIndex": 2,
+      "valueAfter": "N youvpe"
+    },
+    {
+      "timestamp": 1766057141882,
+      "key": "youvp",
+      "sentenceIndex": 2,
+      "valueAfter": "N youvp"
+    },
+    {
+      "timestamp": 1766057146224,
+      "key": "you've",
+      "sentenceIndex": 2,
+      "valueAfter": "N you've"
+    },
+    {
+      "timestamp": 1766057146230,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "N you've "
+    },
+    {
+      "timestamp": 1766057148111,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "N you've e"
+    },
+    {
+      "timestamp": 1766057148418,
+      "key": "ef",
+      "sentenceIndex": 2,
+      "valueAfter": "N you've ef"
+    },
+    {
+      "timestamp": 1766057148688,
+      "key": "eft",
+      "sentenceIndex": 2,
+      "valueAfter": "N you've eft"
+    },
+    {
+      "timestamp": 1766057148924,
+      "key": "efte",
+      "sentenceIndex": 2,
+      "valueAfter": "N you've efte"
+    },
+    {
+      "timestamp": 1766057149095,
+      "key": "efter",
+      "sentenceIndex": 2,
+      "valueAfter": "N you've efter"
+    },
+    {
+      "timestamp": 1766057149448,
+      "key": "efterv",
+      "sentenceIndex": 2,
+      "valueAfter": "N you've efterv"
+    },
+    {
+      "timestamp": 1766057150210,
+      "key": "efter",
+      "sentenceIndex": 2,
+      "valueAfter": "N you've efter"
+    },
+    {
+      "timestamp": 1766057150786,
+      "key": "entered",
+      "sentenceIndex": 2,
+      "valueAfter": "N you've entered"
+    },
+    {
+      "timestamp": 1766057150793,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "N you've entered "
+    },
+    {
+      "timestamp": 1766057152178,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "N you've entered a"
+    },
+    {
+      "timestamp": 1766057152368,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "N you've entered a "
+    },
+    {
+      "timestamp": 1766057152563,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "N you've entered a w"
+    },
+    {
+      "timestamp": 1766057152704,
+      "key": "wo",
+      "sentenceIndex": 2,
+      "valueAfter": "N you've entered a wo"
+    },
+    {
+      "timestamp": 1766057152928,
+      "key": "won",
+      "sentenceIndex": 2,
+      "valueAfter": "N you've entered a won"
+    },
+    {
+      "timestamp": 1766057153188,
+      "key": "wond",
+      "sentenceIndex": 2,
+      "valueAfter": "N you've entered a wond"
+    },
+    {
+      "timestamp": 1766057153358,
+      "key": "wondo",
+      "sentenceIndex": 2,
+      "valueAfter": "N you've entered a wondo"
+    },
+    {
+      "timestamp": 1766057154688,
+      "key": "wondon",
+      "sentenceIndex": 2,
+      "valueAfter": "N you've entered a wondon"
+    },
+    {
+      "timestamp": 1766057157310,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "N you've entered a wondon "
+    },
+    {
+      "timestamp": 1766057158790,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "N you've entered a wondon i"
+    },
+    {
+      "timestamp": 1766057160313,
+      "key": "T",
+      "sentenceIndex": 3,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766057160640,
+      "key": "Tr",
+      "sentenceIndex": 3,
+      "valueAfter": "Tr"
+    },
+    {
+      "timestamp": 1766057160827,
+      "key": "Try",
+      "sentenceIndex": 3,
+      "valueAfter": "Try"
+    },
+    {
+      "timestamp": 1766057161263,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Try "
+    },
+    {
+      "timestamp": 1766057161645,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Try t"
+    },
+    {
+      "timestamp": 1766057161786,
+      "key": "to",
+      "sentenceIndex": 3,
+      "valueAfter": "Try to"
+    },
+    {
+      "timestamp": 1766057162092,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Try to "
+    },
+    {
+      "timestamp": 1766057162373,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Try to e"
+    },
+    {
+      "timestamp": 1766057162658,
+      "key": "en",
+      "sentenceIndex": 3,
+      "valueAfter": "Try to en"
+    },
+    {
+      "timestamp": 1766057163347,
+      "key": "enj",
+      "sentenceIndex": 3,
+      "valueAfter": "Try to enj"
+    },
+    {
+      "timestamp": 1766057163621,
+      "key": "enjo",
+      "sentenceIndex": 3,
+      "valueAfter": "Try to enjo"
+    },
+    {
+      "timestamp": 1766057164002,
+      "key": "enjoy",
+      "sentenceIndex": 3,
+      "valueAfter": "Try to enjoy"
+    },
+    {
+      "timestamp": 1766057164483,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Try to enjoy "
+    },
+    {
+      "timestamp": 1766057165281,
+      "key": "y",
+      "sentenceIndex": 3,
+      "valueAfter": "Try to enjoy y"
+    },
+    {
+      "timestamp": 1766057165563,
+      "key": "yo",
+      "sentenceIndex": 3,
+      "valueAfter": "Try to enjoy yo"
+    },
+    {
+      "timestamp": 1766057165756,
+      "key": "you",
+      "sentenceIndex": 3,
+      "valueAfter": "Try to enjoy you"
+    },
+    {
+      "timestamp": 1766057165969,
+      "key": "your",
+      "sentenceIndex": 3,
+      "valueAfter": "Try to enjoy your"
+    },
+    {
+      "timestamp": 1766057166174,
+      "key": "yourb",
+      "sentenceIndex": 3,
+      "valueAfter": "Try to enjoy yourb"
+    },
+    {
+      "timestamp": 1766057167207,
+      "key": "yourbm",
+      "sentenceIndex": 3,
+      "valueAfter": "Try to enjoy yourbm"
+    },
+    {
+      "timestamp": 1766057167465,
+      "key": "yourbma",
+      "sentenceIndex": 3,
+      "valueAfter": "Try to enjoy yourbma"
+    },
+    {
+      "timestamp": 1766057167685,
+      "key": "yourbmat",
+      "sentenceIndex": 3,
+      "valueAfter": "Try to enjoy yourbmat"
+    },
+    {
+      "timestamp": 1766057167939,
+      "key": "yourbmate",
+      "sentenceIndex": 3,
+      "valueAfter": "Try to enjoy yourbmate"
+    },
+    {
+      "timestamp": 1766057168126,
+      "key": "yourbmater",
+      "sentenceIndex": 3,
+      "valueAfter": "Try to enjoy yourbmater"
+    },
+    {
+      "timestamp": 1766057168579,
+      "key": "yourbmatern",
+      "sentenceIndex": 3,
+      "valueAfter": "Try to enjoy yourbmatern"
+    },
+    {
+      "timestamp": 1766057168810,
+      "key": "yourbmaterni",
+      "sentenceIndex": 3,
+      "valueAfter": "Try to enjoy yourbmaterni"
+    }
+  ]
+}

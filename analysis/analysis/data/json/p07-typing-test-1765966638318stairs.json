@@ -1,0 +1,291 @@
+{
+  "mode": "upstairs",
+  "timestamp": "2025-12-17T10:17:18.306Z",
+  "duration": 60.003,
+  "wpm": 28,
+  "accuracy": "287.50",
+  "totalCharactersTyped": 40,
+  "correctCharacters": 115,
+  "errors": 9,
+  "sentencesCompleted": 4,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "The sum of the parts",
+      "expected": "The sum of the parts"
+    },
+    {
+      "typed": "No exchange without a bill",
+      "expected": "No exchange without a bill"
+    },
+    {
+      "typed": "A good joke deserves a good laugh",
+      "expected": "A good joke deserves a good laugh"
+    },
+    {
+      "typed": "One never takes too many precautions",
+      "expected": "One never takes too many precautions"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765966570462,
+      "key": "The",
+      "sentenceIndex": 0,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1765966571015,
+      "key": " sun",
+      "sentenceIndex": 0,
+      "valueAfter": "The sun"
+    },
+    {
+      "timestamp": 1765966571491,
+      "key": " of",
+      "sentenceIndex": 0,
+      "valueAfter": "The sun of"
+    },
+    {
+      "timestamp": 1765966572022,
+      "key": " the",
+      "sentenceIndex": 0,
+      "valueAfter": "The sun of the"
+    },
+    {
+      "timestamp": 1765966576362,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "The su of the"
+    },
+    {
+      "timestamp": 1765966576631,
+      "key": "m",
+      "sentenceIndex": 0,
+      "valueAfter": "The sum of the"
+    },
+    {
+      "timestamp": 1765966577620,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "The sum of the "
+    },
+    {
+      "timestamp": 1765966578670,
+      "key": "parts",
+      "sentenceIndex": 0,
+      "valueAfter": "The sum of the parts"
+    },
+    {
+      "timestamp": 1765966579901,
+      "key": "No",
+      "sentenceIndex": 1,
+      "valueAfter": "No"
+    },
+    {
+      "timestamp": 1765966582130,
+      "key": " exchange",
+      "sentenceIndex": 1,
+      "valueAfter": "No exchange"
+    },
+    {
+      "timestamp": 1765966584092,
+      "key": " without",
+      "sentenceIndex": 1,
+      "valueAfter": "No exchange without"
+    },
+    {
+      "timestamp": 1765966585603,
+      "key": " a",
+      "sentenceIndex": 1,
+      "valueAfter": "No exchange without a"
+    },
+    {
+      "timestamp": 1765966586967,
+      "key": " bill",
+      "sentenceIndex": 1,
+      "valueAfter": "No exchange without a bill"
+    },
+    {
+      "timestamp": 1765966588167,
+      "key": "A",
+      "sentenceIndex": 2,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1765966588544,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "A "
+    },
+    {
+      "timestamp": 1765966589389,
+      "key": "good",
+      "sentenceIndex": 2,
+      "valueAfter": "A good"
+    },
+    {
+      "timestamp": 1765966590393,
+      "key": " kjole",
+      "sentenceIndex": 2,
+      "valueAfter": "A good kjole"
+    },
+    {
+      "timestamp": 1765966591994,
+      "key": " deserves",
+      "sentenceIndex": 2,
+      "valueAfter": "A good kjole deserves"
+    },
+    {
+      "timestamp": 1765966592484,
+      "key": " a",
+      "sentenceIndex": 2,
+      "valueAfter": "A good kjole deserves a"
+    },
+    {
+      "timestamp": 1765966593016,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "A good kjole deserves a "
+    },
+    {
+      "timestamp": 1765966593771,
+      "key": "good",
+      "sentenceIndex": 2,
+      "valueAfter": "A good kjole deserves a good"
+    },
+    {
+      "timestamp": 1765966598431,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "A good deserves a good"
+    },
+    {
+      "timestamp": 1765966598437,
+      "key": "joke ",
+      "sentenceIndex": 2,
+      "valueAfter": "A good joke deserves a good"
+    },
+    {
+      "timestamp": 1765966601126,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "A good joke deserves a good "
+    },
+    {
+      "timestamp": 1765966602524,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "A good joke deserves a good l"
+    },
+    {
+      "timestamp": 1765966604727,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "A good joke deserves a good la"
+    },
+    {
+      "timestamp": 1765966604964,
+      "key": "u",
+      "sentenceIndex": 2,
+      "valueAfter": "A good joke deserves a good lau"
+    },
+    {
+      "timestamp": 1765966606568,
+      "key": "g",
+      "sentenceIndex": 2,
+      "valueAfter": "A good joke deserves a good laug"
+    },
+    {
+      "timestamp": 1765966606726,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "A good joke deserves a good laugh"
+    },
+    {
+      "timestamp": 1765966608166,
+      "key": "One",
+      "sentenceIndex": 3,
+      "valueAfter": "One"
+    },
+    {
+      "timestamp": 1765966609318,
+      "key": " never",
+      "sentenceIndex": 3,
+      "valueAfter": "One never"
+    },
+    {
+      "timestamp": 1765966610560,
+      "key": " takes",
+      "sentenceIndex": 3,
+      "valueAfter": "One never takes"
+    },
+    {
+      "timestamp": 1765966611543,
+      "key": " to",
+      "sentenceIndex": 3,
+      "valueAfter": "One never takes to"
+    },
+    {
+      "timestamp": 1765966612996,
+      "key": "o ",
+      "sentenceIndex": 3,
+      "valueAfter": "One never takes too "
+    },
+    {
+      "timestamp": 1765966614290,
+      "key": "many ",
+      "sentenceIndex": 3,
+      "valueAfter": "One never takes too many "
+    },
+    {
+      "timestamp": 1765966619168,
+      "key": "precautions",
+      "sentenceIndex": 3,
+      "valueAfter": "One never takes too many precautions"
+    },
+    {
+      "timestamp": 1765966621937,
+      "key": "Priser",
+      "sentenceIndex": 4,
+      "valueAfter": "Priser"
+    },
+    {
+      "timestamp": 1765966624219,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": "Pr"
+    },
+    {
+      "timestamp": 1765966624226,
+      "key": "epare ",
+      "sentenceIndex": 4,
+      "valueAfter": "Prepare "
+    },
+    {
+      "timestamp": 1765966624957,
+      "key": "for",
+      "sentenceIndex": 4,
+      "valueAfter": "Prepare for"
+    },
+    {
+      "timestamp": 1765966625900,
+      "key": " the",
+      "sentenceIndex": 4,
+      "valueAfter": "Prepare for the"
+    },
+    {
+      "timestamp": 1765966627263,
+      "key": " exam",
+      "sentenceIndex": 4,
+      "valueAfter": "Prepare for the exam"
+    },
+    {
+      "timestamp": 1765966628721,
+      "key": " in",
+      "sentenceIndex": 4,
+      "valueAfter": "Prepare for the exam in"
+    }
+  ]
+}

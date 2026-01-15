@@ -1,0 +1,1139 @@
+{
+  "mode": "stairs",
+  "timestamp": "2025-12-17T12:10:19.087Z",
+  "duration": 60.005,
+  "wpm": 32,
+  "accuracy": "86.52",
+  "totalCharactersTyped": 178,
+  "correctCharacters": 154,
+  "errors": 101,
+  "sentencesCompleted": 6,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "We run the risk of failuir",
+      "expected": "We run the risk of failure"
+    },
+    {
+      "typed": "Eerver toorich and never too thin",
+      "expected": "Never too rich and never too thin"
+    },
+    {
+      "typed": "My favorite place to visti",
+      "expected": "My favorite place to visit"
+    },
+    {
+      "typed": "Fall is my favorite season",
+      "expected": "Fall is my favorite season"
+    },
+    {
+      "typed": " For a crown with many jewels",
+      "expected": "Wear a crown with many jewels"
+    },
+    {
+      "typed": " Y favorite subject is psycholucy",
+      "expected": "My favorite subject is psychology"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765973356754,
+      "key": "W",
+      "sentenceIndex": 0,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1765973357112,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "We"
+    },
+    {
+      "timestamp": 1765973357264,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "We "
+    },
+    {
+      "timestamp": 1765973357986,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "We r"
+    },
+    {
+      "timestamp": 1765973358446,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "We ru"
+    },
+    {
+      "timestamp": 1765973358670,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "We run"
+    },
+    {
+      "timestamp": 1765973358980,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "We run "
+    },
+    {
+      "timestamp": 1765973359726,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "We run t"
+    },
+    {
+      "timestamp": 1765973359985,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "We run th"
+    },
+    {
+      "timestamp": 1765973360132,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "We run the"
+    },
+    {
+      "timestamp": 1765973360361,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "We run the "
+    },
+    {
+      "timestamp": 1765973360639,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "We run the r"
+    },
+    {
+      "timestamp": 1765973360994,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "We run the ri"
+    },
+    {
+      "timestamp": 1765973361110,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "We run the ris"
+    },
+    {
+      "timestamp": 1765973361201,
+      "key": "k",
+      "sentenceIndex": 0,
+      "valueAfter": "We run the risk"
+    },
+    {
+      "timestamp": 1765973361493,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "We run the risk "
+    },
+    {
+      "timestamp": 1765973361885,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "We run the risk o"
+    },
+    {
+      "timestamp": 1765973361962,
+      "key": "f",
+      "sentenceIndex": 0,
+      "valueAfter": "We run the risk of"
+    },
+    {
+      "timestamp": 1765973362149,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "We run the risk of "
+    },
+    {
+      "timestamp": 1765973362361,
+      "key": "f",
+      "sentenceIndex": 0,
+      "valueAfter": "We run the risk of f"
+    },
+    {
+      "timestamp": 1765973362640,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "We run the risk of fa"
+    },
+    {
+      "timestamp": 1765973362814,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "We run the risk of fai"
+    },
+    {
+      "timestamp": 1765973363959,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "We run the risk of fail"
+    },
+    {
+      "timestamp": 1765973364447,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "We run the risk of failu"
+    },
+    {
+      "timestamp": 1765973364652,
+      "key": "i",
+      "sentenceIndex": 0,
+      "valueAfter": "We run the risk of failui"
+    },
+    {
+      "timestamp": 1765973364853,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "We run the risk of failuir"
+    },
+    {
+      "timestamp": 1765973365011,
+      "key": "E",
+      "sentenceIndex": 1,
+      "valueAfter": "E"
+    },
+    {
+      "timestamp": 1765973367110,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Ee"
+    },
+    {
+      "timestamp": 1765973367293,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Eer"
+    },
+    {
+      "timestamp": 1765973367398,
+      "key": "v",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerv"
+    },
+    {
+      "timestamp": 1765973367512,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerve"
+    },
+    {
+      "timestamp": 1765973367690,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver"
+    },
+    {
+      "timestamp": 1765973368071,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver "
+    },
+    {
+      "timestamp": 1765973368316,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver t"
+    },
+    {
+      "timestamp": 1765973368557,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver to"
+    },
+    {
+      "timestamp": 1765973369041,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver too"
+    },
+    {
+      "timestamp": 1765973370031,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toor"
+    },
+    {
+      "timestamp": 1765973370212,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toori"
+    },
+    {
+      "timestamp": 1765973370707,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver tooric"
+    },
+    {
+      "timestamp": 1765973371230,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toorich"
+    },
+    {
+      "timestamp": 1765973372089,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toorich "
+    },
+    {
+      "timestamp": 1765973372304,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toorich a"
+    },
+    {
+      "timestamp": 1765973372418,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toorich an"
+    },
+    {
+      "timestamp": 1765973372546,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toorich and"
+    },
+    {
+      "timestamp": 1765973372731,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toorich and "
+    },
+    {
+      "timestamp": 1765973373095,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toorich and n"
+    },
+    {
+      "timestamp": 1765973373244,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toorich and ne"
+    },
+    {
+      "timestamp": 1765973373897,
+      "key": "v",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toorich and nev"
+    },
+    {
+      "timestamp": 1765973374039,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toorich and neve"
+    },
+    {
+      "timestamp": 1765973374222,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toorich and never"
+    },
+    {
+      "timestamp": 1765973374322,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toorich and never "
+    },
+    {
+      "timestamp": 1765973374596,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toorich and never t"
+    },
+    {
+      "timestamp": 1765973374874,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toorich and never to"
+    },
+    {
+      "timestamp": 1765973375031,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toorich and never too"
+    },
+    {
+      "timestamp": 1765973375347,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toorich and never too "
+    },
+    {
+      "timestamp": 1765973375530,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toorich and never too t"
+    },
+    {
+      "timestamp": 1765973375731,
+      "key": "h",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toorich and never too th"
+    },
+    {
+      "timestamp": 1765973376111,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toorich and never too thi"
+    },
+    {
+      "timestamp": 1765973376390,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Eerver toorich and never too thin"
+    },
+    {
+      "timestamp": 1765973377300,
+      "key": "M",
+      "sentenceIndex": 2,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1765973377610,
+      "key": "y",
+      "sentenceIndex": 2,
+      "valueAfter": "My"
+    },
+    {
+      "timestamp": 1765973377867,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "My "
+    },
+    {
+      "timestamp": 1765973378183,
+      "key": "f",
+      "sentenceIndex": 2,
+      "valueAfter": "My f"
+    },
+    {
+      "timestamp": 1765973378552,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "My fa"
+    },
+    {
+      "timestamp": 1765973378770,
+      "key": "v",
+      "sentenceIndex": 2,
+      "valueAfter": "My fav"
+    },
+    {
+      "timestamp": 1765973379242,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "My favo"
+    },
+    {
+      "timestamp": 1765973379421,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "My favor"
+    },
+    {
+      "timestamp": 1765973379909,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "My favori"
+    },
+    {
+      "timestamp": 1765973380028,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "My favorit"
+    },
+    {
+      "timestamp": 1765973380191,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "My favorite"
+    },
+    {
+      "timestamp": 1765973380295,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "My favorite "
+    },
+    {
+      "timestamp": 1765973380691,
+      "key": "p",
+      "sentenceIndex": 2,
+      "valueAfter": "My favorite p"
+    },
+    {
+      "timestamp": 1765973380925,
+      "key": "l",
+      "sentenceIndex": 2,
+      "valueAfter": "My favorite pl"
+    },
+    {
+      "timestamp": 1765973381043,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "My favorite pla"
+    },
+    {
+      "timestamp": 1765973381386,
+      "key": "c",
+      "sentenceIndex": 2,
+      "valueAfter": "My favorite plac"
+    },
+    {
+      "timestamp": 1765973381663,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "My favorite place"
+    },
+    {
+      "timestamp": 1765973382017,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "My favorite place "
+    },
+    {
+      "timestamp": 1765973382601,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "My favorite place t"
+    },
+    {
+      "timestamp": 1765973382825,
+      "key": "o",
+      "sentenceIndex": 2,
+      "valueAfter": "My favorite place to"
+    },
+    {
+      "timestamp": 1765973383197,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "My favorite place to "
+    },
+    {
+      "timestamp": 1765973383690,
+      "key": "v",
+      "sentenceIndex": 2,
+      "valueAfter": "My favorite place to v"
+    },
+    {
+      "timestamp": 1765973383947,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "My favorite place to vi"
+    },
+    {
+      "timestamp": 1765973384046,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "My favorite place to vis"
+    },
+    {
+      "timestamp": 1765973384338,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "My favorite place to vist"
+    },
+    {
+      "timestamp": 1765973384429,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "My favorite place to visti"
+    },
+    {
+      "timestamp": 1765973386526,
+      "key": "F",
+      "sentenceIndex": 3,
+      "valueAfter": "F"
+    },
+    {
+      "timestamp": 1765973386734,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Fa"
+    },
+    {
+      "timestamp": 1765973386853,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Fal"
+    },
+    {
+      "timestamp": 1765973387129,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall"
+    },
+    {
+      "timestamp": 1765973387424,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall "
+    },
+    {
+      "timestamp": 1765973388291,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall i"
+    },
+    {
+      "timestamp": 1765973388347,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall is"
+    },
+    {
+      "timestamp": 1765973388676,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall is "
+    },
+    {
+      "timestamp": 1765973388897,
+      "key": "m",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall is m"
+    },
+    {
+      "timestamp": 1765973389134,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall is mu"
+    },
+    {
+      "timestamp": 1765973389380,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall is "
+    },
+    {
+      "timestamp": 1765973389396,
+      "key": "my ",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall is my "
+    },
+    {
+      "timestamp": 1765973389555,
+      "key": "f",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall is my f"
+    },
+    {
+      "timestamp": 1765973389794,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall is my fa"
+    },
+    {
+      "timestamp": 1765973389950,
+      "key": "v",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall is my fav"
+    },
+    {
+      "timestamp": 1765973390209,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall is my favo"
+    },
+    {
+      "timestamp": 1765973390335,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall is my favor"
+    },
+    {
+      "timestamp": 1765973390602,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall is my favori"
+    },
+    {
+      "timestamp": 1765973390743,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall is my favorit"
+    },
+    {
+      "timestamp": 1765973390930,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall is my favorite"
+    },
+    {
+      "timestamp": 1765973391030,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall is my favorite "
+    },
+    {
+      "timestamp": 1765973391281,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall is my favorite s"
+    },
+    {
+      "timestamp": 1765973391460,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall is my favorite se"
+    },
+    {
+      "timestamp": 1765973391641,
+      "key": "a",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall is my favorite sea"
+    },
+    {
+      "timestamp": 1765973391903,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall is my favorite seas"
+    },
+    {
+      "timestamp": 1765973392066,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall is my favorite seaso"
+    },
+    {
+      "timestamp": 1765973392240,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": "Fall is my favorite season"
+    },
+    {
+      "timestamp": 1765973392482,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1765973393154,
+      "key": "F",
+      "sentenceIndex": 4,
+      "valueAfter": " F"
+    },
+    {
+      "timestamp": 1765973393540,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": " Fi"
+    },
+    {
+      "timestamp": 1765973394603,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": " Fir"
+    },
+    {
+      "timestamp": 1765973394798,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1765973394809,
+      "key": "For ",
+      "sentenceIndex": 4,
+      "valueAfter": " For "
+    },
+    {
+      "timestamp": 1765973395271,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": " For a"
+    },
+    {
+      "timestamp": 1765973395465,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " For a "
+    },
+    {
+      "timestamp": 1765973396164,
+      "key": "x",
+      "sentenceIndex": 4,
+      "valueAfter": " For a x"
+    },
+    {
+      "timestamp": 1765973396396,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": " For a xr"
+    },
+    {
+      "timestamp": 1765973396519,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": " For a xro"
+    },
+    {
+      "timestamp": 1765973396918,
+      "key": "w",
+      "sentenceIndex": 4,
+      "valueAfter": " For a xrow"
+    },
+    {
+      "timestamp": 1765973397132,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": " For a xrown"
+    },
+    {
+      "timestamp": 1765973397994,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 4,
+      "valueAfter": " For a "
+    },
+    {
+      "timestamp": 1765973398000,
+      "key": "crown ",
+      "sentenceIndex": 4,
+      "valueAfter": " For a crown "
+    },
+    {
+      "timestamp": 1765973398207,
+      "key": "w",
+      "sentenceIndex": 4,
+      "valueAfter": " For a crown w"
+    },
+    {
+      "timestamp": 1765973398410,
+      "key": "i",
+      "sentenceIndex": 4,
+      "valueAfter": " For a crown wi"
+    },
+    {
+      "timestamp": 1765973398797,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": " For a crown wit"
+    },
+    {
+      "timestamp": 1765973399047,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": " For a crown with"
+    },
+    {
+      "timestamp": 1765973399467,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " For a crown with "
+    },
+    {
+      "timestamp": 1765973399779,
+      "key": "m",
+      "sentenceIndex": 4,
+      "valueAfter": " For a crown with m"
+    },
+    {
+      "timestamp": 1765973399894,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": " For a crown with ma"
+    },
+    {
+      "timestamp": 1765973400017,
+      "key": "n",
+      "sentenceIndex": 4,
+      "valueAfter": " For a crown with man"
+    },
+    {
+      "timestamp": 1765973400710,
+      "key": "y",
+      "sentenceIndex": 4,
+      "valueAfter": " For a crown with many"
+    },
+    {
+      "timestamp": 1765973401038,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " For a crown with many "
+    },
+    {
+      "timestamp": 1765973401348,
+      "key": "j",
+      "sentenceIndex": 4,
+      "valueAfter": " For a crown with many j"
+    },
+    {
+      "timestamp": 1765973401472,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": " For a crown with many je"
+    },
+    {
+      "timestamp": 1765973401839,
+      "key": "w",
+      "sentenceIndex": 4,
+      "valueAfter": " For a crown with many jew"
+    },
+    {
+      "timestamp": 1765973402419,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": " For a crown with many jewe"
+    },
+    {
+      "timestamp": 1765973402652,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": " For a crown with many jewel"
+    },
+    {
+      "timestamp": 1765973402777,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": " For a crown with many jewels"
+    },
+    {
+      "timestamp": 1765973402941,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1765973404315,
+      "key": "Y",
+      "sentenceIndex": 5,
+      "valueAfter": " Y"
+    },
+    {
+      "timestamp": 1765973404682,
+      "key": "b",
+      "sentenceIndex": 5,
+      "valueAfter": " Yb"
+    },
+    {
+      "timestamp": 1765973404840,
+      "key": "f",
+      "sentenceIndex": 5,
+      "valueAfter": " Ybf"
+    },
+    {
+      "timestamp": 1765973405259,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": " Ybfa"
+    },
+    {
+      "timestamp": 1765973405354,
+      "key": "v",
+      "sentenceIndex": 5,
+      "valueAfter": " Ybfav"
+    },
+    {
+      "timestamp": 1765973405609,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": " Ybfavo"
+    },
+    {
+      "timestamp": 1765973405747,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": " Ybfavor"
+    },
+    {
+      "timestamp": 1765973406081,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": " Ybfavori"
+    },
+    {
+      "timestamp": 1765973406233,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": " Ybfavorit"
+    },
+    {
+      "timestamp": 1765973406430,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": " Ybfavorite"
+    },
+    {
+      "timestamp": 1765973406536,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1765973406550,
+      "key": "Y favorite ",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite "
+    },
+    {
+      "timestamp": 1765973406772,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite s"
+    },
+    {
+      "timestamp": 1765973406905,
+      "key": "u",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite su"
+    },
+    {
+      "timestamp": 1765973407115,
+      "key": "b",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite sub"
+    },
+    {
+      "timestamp": 1765973407664,
+      "key": "j",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite subj"
+    },
+    {
+      "timestamp": 1765973407744,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite subje"
+    },
+    {
+      "timestamp": 1765973408014,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite subjes"
+    },
+    {
+      "timestamp": 1765973408381,
+      "key": "c",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite subjesc"
+    },
+    {
+      "timestamp": 1765973408788,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite subjesct"
+    },
+    {
+      "timestamp": 1765973408982,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite "
+    },
+    {
+      "timestamp": 1765973408992,
+      "key": "subject ",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite subject "
+    },
+    {
+      "timestamp": 1765973409454,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite subject i"
+    },
+    {
+      "timestamp": 1765973409528,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite subject is"
+    },
+    {
+      "timestamp": 1765973409749,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite subject is "
+    },
+    {
+      "timestamp": 1765973410514,
+      "key": "p",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite subject is p"
+    },
+    {
+      "timestamp": 1765973410660,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite subject is ps"
+    },
+    {
+      "timestamp": 1765973410892,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite subject is psy"
+    },
+    {
+      "timestamp": 1765973411326,
+      "key": "c",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite subject is psyc"
+    },
+    {
+      "timestamp": 1765973411539,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite subject is psych"
+    },
+    {
+      "timestamp": 1765973411910,
+      "key": "o",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite subject is psycho"
+    },
+    {
+      "timestamp": 1765973412183,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite subject is psychol"
+    },
+    {
+      "timestamp": 1765973412388,
+      "key": "u",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite subject is psycholu"
+    },
+    {
+      "timestamp": 1765973413555,
+      "key": "c",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite subject is psycholuc"
+    },
+    {
+      "timestamp": 1765973413633,
+      "key": "y",
+      "sentenceIndex": 5,
+      "valueAfter": " Y favorite subject is psycholucy"
+    },
+    {
+      "timestamp": 1765973415926,
+      "key": "H",
+      "sentenceIndex": 6,
+      "valueAfter": "H"
+    },
+    {
+      "timestamp": 1765973416057,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "Ha"
+    },
+    {
+      "timestamp": 1765973416275,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "Han"
+    },
+    {
+      "timestamp": 1765973416426,
+      "key": "d",
+      "sentenceIndex": 6,
+      "valueAfter": "Hand"
+    }
+  ]
+}

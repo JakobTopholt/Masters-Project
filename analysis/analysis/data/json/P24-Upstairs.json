@@ -1,0 +1,1515 @@
+{
+  "mode": "stairs",
+  "timestamp": "2025-12-18T13:14:42.765Z",
+  "duration": 60.008,
+  "wpm": 25,
+  "accuracy": "53.88",
+  "totalCharactersTyped": 232,
+  "correctCharacters": 125,
+  "errors": 115,
+  "sentencesCompleted": 7,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Try to enjoy your maternity leave",
+      "expected": "Try to enjoy your maternity leave"
+    },
+    {
+      "typed": " The elevator door appears to be stuc",
+      "expected": "The elevator door appears to be stuck"
+    },
+    {
+      "typed": "Careless driving results in a fine",
+      "expected": "Careless driving results in a fine"
+    },
+    {
+      "typed": "Protect your environment",
+      "expected": "Protect your environment"
+    },
+    {
+      "typed": " The first time he tried to swi",
+      "expected": "The first time he tried to swim"
+    },
+    {
+      "typed": "Histrotic meeting without a resul",
+      "expected": "Historic meeting without a result"
+    },
+    {
+      "typed": "We dine out on the weekends",
+      "expected": "We dine out on the weekends"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766063618719,
+      "key": "T",
+      "sentenceIndex": 0,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766063618860,
+      "key": "Tr",
+      "sentenceIndex": 0,
+      "valueAfter": "Tr"
+    },
+    {
+      "timestamp": 1766063619001,
+      "key": "Try",
+      "sentenceIndex": 0,
+      "valueAfter": "Try"
+    },
+    {
+      "timestamp": 1766063619168,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Try "
+    },
+    {
+      "timestamp": 1766063619340,
+      "key": "t",
+      "sentenceIndex": 0,
+      "valueAfter": "Try t"
+    },
+    {
+      "timestamp": 1766063619444,
+      "key": "to",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to"
+    },
+    {
+      "timestamp": 1766063619632,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to "
+    },
+    {
+      "timestamp": 1766063619731,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to e"
+    },
+    {
+      "timestamp": 1766063619843,
+      "key": "en",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to en"
+    },
+    {
+      "timestamp": 1766063620269,
+      "key": "enj",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enj"
+    },
+    {
+      "timestamp": 1766063620425,
+      "key": "enjo",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjo"
+    },
+    {
+      "timestamp": 1766063620509,
+      "key": "enjoy",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy"
+    },
+    {
+      "timestamp": 1766063620645,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy "
+    },
+    {
+      "timestamp": 1766063620840,
+      "key": "y",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy y"
+    },
+    {
+      "timestamp": 1766063620930,
+      "key": "yo",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy yo"
+    },
+    {
+      "timestamp": 1766063621082,
+      "key": "you",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy you"
+    },
+    {
+      "timestamp": 1766063621162,
+      "key": "your",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy your"
+    },
+    {
+      "timestamp": 1766063621301,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy your "
+    },
+    {
+      "timestamp": 1766063621531,
+      "key": "m",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy your m"
+    },
+    {
+      "timestamp": 1766063621612,
+      "key": "ma",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy your ma"
+    },
+    {
+      "timestamp": 1766063621876,
+      "key": "mat",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy your mat"
+    },
+    {
+      "timestamp": 1766063622042,
+      "key": "mate",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy your mate"
+    },
+    {
+      "timestamp": 1766063622167,
+      "key": "mater",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy your mater"
+    },
+    {
+      "timestamp": 1766063622257,
+      "key": "matern",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy your matern"
+    },
+    {
+      "timestamp": 1766063622424,
+      "key": "materne",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy your materne"
+    },
+    {
+      "timestamp": 1766063622648,
+      "key": "maternet",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy your maternet"
+    },
+    {
+      "timestamp": 1766063622839,
+      "key": "maternetu",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy your maternetu"
+    },
+    {
+      "timestamp": 1766063623211,
+      "key": "maternetuy",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy your maternetuy"
+    },
+    {
+      "timestamp": 1766063623327,
+      "key": "maternity",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy your maternity"
+    },
+    {
+      "timestamp": 1766063623331,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy your maternity "
+    },
+    {
+      "timestamp": 1766063624356,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy your maternity l"
+    },
+    {
+      "timestamp": 1766063624378,
+      "key": "le",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy your maternity le"
+    },
+    {
+      "timestamp": 1766063624533,
+      "key": "lea",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy your maternity lea"
+    },
+    {
+      "timestamp": 1766063624629,
+      "key": "leav",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy your maternity leav"
+    },
+    {
+      "timestamp": 1766063624714,
+      "key": "leave",
+      "sentenceIndex": 0,
+      "valueAfter": "Try to enjoy your maternity leave"
+    },
+    {
+      "timestamp": 1766063624825,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766063627027,
+      "key": "T",
+      "sentenceIndex": 1,
+      "valueAfter": " T"
+    },
+    {
+      "timestamp": 1766063627180,
+      "key": "Th",
+      "sentenceIndex": 1,
+      "valueAfter": " Th"
+    },
+    {
+      "timestamp": 1766063628043,
+      "key": "The",
+      "sentenceIndex": 1,
+      "valueAfter": " The"
+    },
+    {
+      "timestamp": 1766063628189,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " The "
+    },
+    {
+      "timestamp": 1766063628446,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": " The e"
+    },
+    {
+      "timestamp": 1766063628573,
+      "key": "el",
+      "sentenceIndex": 1,
+      "valueAfter": " The el"
+    },
+    {
+      "timestamp": 1766063628680,
+      "key": "ele",
+      "sentenceIndex": 1,
+      "valueAfter": " The ele"
+    },
+    {
+      "timestamp": 1766063628907,
+      "key": "elev",
+      "sentenceIndex": 1,
+      "valueAfter": " The elev"
+    },
+    {
+      "timestamp": 1766063629056,
+      "key": "eleva",
+      "sentenceIndex": 1,
+      "valueAfter": " The eleva"
+    },
+    {
+      "timestamp": 1766063629196,
+      "key": "elevat",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevat"
+    },
+    {
+      "timestamp": 1766063629304,
+      "key": "elevatt",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevatt"
+    },
+    {
+      "timestamp": 1766063629497,
+      "key": "elevatto",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevatto"
+    },
+    {
+      "timestamp": 1766063629580,
+      "key": "elevattor",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevattor"
+    },
+    {
+      "timestamp": 1766063629692,
+      "key": "elevator",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator"
+    },
+    {
+      "timestamp": 1766063629698,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator "
+    },
+    {
+      "timestamp": 1766063630193,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator d"
+    },
+    {
+      "timestamp": 1766063630288,
+      "key": "do",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator do"
+    },
+    {
+      "timestamp": 1766063630446,
+      "key": "doo",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator doo"
+    },
+    {
+      "timestamp": 1766063630485,
+      "key": "door",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator door"
+    },
+    {
+      "timestamp": 1766063630673,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator door "
+    },
+    {
+      "timestamp": 1766063631124,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator door a"
+    },
+    {
+      "timestamp": 1766063631228,
+      "key": "ap",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator door ap"
+    },
+    {
+      "timestamp": 1766063631364,
+      "key": "app",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator door app"
+    },
+    {
+      "timestamp": 1766063631419,
+      "key": "appe",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator door appe"
+    },
+    {
+      "timestamp": 1766063631599,
+      "key": "appea",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator door appea"
+    },
+    {
+      "timestamp": 1766063631756,
+      "key": "appear",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator door appear"
+    },
+    {
+      "timestamp": 1766063631894,
+      "key": "appears",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator door appears"
+    },
+    {
+      "timestamp": 1766063632033,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator door appears "
+    },
+    {
+      "timestamp": 1766063632153,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator door appears t"
+    },
+    {
+      "timestamp": 1766063632273,
+      "key": "to",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator door appears to"
+    },
+    {
+      "timestamp": 1766063632475,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator door appears to "
+    },
+    {
+      "timestamp": 1766063632563,
+      "key": "b",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator door appears to b"
+    },
+    {
+      "timestamp": 1766063632635,
+      "key": "be",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator door appears to be"
+    },
+    {
+      "timestamp": 1766063632836,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator door appears to be "
+    },
+    {
+      "timestamp": 1766063632965,
+      "key": "s",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator door appears to be s"
+    },
+    {
+      "timestamp": 1766063633129,
+      "key": "st",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator door appears to be st"
+    },
+    {
+      "timestamp": 1766063633304,
+      "key": "stu",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator door appears to be stu"
+    },
+    {
+      "timestamp": 1766063633412,
+      "key": "stuc",
+      "sentenceIndex": 1,
+      "valueAfter": " The elevator door appears to be stuc"
+    },
+    {
+      "timestamp": 1766063633571,
+      "key": "K",
+      "sentenceIndex": 2,
+      "valueAfter": "K"
+    },
+    {
+      "timestamp": 1766063633711,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "K "
+    },
+    {
+      "timestamp": 1766063635143,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": "K"
+    },
+    {
+      "timestamp": 1766063635258,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 2,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766063636228,
+      "key": "C",
+      "sentenceIndex": 2,
+      "valueAfter": "C"
+    },
+    {
+      "timestamp": 1766063636386,
+      "key": "Ca",
+      "sentenceIndex": 2,
+      "valueAfter": "Ca"
+    },
+    {
+      "timestamp": 1766063636554,
+      "key": "Car",
+      "sentenceIndex": 2,
+      "valueAfter": "Car"
+    },
+    {
+      "timestamp": 1766063636712,
+      "key": "Care",
+      "sentenceIndex": 2,
+      "valueAfter": "Care"
+    },
+    {
+      "timestamp": 1766063636836,
+      "key": "Carel",
+      "sentenceIndex": 2,
+      "valueAfter": "Carel"
+    },
+    {
+      "timestamp": 1766063636885,
+      "key": "Carele",
+      "sentenceIndex": 2,
+      "valueAfter": "Carele"
+    },
+    {
+      "timestamp": 1766063637007,
+      "key": "Careled",
+      "sentenceIndex": 2,
+      "valueAfter": "Careled"
+    },
+    {
+      "timestamp": 1766063637155,
+      "key": "Careleds",
+      "sentenceIndex": 2,
+      "valueAfter": "Careleds"
+    },
+    {
+      "timestamp": 1766063637366,
+      "key": "Careless",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless"
+    },
+    {
+      "timestamp": 1766063637371,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless "
+    },
+    {
+      "timestamp": 1766063638012,
+      "key": "d",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless d"
+    },
+    {
+      "timestamp": 1766063638153,
+      "key": "dr",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless dr"
+    },
+    {
+      "timestamp": 1766063638438,
+      "key": "drv",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless drv"
+    },
+    {
+      "timestamp": 1766063638653,
+      "key": "drvi",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless drvi"
+    },
+    {
+      "timestamp": 1766063638958,
+      "key": "drv",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless drv"
+    },
+    {
+      "timestamp": 1766063639822,
+      "key": "dr",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless dr"
+    },
+    {
+      "timestamp": 1766063640445,
+      "key": "dri",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless dri"
+    },
+    {
+      "timestamp": 1766063640581,
+      "key": "driv",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driv"
+    },
+    {
+      "timestamp": 1766063640692,
+      "key": "drivi",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless drivi"
+    },
+    {
+      "timestamp": 1766063640867,
+      "key": "drivin",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless drivin"
+    },
+    {
+      "timestamp": 1766063640949,
+      "key": "driving",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driving"
+    },
+    {
+      "timestamp": 1766063641055,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driving "
+    },
+    {
+      "timestamp": 1766063641642,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driving r"
+    },
+    {
+      "timestamp": 1766063641783,
+      "key": "re",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driving re"
+    },
+    {
+      "timestamp": 1766063641939,
+      "key": "res",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driving res"
+    },
+    {
+      "timestamp": 1766063642017,
+      "key": "resu",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driving resu"
+    },
+    {
+      "timestamp": 1766063642203,
+      "key": "resul",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driving resul"
+    },
+    {
+      "timestamp": 1766063642247,
+      "key": "result",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driving result"
+    },
+    {
+      "timestamp": 1766063642397,
+      "key": "results",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driving results"
+    },
+    {
+      "timestamp": 1766063642515,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driving results "
+    },
+    {
+      "timestamp": 1766063643468,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driving results i"
+    },
+    {
+      "timestamp": 1766063643626,
+      "key": "in",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driving results in"
+    },
+    {
+      "timestamp": 1766063643818,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driving results in "
+    },
+    {
+      "timestamp": 1766063644323,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driving results in a"
+    },
+    {
+      "timestamp": 1766063644494,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driving results in a "
+    },
+    {
+      "timestamp": 1766063644688,
+      "key": "f",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driving results in a f"
+    },
+    {
+      "timestamp": 1766063644934,
+      "key": "fi",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driving results in a fi"
+    },
+    {
+      "timestamp": 1766063645217,
+      "key": "fib",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driving results in a fib"
+    },
+    {
+      "timestamp": 1766063646286,
+      "key": "fi",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driving results in a fi"
+    },
+    {
+      "timestamp": 1766063647022,
+      "key": "fin",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driving results in a fin"
+    },
+    {
+      "timestamp": 1766063647087,
+      "key": "fine",
+      "sentenceIndex": 2,
+      "valueAfter": "Careless driving results in a fine"
+    },
+    {
+      "timestamp": 1766063647185,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766063648606,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 3,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766063649123,
+      "key": "P",
+      "sentenceIndex": 3,
+      "valueAfter": "P"
+    },
+    {
+      "timestamp": 1766063649384,
+      "key": "Pr",
+      "sentenceIndex": 3,
+      "valueAfter": "Pr"
+    },
+    {
+      "timestamp": 1766063649563,
+      "key": "Pro",
+      "sentenceIndex": 3,
+      "valueAfter": "Pro"
+    },
+    {
+      "timestamp": 1766063649716,
+      "key": "Prot",
+      "sentenceIndex": 3,
+      "valueAfter": "Prot"
+    },
+    {
+      "timestamp": 1766063649903,
+      "key": "Prote",
+      "sentenceIndex": 3,
+      "valueAfter": "Prote"
+    },
+    {
+      "timestamp": 1766063650094,
+      "key": "Protec",
+      "sentenceIndex": 3,
+      "valueAfter": "Protec"
+    },
+    {
+      "timestamp": 1766063650276,
+      "key": "Protect",
+      "sentenceIndex": 3,
+      "valueAfter": "Protect"
+    },
+    {
+      "timestamp": 1766063650410,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Protect "
+    },
+    {
+      "timestamp": 1766063650991,
+      "key": "y",
+      "sentenceIndex": 3,
+      "valueAfter": "Protect y"
+    },
+    {
+      "timestamp": 1766063651070,
+      "key": "yo",
+      "sentenceIndex": 3,
+      "valueAfter": "Protect yo"
+    },
+    {
+      "timestamp": 1766063651235,
+      "key": "you",
+      "sentenceIndex": 3,
+      "valueAfter": "Protect you"
+    },
+    {
+      "timestamp": 1766063651301,
+      "key": "your",
+      "sentenceIndex": 3,
+      "valueAfter": "Protect your"
+    },
+    {
+      "timestamp": 1766063651468,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Protect your "
+    },
+    {
+      "timestamp": 1766063654130,
+      "key": "e",
+      "sentenceIndex": 3,
+      "valueAfter": "Protect your e"
+    },
+    {
+      "timestamp": 1766063654258,
+      "key": "en",
+      "sentenceIndex": 3,
+      "valueAfter": "Protect your en"
+    },
+    {
+      "timestamp": 1766063654486,
+      "key": "env",
+      "sentenceIndex": 3,
+      "valueAfter": "Protect your env"
+    },
+    {
+      "timestamp": 1766063654671,
+      "key": "envi",
+      "sentenceIndex": 3,
+      "valueAfter": "Protect your envi"
+    },
+    {
+      "timestamp": 1766063654801,
+      "key": "envir",
+      "sentenceIndex": 3,
+      "valueAfter": "Protect your envir"
+    },
+    {
+      "timestamp": 1766063654947,
+      "key": "enviro",
+      "sentenceIndex": 3,
+      "valueAfter": "Protect your enviro"
+    },
+    {
+      "timestamp": 1766063655140,
+      "key": "environ",
+      "sentenceIndex": 3,
+      "valueAfter": "Protect your environ"
+    },
+    {
+      "timestamp": 1766063656023,
+      "key": "environm",
+      "sentenceIndex": 3,
+      "valueAfter": "Protect your environm"
+    },
+    {
+      "timestamp": 1766063656082,
+      "key": "environme",
+      "sentenceIndex": 3,
+      "valueAfter": "Protect your environme"
+    },
+    {
+      "timestamp": 1766063656184,
+      "key": "environmen",
+      "sentenceIndex": 3,
+      "valueAfter": "Protect your environmen"
+    },
+    {
+      "timestamp": 1766063656276,
+      "key": "environment",
+      "sentenceIndex": 3,
+      "valueAfter": "Protect your environment"
+    },
+    {
+      "timestamp": 1766063656393,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1766063657795,
+      "key": "T",
+      "sentenceIndex": 4,
+      "valueAfter": " T"
+    },
+    {
+      "timestamp": 1766063658044,
+      "key": "Th",
+      "sentenceIndex": 4,
+      "valueAfter": " Th"
+    },
+    {
+      "timestamp": 1766063658113,
+      "key": "The",
+      "sentenceIndex": 4,
+      "valueAfter": " The"
+    },
+    {
+      "timestamp": 1766063658238,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " The "
+    },
+    {
+      "timestamp": 1766063659016,
+      "key": "f",
+      "sentenceIndex": 4,
+      "valueAfter": " The f"
+    },
+    {
+      "timestamp": 1766063659139,
+      "key": "fi",
+      "sentenceIndex": 4,
+      "valueAfter": " The fi"
+    },
+    {
+      "timestamp": 1766063659197,
+      "key": "fir",
+      "sentenceIndex": 4,
+      "valueAfter": " The fir"
+    },
+    {
+      "timestamp": 1766063659344,
+      "key": "firs",
+      "sentenceIndex": 4,
+      "valueAfter": " The firs"
+    },
+    {
+      "timestamp": 1766063659493,
+      "key": "first",
+      "sentenceIndex": 4,
+      "valueAfter": " The first"
+    },
+    {
+      "timestamp": 1766063659590,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " The first "
+    },
+    {
+      "timestamp": 1766063659875,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": " The first t"
+    },
+    {
+      "timestamp": 1766063659973,
+      "key": "ti",
+      "sentenceIndex": 4,
+      "valueAfter": " The first ti"
+    },
+    {
+      "timestamp": 1766063660140,
+      "key": "tim",
+      "sentenceIndex": 4,
+      "valueAfter": " The first tim"
+    },
+    {
+      "timestamp": 1766063660228,
+      "key": "time",
+      "sentenceIndex": 4,
+      "valueAfter": " The first time"
+    },
+    {
+      "timestamp": 1766063660310,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " The first time "
+    },
+    {
+      "timestamp": 1766063660468,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": " The first time h"
+    },
+    {
+      "timestamp": 1766063660561,
+      "key": "he",
+      "sentenceIndex": 4,
+      "valueAfter": " The first time he"
+    },
+    {
+      "timestamp": 1766063660672,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " The first time he "
+    },
+    {
+      "timestamp": 1766063661077,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": " The first time he t"
+    },
+    {
+      "timestamp": 1766063661226,
+      "key": "tr",
+      "sentenceIndex": 4,
+      "valueAfter": " The first time he tr"
+    },
+    {
+      "timestamp": 1766063661365,
+      "key": "tri",
+      "sentenceIndex": 4,
+      "valueAfter": " The first time he tri"
+    },
+    {
+      "timestamp": 1766063661445,
+      "key": "trie",
+      "sentenceIndex": 4,
+      "valueAfter": " The first time he trie"
+    },
+    {
+      "timestamp": 1766063661594,
+      "key": "tried",
+      "sentenceIndex": 4,
+      "valueAfter": " The first time he tried"
+    },
+    {
+      "timestamp": 1766063661673,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " The first time he tried "
+    },
+    {
+      "timestamp": 1766063661861,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": " The first time he tried t"
+    },
+    {
+      "timestamp": 1766063661936,
+      "key": "to",
+      "sentenceIndex": 4,
+      "valueAfter": " The first time he tried to"
+    },
+    {
+      "timestamp": 1766063662129,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": " The first time he tried to "
+    },
+    {
+      "timestamp": 1766063662369,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": " The first time he tried to s"
+    },
+    {
+      "timestamp": 1766063662605,
+      "key": "sw",
+      "sentenceIndex": 4,
+      "valueAfter": " The first time he tried to sw"
+    },
+    {
+      "timestamp": 1766063662764,
+      "key": "swi",
+      "sentenceIndex": 4,
+      "valueAfter": " The first time he tried to swi"
+    },
+    {
+      "timestamp": 1766063662941,
+      "key": "M",
+      "sentenceIndex": 5,
+      "valueAfter": "M"
+    },
+    {
+      "timestamp": 1766063664151,
+      "key": "insertCompositionText",
+      "sentenceIndex": 5,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766063664970,
+      "key": "H",
+      "sentenceIndex": 5,
+      "valueAfter": "H"
+    },
+    {
+      "timestamp": 1766063665141,
+      "key": "Hi",
+      "sentenceIndex": 5,
+      "valueAfter": "Hi"
+    },
+    {
+      "timestamp": 1766063666080,
+      "key": "His",
+      "sentenceIndex": 5,
+      "valueAfter": "His"
+    },
+    {
+      "timestamp": 1766063666268,
+      "key": "Hist",
+      "sentenceIndex": 5,
+      "valueAfter": "Hist"
+    },
+    {
+      "timestamp": 1766063666391,
+      "key": "Histr",
+      "sentenceIndex": 5,
+      "valueAfter": "Histr"
+    },
+    {
+      "timestamp": 1766063666456,
+      "key": "Histro",
+      "sentenceIndex": 5,
+      "valueAfter": "Histro"
+    },
+    {
+      "timestamp": 1766063666686,
+      "key": "Histrot",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrot"
+    },
+    {
+      "timestamp": 1766063666809,
+      "key": "Histroti",
+      "sentenceIndex": 5,
+      "valueAfter": "Histroti"
+    },
+    {
+      "timestamp": 1766063666934,
+      "key": "Histrotic",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic"
+    },
+    {
+      "timestamp": 1766063667114,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic "
+    },
+    {
+      "timestamp": 1766063667340,
+      "key": "m",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic m"
+    },
+    {
+      "timestamp": 1766063667416,
+      "key": "me",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic me"
+    },
+    {
+      "timestamp": 1766063667573,
+      "key": "mee",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic mee"
+    },
+    {
+      "timestamp": 1766063667723,
+      "key": "meet",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic meet"
+    },
+    {
+      "timestamp": 1766063667875,
+      "key": "meeti",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic meeti"
+    },
+    {
+      "timestamp": 1766063668034,
+      "key": "meetin",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic meetin"
+    },
+    {
+      "timestamp": 1766063668081,
+      "key": "meeting",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic meeting"
+    },
+    {
+      "timestamp": 1766063668215,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic meeting "
+    },
+    {
+      "timestamp": 1766063668757,
+      "key": "w",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic meeting w"
+    },
+    {
+      "timestamp": 1766063668871,
+      "key": "wi",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic meeting wi"
+    },
+    {
+      "timestamp": 1766063668975,
+      "key": "wit",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic meeting wit"
+    },
+    {
+      "timestamp": 1766063669089,
+      "key": "with",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic meeting with"
+    },
+    {
+      "timestamp": 1766063669256,
+      "key": "witho",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic meeting witho"
+    },
+    {
+      "timestamp": 1766063669397,
+      "key": "withou",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic meeting withou"
+    },
+    {
+      "timestamp": 1766063669501,
+      "key": "without",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic meeting without"
+    },
+    {
+      "timestamp": 1766063669614,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic meeting without "
+    },
+    {
+      "timestamp": 1766063669969,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic meeting without a"
+    },
+    {
+      "timestamp": 1766063670107,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic meeting without a "
+    },
+    {
+      "timestamp": 1766063670539,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic meeting without a r"
+    },
+    {
+      "timestamp": 1766063670689,
+      "key": "re",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic meeting without a re"
+    },
+    {
+      "timestamp": 1766063670858,
+      "key": "res",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic meeting without a res"
+    },
+    {
+      "timestamp": 1766063670916,
+      "key": "resu",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic meeting without a resu"
+    },
+    {
+      "timestamp": 1766063671146,
+      "key": "resul",
+      "sentenceIndex": 5,
+      "valueAfter": "Histrotic meeting without a resul"
+    },
+    {
+      "timestamp": 1766063671262,
+      "key": "T",
+      "sentenceIndex": 6,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766063671385,
+      "key": "Ts",
+      "sentenceIndex": 6,
+      "valueAfter": "Ts"
+    },
+    {
+      "timestamp": 1766063671523,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Ts "
+    },
+    {
+      "timestamp": 1766063672264,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "Ts"
+    },
+    {
+      "timestamp": 1766063672380,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": "T"
+    },
+    {
+      "timestamp": 1766063672504,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 6,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766063672985,
+      "key": "W",
+      "sentenceIndex": 6,
+      "valueAfter": "W"
+    },
+    {
+      "timestamp": 1766063673103,
+      "key": "We",
+      "sentenceIndex": 6,
+      "valueAfter": "We"
+    },
+    {
+      "timestamp": 1766063673231,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "We "
+    },
+    {
+      "timestamp": 1766063673804,
+      "key": "d",
+      "sentenceIndex": 6,
+      "valueAfter": "We d"
+    },
+    {
+      "timestamp": 1766063673939,
+      "key": "di",
+      "sentenceIndex": 6,
+      "valueAfter": "We di"
+    },
+    {
+      "timestamp": 1766063674098,
+      "key": "din",
+      "sentenceIndex": 6,
+      "valueAfter": "We din"
+    },
+    {
+      "timestamp": 1766063674159,
+      "key": "dine",
+      "sentenceIndex": 6,
+      "valueAfter": "We dine"
+    },
+    {
+      "timestamp": 1766063674273,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "We dine "
+    },
+    {
+      "timestamp": 1766063674469,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "We dine o"
+    },
+    {
+      "timestamp": 1766063674614,
+      "key": "ou",
+      "sentenceIndex": 6,
+      "valueAfter": "We dine ou"
+    },
+    {
+      "timestamp": 1766063674745,
+      "key": "out",
+      "sentenceIndex": 6,
+      "valueAfter": "We dine out"
+    },
+    {
+      "timestamp": 1766063674842,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "We dine out "
+    },
+    {
+      "timestamp": 1766063675048,
+      "key": "o",
+      "sentenceIndex": 6,
+      "valueAfter": "We dine out o"
+    },
+    {
+      "timestamp": 1766063675187,
+      "key": "on",
+      "sentenceIndex": 6,
+      "valueAfter": "We dine out on"
+    },
+    {
+      "timestamp": 1766063675326,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "We dine out on "
+    },
+    {
+      "timestamp": 1766063675428,
+      "key": "t",
+      "sentenceIndex": 6,
+      "valueAfter": "We dine out on t"
+    },
+    {
+      "timestamp": 1766063675534,
+      "key": "th",
+      "sentenceIndex": 6,
+      "valueAfter": "We dine out on th"
+    },
+    {
+      "timestamp": 1766063675599,
+      "key": "the",
+      "sentenceIndex": 6,
+      "valueAfter": "We dine out on the"
+    },
+    {
+      "timestamp": 1766063675728,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "We dine out on the "
+    },
+    {
+      "timestamp": 1766063676303,
+      "key": "w",
+      "sentenceIndex": 6,
+      "valueAfter": "We dine out on the w"
+    },
+    {
+      "timestamp": 1766063676444,
+      "key": "we",
+      "sentenceIndex": 6,
+      "valueAfter": "We dine out on the we"
+    },
+    {
+      "timestamp": 1766063676583,
+      "key": "wee",
+      "sentenceIndex": 6,
+      "valueAfter": "We dine out on the wee"
+    },
+    {
+      "timestamp": 1766063676733,
+      "key": "week",
+      "sentenceIndex": 6,
+      "valueAfter": "We dine out on the week"
+    },
+    {
+      "timestamp": 1766063677816,
+      "key": "weeke",
+      "sentenceIndex": 6,
+      "valueAfter": "We dine out on the weeke"
+    },
+    {
+      "timestamp": 1766063677961,
+      "key": "weeken",
+      "sentenceIndex": 6,
+      "valueAfter": "We dine out on the weeken"
+    },
+    {
+      "timestamp": 1766063678041,
+      "key": "weekend",
+      "sentenceIndex": 6,
+      "valueAfter": "We dine out on the weekend"
+    },
+    {
+      "timestamp": 1766063678222,
+      "key": "weekends",
+      "sentenceIndex": 6,
+      "valueAfter": "We dine out on the weekends"
+    },
+    {
+      "timestamp": 1766063678317,
+      "key": " ",
+      "sentenceIndex": 7,
+      "valueAfter": " "
+    }
+  ]
+}

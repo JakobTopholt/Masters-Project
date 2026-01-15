@@ -1,0 +1,429 @@
+{
+  "mode": "stationary",
+  "timestamp": "2025-12-19T10:27:20.212Z",
+  "duration": 60.057,
+  "wpm": 36,
+  "accuracy": "432.50",
+  "totalCharactersTyped": 40,
+  "correctCharacters": 173,
+  "errors": 6,
+  "sentencesCompleted": 7,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "Frequently asked questions",
+      "expected": "Frequently asked questions"
+    },
+    {
+      "typed": "An occasional taste of chocolate",
+      "expected": "An occasional taste of chocolate"
+    },
+    {
+      "typed": "The capital of our nation",
+      "expected": "The capital of our nation"
+    },
+    {
+      "typed": "Life is but a dream",
+      "expected": "Life is but a dream"
+    },
+    {
+      "typed": "He is shouting loudly",
+      "expected": "He is shouting loudly"
+    },
+    {
+      "typed": "Want to join us for lunch",
+      "expected": "Want to join us for lunch"
+    },
+    {
+      "typed": "A problem with the engine",
+      "expected": "A problem with the engine"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766139978686,
+      "key": "Friendly",
+      "sentenceIndex": 0,
+      "valueAfter": "Friendly"
+    },
+    {
+      "timestamp": 1766139979816,
+      "key": " a",
+      "sentenceIndex": 0,
+      "valueAfter": "Friendly a"
+    },
+    {
+      "timestamp": 1766139980146,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Friendly "
+    },
+    {
+      "timestamp": 1766139980391,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Friendly"
+    },
+    {
+      "timestamp": 1766139980747,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Friendl"
+    },
+    {
+      "timestamp": 1766139981245,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Friend"
+    },
+    {
+      "timestamp": 1766139981368,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Frien"
+    },
+    {
+      "timestamp": 1766139981464,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Frie"
+    },
+    {
+      "timestamp": 1766139981561,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Fri"
+    },
+    {
+      "timestamp": 1766139981664,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "Fr"
+    },
+    {
+      "timestamp": 1766139981764,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "F"
+    },
+    {
+      "timestamp": 1766139981865,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1766139986095,
+      "key": "Frequently",
+      "sentenceIndex": 0,
+      "valueAfter": "Frequently"
+    },
+    {
+      "timestamp": 1766139987639,
+      "key": " asked",
+      "sentenceIndex": 0,
+      "valueAfter": "Frequently asked"
+    },
+    {
+      "timestamp": 1766139989938,
+      "key": " questions",
+      "sentenceIndex": 0,
+      "valueAfter": "Frequently asked questions"
+    },
+    {
+      "timestamp": 1766139991281,
+      "key": "An",
+      "sentenceIndex": 1,
+      "valueAfter": "An"
+    },
+    {
+      "timestamp": 1766139993594,
+      "key": " occasional",
+      "sentenceIndex": 1,
+      "valueAfter": "An occasional"
+    },
+    {
+      "timestamp": 1766139994979,
+      "key": " taste",
+      "sentenceIndex": 1,
+      "valueAfter": "An occasional taste"
+    },
+    {
+      "timestamp": 1766139995819,
+      "key": " of",
+      "sentenceIndex": 1,
+      "valueAfter": "An occasional taste of"
+    },
+    {
+      "timestamp": 1766139998405,
+      "key": " chocolate",
+      "sentenceIndex": 1,
+      "valueAfter": "An occasional taste of chocolate"
+    },
+    {
+      "timestamp": 1766139999990,
+      "key": "The",
+      "sentenceIndex": 2,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766140001619,
+      "key": " capital",
+      "sentenceIndex": 2,
+      "valueAfter": "The capital"
+    },
+    {
+      "timestamp": 1766140002623,
+      "key": " of",
+      "sentenceIndex": 2,
+      "valueAfter": "The capital of"
+    },
+    {
+      "timestamp": 1766140003260,
+      "key": " our",
+      "sentenceIndex": 2,
+      "valueAfter": "The capital of our"
+    },
+    {
+      "timestamp": 1766140004743,
+      "key": " nation",
+      "sentenceIndex": 2,
+      "valueAfter": "The capital of our nation"
+    },
+    {
+      "timestamp": 1766140006254,
+      "key": "Lige",
+      "sentenceIndex": 3,
+      "valueAfter": "Lige"
+    },
+    {
+      "timestamp": 1766140006809,
+      "key": "Life is",
+      "sentenceIndex": 3,
+      "valueAfter": "Life is"
+    },
+    {
+      "timestamp": 1766140007558,
+      "key": " but",
+      "sentenceIndex": 3,
+      "valueAfter": "Life is but"
+    },
+    {
+      "timestamp": 1766140007946,
+      "key": " a",
+      "sentenceIndex": 3,
+      "valueAfter": "Life is but a"
+    },
+    {
+      "timestamp": 1766140008800,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": "Life is but a "
+    },
+    {
+      "timestamp": 1766140009256,
+      "key": "dream",
+      "sentenceIndex": 3,
+      "valueAfter": "Life is but a dream"
+    },
+    {
+      "timestamp": 1766140010600,
+      "key": "He",
+      "sentenceIndex": 4,
+      "valueAfter": "He"
+    },
+    {
+      "timestamp": 1766140011089,
+      "key": " is",
+      "sentenceIndex": 4,
+      "valueAfter": "He is"
+    },
+    {
+      "timestamp": 1766140012873,
+      "key": " shooting",
+      "sentenceIndex": 4,
+      "valueAfter": "He is shooting"
+    },
+    {
+      "timestamp": 1766140014600,
+      "key": "shouting loudly",
+      "sentenceIndex": 4,
+      "valueAfter": "He is shouting loudly"
+    },
+    {
+      "timestamp": 1766140016337,
+      "key": "Want",
+      "sentenceIndex": 5,
+      "valueAfter": "Want"
+    },
+    {
+      "timestamp": 1766140017159,
+      "key": " to",
+      "sentenceIndex": 5,
+      "valueAfter": "Want to"
+    },
+    {
+      "timestamp": 1766140018456,
+      "key": " join",
+      "sentenceIndex": 5,
+      "valueAfter": "Want to join"
+    },
+    {
+      "timestamp": 1766140019345,
+      "key": " us",
+      "sentenceIndex": 5,
+      "valueAfter": "Want to join us"
+    },
+    {
+      "timestamp": 1766140020267,
+      "key": " for",
+      "sentenceIndex": 5,
+      "valueAfter": "Want to join us for"
+    },
+    {
+      "timestamp": 1766140021560,
+      "key": " lunch",
+      "sentenceIndex": 5,
+      "valueAfter": "Want to join us for lunch"
+    },
+    {
+      "timestamp": 1766140023003,
+      "key": "A",
+      "sentenceIndex": 6,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1766140023721,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "A "
+    },
+    {
+      "timestamp": 1766140024855,
+      "key": "problem",
+      "sentenceIndex": 6,
+      "valueAfter": "A problem"
+    },
+    {
+      "timestamp": 1766140026078,
+      "key": " with",
+      "sentenceIndex": 6,
+      "valueAfter": "A problem with"
+    },
+    {
+      "timestamp": 1766140026808,
+      "key": " the",
+      "sentenceIndex": 6,
+      "valueAfter": "A problem with the"
+    },
+    {
+      "timestamp": 1766140027932,
+      "key": " engine",
+      "sentenceIndex": 6,
+      "valueAfter": "A problem with the engine"
+    },
+    {
+      "timestamp": 1766140029335,
+      "key": "The",
+      "sentenceIndex": 7,
+      "valueAfter": "The"
+    },
+    {
+      "timestamp": 1766140031514,
+      "key": " Barack",
+      "sentenceIndex": 7,
+      "valueAfter": "The Barack"
+    },
+    {
+      "timestamp": 1766140032634,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "The Barac"
+    },
+    {
+      "timestamp": 1766140032638,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "The Bara"
+    },
+    {
+      "timestamp": 1766140032641,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "The Bar"
+    },
+    {
+      "timestamp": 1766140032643,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "The Ba"
+    },
+    {
+      "timestamp": 1766140032645,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "The B"
+    },
+    {
+      "timestamp": 1766140032647,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "The "
+    },
+    {
+      "timestamp": 1766140034878,
+      "key": "barracks",
+      "sentenceIndex": 7,
+      "valueAfter": "The barracks"
+    },
+    {
+      "timestamp": 1766140037718,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "The barrack"
+    },
+    {
+      "timestamp": 1766140037719,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "The barrac"
+    },
+    {
+      "timestamp": 1766140037720,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "The barra"
+    },
+    {
+      "timestamp": 1766140037720,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "The barr"
+    },
+    {
+      "timestamp": 1766140037721,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "The bar"
+    },
+    {
+      "timestamp": 1766140037721,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "The ba"
+    },
+    {
+      "timestamp": 1766140037722,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "The b"
+    },
+    {
+      "timestamp": 1766140037723,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 7,
+      "valueAfter": "The "
+    }
+  ]
+}

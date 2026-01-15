@@ -1,0 +1,1115 @@
+{
+  "mode": "walking",
+  "timestamp": "2025-12-17T12:04:59.177Z",
+  "duration": 60.002,
+  "wpm": 33,
+  "accuracy": "85.96",
+  "totalCharactersTyped": 178,
+  "correctCharacters": 153,
+  "errors": 62,
+  "sentencesCompleted": 6,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "A good joke deserves a good laugh",
+      "expected": "A good joke deserves a good laugh"
+    },
+    {
+      "typed": "Correct your dictoon immediately",
+      "expected": "Correct your diction immediately"
+    },
+    {
+      "typed": "He was wearing a sweatshirt",
+      "expected": "He was wearing a sweatshirt"
+    },
+    {
+      "typed": " Ant to join us for luchh",
+      "expected": "Want to join us for lunch"
+    },
+    {
+      "typed": "He cooled off after she left",
+      "expected": "He cooled off after she left"
+    },
+    {
+      "typed": " Breathis is difficult",
+      "expected": "Breathing is difficult"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1765973019398,
+      "key": "A",
+      "sentenceIndex": 0,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1765973020011,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": ""
+    },
+    {
+      "timestamp": 1765973021256,
+      "key": "A",
+      "sentenceIndex": 0,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1765973021604,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "A "
+    },
+    {
+      "timestamp": 1765973022046,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "A g"
+    },
+    {
+      "timestamp": 1765973022278,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "A go"
+    },
+    {
+      "timestamp": 1765973022455,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "A goo"
+    },
+    {
+      "timestamp": 1765973022590,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "A good"
+    },
+    {
+      "timestamp": 1765973022961,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "A good "
+    },
+    {
+      "timestamp": 1765973023591,
+      "key": "j",
+      "sentenceIndex": 0,
+      "valueAfter": "A good j"
+    },
+    {
+      "timestamp": 1765973023910,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "A good jo"
+    },
+    {
+      "timestamp": 1765973024157,
+      "key": "k",
+      "sentenceIndex": 0,
+      "valueAfter": "A good jok"
+    },
+    {
+      "timestamp": 1765973024363,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke"
+    },
+    {
+      "timestamp": 1765973024774,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke "
+    },
+    {
+      "timestamp": 1765973025282,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke d"
+    },
+    {
+      "timestamp": 1765973025522,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke de"
+    },
+    {
+      "timestamp": 1765973026216,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke des"
+    },
+    {
+      "timestamp": 1765973026442,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke dese"
+    },
+    {
+      "timestamp": 1765973026630,
+      "key": "r",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke deser"
+    },
+    {
+      "timestamp": 1765973026862,
+      "key": "v",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke deserv"
+    },
+    {
+      "timestamp": 1765973026973,
+      "key": "e",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke deserve"
+    },
+    {
+      "timestamp": 1765973027360,
+      "key": "s",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke deserves"
+    },
+    {
+      "timestamp": 1765973027833,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke deserves "
+    },
+    {
+      "timestamp": 1765973028063,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke deserves a"
+    },
+    {
+      "timestamp": 1765973028258,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke deserves a "
+    },
+    {
+      "timestamp": 1765973028509,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke deserves a g"
+    },
+    {
+      "timestamp": 1765973028678,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke deserves a go"
+    },
+    {
+      "timestamp": 1765973028847,
+      "key": "o",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke deserves a goo"
+    },
+    {
+      "timestamp": 1765973028944,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke deserves a good"
+    },
+    {
+      "timestamp": 1765973029366,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke deserves a good "
+    },
+    {
+      "timestamp": 1765973029853,
+      "key": "l",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke deserves a good l"
+    },
+    {
+      "timestamp": 1765973029976,
+      "key": "a",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke deserves a good la"
+    },
+    {
+      "timestamp": 1765973030285,
+      "key": "u",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke deserves a good lau"
+    },
+    {
+      "timestamp": 1765973030694,
+      "key": "g",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke deserves a good laug"
+    },
+    {
+      "timestamp": 1765973030896,
+      "key": "h",
+      "sentenceIndex": 0,
+      "valueAfter": "A good joke deserves a good laugh"
+    },
+    {
+      "timestamp": 1765973032272,
+      "key": "C",
+      "sentenceIndex": 1,
+      "valueAfter": "C"
+    },
+    {
+      "timestamp": 1765973032469,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Co"
+    },
+    {
+      "timestamp": 1765973032842,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Cor"
+    },
+    {
+      "timestamp": 1765973033473,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Corr"
+    },
+    {
+      "timestamp": 1765973033791,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Corre"
+    },
+    {
+      "timestamp": 1765973034206,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "Correc"
+    },
+    {
+      "timestamp": 1765973034378,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct"
+    },
+    {
+      "timestamp": 1765973034570,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct "
+    },
+    {
+      "timestamp": 1765973035327,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct y"
+    },
+    {
+      "timestamp": 1765973035554,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct yo"
+    },
+    {
+      "timestamp": 1765973035794,
+      "key": "u",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct you"
+    },
+    {
+      "timestamp": 1765973035949,
+      "key": "r",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct your"
+    },
+    {
+      "timestamp": 1765973036161,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct your "
+    },
+    {
+      "timestamp": 1765973036617,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct your d"
+    },
+    {
+      "timestamp": 1765973036815,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct your di"
+    },
+    {
+      "timestamp": 1765973037230,
+      "key": "c",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct your dic"
+    },
+    {
+      "timestamp": 1765973037638,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct your dict"
+    },
+    {
+      "timestamp": 1765973038384,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct your dicto"
+    },
+    {
+      "timestamp": 1765973038575,
+      "key": "o",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct your dictoo"
+    },
+    {
+      "timestamp": 1765973038818,
+      "key": "n",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct your dictoon"
+    },
+    {
+      "timestamp": 1765973039074,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct your dictoon "
+    },
+    {
+      "timestamp": 1765973039707,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct your dictoon i"
+    },
+    {
+      "timestamp": 1765973039990,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct your dictoon im"
+    },
+    {
+      "timestamp": 1765973040168,
+      "key": "m",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct your dictoon imm"
+    },
+    {
+      "timestamp": 1765973040396,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct your dictoon imme"
+    },
+    {
+      "timestamp": 1765973040753,
+      "key": "d",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct your dictoon immed"
+    },
+    {
+      "timestamp": 1765973040960,
+      "key": "i",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct your dictoon immedi"
+    },
+    {
+      "timestamp": 1765973041123,
+      "key": "a",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct your dictoon immedia"
+    },
+    {
+      "timestamp": 1765973041967,
+      "key": "t",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct your dictoon immediat"
+    },
+    {
+      "timestamp": 1765973042275,
+      "key": "e",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct your dictoon immediate"
+    },
+    {
+      "timestamp": 1765973042574,
+      "key": "l",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct your dictoon immediatel"
+    },
+    {
+      "timestamp": 1765973042962,
+      "key": "y",
+      "sentenceIndex": 1,
+      "valueAfter": "Correct your dictoon immediately"
+    },
+    {
+      "timestamp": 1765973044110,
+      "key": "H",
+      "sentenceIndex": 2,
+      "valueAfter": "H"
+    },
+    {
+      "timestamp": 1765973044297,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "He"
+    },
+    {
+      "timestamp": 1765973044467,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "He "
+    },
+    {
+      "timestamp": 1765973045076,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "He w"
+    },
+    {
+      "timestamp": 1765973045314,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "He wa"
+    },
+    {
+      "timestamp": 1765973045560,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "He was"
+    },
+    {
+      "timestamp": 1765973045692,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "He was "
+    },
+    {
+      "timestamp": 1765973046289,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "He was w"
+    },
+    {
+      "timestamp": 1765973046547,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "He was we"
+    },
+    {
+      "timestamp": 1765973046886,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "He was wea"
+    },
+    {
+      "timestamp": 1765973047218,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "He was wear"
+    },
+    {
+      "timestamp": 1765973047455,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "He was weari"
+    },
+    {
+      "timestamp": 1765973047675,
+      "key": "n",
+      "sentenceIndex": 2,
+      "valueAfter": "He was wearin"
+    },
+    {
+      "timestamp": 1765973047817,
+      "key": "g",
+      "sentenceIndex": 2,
+      "valueAfter": "He was wearing"
+    },
+    {
+      "timestamp": 1765973047965,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "He was wearing "
+    },
+    {
+      "timestamp": 1765973048340,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "He was wearing a"
+    },
+    {
+      "timestamp": 1765973048554,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "He was wearing a "
+    },
+    {
+      "timestamp": 1765973049024,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "He was wearing a s"
+    },
+    {
+      "timestamp": 1765973049554,
+      "key": "w",
+      "sentenceIndex": 2,
+      "valueAfter": "He was wearing a sw"
+    },
+    {
+      "timestamp": 1765973050014,
+      "key": "e",
+      "sentenceIndex": 2,
+      "valueAfter": "He was wearing a swe"
+    },
+    {
+      "timestamp": 1765973050272,
+      "key": "a",
+      "sentenceIndex": 2,
+      "valueAfter": "He was wearing a swea"
+    },
+    {
+      "timestamp": 1765973050512,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "He was wearing a sweat"
+    },
+    {
+      "timestamp": 1765973050747,
+      "key": "s",
+      "sentenceIndex": 2,
+      "valueAfter": "He was wearing a sweats"
+    },
+    {
+      "timestamp": 1765973050898,
+      "key": "h",
+      "sentenceIndex": 2,
+      "valueAfter": "He was wearing a sweatsh"
+    },
+    {
+      "timestamp": 1765973051117,
+      "key": "i",
+      "sentenceIndex": 2,
+      "valueAfter": "He was wearing a sweatshi"
+    },
+    {
+      "timestamp": 1765973051273,
+      "key": "r",
+      "sentenceIndex": 2,
+      "valueAfter": "He was wearing a sweatshir"
+    },
+    {
+      "timestamp": 1765973051856,
+      "key": "t",
+      "sentenceIndex": 2,
+      "valueAfter": "He was wearing a sweatshirt"
+    },
+    {
+      "timestamp": 1765973052009,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1765973053664,
+      "key": "A",
+      "sentenceIndex": 3,
+      "valueAfter": " A"
+    },
+    {
+      "timestamp": 1765973053945,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": " An"
+    },
+    {
+      "timestamp": 1765973054093,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant"
+    },
+    {
+      "timestamp": 1765973054752,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant "
+    },
+    {
+      "timestamp": 1765973054950,
+      "key": "t",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant t"
+    },
+    {
+      "timestamp": 1765973055119,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant to"
+    },
+    {
+      "timestamp": 1765973055362,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant to "
+    },
+    {
+      "timestamp": 1765973055953,
+      "key": "j",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant to j"
+    },
+    {
+      "timestamp": 1765973056350,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant to jo"
+    },
+    {
+      "timestamp": 1765973056554,
+      "key": "i",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant to joi"
+    },
+    {
+      "timestamp": 1765973056722,
+      "key": "n",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant to join"
+    },
+    {
+      "timestamp": 1765973057183,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant to join "
+    },
+    {
+      "timestamp": 1765973057501,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant to join u"
+    },
+    {
+      "timestamp": 1765973057589,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant to join us"
+    },
+    {
+      "timestamp": 1765973057786,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant to join us "
+    },
+    {
+      "timestamp": 1765973058227,
+      "key": "f",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant to join us f"
+    },
+    {
+      "timestamp": 1765973058349,
+      "key": "o",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant to join us fo"
+    },
+    {
+      "timestamp": 1765973058474,
+      "key": "r",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant to join us for"
+    },
+    {
+      "timestamp": 1765973058628,
+      "key": " ",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant to join us for "
+    },
+    {
+      "timestamp": 1765973059014,
+      "key": "l",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant to join us for l"
+    },
+    {
+      "timestamp": 1765973059696,
+      "key": "u",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant to join us for lu"
+    },
+    {
+      "timestamp": 1765973060160,
+      "key": "c",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant to join us for luc"
+    },
+    {
+      "timestamp": 1765973060298,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant to join us for luch"
+    },
+    {
+      "timestamp": 1765973061572,
+      "key": "h",
+      "sentenceIndex": 3,
+      "valueAfter": " Ant to join us for luchh"
+    },
+    {
+      "timestamp": 1765973063056,
+      "key": "H",
+      "sentenceIndex": 4,
+      "valueAfter": "H"
+    },
+    {
+      "timestamp": 1765973063195,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "He"
+    },
+    {
+      "timestamp": 1765973063532,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "He "
+    },
+    {
+      "timestamp": 1765973063994,
+      "key": "c",
+      "sentenceIndex": 4,
+      "valueAfter": "He c"
+    },
+    {
+      "timestamp": 1765973064396,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "He co"
+    },
+    {
+      "timestamp": 1765973064723,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "He coo"
+    },
+    {
+      "timestamp": 1765973065007,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "He cool"
+    },
+    {
+      "timestamp": 1765973065163,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "He coole"
+    },
+    {
+      "timestamp": 1765973065357,
+      "key": "d",
+      "sentenceIndex": 4,
+      "valueAfter": "He cooled"
+    },
+    {
+      "timestamp": 1765973065506,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "He cooled "
+    },
+    {
+      "timestamp": 1765973065901,
+      "key": "o",
+      "sentenceIndex": 4,
+      "valueAfter": "He cooled o"
+    },
+    {
+      "timestamp": 1765973066058,
+      "key": "f",
+      "sentenceIndex": 4,
+      "valueAfter": "He cooled of"
+    },
+    {
+      "timestamp": 1765973066248,
+      "key": "f",
+      "sentenceIndex": 4,
+      "valueAfter": "He cooled off"
+    },
+    {
+      "timestamp": 1765973066419,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "He cooled off "
+    },
+    {
+      "timestamp": 1765973066959,
+      "key": "a",
+      "sentenceIndex": 4,
+      "valueAfter": "He cooled off a"
+    },
+    {
+      "timestamp": 1765973067142,
+      "key": "f",
+      "sentenceIndex": 4,
+      "valueAfter": "He cooled off af"
+    },
+    {
+      "timestamp": 1765973067419,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "He cooled off aft"
+    },
+    {
+      "timestamp": 1765973067622,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "He cooled off afte"
+    },
+    {
+      "timestamp": 1765973067885,
+      "key": "r",
+      "sentenceIndex": 4,
+      "valueAfter": "He cooled off after"
+    },
+    {
+      "timestamp": 1765973068095,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "He cooled off after "
+    },
+    {
+      "timestamp": 1765973068744,
+      "key": "s",
+      "sentenceIndex": 4,
+      "valueAfter": "He cooled off after s"
+    },
+    {
+      "timestamp": 1765973068832,
+      "key": "h",
+      "sentenceIndex": 4,
+      "valueAfter": "He cooled off after sh"
+    },
+    {
+      "timestamp": 1765973069003,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "He cooled off after she"
+    },
+    {
+      "timestamp": 1765973069116,
+      "key": " ",
+      "sentenceIndex": 4,
+      "valueAfter": "He cooled off after she "
+    },
+    {
+      "timestamp": 1765973069373,
+      "key": "l",
+      "sentenceIndex": 4,
+      "valueAfter": "He cooled off after she l"
+    },
+    {
+      "timestamp": 1765973069511,
+      "key": "e",
+      "sentenceIndex": 4,
+      "valueAfter": "He cooled off after she le"
+    },
+    {
+      "timestamp": 1765973069772,
+      "key": "f",
+      "sentenceIndex": 4,
+      "valueAfter": "He cooled off after she lef"
+    },
+    {
+      "timestamp": 1765973070018,
+      "key": "t",
+      "sentenceIndex": 4,
+      "valueAfter": "He cooled off after she left"
+    },
+    {
+      "timestamp": 1765973070195,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " "
+    },
+    {
+      "timestamp": 1765973071484,
+      "key": "B",
+      "sentenceIndex": 5,
+      "valueAfter": " B"
+    },
+    {
+      "timestamp": 1765973071622,
+      "key": "r",
+      "sentenceIndex": 5,
+      "valueAfter": " Br"
+    },
+    {
+      "timestamp": 1765973071810,
+      "key": "e",
+      "sentenceIndex": 5,
+      "valueAfter": " Bre"
+    },
+    {
+      "timestamp": 1765973072110,
+      "key": "a",
+      "sentenceIndex": 5,
+      "valueAfter": " Brea"
+    },
+    {
+      "timestamp": 1765973072419,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": " Breat"
+    },
+    {
+      "timestamp": 1765973072661,
+      "key": "h",
+      "sentenceIndex": 5,
+      "valueAfter": " Breath"
+    },
+    {
+      "timestamp": 1765973072926,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": " Breathi"
+    },
+    {
+      "timestamp": 1765973073035,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": " Breathis"
+    },
+    {
+      "timestamp": 1765973073219,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " Breathis "
+    },
+    {
+      "timestamp": 1765973073620,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": " Breathis i"
+    },
+    {
+      "timestamp": 1765973073742,
+      "key": "s",
+      "sentenceIndex": 5,
+      "valueAfter": " Breathis is"
+    },
+    {
+      "timestamp": 1765973073878,
+      "key": " ",
+      "sentenceIndex": 5,
+      "valueAfter": " Breathis is "
+    },
+    {
+      "timestamp": 1765973074107,
+      "key": "d",
+      "sentenceIndex": 5,
+      "valueAfter": " Breathis is d"
+    },
+    {
+      "timestamp": 1765973074308,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": " Breathis is di"
+    },
+    {
+      "timestamp": 1765973074590,
+      "key": "f",
+      "sentenceIndex": 5,
+      "valueAfter": " Breathis is dif"
+    },
+    {
+      "timestamp": 1765973074747,
+      "key": "f",
+      "sentenceIndex": 5,
+      "valueAfter": " Breathis is diff"
+    },
+    {
+      "timestamp": 1765973075097,
+      "key": "i",
+      "sentenceIndex": 5,
+      "valueAfter": " Breathis is diffi"
+    },
+    {
+      "timestamp": 1765973075504,
+      "key": "c",
+      "sentenceIndex": 5,
+      "valueAfter": " Breathis is diffic"
+    },
+    {
+      "timestamp": 1765973075680,
+      "key": "u",
+      "sentenceIndex": 5,
+      "valueAfter": " Breathis is difficu"
+    },
+    {
+      "timestamp": 1765973075966,
+      "key": "l",
+      "sentenceIndex": 5,
+      "valueAfter": " Breathis is difficul"
+    },
+    {
+      "timestamp": 1765973076117,
+      "key": "t",
+      "sentenceIndex": 5,
+      "valueAfter": " Breathis is difficult"
+    },
+    {
+      "timestamp": 1765973077253,
+      "key": "R",
+      "sentenceIndex": 6,
+      "valueAfter": "R"
+    },
+    {
+      "timestamp": 1765973077464,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Re"
+    },
+    {
+      "timestamp": 1765973077703,
+      "key": "a",
+      "sentenceIndex": 6,
+      "valueAfter": "Rea"
+    },
+    {
+      "timestamp": 1765973077937,
+      "key": "d",
+      "sentenceIndex": 6,
+      "valueAfter": "Read"
+    },
+    {
+      "timestamp": 1765973078119,
+      "key": "i",
+      "sentenceIndex": 6,
+      "valueAfter": "Readi"
+    },
+    {
+      "timestamp": 1765973078320,
+      "key": "n",
+      "sentenceIndex": 6,
+      "valueAfter": "Readin"
+    },
+    {
+      "timestamp": 1765973078463,
+      "key": "g",
+      "sentenceIndex": 6,
+      "valueAfter": "Reading"
+    },
+    {
+      "timestamp": 1765973078566,
+      "key": " ",
+      "sentenceIndex": 6,
+      "valueAfter": "Reading "
+    },
+    {
+      "timestamp": 1765973078994,
+      "key": "w",
+      "sentenceIndex": 6,
+      "valueAfter": "Reading w"
+    },
+    {
+      "timestamp": 1765973079224,
+      "key": "e",
+      "sentenceIndex": 6,
+      "valueAfter": "Reading we"
+    }
+  ]
+}

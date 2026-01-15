@@ -1,0 +1,25 @@
+participant,order_string
+P01,sitting → walking → stairs
+P02,walking → stairs → sitting
+P03,sitting → walking → stairs
+P04,sitting → walking → stairs
+P05,sitting → walking → stairs
+P06,sitting → stairs → walking
+P07,sitting → walking → stairs
+P08,sitting → stairs → walking
+P09,walking → sitting → stairs
+P10,walking → sitting → stairs
+P11,walking → stairs → sitting
+P12,walking → sitting → stairs
+P13,walking → stairs → sitting
+P14,walking → stairs → sitting
+P15,walking → stairs → sitting
+P16,walking → stairs → sitting
+P17,stairs → sitting → walking
+P18,stairs → sitting → walking
+P19,stairs → sitting → walking
+P20,stairs → sitting → walking
+P21,stairs → walking → sitting
+P22,stairs → walking → sitting
+P23,stairs → sitting → walking
+P24,stairs → walking → sitting

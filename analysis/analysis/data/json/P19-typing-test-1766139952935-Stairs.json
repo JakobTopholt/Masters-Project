@@ -1,0 +1,377 @@
+{
+  "mode": "upstairs",
+  "timestamp": "2025-12-19T10:25:52.933Z",
+  "duration": 60.04,
+  "wpm": 36,
+  "accuracy": "382.98",
+  "totalCharactersTyped": 47,
+  "correctCharacters": 180,
+  "errors": 7,
+  "sentencesCompleted": 6,
+  "totalSentences": 500,
+  "completed": true,
+  "sentencesTyped": [
+    {
+      "typed": "I am allergic to bees and peanuts",
+      "expected": "I am allergic to bees and peanuts"
+    },
+    {
+      "typed": "I listen to the tape everyday",
+      "expected": "I listen to the tape everyday"
+    },
+    {
+      "typed": "A good response to the question",
+      "expected": "A good response to the question"
+    },
+    {
+      "typed": "zero in on the facts",
+      "expected": "Zero in on the facts"
+    },
+    {
+      "typed": "We run the risk of failure",
+      "expected": "We run the risk of failure"
+    },
+    {
+      "typed": "Rent is paid at the beginning of the month",
+      "expected": "Rent is paid at the beginning of the month"
+    }
+  ],
+  "keyLog": [
+    {
+      "timestamp": 1766139890257,
+      "key": "I",
+      "sentenceIndex": 0,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1766139891040,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "I "
+    },
+    {
+      "timestamp": 1766139891071,
+      "key": "am",
+      "sentenceIndex": 0,
+      "valueAfter": "I am"
+    },
+    {
+      "timestamp": 1766139892945,
+      "key": " allergic",
+      "sentenceIndex": 0,
+      "valueAfter": "I am allergic"
+    },
+    {
+      "timestamp": 1766139893926,
+      "key": " to",
+      "sentenceIndex": 0,
+      "valueAfter": "I am allergic to"
+    },
+    {
+      "timestamp": 1766139894810,
+      "key": " bees",
+      "sentenceIndex": 0,
+      "valueAfter": "I am allergic to bees"
+    },
+    {
+      "timestamp": 1766139895823,
+      "key": " an",
+      "sentenceIndex": 0,
+      "valueAfter": "I am allergic to bees an"
+    },
+    {
+      "timestamp": 1766139897424,
+      "key": " peanuts",
+      "sentenceIndex": 0,
+      "valueAfter": "I am allergic to bees an peanuts"
+    },
+    {
+      "timestamp": 1766139903265,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "I am allergic to bees an peanut"
+    },
+    {
+      "timestamp": 1766139903586,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "I am allergic to bees an peanu"
+    },
+    {
+      "timestamp": 1766139903776,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "I am allergic to bees an pean"
+    },
+    {
+      "timestamp": 1766139903960,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "I am allergic to bees an pea"
+    },
+    {
+      "timestamp": 1766139904134,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "I am allergic to bees an pe"
+    },
+    {
+      "timestamp": 1766139904308,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "I am allergic to bees an p"
+    },
+    {
+      "timestamp": 1766139904468,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "I am allergic to bees an "
+    },
+    {
+      "timestamp": 1766139904664,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "I am allergic to bees an"
+    },
+    {
+      "timestamp": 1766139904891,
+      "key": "deleteContentBackward",
+      "sentenceIndex": 0,
+      "valueAfter": "I am allergic to bees a"
+    },
+    {
+      "timestamp": 1766139906080,
+      "key": "n",
+      "sentenceIndex": 0,
+      "valueAfter": "I am allergic to bees an"
+    },
+    {
+      "timestamp": 1766139906417,
+      "key": "d",
+      "sentenceIndex": 0,
+      "valueAfter": "I am allergic to bees and"
+    },
+    {
+      "timestamp": 1766139907119,
+      "key": " ",
+      "sentenceIndex": 0,
+      "valueAfter": "I am allergic to bees and "
+    },
+    {
+      "timestamp": 1766139908168,
+      "key": "peanuts",
+      "sentenceIndex": 0,
+      "valueAfter": "I am allergic to bees and peanuts"
+    },
+    {
+      "timestamp": 1766139909748,
+      "key": "I",
+      "sentenceIndex": 1,
+      "valueAfter": "I"
+    },
+    {
+      "timestamp": 1766139910065,
+      "key": " ",
+      "sentenceIndex": 1,
+      "valueAfter": "I "
+    },
+    {
+      "timestamp": 1766139910863,
+      "key": "listen",
+      "sentenceIndex": 1,
+      "valueAfter": "I listen"
+    },
+    {
+      "timestamp": 1766139911916,
+      "key": " to",
+      "sentenceIndex": 1,
+      "valueAfter": "I listen to"
+    },
+    {
+      "timestamp": 1766139913374,
+      "key": " the",
+      "sentenceIndex": 1,
+      "valueAfter": "I listen to the"
+    },
+    {
+      "timestamp": 1766139914644,
+      "key": " tape",
+      "sentenceIndex": 1,
+      "valueAfter": "I listen to the tape"
+    },
+    {
+      "timestamp": 1766139916503,
+      "key": " everyday",
+      "sentenceIndex": 1,
+      "valueAfter": "I listen to the tape everyday"
+    },
+    {
+      "timestamp": 1766139917784,
+      "key": "A",
+      "sentenceIndex": 2,
+      "valueAfter": "A"
+    },
+    {
+      "timestamp": 1766139918315,
+      "key": " ",
+      "sentenceIndex": 2,
+      "valueAfter": "A "
+    },
+    {
+      "timestamp": 1766139918746,
+      "key": "good",
+      "sentenceIndex": 2,
+      "valueAfter": "A good"
+    },
+    {
+      "timestamp": 1766139920757,
+      "key": " response",
+      "sentenceIndex": 2,
+      "valueAfter": "A good response"
+    },
+    {
+      "timestamp": 1766139921805,
+      "key": " to",
+      "sentenceIndex": 2,
+      "valueAfter": "A good response to"
+    },
+    {
+      "timestamp": 1766139922782,
+      "key": " the",
+      "sentenceIndex": 2,
+      "valueAfter": "A good response to the"
+    },
+    {
+      "timestamp": 1766139925234,
+      "key": " question",
+      "sentenceIndex": 2,
+      "valueAfter": "A good response to the question"
+    },
+    {
+      "timestamp": 1766139928380,
+      "key": "zero",
+      "sentenceIndex": 3,
+      "valueAfter": "zero"
+    },
+    {
+      "timestamp": 1766139929956,
+      "key": " in",
+      "sentenceIndex": 3,
+      "valueAfter": "zero in"
+    },
+    {
+      "timestamp": 1766139931059,
+      "key": " on",
+      "sentenceIndex": 3,
+      "valueAfter": "zero in on"
+    },
+    {
+      "timestamp": 1766139931761,
+      "key": " the",
+      "sentenceIndex": 3,
+      "valueAfter": "zero in on the"
+    },
+    {
+      "timestamp": 1766139932503,
+      "key": " fact",
+      "sentenceIndex": 3,
+      "valueAfter": "zero in on the fact"
+    },
+    {
+      "timestamp": 1766139934855,
+      "key": "s",
+      "sentenceIndex": 3,
+      "valueAfter": "zero in on the facts"
+    },
+    {
+      "timestamp": 1766139936346,
+      "key": "We",
+      "sentenceIndex": 4,
+      "valueAfter": "We"
+    },
+    {
+      "timestamp": 1766139937552,
+      "key": " run",
+      "sentenceIndex": 4,
+      "valueAfter": "We run"
+    },
+    {
+      "timestamp": 1766139938112,
+      "key": " the",
+      "sentenceIndex": 4,
+      "valueAfter": "We run the"
+    },
+    {
+      "timestamp": 1766139939277,
+      "key": " risk",
+      "sentenceIndex": 4,
+      "valueAfter": "We run the risk"
+    },
+    {
+      "timestamp": 1766139940025,
+      "key": " of",
+      "sentenceIndex": 4,
+      "valueAfter": "We run the risk of"
+    },
+    {
+      "timestamp": 1766139941414,
+      "key": " failure",
+      "sentenceIndex": 4,
+      "valueAfter": "We run the risk of failure"
+    },
+    {
+      "timestamp": 1766139942934,
+      "key": "Rent",
+      "sentenceIndex": 5,
+      "valueAfter": "Rent"
+    },
+    {
+      "timestamp": 1766139943479,
+      "key": " is",
+      "sentenceIndex": 5,
+      "valueAfter": "Rent is"
+    },
+    {
+      "timestamp": 1766139944590,
+      "key": " paid",
+      "sentenceIndex": 5,
+      "valueAfter": "Rent is paid"
+    },
+    {
+      "timestamp": 1766139945179,
+      "key": " at",
+      "sentenceIndex": 5,
+      "valueAfter": "Rent is paid at"
+    },
+    {
+      "timestamp": 1766139945895,
+      "key": " the",
+      "sentenceIndex": 5,
+      "valueAfter": "Rent is paid at the"
+    },
+    {
+      "timestamp": 1766139947431,
+      "key": " beginning",
+      "sentenceIndex": 5,
+      "valueAfter": "Rent is paid at the beginning"
+    },
+    {
+      "timestamp": 1766139948532,
+      "key": " of",
+      "sentenceIndex": 5,
+      "valueAfter": "Rent is paid at the beginning of"
+    },
+    {
+      "timestamp": 1766139949105,
+      "key": " the",
+      "sentenceIndex": 5,
+      "valueAfter": "Rent is paid at the beginning of the"
+    },
+    {
+      "timestamp": 1766139950137,
+      "key": " month",
+      "sentenceIndex": 5,
+      "valueAfter": "Rent is paid at the beginning of the month"
+    }
+  ]
+}
